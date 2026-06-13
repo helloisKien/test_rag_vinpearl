@@ -1,0 +1,115 @@
+Total hotels: 520 | có policy_notes: 520
+
+=== POLICY KEYWORD COUNTS (số KS có policy khớp) ===
+  520  giuong_phu
+  464  tre_em_mien_phi
+   46  giay_to
+   43  thanh_toan
+   40  dat_coc
+   22  le_gala
+   18  hut_thuoc
+   14  do_tuoi_nhan_phong
+   12  thu_cung_pet
+    3  huy_hoan
+
+=== AMENITY TAG COUNTS (top 100) ===
+  500  WiFi miễn phí
+  491  Tiếng Việt
+  474  Tiếng Anh
+  462  Bảo vệ 24 giờ
+  461  Bàn tiếp tân 24 giờ
+  457  Dọn phòng hằng ngày
+  451  Dịch vụ giặt là
+  431  Giữ hành lý
+  428  Điều hòa
+  415  Thang máy
+  409  Thích hợp cho gia đình trẻ em
+  393  CCTV trong khu vực chung
+  392  Phòng gia đình
+  383  Đỗ xe miễn phí
+  382  Tính năng an toàn bảo mật
+  380  Nhân viên chăm sóc khách hàng
+  373  Nhân viên được đào tạo về giao thức an toàn
+  365  Dịch vụ ủi đồ
+  358  Điều hòa ở khu vực chung
+  356  Khu vực hút thuốc
+  356  Đưa đón sân bay
+  345  Hoàn toàn không hút thuốc
+  327  CCTV bên ngoài chỗ nghỉ
+  325  Dịch vụ thanh toán không sử dụng tiền mặt
+  316  Giặt đồ vải lanh và quần áo bằng nước nóng
+  312  Nhận/trả phòng 24 giờ
+  311  Giặt khô
+  305  Nhận trả phòng nhanh
+  304  Không hút thuốc
+  300  Sân hiên
+  298  Chuyến du lịch
+  297  Quán cà phê
+  295  Phòng được vệ sinh giữa các lần ở
+  293  Có thể yêu cầu không khử trùng phòng
+  285  Dịch vụ đưa đón
+  285  Sản phẩm làm sạch chống virus
+  282  Cơ sở vật chất cho họp mặt tiệc lớn
+  281  Đỗ xe tại chỗ
+  276  Vật dụng nhà bếp và bộ đồ ăn được vệ sinh
+  271  Dịch vụ taxi
+  266  Có cung cấp hóa đơn
+  258  Nhân viên trực cửa
+  257  Đổi ngoại tệ
+  256  Phòng tập
+  256  Giao đồ ăn
+  255  Phù hợp cho xe lăn
+  252  Phòng cách âm
+  247  Giãn cách vật lý ít nhất 1 mét
+  247  Khẩu trang miễn phí
+  244  Lựa chọn thức ăn bọc riêng
+  238  Bữa sáng tự chọn
+  236  Bể bơi ngoài trời
+  234  Dịch vụ văn phòng fax photocopy
+  231  Khử trùng hằng ngày
+  229  Phòng chờ chung khu vực tv
+  229  Vườn
+  227  Ô tô cho thuê
+  221  Truyền hình cáp vệ tinh
+  216  Nhiệt kế cơ thể
+  215  Dịch vụ phòng
+  212  Cách bày bàn ăn an toàn
+  211  Kiểm tra nhiệt độ cho khách và nhân viên
+  208  Dịch vụ vé
+  207  Đỗ xe có nhân viên
+  206  Tiện nghi cho khách khuyết tật
+  205  Bữa ăn cho trẻ
+  204  Dịch vụ bán thức ăn sáng mang về
+  203  Mát-xa
+  200  Spa xông khô
+  199  Bác sĩ y tá trực
+  198  Dịch vụ phòng 24 giờ
+  198  Nhận trả phòng không tiếp xúc
+  188  Quầy đồ ăn vặt
+  188  Băng niêm phong phòng dành cho khách sau khi vệ sinh
+  187  Không có văn phòng phẩm dùng chung
+  185  Dịch vụ khử trùng chuyên nghiệp
+  181  Đỗ xe gần bên
+  177  Tủ lạnh
+  171  Bể bơi trẻ em
+  171  Quán bar cạnh bể bơi
+  166  Nhà hàng
+  162  Đỗ xe đạp
+  160  Dịch vụ làm đẹp
+  160  Phòng không hút thuốc
+  159  Sắp xếp bữa ăn thay thế
+  158  Giải trí
+  157  Phòng họp
+  156  Nhà hàng bữa sáng
+  155  Nhà hàng phục vụ bữa trưa
+  154  Bữa sáng trong phòng
+  153  Bể bơi có tầm nhìn
+  153  Nhà hàng phục vụ cà phê trà
+  151  Nhà hàng phục vụ gọi theo món
+  147  Phòng xông ướt
+  147  Phòng không gây dị ứng
+  145  Sân chơi
+  144  Cách âm
+  144  Cửa hàng tạp hóa
+  142  Quán bar
+  141  Tiệm làm đẹp

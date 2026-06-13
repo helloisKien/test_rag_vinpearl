@@ -1,0 +1,658 @@
+{
+  "crawled_at": "2026-06-04T10:52:15",
+  "source_url": "https://www.agoda.com/1-double-bed-room-shared-apartment-bathtub-tay-ho/hotel/all/hanoi-vn.html?hotel=87252891&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 87252891,
+  "name": "Studio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 3.5,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 1.0,
+  "review_count": 1,
+  "address": "7 Đ. Âu Cơ 5, Quận Tây Hồ, Hà Nội, Việt Nam",
+  "area": "Quận Tây Hồ",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "100000",
+  "latitude": 21.059267044067383,
+  "longitude": 105.83302307128906,
+  "description": "Tọa lạc ở Hà Nội, cách Hồ Tây 1.7 km và Đền Quán Thánh 2.9 km, Studio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho cung cấp chỗ nghỉ có điều hòa với ban công và Wi-Fi miễn phí. Căn hộ này cách Lăng Chủ tịch Hồ Chí Minh 3.1 km và Ô Quan Chưởng 3.5 km.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng, khu vực ăn uống, bếp đầy đủ tiện nghi, cùng sân hiên nhìn ra hồ.\n\nCăn hộ có bể sục.\n\nStudio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho cách Hoàng thành Thăng Long 3.8 km và Bảo tàng mỹ thuật Việt Nam 4 km.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "11:00",
+    "Nhận phòng đến": "23:00"
+  },
+  "highlights": [
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Bồn tắm nước nóng",
+    "Điều hòa",
+    "Nhận/trả phòng [nhanh]",
+    "Ban công/sân hiên"
+  ],
+  "location_tags": [
+    "Ban công/sân hiên",
+    "Bar và hoạt động giải trí về đêm",
+    "Bồn tắm nước nóng",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Nhận/trả phòng [nhanh]",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 2,28 km",
+    "Điều hòa"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Bàn không gian làm việc",
+    "Bếp",
+    "Bồn tắm nước nóng",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "Nhận trả phòng nhanh",
+    "TV",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tiếng pháp",
+    "Tiếng tây ban nha",
+    "Trung Quốc quan thoại",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 25,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt",
+      "Tiếng pháp",
+      "Tiếng tây ban nha",
+      "Trung Quốc quan thoại"
+    ],
+    "Giải trí ": [
+      "TV"
+    ],
+    "Tiện nghi": [
+      "Lối đi riêng",
+      "Điều hòa"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Bồn tắm nước nóng"
+    ],
+    "Ăn uống": [
+      "Bếp"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Bố trí và nội thất phòng": [
+      "Bàn không gian làm việc"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ],
+    "Quần áo và Giặt ủi": [
+      "Máy giặt",
+      "Máy sấy"
+    ],
+    "Tính năng an toàn và an ninh": []
+  },
+  "amenities_general": [
+    "Bàn không gian làm việc",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "TV",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tiếng pháp",
+    "Tiếng tây ban nha",
+    "Trung Quốc quan thoại",
+    "Điều hòa",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [
+    "Bồn tắm nước nóng"
+  ],
+  "amenities_dining": [
+    "Bếp"
+  ],
+  "nearby_places": [
+    {
+      "name": "Vietfighter",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.14
+    },
+    {
+      "name": "Hoa Fashion",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.22
+    },
+    {
+      "name": "Cửa hàng tạp hóa và cửa hàng chuyên về thực phẩm Oasis",
+      "type": "Siêu Thị",
+      "distance_km": 0.23
+    },
+    {
+      "name": "YNOT",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.29
+    },
+    {
+      "name": "Hanoi Design Centre",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.31
+    },
+    {
+      "name": "Lacquer and more",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.38
+    },
+    {
+      "name": "Wood Plus Vietnam",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.38
+    },
+    {
+      "name": "Bamboo Village Shop",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.42
+    },
+    {
+      "name": "Module 7",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.43
+    },
+    {
+      "name": "L'Atelier",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.61
+    }
+  ],
+  "image_count": 35,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979052.jpg?k=34a017496e6518ccbac7578e740d9924e4a72489007ca5cf256f944a8af9771c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979055.jpg?k=af0ba12f50796724441df93f0d2f9eb438dc9b5ef9c6cb3e6ff480252ef51448&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979065.jpg?k=92e8e198affab37498e4bfeca4cc7cf17d629346faf297abec45a26670d63a4a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928746.jpg?k=afb71fc69b9600b93c8ed8da35de7ec41686e7645f7f2614fbe2dff3907122f4&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979042.jpg?k=843528b291482893d5e67179b49bfab2efbbb5a0aaa882c2e45175feda18751c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979040.jpg?k=4d63fa5f2f84a5ee93d7b561c044b9698f2b44d2c5ab5406c3f662b6d1a13e1e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979035.jpg?k=9fd5e90b5b663a307eeec73f8211b32b54e993d524155bf23801e94287a976d5&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979059.jpg?k=314b9dbc6a4c3d0e0eeb8622d84aa35c9e621872bdca1e03ee405a7be48bdbfd&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979023.jpg?k=e36a90305948d16b3491f56fd2da878b268750d16bd8162c0a792e5a551f863c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928964.jpg?k=a2eba19bc42a2bb633e665b996812a598f7e2affe5152810931eede343e26084&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928892.jpg?k=ec9e80fd7a437677730c274495932b7c30442ee36e8f98e4b585b091bcc3cbe9&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979045.jpg?k=dca59eec6ad4525316f6c83d50b3a3e68f096bdf31d855b95de11b4ee4004398&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979047.jpg?k=9af6a9d1d3cf71fbeb058743cf55eeb3174fcfc788214eb6c0e8148310e3cf6f&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979062.jpg?k=f50e5a72fd8ff6fbe8fe8d7b9459c46cc1932f9897fc7d34f3b16082b39b23e0&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979063.jpg?k=2cfa2e1730834fb123edd56d3bb03f4a01f93bc30928ef27cec76e760a9a4bc8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979044.jpg?k=20c826f0bcae2a36962bb46e56b8a730a4031d97f7a8544477faa584e5859dc3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979049.jpg?k=20579dcedddb9d0510aa1f8a1b396f13c4728aa8122ae34b010091a2827b92c8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979058.jpg?k=ba6f54a9365a13cbd368264bd44f01175f6e1d811ba97774755c091a275f4d80&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979060.jpg?k=e52d0a787f44bf3067d431c7fae8fee00448adf689bbcb42192c0e580d15e261&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979071.jpg?k=ea04a44395faae431370de0f6a2cbb8ac13376136c526787fad606ef363dbd07&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979031.jpg?k=c8452ce30c268d51db0e4103a3f8864d84632aba6560d0fe7fb788e3a91dce85&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979068.jpg?k=396c3af8f25f74651a2e77e0f80080291b06521c62581085d35067d1b62a54b8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979053.jpg?k=667e74fa9e278ea319cc19a52dca5847a4169e9c6bdcfb09549833179e50404b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979030.jpg?k=a75bedcc8aab9db2b515e7c268290d4457ff7ab9c46c1f8f26056b272e45afac&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979056.jpg?k=b1cfe067bbddf02c2939743f0c1afc5eba979b69413f9ac94fb098e790a2ec4d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979036.jpg?k=33879cc3f8597b46442118925b03f310a7ed654b0b9bd3a9f19f88dbb1ca79e8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979054.jpg?k=557159efd88d2dbd0860488c3ed7c134035a93bdb04dff5024cb00cbea301438&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979069.jpg?k=0e2c4a2c0cfe7603b47f246b6cd3dc0ec2361e47b0d08088fc6f72d457edce2d&o=",
+    "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+      "caption": "Giường",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979052.jpg?k=34a017496e6518ccbac7578e740d9924e4a72489007ca5cf256f944a8af9771c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979055.jpg?k=af0ba12f50796724441df93f0d2f9eb438dc9b5ef9c6cb3e6ff480252ef51448&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979065.jpg?k=92e8e198affab37498e4bfeca4cc7cf17d629346faf297abec45a26670d63a4a&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928746.jpg?k=afb71fc69b9600b93c8ed8da35de7ec41686e7645f7f2614fbe2dff3907122f4&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979042.jpg?k=843528b291482893d5e67179b49bfab2efbbb5a0aaa882c2e45175feda18751c&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979040.jpg?k=4d63fa5f2f84a5ee93d7b561c044b9698f2b44d2c5ab5406c3f662b6d1a13e1e&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979035.jpg?k=9fd5e90b5b663a307eeec73f8211b32b54e993d524155bf23801e94287a976d5&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979059.jpg?k=314b9dbc6a4c3d0e0eeb8622d84aa35c9e621872bdca1e03ee405a7be48bdbfd&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979023.jpg?k=e36a90305948d16b3491f56fd2da878b268750d16bd8162c0a792e5a551f863c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928964.jpg?k=a2eba19bc42a2bb633e665b996812a598f7e2affe5152810931eede343e26084&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/870928892.jpg?k=ec9e80fd7a437677730c274495932b7c30442ee36e8f98e4b585b091bcc3cbe9&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979045.jpg?k=dca59eec6ad4525316f6c83d50b3a3e68f096bdf31d855b95de11b4ee4004398&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979047.jpg?k=9af6a9d1d3cf71fbeb058743cf55eeb3174fcfc788214eb6c0e8148310e3cf6f&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979062.jpg?k=f50e5a72fd8ff6fbe8fe8d7b9459c46cc1932f9897fc7d34f3b16082b39b23e0&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979063.jpg?k=2cfa2e1730834fb123edd56d3bb03f4a01f93bc30928ef27cec76e760a9a4bc8&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979044.jpg?k=20c826f0bcae2a36962bb46e56b8a730a4031d97f7a8544477faa584e5859dc3&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979049.jpg?k=20579dcedddb9d0510aa1f8a1b396f13c4728aa8122ae34b010091a2827b92c8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979058.jpg?k=ba6f54a9365a13cbd368264bd44f01175f6e1d811ba97774755c091a275f4d80&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979060.jpg?k=e52d0a787f44bf3067d431c7fae8fee00448adf689bbcb42192c0e580d15e261&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979071.jpg?k=ea04a44395faae431370de0f6a2cbb8ac13376136c526787fad606ef363dbd07&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979031.jpg?k=c8452ce30c268d51db0e4103a3f8864d84632aba6560d0fe7fb788e3a91dce85&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979068.jpg?k=396c3af8f25f74651a2e77e0f80080291b06521c62581085d35067d1b62a54b8&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979053.jpg?k=667e74fa9e278ea319cc19a52dca5847a4169e9c6bdcfb09549833179e50404b&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979030.jpg?k=a75bedcc8aab9db2b515e7c268290d4457ff7ab9c46c1f8f26056b272e45afac&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979056.jpg?k=b1cfe067bbddf02c2939743f0c1afc5eba979b69413f9ac94fb098e790a2ec4d&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979036.jpg?k=33879cc3f8597b46442118925b03f310a7ed654b0b9bd3a9f19f88dbb1ca79e8&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979054.jpg?k=557159efd88d2dbd0860488c3ed7c134035a93bdb04dff5024cb00cbea301438&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/853979069.jpg?k=0e2c4a2c0cfe7603b47f246b6cd3dc0ec2361e47b0d08088fc6f72d457edce2d&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Tây Hồ - Cách nơi ở 980 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 1.36 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 1.55 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Lăng Bác - cách nơi ở 2.54 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hồ Hoàn Kiếm - cách nơi ở 3.93 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Quận Tây Hồ",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/1-double-bed-room-shared-apartment-bathtub-tay-ho/hotel/all/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 1363494231,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "name_en": "(One-Bedroom Apartment)",
+        "room_size": "25 m²",
+        "size_sqm": 25.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": "Hướng Hồ",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Hồ",
+          "Bồn tắm"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "25 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Căn hộ riêng trong tòa nhà",
+          "Giải trí",
+          "Hướng hồ",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "TV màn hình phẳng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 35,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979052.jpg?k=34a017496e6518ccbac7578e740d9924e4a72489007ca5cf256f944a8af9771c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979055.jpg?k=af0ba12f50796724441df93f0d2f9eb438dc9b5ef9c6cb3e6ff480252ef51448&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979065.jpg?k=92e8e198affab37498e4bfeca4cc7cf17d629346faf297abec45a26670d63a4a&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/870928746.jpg?k=afb71fc69b9600b93c8ed8da35de7ec41686e7645f7f2614fbe2dff3907122f4&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1400000,
+        "original_price": 2040000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1363494231,
+      "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+      "name_en": "(One-Bedroom Apartment)",
+      "room_size": "25 m²",
+      "size_sqm": 25.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": "Hướng Hồ",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Hồ",
+        "Bồn tắm"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "25 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Căn hộ riêng trong tòa nhà",
+        "Giải trí",
+        "Hướng hồ",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "TV màn hình phẳng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 35,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979061.jpg?k=a73ad475ac009980cd8dd4412bd7b5f1619cfadbd2f191fe8aafa94210015a08&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979052.jpg?k=34a017496e6518ccbac7578e740d9924e4a72489007ca5cf256f944a8af9771c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979055.jpg?k=af0ba12f50796724441df93f0d2f9eb438dc9b5ef9c6cb3e6ff480252ef51448&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/853979065.jpg?k=92e8e198affab37498e4bfeca4cc7cf17d629346faf297abec45a26670d63a4a&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/870928746.jpg?k=afb71fc69b9600b93c8ed8da35de7ec41686e7645f7f2614fbe2dff3907122f4&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1400000,
+      "original_price": 2040000
+    }
+  ],
+  "reviews_detail": {
+    "score": 1.0,
+    "score_text": null,
+    "review_count": 1,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Khách du lịch một mình",
+        "count": 1,
+        "score": 1.0
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 1.0,
+        "rating_text": "Điểm nhận xét",
+        "date": "29 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Chấp nhận được",
+        "positives": "15 minutes before my arrival I was informed that thay had problems with electricity and hot water",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Grzegorz",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1117609747,
+        "rating": 1.0,
+        "rating_text": "Review score",
+        "date": "April 29, 2026",
+        "check_in": "",
+        "title": "Acceptable",
+        "text": null,
+        "positives": "15 minutes before my arrival I was informed that thay had problems with electricity and hot water",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Grzegorz",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 1.0,
+  "rating_count": 1,
+  "rating_breakdown": {},
+  "secondary": {
+    "description_full": "Tọa lạc ở Hà Nội, cách Hồ Tây 1.7 km và Đền Quán Thánh 2.9 km, Studio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho cung cấp chỗ nghỉ có điều hòa với ban công và Wi-Fi miễn phí. Căn hộ này cách Lăng Chủ tịch Hồ Chí Minh 3.1 km và Ô Quan Chưởng 3.5 km.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng, khu vực ăn uống, bếp đầy đủ tiện nghi, cùng sân hiên nhìn ra hồ.\n\nCăn hộ có bể sục.\n\nStudio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho cách Hoàng thành Thăng Long 3.8 km và Bảo tàng mỹ thuật Việt Nam 4 km.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 0-17 tuổi [bao gồm cả bé 17 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 1363494231,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "faq": [],
+  "suitable_for": [
+    "Khách du lịch một mình"
+  ],
+  "view_types": [
+    "Hướng Hồ"
+  ],
+  "tags": [
+    "Ban công/sân hiên",
+    "Bar và hoạt động giải trí về đêm",
+    "Bồn tắm nước nóng",
+    "Ho Chi Minh Mausoleum",
+    "Hướng Hồ",
+    "Khách du lịch một mình",
+    "Nhà hàng",
+    "Nhận/trả phòng [nhanh]",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 2,28 km",
+    "Điều hòa"
+  ],
+  "embedding_text": "Studio 1 king bed, bathtub, kitchen, next to Sheraton, Tay Ho - khách sạn 3.5 sao tại Hà Nội.\nĐịa chỉ: 7 Đ. Âu Cơ 5, Quận Tây Hồ, Hà Nội, Việt Nam.\nNằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nTiện ích: Ban công/sân hiên, Bàn/không gian làm việc, Bình chữa cháy, Bếp, Bồn tắm, Bồn tắm nước nóng, Các loại khăn, Lối đi riêng, Máy giặt, Máy sấy, Máy sấy tóc, Nhận/trả phòng [nhanh], Quạt, TV, Tiếng Anh, Trung Quốc [Quan Thoại], Vải trải giường, Vật dụng tắm rửa, Wi-Fi miễn phí trong tất cả các phòng!, tiếng Pháp, tiếng Tây Ban Nha, tiếng Việt, Điều hòa, Đầu báo khói, Đỗ xe miễn phí.\nĐiểm đánh giá 1.0/10 dựa trên 1 đánh giá.\nCác loại phòng: Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment).\nGần: Vietfighter, Hoa Fashion, Cửa hàng tạp hóa và cửa hàng chuyên về thực phẩm Oasis, YNOT, Hanoi Design Centre, Lacquer and more.",
+  "_sources_captured": [
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+  "crawled_at": "2026-06-04T12:41:00",
+  "source_url": "https://www.agoda.com/cl-charming-studio-apt-laundry-pullman/hotel/all/hanoi-vn.html?hotel=39900379&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 39900379,
+  "name": "CL•Charming Studio Apt•Laundry•Pullman",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 3.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 7.4,
+  "review_count": 9,
+  "address": "33 Ngõ 35 Phố Cát Linh, Đống Đa, Hà Nội, Việt Nam",
+  "area": "Đống Đa",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 21.02847671508789,
+  "longitude": 105.8283920288086,
+  "description": "Nằm ở Hà Nội, cách Bảo tàng mỹ thuật Việt Nam 14 phút đi bộ, CL•Charming Studio Apt•Laundry•Pullman cung cấp chỗ nghỉ có sân hiên, Wi-Fi miễn phí, dịch vụ phòng, cùng dịch vụ tiền sảnh. Chỗ nghỉ điều hòa này cách Văn Miếu - Quốc Tử Giám 13 phút đi bộ.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng có truyền hình cáp, bếp đầy đủ tiện nghi, cùng sân trong nhìn ra thành phố.\n\nCác điểm tham quan nổi tiếng gần căn hộ bao gồm Chùa Một Cột, Lăng Chủ tịch Hồ Chí Minh và Hoàng thành Thăng Long. Chỗ nghỉ cách Sân bay Quốc tế Nội Bài 25 km và cung cấp dịch vụ đưa đón sân bay mất phí.",
+  "check_in_from": null,
+  "check_out_until": null,
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {},
+  "highlights": [
+    "Đưa đón sân bay",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày",
+    "Nhân viên chăm sóc khách hàng",
+    "Điều hòa"
+  ],
+  "location_tags": [
+    "Dọn phòng hằng ngày",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Nhận/trả phòng [nhanh]",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Văn hóa bản địa",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 1,32 km",
+    "Đưa đón sân bay"
+  ],
+  "amenities": [
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bình nóng lạnh",
+    "Bếp",
+    "Dọn phòng hằng ngày",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "Nhân viên chăm sóc khách hàng",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Truyền hình cáp",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Đưa đón sân bay"
+  ],
+  "amenities_count": 26,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Giải trí ": [
+      "TV",
+      "Truyền hình cáp"
+    ],
+    "Tiện nghi": [
+      "Bình nóng lạnh",
+      "Lối đi riêng",
+      "Điều hòa"
+    ],
+    "Ăn uống": [
+      "Bếp"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Dịch vụ và tiện nghi": [
+      "Thang máy"
+    ],
+    "Bố trí và nội thất phòng": [
+      "Bàn không gian làm việc"
+    ],
+    "Quần áo và Giặt ủi": [
+      "Bàn là",
+      "Máy giặt",
+      "Máy sấy"
+    ],
+    "Tính năng an toàn và an ninh": []
+  },
+  "amenities_general": [
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bình nóng lạnh",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Truyền hình cáp",
+    "Điều hòa"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [
+    "Bếp"
+  ],
+  "nearby_places": [
+    {
+      "name": "Vm+ 45 Thịnh Hào 1",
+      "type": "Siêu Thị",
+      "distance_km": 0.57
+    },
+    {
+      "name": "Làng Văn hóa Du lịch các Dân tộc Việt Nam",
+      "type": "Đài Kỷ Niệm và Di Tích Lịch Sử",
+      "distance_km": 0.57
+    },
+    {
+      "name": "Nhà thuốc ĐỨC LONG",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.65
+    },
+    {
+      "name": "Unimart Giảng Võ",
+      "type": "Siêu Thị",
+      "distance_km": 0.66
+    },
+    {
+      "name": "Văn Miếu",
+      "type": "Nơi Thờ Cúng",
+      "distance_km": 0.7
+    },
+    {
+      "name": "Vm+ 28 Tôn Đức Thắng",
+      "type": "Siêu Thị",
+      "distance_km": 0.73
+    },
+    {
+      "name": "Hồ Giám",
+      "type": "Sông và Hồ",
+      "distance_km": 0.73
+    },
+    {
+      "name": "Hồ Văn",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 0.73
+    },
+    {
+      "name": "Phòng khám Nhi Khoa Đào Minh Tuấn",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.74
+    },
+    {
+      "name": "Tràng An",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.75
+    }
+  ],
+  "image_count": 20,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/460699838.jpg?k=d4fd4c998423b5138179d98b56fa5c4cfc708dd97986b255e3d7aefa79aff35c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366128.jpg?k=a4b0081387bffe986030afe428f1caccae18c9d2cb0527469e5440336432d423&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569383431.jpg?k=64da6a14ccfe0076c61fbebc3d796d0361a693eae10b7769b94c708da6c02521&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366136.jpg?k=b21db4c60fdcce12d680a276916480781808f3ebb8365e6f589e05f67423879d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366219.jpg?k=303b147227e3ceb685cd42838879cedc7c51d077bc9b4acc194f25b01df5d9a0&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366135.jpg?k=ab6e15f1b70b3d36af5e87405f46fbec07fbc969708af083ad708e65ab743d2d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366123.jpg?k=b01b97cbd6ba75457e8df24672798a22a9389d0202b6ba1cfb2e00e0d04f50c9&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569375165.jpg?k=e9308f03529e15bd5c2af358fd6788a6d638d1ca4d4f3bcd92760621d0b50a23&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366134.jpg?k=b7a0601d0033501a2935954f108f2b5f7d9f4f6b7bb9153a4aa3db4713542c3c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569380024.jpg?k=20d4ec32ae22f4b2f641c06779ff2783267092e5ec83d67901045311e3bd6652&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366209.jpg?k=8a18e68620dcafbbc4311a0420c10960dcffbdf26e0fa5bd88930516eb8acf2c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366127.jpg?k=d9dd55d1e829472dd9d67fb150fbcef04881a228a2c101e6fcd019f39c2ab425&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569371697.jpg?k=bbb7cc61cddfa3c1a7e94768fe07db161a2f92a25ce8d3aa4d377b19f525e1ff&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366125.jpg?k=82f6c3f5f5aa7e1158aec2f4dc86aefe69503b4df2872b13372057efbdaadbab&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/460699891.jpg?k=764d9bdb13a57a0e5585bc551748c78c6d00a22c61ce24564f94ef670d4eb8ae&o=",
+    "https://pix8.agoda.net/geo/poi/22335/2_22335.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/460699838.jpg?k=d4fd4c998423b5138179d98b56fa5c4cfc708dd97986b255e3d7aefa79aff35c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366128.jpg?k=a4b0081387bffe986030afe428f1caccae18c9d2cb0527469e5440336432d423&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569383431.jpg?k=64da6a14ccfe0076c61fbebc3d796d0361a693eae10b7769b94c708da6c02521&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366136.jpg?k=b21db4c60fdcce12d680a276916480781808f3ebb8365e6f589e05f67423879d&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366219.jpg?k=303b147227e3ceb685cd42838879cedc7c51d077bc9b4acc194f25b01df5d9a0&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366135.jpg?k=ab6e15f1b70b3d36af5e87405f46fbec07fbc969708af083ad708e65ab743d2d&o=",
+      "caption": "Phòng chờ chung/khu vực TV",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366123.jpg?k=b01b97cbd6ba75457e8df24672798a22a9389d0202b6ba1cfb2e00e0d04f50c9&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569375165.jpg?k=e9308f03529e15bd5c2af358fd6788a6d638d1ca4d4f3bcd92760621d0b50a23&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366134.jpg?k=b7a0601d0033501a2935954f108f2b5f7d9f4f6b7bb9153a4aa3db4713542c3c&o=",
+      "caption": "Phòng chờ chung/khu vực TV",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569380024.jpg?k=20d4ec32ae22f4b2f641c06779ff2783267092e5ec83d67901045311e3bd6652&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366209.jpg?k=8a18e68620dcafbbc4311a0420c10960dcffbdf26e0fa5bd88930516eb8acf2c&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366127.jpg?k=d9dd55d1e829472dd9d67fb150fbcef04881a228a2c101e6fcd019f39c2ab425&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569371697.jpg?k=bbb7cc61cddfa3c1a7e94768fe07db161a2f92a25ce8d3aa4d377b19f525e1ff&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/569366125.jpg?k=82f6c3f5f5aa7e1158aec2f4dc86aefe69503b4df2872b13372057efbdaadbab&o=",
+      "caption": "Vòi sen",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/460699891.jpg?k=764d9bdb13a57a0e5585bc551748c78c6d00a22c61ce24564f94ef670d4eb8ae&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22335/2_22335.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Văn Miếu - Cách nơi ở 740 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Lăng Bác - cách nơi ở 1.12 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 2.16 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hồ Hoàn Kiếm - cách nơi ở 2.51 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Tây Hồ - cách nơi ở 2.75 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Đống Đa",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/cl-charming-studio-apt-laundry-pullman/hotel/all/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 661486962,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "name_en": "(One-Bedroom Apartment)",
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": "Hướng Vườn",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Vườn",
+          "Bồn tắm"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "40 m²",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Bộ chuyển đổi nguồn",
+          "Căn hộ riêng trong tòa nhà",
+          "Giường cực dài",
+          "Giải trí",
+          "Hướng vườn",
+          "Khu vực tiếp khách",
+          "Lò vi sóng",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Sưởi",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Đi lên bằng thang máy",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái"
+        ],
+        "image_count": 20,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/460699838.jpg?k=d4fd4c998423b5138179d98b56fa5c4cfc708dd97986b255e3d7aefa79aff35c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366128.jpg?k=a4b0081387bffe986030afe428f1caccae18c9d2cb0527469e5440336432d423&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569383431.jpg?k=64da6a14ccfe0076c61fbebc3d796d0361a693eae10b7769b94c708da6c02521&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366136.jpg?k=b21db4c60fdcce12d680a276916480781808f3ebb8365e6f589e05f67423879d&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366219.jpg?k=303b147227e3ceb685cd42838879cedc7c51d077bc9b4acc194f25b01df5d9a0&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1120000,
+        "original_price": 1670000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 661486962,
+      "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+      "name_en": "(One-Bedroom Apartment)",
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": "Hướng Vườn",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Vườn",
+        "Bồn tắm"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "40 m²",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Bộ chuyển đổi nguồn",
+        "Căn hộ riêng trong tòa nhà",
+        "Giường cực dài",
+        "Giải trí",
+        "Hướng vườn",
+        "Khu vực tiếp khách",
+        "Lò vi sóng",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Sưởi",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Đi lên bằng thang máy",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái"
+      ],
+      "image_count": 20,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/460699838.jpg?k=d4fd4c998423b5138179d98b56fa5c4cfc708dd97986b255e3d7aefa79aff35c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366128.jpg?k=a4b0081387bffe986030afe428f1caccae18c9d2cb0527469e5440336432d423&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569383431.jpg?k=64da6a14ccfe0076c61fbebc3d796d0361a693eae10b7769b94c708da6c02521&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366136.jpg?k=b21db4c60fdcce12d680a276916480781808f3ebb8365e6f589e05f67423879d&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/569366219.jpg?k=303b147227e3ceb685cd42838879cedc7c51d077bc9b4acc194f25b01df5d9a0&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1120000,
+      "original_price": 1670000
+    }
+  ],
+  "reviews_detail": {
+    "score": 7.4,
+    "score_text": "Rất tốt",
+    "review_count": 9,
+    "comments_count": 3,
+    "grades": [
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 8.5
+      },
+      {
+        "name": "Vị trí",
+        "score": 8.3
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 8.0
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 7.7
+      },
+      {
+        "name": "",
+        "score": 7.4
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 6.7
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 6.4
+      }
+    ],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Khách du lịch một mình",
+        "count": 3,
+        "score": 5.6
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 2,
+        "score": 8.5
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 4,
+        "score": 8.1
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 3.6,
+        "rating_text": "Điểm nhận xét",
+        "date": "18 tháng 5 2024",
+        "check_in": "Tháng 5 năm 2024",
+        "text": "Khu vực này thực sự là một nơi bẩn thỉu. Nó có đầy đủ tiện nghi, nhưng bẩn, không sạch sẽ và không hợp vệ sinh. Nếu bạn tỉnh dậy giữa đêm, bạn sẽ thấy những con gián lớn đi lại khắp bếp. Những cái khăn được gọi là sạch sẽ có mùi ẩm mốc. Rõ ràng là nên TRÁNH xa.",
+        "title": "Nó không hấp dẫn cũng không thân thiện.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Anant",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Ấn Độ",
+        "room_type": "Căn Hộ 1 Phòng Ngủ"
+      },
+      {
+        "rating": 8.0,
+        "rating_text": "Tuyệt vời",
+        "date": "02 tháng 5 2024",
+        "check_in": "",
+        "text": null,
+        "title": "Rất tốt",
+        "positives": "Vị trí",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Văn",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 8.0,
+        "rating_text": "Tuyệt vời",
+        "date": "29 tháng 9 2023",
+        "check_in": "",
+        "text": null,
+        "title": "Rất tốt",
+        "positives": "Không gian riêng tư thoải mái",
+        "negatives": "Cần để khăn giấy, ổ điện lỏng lẻo\r\nThêm chú dẫn các công tắc",
+        "response": null,
+        "reviewer_name": "Khánh",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "27 tháng 8 2023",
+        "check_in": "",
+        "text": null,
+        "title": "Tốt",
+        "positives": "Phòng rộng rãi. Riêng tư. Tiện lợi.\r\nVị trí thuận tiện",
+        "negatives": "Nên vệ sinh ghế sofa",
+        "response": null,
+        "reviewer_name": "Cường",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "30 tháng 7 2023",
+        "check_in": "",
+        "text": null,
+        "title": "Tuyệt vời",
+        "positives": "Vị trí thuận tiện, chủ nhà nhiệt tình hướng dẫn khách",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Hiền",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 806810574,
+        "rating": 3.6,
+        "rating_text": "Review score",
+        "date": "May 18, 2024",
+        "check_in": "May 2024",
+        "title": "It's neither charming nor welcoming",
+        "text": "The area is practically a low down dirty place. It has all amenities, but dirty, unclean and not hygienic. wake up in thenight and you will see big cockroaches roaming all over the kitchen. the so called clean towels smell mouldy. A clear AVOID.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Anant",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "India",
+        "room_type": "One-Bedroom Apartment"
+      },
+      {
+        "review_id": 803882659,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "May 02, 2024",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Vị trí",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Văn",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 726734311,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "September 29, 2023",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Không gian riêng tư thoải mái",
+        "negatives": "Cần để khăn giấy, ổ điện lỏng lẻo\r\nThêm chú dẫn các công tắc",
+        "response": null,
+        "reviewer_name": "Khánh",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 702153401,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "August 27, 2023",
+        "check_in": "",
+        "title": "Tốt",
+        "text": null,
+        "positives": "Phòng rộng rãi. Riêng tư. Tiện lợi.\r\nVị trí thuận tiện",
+        "negatives": "Nên vệ sinh ghế sofa",
+        "response": null,
+        "reviewer_name": "Cường",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 693364200,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "July 30, 2023",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "Vị trí thuận tiện, chủ nhà nhiệt tình hướng dẫn khách",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Hiền",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 7.4,
+  "rating_count": 9,
+  "rating_breakdown": {
+    "Sự thoải mái và chất lượng phòng": 8.5,
+    "Vị trí": 8.3,
+    "Đáng tiền": 8.0,
+    "Dịch vụ": 7.7,
+    "Độ sạch sẽ": 6.7,
+    "Cơ sở vật chất": 6.4
+  },
+  "secondary": {
+    "description_full": "Nằm ở Hà Nội, cách Bảo tàng mỹ thuật Việt Nam 14 phút đi bộ, CL•Charming Studio Apt•Laundry•Pullman cung cấp chỗ nghỉ có sân hiên, Wi-Fi miễn phí, dịch vụ phòng, cùng dịch vụ tiền sảnh. Chỗ nghỉ điều hòa này cách Văn Miếu - Quốc Tử Giám 13 phút đi bộ.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng có truyền hình cáp, bếp đầy đủ tiện nghi, cùng sân trong nhìn ra thành phố.\n\nCác điểm tham quan nổi tiếng gần căn hộ bao gồm Chùa Một Cột, Lăng Chủ tịch Hồ Chí Minh và Hoàng thành Thăng Long. Chỗ nghỉ cách Sân bay Quốc tế Nội Bài 25 km và cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 661486962,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "features": [],
+        "image_count": 17,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Đống Đa của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1609858,
+      "title": "Xe Limousine Ghế Ngồi Hà Nội - Sapa bởi HK Buslines",
+      "description": "Di chuyển từ Hà Nội đến Sapa bằng xe limousine ghế ngồi hiện đại, mang đến hành trình thoải mái cho chuyến đi của bạn.\n\n- Miễn phí đón và trả khách tại khu vực Phố Cổ Hà Nội và trung tâm Sapa\n- Xe đượ",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 363522.0,
+                "crossedOut": 458414.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541889,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium",
+      "description": "Khám phá thế giới đại dương kỳ thú tại Vinpearl Aquarium và trải nghiệm hoạt động giáo dục thú vị tại VinKE trong trung tâm thương mại Vincom Mega Mall Times City.\n\n- Trẻ em có cơ hội tìm hiểu và thử",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 181028.0,
+                "crossedOut": 181028.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1267404,
+      "title": "Vé xem Múa rối nước Lotus tại Hà Nội",
+      "description": "Khám phá nghệ thuật múa rối nước tại Hà Nội, một loại hình nghệ thuật truyền thống độc đáo ra đời và phát triển từ hơn một ngàn năm trước tại vùng đồng bằng sông Hồng.\n\n- Chiêm ngưỡng những màn trình",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 79733.0,
+                "crossedOut": 100545.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1149216,
+      "title": "Vé Múa Rối Nước Thăng Long tại Hà Nội",
+      "description": "- Khám phá nghệ thuật múa rối nước cổ xưa hấp dẫn của Việt Nam với chương trình múa rối nước Thăng Long ấn tượng\n- Chứng kiến buổi diễn tại một trong những nhà hát nổi tiếng nhất nằm ở trung tâm Hà Nộ",
+      "review_score": 4.5,
+      "review_count": 201,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 120716.0,
+                "crossedOut": 120716.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681394,
+      "title": "內排國際機場(HAN) | Terminal 1 | Vietnam Airlines Lotus Lounge | 貴賓室服務",
+      "description": "位置：安檢後大堂C二樓，護照及安全檢查後前往大堂D，三樓右側\n設施亮點：提供WiFi、小食、茶水及飲料，還有電視和報刊雜誌\n營業時間：每日04:00-23:00，提供長達120分鐘的使用時間\n兒童政策：2歲以下兒童免費入內\n注意事項：預計於2025年5月12日重新開放，",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 444239.0,
+                "crossedOut": 601949.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1092992,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium Times City, Hà Nội",
+      "description": "Khám phá VinKE và Thủy cung Vinpearl tại Vincom Mega Mall Times City, điểm đến lý tưởng cho các gia đình và trẻ nhỏ tại Hà Nội.\n\n- Trải nghiệm thế giới nghề nghiệp mơ ước thông qua các trò chơi hướng",
+      "review_score": 4.3,
+      "review_count": 16,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 190200.0,
+                "crossedOut": 190200.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1089184,
+      "title": "Noi Bai Airport Transfer to Hanoi Hotel or Vice Versa",
+      "description": "Travel between Noi Bai Airport and your hotel in Hanoi with a professional driver and a clean, modern vehicle.\n\n- Fleet of newest generation, air-conditioned vehicles\n- English-speaking drivers availa",
+      "review_score": 5.0,
+      "review_count": 171,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 211538.0,
+                "crossedOut": 263435.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1486418,
+      "title": "Viettel Vietnam SIM/eSIM | 5GB/Day | 10 Days",
+      "description": "Stay connected throughout your journey with a Viettel SIM or eSIM for Vietnam, featuring 5GB of high-speed data per day for 10 days.\n\n- 4G/5G coverage available nationwide\n- Physical SIM pickup availa",
+      "review_score": 4.9,
+      "review_count": 60,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 161866.0,
+                "crossedOut": 209248.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1198574,
+      "title": "Halong Bay Day Cruise with Buffet Lunch - Diamond Era",
+      "description": "Explore the breathtaking beauty of Halong Bay aboard the Diamond Era, a cruise featuring an elegant, modern design. This 6-hour \"Route 2\" itinerary allows you to discover the wonders of this world her",
+      "review_score": 4.9,
+      "review_count": 1902,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 901581.0,
+                "crossedOut": 1264489.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681393,
+      "title": "內排國際機場(HAN) | Terminal 2 | ACV Lounge | 貴賓室服務",
+      "description": "位置：位於內排國際機場國際航站樓4樓，靠近31號登機口。\n設施亮點：提供淋浴間、熱食冷食自助吧、按摩椅及充電設備。\n營業時間：每天06:00至最晚航班。\n使用時間限制：每位客戶最多可享用180分鐘服務。\n家庭政策：2歲及以下兒童免費進入。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 855920.0,
+                "crossedOut": 1033720.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Khách du lịch một mình",
+    "Cặp đôi"
+  ],
+  "view_types": [
+    "Hướng Vườn"
+  ],
+  "tags": [
+    "Cặp đôi",
+    "Dọn phòng hằng ngày",
+    "Ho Chi Minh Mausoleum",
+    "Hướng Vườn",
+    "Khách du lịch một mình",
+    "Nhà hàng",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhận/trả phòng [nhanh]",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Văn hóa bản địa",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 1,32 km",
+    "Điều hòa",
+    "Đưa đón sân bay"
+  ],
+  "embedding_text": "CL•Charming Studio Apt•Laundry•Pullman - khách sạn 3.0 sao tại Hà Nội.\nĐịa chỉ: 33 Ngõ 35 Phố Cát Linh, Đống Đa, Hà Nội, Việt Nam.\nNằm ở vị trí trung tâm tại Đống Đa của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Bàn là, Bàn/không gian làm việc, Bình chữa cháy, Bình nóng lạnh, Bếp, Bồn tắm, Các loại khăn, Dọn phòng hằng ngày, Lối đi riêng, Máy giặt, Máy sấy, Máy sấy tóc, Nhân viên chăm sóc khách hàng, Quạt, TV, Thang máy, Tiếng Anh, Truyền hình cáp, Tủ quần áo, Vải trải giường, Vật dụng tắm rửa, Wi-Fi miễn phí trong tất cả các phòng!, tiếng Việt, Điều hòa, Đưa đón sân bay, Đầu báo khói.\nĐiểm đánh giá 7.4/10 dựa trên 9 đánh giá.\nCác loại phòng: Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment).\nGần: Vm+ 45 Thịnh Hào 1, Làng Văn hóa Du lịch các Dân tộc Việt Nam, Nhà thuốc ĐỨC LONG, Unimart Giảng Võ, Văn Miếu, Vm+ 28 Tôn Đức Thắng.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

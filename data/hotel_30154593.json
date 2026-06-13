@@ -1,0 +1,1466 @@
+{
+  "crawled_at": "2026-06-04T12:26:22",
+  "source_url": "https://www.agoda.com/sofitel-plaza-hanoi-h30154593/hotel/hanoi-vn.html?hotel=30154593&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 30154593,
+  "name": "Sofitel Plaza Hanoi",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 5.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "1 Thanh Nien Road, Ba Dinh District, Quận Tây Hồ, Hà Nội, Việt Nam",
+  "area": "Quận Tây Hồ",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "NULL",
+  "latitude": 21.050199508666992,
+  "longitude": 105.83999633789062,
+  "description": "Enjoy a meal at one of the hotel's dining establishments, which include 2 restaurants and a coffee shop/café. From your room, you can also access 24-hour room service. Relax with a refreshing drink from a poolside bar or one of the 2 bars/lounges. Buffet \n\nThe preferred airport for Sofitel Plaza Hanoi is Hanoi (HAN-Noi Bai Intl.) - 18.6 km / 11.6 mi. Distances are calculated in a straight line from the property's location to the point of interest or airport and may not reflect actual travel distance. \n\nDistances are displayed to the nearest 0.1 km and mile.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": "10",
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Số lượng phòng": "10"
+  },
+  "highlights": [
+    "Thang máy"
+  ],
+  "location_tags": [
+    "Bar và hoạt động giải trí về đêm",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Thang máy",
+    "Thích hợp cho các hoạt động",
+    "cách trung tâm thành phố 1,09 km"
+  ],
+  "amenities": [
+    "Bàn tiếp tân 24 giờ",
+    "Chuyến du lịch",
+    "Dịch vụ giặt là",
+    "Giữ hành lý",
+    "Khu vực hút thuốc",
+    "Nhân viên chăm sóc khách hàng",
+    "Phòng máy giặt tự động",
+    "Phòng tập",
+    "Thang máy",
+    "Tiện nghi nấu nướng ngoài trời",
+    "WiFi",
+    "Đưa đón sân bay"
+  ],
+  "amenities_count": 14,
+  "amenity_groups": {
+    "Truy cập Internet": [
+      "WiFi"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Chuyến du lịch",
+      "Phòng tập"
+    ],
+    "Ăn uống": [
+      "Tiện nghi nấu nướng ngoài trời"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Dịch vụ giặt là",
+      "Giữ hành lý",
+      "Khu vực hút thuốc",
+      "Nhân viên chăm sóc khách hàng",
+      "Phòng máy giặt tự động",
+      "Thang máy"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bàn tiếp tân 24 giờ"
+    ],
+    "Đi lại": [
+      "Đưa đón sân bay"
+    ]
+  },
+  "amenities_general": [
+    "Bàn tiếp tân 24 giờ",
+    "Dịch vụ giặt là",
+    "Giữ hành lý",
+    "Khu vực hút thuốc",
+    "Nhân viên chăm sóc khách hàng",
+    "Phòng máy giặt tự động",
+    "Thang máy",
+    "WiFi",
+    "Đưa đón sân bay"
+  ],
+  "amenities_leisure": [
+    "Chuyến du lịch",
+    "Phòng tập"
+  ],
+  "amenities_dining": [
+    "Tiện nghi nấu nướng ngoài trời"
+  ],
+  "nearby_places": [
+    {
+      "name": "Paris Miki Việt Nam",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.11
+    },
+    {
+      "name": "Trạm Y tế phường Trúc Bạch",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.51
+    },
+    {
+      "name": "Hồ Trúc Bạch",
+      "type": "Sông và Hồ",
+      "distance_km": 0.54
+    },
+    {
+      "name": "Mọt Sách Hà Nội",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.64
+    },
+    {
+      "name": "deutsche mart",
+      "type": "Siêu Thị",
+      "distance_km": 0.64
+    },
+    {
+      "name": "Thuyền đạp",
+      "type": "Nơi Biểu Diễn Văn Nghệ",
+      "distance_km": 0.7
+    },
+    {
+      "name": "Nhà thuốc Nhân Dân",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.7
+    },
+    {
+      "name": "Nhà thuốc Hải Linh",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.85
+    },
+    {
+      "name": "Phú Thọ",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.86
+    },
+    {
+      "name": "MaruMart",
+      "type": "Siêu Thị",
+      "distance_km": 0.88
+    }
+  ],
+  "image_count": 41,
+  "image_urls": [
+    "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/988512168b53fc3992910d66229e63bc.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/158a4032092e0aa5f8bad5e9ed905314.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/9f23f52f24ae6400d29bcd7e522e0f50.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/f83ea0078c2c58da38e2f0fc23166608.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/5e8e52cc2ad87a3906096284ceb465a0.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/dd8c24f64e9797019612f80e26f1fb8f.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/3dab57be36452a360a344c28abfa6ab9.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/05e5f79dd2d276cd138e366359694f62.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/e68844ade55bb0d9d903de70507d9cf3.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/3a79fee66504106b4fa96638b0f247a1.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/5e5af2cd8fc7ed9f166bb862f1a38fbd.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/15ab7152c9c3b17d40f2e6e991cfbec4.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/a2571c1bd3f8ba07becf3297d4a0cde8.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/e650223174a27954b528f9ec40abdb3a.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/181b31bfb52973b24f1c487056f413cc.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/cff9c19d558cfc132a3f9a5d911f94bb.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/44c8d3823555e122587b370316c1b2cc.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/ab3e4941d57639c2cf7af88215e1d8c6.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/cb29696ac5f98f0eab70ea734a6fef97.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/b025da8e758eefc04cc14295bc0c6c1b.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/937c96ebcdd4c672d1adf6c7776c3f7f.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/c5e248c5daa36ae982b807034cf8251e.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/dd9d0e6c7239e4fe1a222ad9c3163a30.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/db76f8b12e1ac89a5416a240eb9d4b19.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/0aaf3b449f0c483a5190058d81be9595.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/d8a430b9bf7e710f3deb1e2c2d996cdd.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/96b017aae12e25cb31e408af30c22028.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/e61b3f78c4d81f948bbb47280b353f52.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/d12b793287d870bd3259be930799a89d.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/2d158fa436741fe674c182048dbb398d.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/4f50d202ce006ffd57f206ed08c60344.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/d96806b2993861ff839d8b962d14f675.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/3dee03e78f4687ed2f9f76c49c72ac2c.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/527a956a35acc71ab0080fadf024dedd.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/property/37848938/0/a5e772915a1a3d2088a2b4aa4acc8b48.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/988512168b53fc3992910d66229e63bc.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/158a4032092e0aa5f8bad5e9ed905314.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/9f23f52f24ae6400d29bcd7e522e0f50.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/f83ea0078c2c58da38e2f0fc23166608.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/5e8e52cc2ad87a3906096284ceb465a0.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/dd8c24f64e9797019612f80e26f1fb8f.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/3dab57be36452a360a344c28abfa6ab9.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/05e5f79dd2d276cd138e366359694f62.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/e68844ade55bb0d9d903de70507d9cf3.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/3a79fee66504106b4fa96638b0f247a1.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/5e5af2cd8fc7ed9f166bb862f1a38fbd.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/15ab7152c9c3b17d40f2e6e991cfbec4.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/a2571c1bd3f8ba07becf3297d4a0cde8.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/e650223174a27954b528f9ec40abdb3a.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/181b31bfb52973b24f1c487056f413cc.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/cff9c19d558cfc132a3f9a5d911f94bb.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/44c8d3823555e122587b370316c1b2cc.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/ab3e4941d57639c2cf7af88215e1d8c6.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/cb29696ac5f98f0eab70ea734a6fef97.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/b025da8e758eefc04cc14295bc0c6c1b.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/937c96ebcdd4c672d1adf6c7776c3f7f.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/c5e248c5daa36ae982b807034cf8251e.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/dd9d0e6c7239e4fe1a222ad9c3163a30.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/db76f8b12e1ac89a5416a240eb9d4b19.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/0aaf3b449f0c483a5190058d81be9595.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/d8a430b9bf7e710f3deb1e2c2d996cdd.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/96b017aae12e25cb31e408af30c22028.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/e61b3f78c4d81f948bbb47280b353f52.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/d12b793287d870bd3259be930799a89d.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/2d158fa436741fe674c182048dbb398d.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/4f50d202ce006ffd57f206ed08c60344.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/d96806b2993861ff839d8b962d14f675.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/3dee03e78f4687ed2f9f76c49c72ac2c.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/527a956a35acc71ab0080fadf024dedd.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/37848938/0/a5e772915a1a3d2088a2b4aa4acc8b48.jpg?ce=0&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - Cách nơi ở 370 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - Cách nơi ở 540 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Tây Hồ - cách nơi ở 1.48 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Lăng Bác - cách nơi ở 1.62 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hồ Hoàn Kiếm - cách nơi ở 2.7 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Quận Tây Hồ",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/sofitel-plaza-hanoi-h30154593/hotel/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 10,
+    "rooms": [
+      {
+        "room_type_id": 472279400,
+        "name": "Phòng Club (Club Room)",
+        "name_en": "(Club Room)",
+        "room_size": "35 m²",
+        "size_sqm": 35.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường lớn",
+          "35 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 3270000,
+        "original_price": 4840000
+      },
+      {
+        "room_type_id": 568194993,
+        "name": "Phòng Đẳng Cấp (Premier Room)",
+        "name_en": "(Premier Room)",
+        "room_size": "35 m²",
+        "size_sqm": 35.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường lớn",
+          "35 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 3920000,
+        "original_price": 4750000
+      },
+      {
+        "room_type_id": 1326606660,
+        "name": "1 Bedroom Serviced Executive Suite",
+        "name_en": null,
+        "room_size": "60 m²",
+        "size_sqm": 60.0,
+        "max_occupancy": 4,
+        "max_occupancy_text": "Tối đa 4 người lớn",
+        "bed_type": "1 giường đơn",
+        "bed_types": [
+          "1 giường đơn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đơn",
+          "60 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 5000000,
+        "original_price": 8050000
+      },
+      {
+        "room_type_id": 568194992,
+        "name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+        "name_en": "(Deluxe Twin Room)",
+        "room_size": "35 m²",
+        "size_sqm": 35.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "2 giường đôi",
+        "bed_types": [
+          "2 giường đôi"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "2 giường đôi",
+          "35 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 4250000,
+        "original_price": 7200000
+      },
+      {
+        "room_type_id": 883544113,
+        "name": "Suite Executive (Executive Suite)",
+        "name_en": "(Executive Suite)",
+        "room_size": "100 m²",
+        "size_sqm": 100.0,
+        "max_occupancy": 4,
+        "max_occupancy_text": "Tối đa 4 người lớn",
+        "bed_type": "1 giường đơn",
+        "bed_types": [
+          "1 giường đơn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đơn",
+          "100 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 5000000,
+        "original_price": 8080000
+      },
+      {
+        "room_type_id": 1326606630,
+        "name": "Suite Premier (Premier Suite)",
+        "name_en": "(Premier Suite)",
+        "room_size": "90 m²",
+        "size_sqm": 90.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường đơn",
+        "bed_types": [
+          "1 giường đơn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đơn",
+          "90 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 5000000,
+        "original_price": 7950000
+      },
+      {
+        "room_type_id": 1326606488,
+        "name": "Suite Hạng Tổng Thống (Presidential Suite)",
+        "name_en": "(Presidential Suite)",
+        "room_size": "287 m²",
+        "size_sqm": 287.0,
+        "max_occupancy": 7,
+        "max_occupancy_text": "Tối đa 7 người lớn",
+        "bed_type": "1 giường đơn",
+        "bed_types": [
+          "1 giường đơn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đơn",
+          "287 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 5000000,
+        "original_price": 7410000
+      },
+      {
+        "room_type_id": 1326606444,
+        "name": "Deluxe Room Double Bed Lake View",
+        "name_en": null,
+        "room_size": "35 m²",
+        "size_sqm": 35.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "35 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 4250000,
+        "original_price": 7380000
+      },
+      {
+        "room_type_id": 1326606627,
+        "name": "Suite Dạng Studio Có Ban Công (Studio Balcony Suite)",
+        "name_en": "(Studio Balcony Suite)",
+        "room_size": "50 m²",
+        "size_sqm": 50.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường đơn",
+        "bed_types": [
+          "1 giường đơn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đơn",
+          "50 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 5000000,
+        "original_price": 9000000
+      },
+      {
+        "room_type_id": 472277960,
+        "name": "Phòng Loại Sang (Deluxe Room)",
+        "name_en": "(Deluxe Room)",
+        "room_size": "35 m²",
+        "size_sqm": 35.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường lớn",
+          "35 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 4250000,
+        "original_price": 5510000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 472279400,
+      "name": "Phòng Club (Club Room)",
+      "name_en": "(Club Room)",
+      "room_size": "35 m²",
+      "size_sqm": 35.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường lớn",
+        "35 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 3270000,
+      "original_price": 4840000
+    },
+    {
+      "room_type_id": 568194993,
+      "name": "Phòng Đẳng Cấp (Premier Room)",
+      "name_en": "(Premier Room)",
+      "room_size": "35 m²",
+      "size_sqm": 35.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường lớn",
+        "35 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 3920000,
+      "original_price": 4750000
+    },
+    {
+      "room_type_id": 1326606660,
+      "name": "1 Bedroom Serviced Executive Suite",
+      "name_en": null,
+      "room_size": "60 m²",
+      "size_sqm": 60.0,
+      "max_occupancy": 4,
+      "max_occupancy_text": "Tối đa 4 người lớn",
+      "bed_type": "1 giường đơn",
+      "bed_types": [
+        "1 giường đơn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đơn",
+        "60 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 5000000,
+      "original_price": 8050000
+    },
+    {
+      "room_type_id": 568194992,
+      "name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+      "name_en": "(Deluxe Twin Room)",
+      "room_size": "35 m²",
+      "size_sqm": 35.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "2 giường đôi",
+      "bed_types": [
+        "2 giường đôi"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "2 giường đôi",
+        "35 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 4250000,
+      "original_price": 7200000
+    },
+    {
+      "room_type_id": 883544113,
+      "name": "Suite Executive (Executive Suite)",
+      "name_en": "(Executive Suite)",
+      "room_size": "100 m²",
+      "size_sqm": 100.0,
+      "max_occupancy": 4,
+      "max_occupancy_text": "Tối đa 4 người lớn",
+      "bed_type": "1 giường đơn",
+      "bed_types": [
+        "1 giường đơn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đơn",
+        "100 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 5000000,
+      "original_price": 8080000
+    },
+    {
+      "room_type_id": 1326606630,
+      "name": "Suite Premier (Premier Suite)",
+      "name_en": "(Premier Suite)",
+      "room_size": "90 m²",
+      "size_sqm": 90.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường đơn",
+      "bed_types": [
+        "1 giường đơn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đơn",
+        "90 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 5000000,
+      "original_price": 7950000
+    },
+    {
+      "room_type_id": 1326606488,
+      "name": "Suite Hạng Tổng Thống (Presidential Suite)",
+      "name_en": "(Presidential Suite)",
+      "room_size": "287 m²",
+      "size_sqm": 287.0,
+      "max_occupancy": 7,
+      "max_occupancy_text": "Tối đa 7 người lớn",
+      "bed_type": "1 giường đơn",
+      "bed_types": [
+        "1 giường đơn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đơn",
+        "287 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 5000000,
+      "original_price": 7410000
+    },
+    {
+      "room_type_id": 1326606444,
+      "name": "Deluxe Room Double Bed Lake View",
+      "name_en": null,
+      "room_size": "35 m²",
+      "size_sqm": 35.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "35 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 4250000,
+      "original_price": 7380000
+    },
+    {
+      "room_type_id": 1326606627,
+      "name": "Suite Dạng Studio Có Ban Công (Studio Balcony Suite)",
+      "name_en": "(Studio Balcony Suite)",
+      "room_size": "50 m²",
+      "size_sqm": 50.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường đơn",
+      "bed_types": [
+        "1 giường đơn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đơn",
+        "50 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 5000000,
+      "original_price": 9000000
+    },
+    {
+      "room_type_id": 472277960,
+      "name": "Phòng Loại Sang (Deluxe Room)",
+      "name_en": "(Deluxe Room)",
+      "room_size": "35 m²",
+      "size_sqm": 35.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường lớn",
+        "35 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/37848938/0/fe214f8c5b6c8650f21d41e7d128a5e3.jpg?ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 4250000,
+      "original_price": 5510000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": "Enjoy a meal at one of the hotel's dining establishments, which include 2 restaurants and a coffee shop/café. From your room, you can also access 24-hour room service. Relax with a refreshing drink from a poolside bar or one of the 2 bars/lounges. Buffet \n\nThe preferred airport for Sofitel Plaza Hanoi is Hanoi (HAN-Noi Bai Intl.) - 18.6 km / 11.6 mi. Distances are calculated in a straight line from the property's location to the point of interest or airport and may not reflect actual travel distance. \n\nDistances are displayed to the nearest 0.1 km and mile.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 10,
+    "dateless_rooms": [
+      {
+        "room_id": 472279400,
+        "name": "Phòng Club (Club Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 568194993,
+        "name": "Phòng Đẳng Cấp (Premier Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326606660,
+        "name": "1 Bedroom Serviced Executive Suite",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đơn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 568194992,
+        "name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "2 giường đôi",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 883544113,
+        "name": "Suite Executive (Executive Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đơn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326606630,
+        "name": "Suite Premier (Premier Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đơn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326606488,
+        "name": "Suite Hạng Tổng Thống (Presidential Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đơn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326606444,
+        "name": "Deluxe Room Double Bed Lake View",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326606627,
+        "name": "Suite Dạng Studio Có Ban Công (Studio Balcony Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đơn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 472277960,
+        "name": "Phòng Loại Sang (Deluxe Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 5 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1609858,
+      "title": "Xe Limousine Ghế Ngồi Hà Nội - Sapa bởi HK Buslines",
+      "description": "Di chuyển từ Hà Nội đến Sapa bằng xe limousine ghế ngồi hiện đại, mang đến hành trình thoải mái cho chuyến đi của bạn.\n\n- Miễn phí đón và trả khách tại khu vực Phố Cổ Hà Nội và trung tâm Sapa\n- Xe đượ",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 363522.0,
+                "crossedOut": 458414.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541889,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium",
+      "description": "Khám phá thế giới đại dương kỳ thú tại Vinpearl Aquarium và trải nghiệm hoạt động giáo dục thú vị tại VinKE trong trung tâm thương mại Vincom Mega Mall Times City.\n\n- Trẻ em có cơ hội tìm hiểu và thử",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 181028.0,
+                "crossedOut": 181028.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1267404,
+      "title": "Vé xem Múa rối nước Lotus tại Hà Nội",
+      "description": "Khám phá nghệ thuật múa rối nước tại Hà Nội, một loại hình nghệ thuật truyền thống độc đáo ra đời và phát triển từ hơn một ngàn năm trước tại vùng đồng bằng sông Hồng.\n\n- Chiêm ngưỡng những màn trình",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 79733.0,
+                "crossedOut": 100545.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1149216,
+      "title": "Vé Múa Rối Nước Thăng Long tại Hà Nội",
+      "description": "- Khám phá nghệ thuật múa rối nước cổ xưa hấp dẫn của Việt Nam với chương trình múa rối nước Thăng Long ấn tượng\n- Chứng kiến buổi diễn tại một trong những nhà hát nổi tiếng nhất nằm ở trung tâm Hà Nộ",
+      "review_score": 4.5,
+      "review_count": 201,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 120716.0,
+                "crossedOut": 120716.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681394,
+      "title": "內排國際機場(HAN) | Terminal 1 | Vietnam Airlines Lotus Lounge | 貴賓室服務",
+      "description": "位置：安檢後大堂C二樓，護照及安全檢查後前往大堂D，三樓右側\n設施亮點：提供WiFi、小食、茶水及飲料，還有電視和報刊雜誌\n營業時間：每日04:00-23:00，提供長達120分鐘的使用時間\n兒童政策：2歲以下兒童免費入內\n注意事項：預計於2025年5月12日重新開放，",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 444239.0,
+                "crossedOut": 601949.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1092992,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium Times City, Hà Nội",
+      "description": "Khám phá VinKE và Thủy cung Vinpearl tại Vincom Mega Mall Times City, điểm đến lý tưởng cho các gia đình và trẻ nhỏ tại Hà Nội.\n\n- Trải nghiệm thế giới nghề nghiệp mơ ước thông qua các trò chơi hướng",
+      "review_score": 4.3,
+      "review_count": 16,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 190200.0,
+                "crossedOut": 190200.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1089184,
+      "title": "Noi Bai Airport Transfer to Hanoi Hotel or Vice Versa",
+      "description": "Travel between Noi Bai Airport and your hotel in Hanoi with a professional driver and a clean, modern vehicle.\n\n- Fleet of newest generation, air-conditioned vehicles\n- English-speaking drivers availa",
+      "review_score": 5.0,
+      "review_count": 171,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 211538.0,
+                "crossedOut": 263435.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1486418,
+      "title": "Viettel Vietnam SIM/eSIM | 5GB/Day | 10 Days",
+      "description": "Stay connected throughout your journey with a Viettel SIM or eSIM for Vietnam, featuring 5GB of high-speed data per day for 10 days.\n\n- 4G/5G coverage available nationwide\n- Physical SIM pickup availa",
+      "review_score": 4.9,
+      "review_count": 60,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 161866.0,
+                "crossedOut": 209248.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1198574,
+      "title": "Halong Bay Day Cruise with Buffet Lunch - Diamond Era",
+      "description": "Explore the breathtaking beauty of Halong Bay aboard the Diamond Era, a cruise featuring an elegant, modern design. This 6-hour \"Route 2\" itinerary allows you to discover the wonders of this world her",
+      "review_score": 4.9,
+      "review_count": 1902,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 901581.0,
+                "crossedOut": 1264489.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681393,
+      "title": "內排國際機場(HAN) | Terminal 2 | ACV Lounge | 貴賓室服務",
+      "description": "位置：位於內排國際機場國際航站樓4樓，靠近31號登機口。\n設施亮點：提供淋浴間、熱食冷食自助吧、按摩椅及充電設備。\n營業時間：每天06:00至最晚航班。\n使用時間限制：每位客戶最多可享用180分鐘服務。\n家庭政策：2歲及以下兒童免費進入。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 855920.0,
+                "crossedOut": 1033720.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": "Có các điểm tham quan nào gần Sofitel Plaza Hanoi và trong khoảng cách đi bộ?",
+      "answer": "Trong thời gian lưu trú tại Sofitel Plaza Hanoi, hãy bắt đầu kỳ nghỉ của quý khách bằng cách khám phá các điểm tham quan gần nhất, trong khoảng cách đi bộ từ cơ sở lưu trú như Chùa Kim Liên, My spot và Chùa Trấn Quốc.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Có các quán bar nào gần Sofitel Plaza Hanoi?",
+      "answer": "Trong khi lưu trú tại Sofitel Plaza Hanoi, hãy tận hưởng buổi tối của quý khách tại Bar Mao's Red Lounge, Bia hơi 68 Hàng Quạt và Cloud Sky Bar Hà Nội và trải nghiệm cuộc sống về đêm tại đây.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Có các công viên nào gần Sofitel Plaza Hanoi?",
+      "answer": "Trong khi lưu trú tại Sofitel Plaza Hanoi, quý khách có thể hít thở không khí trong lành trong lúc đi bộ vào buổi sáng hoặc buổi tối tại công viên lân cận như Sân quần vợt An Dương, Vườn hoa Lý Tự trọng và Vườn hoa Mai Xuân Thưởng.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Bến tàu, trạm tàu điện ngầm hoặc bến xe buýt nào gần Sofitel Plaza Hanoi nhất?",
+      "answer": "Bến tàu, trạm tàu điện ngầm hoặc bến xe buýt gần nhất là Ga Hà Nội, cách Sofitel Plaza Hanoi 2888.04 m.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Những nhà hàng nào tọa lạc gần Sofitel Plaza Hanoi?",
+      "answer": "Sofitel Plaza Hanoi tọa lạc tại Ba Đình và nằm gần các nhà hàng nổi tiếng như Standing Bar.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Có những khu mua sắm nổi tiếng nào gần Sofitel Plaza Hanoi?",
+      "answer": "Sofitel Plaza Hanoi tọa lạc tại khu vực Quận Tây Hồ và có nhiều lựa chọn mua sắm bao gồm Cho Dong Xuan và Chợ Đêm.",
+      "category": "property_faq_location_landmark"
+    },
+    {
+      "question": "Sân bay gần Sofitel Plaza Hanoi nhất",
+      "answer": "Sân bay gần Sofitel Plaza Hanoi nhất là Sân bay Quốc tế Nội Bài, cách 19.0 km.",
+      "category": "property_faq_location_airport"
+    }
+  ],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Bar và hoạt động giải trí về đêm",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Old Quarter",
+    "Temple of Literature & National University",
+    "Thang máy",
+    "Thích hợp cho các hoạt động",
+    "cách trung tâm thành phố 1,09 km"
+  ],
+  "embedding_text": "Sofitel Plaza Hanoi - khách sạn 5.0 sao tại Hà Nội.\nĐịa chỉ: 1 Thanh Nien Road, Ba Dinh District, Quận Tây Hồ, Hà Nội, Việt Nam.\nNằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 5 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Bàn tiếp tân [24 giờ], Chuyến du lịch, Dịch vụ giặt là, Giữ hành lý, Internet, Khu vực hút thuốc, Két sắt, Nhân viên chăm sóc khách hàng, Phòng máy giặt tự động, Phòng tập, Thang máy, Tiện nghi nấu nướng ngoài trời, Wi-Fi ở nơi công cộng, Đưa đón sân bay.\nCác loại phòng: Phòng Club (Club Room); Phòng Đẳng Cấp (Premier Room); 1 Bedroom Serviced Executive Suite; Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room); Suite Executive (Executive Suite); Suite Premier (Premier Suite); Suite Hạng Tổng Thống (Presidential Suite); Deluxe Room Double Bed Lake View.\nGần: Paris Miki Việt Nam, Trạm Y tế phường Trúc Bạch, Hồ Trúc Bạch, Mọt Sách Hà Nội, deutsche mart, Thuyền đạp.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

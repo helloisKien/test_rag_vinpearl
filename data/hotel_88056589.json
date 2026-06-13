@@ -1,0 +1,912 @@
+{
+  "crawled_at": "2026-06-03T23:09:51",
+  "source_url": "https://www.agoda.com/premium-cozy-apartment-near-marriott-hotel-and-landmark72-hanoi/hotel/all/hanoi-vn.html?hotel=88056589&currency=VND&checkIn=2026-06-13&checkOut=2026-06-14&rooms=1&adults=2&children=0",
+  "hotel_id": 88056589,
+  "name": "Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 2.5,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "G3 Vinhomes Green Bay, 400 Luong The Vinh Street, Dai Mo, Ha Noi, Mỹ Đình, Hà Nội, Việt Nam",
+  "area": "Mỹ Đình",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "100000",
+  "latitude": 20.999862670898438,
+  "longitude": 105.78463745117188,
+  "description": "Với khu vườn, phòng chờ chung, cùng nhà hàng, Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi cung cấp chỗ nghỉ ở Hà Nội có Wi-Fi miễn phí và nhìn ra biển. Chỗ đậu xe riêng có sẵn trong khuôn viên.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng có truyền hình vệ tinh, khu vực ăn uống, bếp đầy đủ tiện nghi, cùng sân hiên nhìn ra thành phố. Để thuận tiện hơn cho khách, chỗ nghỉ có thể cung cấp khăn tắm và khăn trải giường với khoản phụ phí.\n\nThành thạo tiếng Anh, tiếng Tây Ban Nha, tiếng Pháp và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn sẵn lòng đưa ra thông tin hữu ích về khu vực xung quanh.\n\nCăn hộ có sân chơi trẻ em. Khuôn viên của Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi có sòng bạc và du khách có thể đi xe đạp ở khu vực gần đó.\n\nChỗ nghỉ cách Trung tâm thương mại Vincom Nguyễn Chí Thanh 4.5 km. Sân bay Quốc tế Nội Bài cách 28 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "00:00",
+    "Nhận phòng đến": "23:00"
+  },
+  "highlights": [
+    "Đưa đón sân bay",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày",
+    "Quán bar",
+    "Câu lạc bộ đêm"
+  ],
+  "location_tags": [
+    "Bàn tiếp tân [24 giờ]",
+    "Dọn phòng hằng ngày",
+    "Thích hợp cho các hoạt động",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Đưa đón sân bay"
+  ],
+  "amenities": [
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bình nóng lạnh",
+    "Bảo vệ 24 giờ",
+    "Bếp",
+    "Bể bơi",
+    "Cà phê hoặc trà",
+    "Câu lạc bộ đêm",
+    "Dọn phòng hằng ngày",
+    "Lò sưởi trong nhà",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Phòng tập",
+    "Phù hợp cho xe lăn",
+    "Quán bar",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tiếng pháp",
+    "Tiếng tây ban nha",
+    "Trung Quốc quan thoại",
+    "Truyền hình cáp",
+    "WiFi miễn phí",
+    "Xe đạp",
+    "Điều hòa",
+    "Đưa đón sân bay",
+    "Đầu báo khí co",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_count": 38,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt",
+      "Tiếng pháp",
+      "Tiếng tây ban nha",
+      "Trung Quốc quan thoại"
+    ],
+    "Khả năng tiếp cận cho người khuyết tật": [
+      "Phù hợp cho xe lăn"
+    ],
+    "Ngoài trời": [
+      "Xe đạp"
+    ],
+    "Giải trí ": [
+      "TV",
+      "Truyền hình cáp"
+    ],
+    "Tiện nghi": [
+      "Bình nóng lạnh",
+      "Lối đi riêng",
+      "Điều hòa"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Phòng tập"
+    ],
+    "Ăn uống": [
+      "Bếp",
+      "Cà phê hoặc trà"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Dịch vụ và tiện nghi": [
+      "Thang máy"
+    ],
+    "Bố trí và nội thất phòng": [
+      "Bàn không gian làm việc",
+      "Bể bơi",
+      "Lò sưởi trong nhà"
+    ],
+    "Quần áo và Giặt ủi": [
+      "Bàn là",
+      "Máy giặt"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ"
+    ],
+    "Đi lại": [
+      "Đỗ xe tại chỗ"
+    ],
+    "Tính năng an toàn và an ninh": [
+      "Đầu báo khí co"
+    ]
+  },
+  "amenities_general": [
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bình nóng lạnh",
+    "Bảo vệ 24 giờ",
+    "Bể bơi",
+    "Lò sưởi trong nhà",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Phù hợp cho xe lăn",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tiếng pháp",
+    "Tiếng tây ban nha",
+    "Trung Quốc quan thoại",
+    "Truyền hình cáp",
+    "Xe đạp",
+    "Điều hòa",
+    "Đầu báo khí co",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_leisure": [
+    "Phòng tập"
+  ],
+  "amenities_dining": [
+    "Bếp",
+    "Cà phê hoặc trà"
+  ],
+  "nearby_places": [
+    {
+      "name": "V+ g2 Vinhomes Greenbay Lương Thế Vinh",
+      "type": "Siêu Thị",
+      "distance_km": 0.09
+    },
+    {
+      "name": "K-Market Greenbay",
+      "type": "Siêu Thị",
+      "distance_km": 0.2
+    },
+    {
+      "name": "Vm+ G1 Vinhomes Green",
+      "type": "Siêu Thị",
+      "distance_km": 0.2
+    },
+    {
+      "name": "Vm+ lô01 ct2 đài phát thanh Mễ Trì",
+      "type": "Siêu Thị",
+      "distance_km": 0.49
+    },
+    {
+      "name": "Bệnh viện Y học Cổ truyền Bộ Công An",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.61
+    },
+    {
+      "name": "Trung tâm y khoa Quốc tế Việt Xuân",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.62
+    },
+    {
+      "name": "Vm+ Kiot03.04 CT1 khu nhà ở Trung Văn",
+      "type": "Siêu Thị",
+      "distance_km": 0.75
+    },
+    {
+      "name": "Trung tâm Hội nghị Quốc gia Việt Nam",
+      "type": "Trung Tâm Hội Nghị và Triển Lãm",
+      "distance_km": 0.77
+    },
+    {
+      "name": "Vm+ viglacera số1 đại lộ Thăng Long",
+      "type": "Siêu Thị",
+      "distance_km": 0.83
+    },
+    {
+      "name": "Vm+ 21-23 Mễ Trì Thượng",
+      "type": "Siêu Thị",
+      "distance_km": 0.86
+    }
+  ],
+  "image_count": 24,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313336.jpg?k=72d4d311801be79d53a1bb93cd6e1364f1e596ff11d91a9b1e824ed5b7d1a6e3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797555.jpg?k=ee7e9938255825a722e39c0d07f8d220bbce9806d38b0a96085fbe04516814dc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797325.jpg?k=d24583d1319b2e693de5db7eac81a732a32f556cc258611bedca98482367ac42&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313351.jpg?k=235810b374c4200f737c764dc54d1a3c4382e25c9199e6fdcf0f3abfbf5c4db7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313368.jpg?k=501fbe7bbef0620d57e0c69133f59e7df33ab016302362a74d6526c411370d84&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313286.jpg?k=3db7e557aaebe4ebe5f8e88c1d24628959aa99e689c6eb958ca94e7b302cbd1c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797329.jpg?k=bba0282efd117fd9a2c4fc9587e9d0fc512a39166f71cd139266bb6147491e4b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360452.jpg?k=c079a5f385ccb443428471f7566051feacb0bb9074a55b17c86821825aa7d4f7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313337.jpg?k=2e50f942ef335d63515e0cd6ac32b41d0b581cd82616b19393f325ca29b47465&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313339.jpg?k=308ad614c44f87d4c7634d2b1edcee846fe095199869802d2e3a0985fbb5510d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797320.jpg?k=76e2ff22f3d09f6290e2105e8ae4c089b50ad72738bbe6a1a6a43bffc9727d1c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313344.jpg?k=4e4dade432ae440b9666986116c6c98d29a1cd5a264ae11e9ef6226826a88d28&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313343.jpg?k=5a2251e419ecedb9eaecb212d1ceef4fc6035b4de2c93601fbec9c49646f689a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360453.jpg?k=a1504796e874e71779ec1f196a55fd718c8051021cf29737932ccbea5f721338&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313297.jpg?k=cda32995e61e9b67fdce2c37a0797db55211d8203d7304d399034c0405e489d5&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313369.jpg?k=518b244c2e5a38f67429b9919e0423c84467a697435ba6e2599ff576d8368e16&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313352.jpg?k=c161e9f1ebf4c6caf6827f99f12a0906100303ce051fc92d6d0b014081337222&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313355.jpg?k=db73ae7d985777d42ccec2ec9abdff5d815c918208ab1ea4b8cce1510412dafd&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313367.jpg?k=b0e59b6a9f59bf7be15ededebaa75dd2381767715971bb5ea9b6e5b2e2ee08ae&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313316.jpg?k=904c93e6f26450f7ff31ff2a86a6a4836318a330007960d9204c4001b3397b95&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313305.jpg?k=35e5451f302bfe48998d458c9f23262906f28babe0a26c4bdc065920b4e07a6f&o=",
+    "https://pix8.agoda.net/geo/poi/25432/31e27e15a609aafd4bec1cc538329520.jpg?ce=0&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+      "caption": "Giường",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313336.jpg?k=72d4d311801be79d53a1bb93cd6e1364f1e596ff11d91a9b1e824ed5b7d1a6e3&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797555.jpg?k=ee7e9938255825a722e39c0d07f8d220bbce9806d38b0a96085fbe04516814dc&o=",
+      "caption": "Nhà hàng",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797325.jpg?k=d24583d1319b2e693de5db7eac81a732a32f556cc258611bedca98482367ac42&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313351.jpg?k=235810b374c4200f737c764dc54d1a3c4382e25c9199e6fdcf0f3abfbf5c4db7&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313368.jpg?k=501fbe7bbef0620d57e0c69133f59e7df33ab016302362a74d6526c411370d84&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313286.jpg?k=3db7e557aaebe4ebe5f8e88c1d24628959aa99e689c6eb958ca94e7b302cbd1c&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797329.jpg?k=bba0282efd117fd9a2c4fc9587e9d0fc512a39166f71cd139266bb6147491e4b&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360452.jpg?k=c079a5f385ccb443428471f7566051feacb0bb9074a55b17c86821825aa7d4f7&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313337.jpg?k=2e50f942ef335d63515e0cd6ac32b41d0b581cd82616b19393f325ca29b47465&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313339.jpg?k=308ad614c44f87d4c7634d2b1edcee846fe095199869802d2e3a0985fbb5510d&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/871797320.jpg?k=76e2ff22f3d09f6290e2105e8ae4c089b50ad72738bbe6a1a6a43bffc9727d1c&o=",
+      "caption": "Vòi sen",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313344.jpg?k=4e4dade432ae440b9666986116c6c98d29a1cd5a264ae11e9ef6226826a88d28&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313343.jpg?k=5a2251e419ecedb9eaecb212d1ceef4fc6035b4de2c93601fbec9c49646f689a&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/866360453.jpg?k=a1504796e874e71779ec1f196a55fd718c8051021cf29737932ccbea5f721338&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313297.jpg?k=cda32995e61e9b67fdce2c37a0797db55211d8203d7304d399034c0405e489d5&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313369.jpg?k=518b244c2e5a38f67429b9919e0423c84467a697435ba6e2599ff576d8368e16&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313352.jpg?k=c161e9f1ebf4c6caf6827f99f12a0906100303ce051fc92d6d0b014081337222&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313355.jpg?k=db73ae7d985777d42ccec2ec9abdff5d815c918208ab1ea4b8cce1510412dafd&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313367.jpg?k=b0e59b6a9f59bf7be15ededebaa75dd2381767715971bb5ea9b6e5b2e2ee08ae&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313316.jpg?k=904c93e6f26450f7ff31ff2a86a6a4836318a330007960d9204c4001b3397b95&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/867313305.jpg?k=35e5451f302bfe48998d458c9f23262906f28babe0a26c4bdc065920b4e07a6f&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25432/31e27e15a609aafd4bec1cc538329520.jpg?ce=0&s=1024x768",
+      "caption": "Bao Tang Dan Toc Hoc - cách nơi ở 4.72 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Mỹ Đình",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/premium-cozy-apartment-near-marriott-hotel-and-landmark72-hanoi/hotel/all/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 1377639572,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "name_en": "(One-Bedroom Apartment)",
+        "room_size": "30 m²",
+        "size_sqm": 30.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Bồn tắm",
+          "Phòng tắm chung"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "30 m²",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bàn trang điểm phù hợp cho người khuyết tật",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bể bơi riêng",
+          "Bố trí và nội thất phòng",
+          "Bồn tắm tạo sóng",
+          "Bộ chuyển đổi nguồn",
+          "Cách âm",
+          "Căn hộ riêng trong tòa nhà",
+          "Cửa an toàn cho em bé",
+          "Dành cho trẻ em",
+          "Dịch vụ phát trực tuyến như netflix",
+          "Ghế cao cho trẻ con ngồi ăn",
+          "Ghế tắm",
+          "Giường cực dài",
+          "Giường gấp",
+          "Giải trí",
+          "Hướng núi",
+          "Khu vực tiếp khách",
+          "Khu vực ăn uống riêng",
+          "Không gian làm việc cho máy tính xách tay",
+          "Khả năng tiếp cận cho người khuyết tật",
+          "Ly rượu vang",
+          "Lò sưởi",
+          "Lò vi sóng",
+          "Lối vào hồ bơi",
+          "Lối đi riêng",
+          "Màn",
+          "Máy giặt",
+          "Máy lọc không khí",
+          "Máy pha trà cà phê",
+          "Máy rửa bát",
+          "Máy tính",
+          "Máy tính bảng trong phòng",
+          "Nhà vệ sinh cho người khuyết tật",
+          "Nhà vệ sinh phụ",
+          "Phòng thay đồ",
+          "Phòng tắm có lối đi thoai thoải",
+          "Phòng tắm dành cho người khuyết tật",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Phòng xông khô",
+          "Quần áo và giặt ủi",
+          "Rượu",
+          "Sàn gỗ miếng",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "Sách dvd nhạc cho trẻ em",
+          "Sưởi",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Thiết bị chơi điện tử",
+          "Thiết bị phát dữ liệu di động",
+          "Thiết bị điện thoại thông minh",
+          "Tiện nghi bể bơi",
+          "Tiện nghi cho em bé theo yêu cầu",
+          "Truyền hình cáp vệ tinh",
+          "Trái cây đồ ăn vặt",
+          "Trò chơi board game xếp hình",
+          "Trạm nối ipod",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Tủ lạnh",
+          "Ít gây dị ứng",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đài",
+          "Được vào phòng chờ thương gia",
+          "Đầu báo khí co",
+          "Đầu phát blu-ray",
+          "Đầu đĩa dvd cd",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 24,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/867313336.jpg?k=72d4d311801be79d53a1bb93cd6e1364f1e596ff11d91a9b1e824ed5b7d1a6e3&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/871797555.jpg?k=ee7e9938255825a722e39c0d07f8d220bbce9806d38b0a96085fbe04516814dc&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/871797325.jpg?k=d24583d1319b2e693de5db7eac81a732a32f556cc258611bedca98482367ac42&o="
+        ],
+        "review_score": null,
+        "price_per_night": 440000,
+        "original_price": 640000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1377639572,
+      "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+      "name_en": "(One-Bedroom Apartment)",
+      "room_size": "30 m²",
+      "size_sqm": 30.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Bồn tắm",
+        "Phòng tắm chung"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "30 m²",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bàn trang điểm phù hợp cho người khuyết tật",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bể bơi riêng",
+        "Bố trí và nội thất phòng",
+        "Bồn tắm tạo sóng",
+        "Bộ chuyển đổi nguồn",
+        "Cách âm",
+        "Căn hộ riêng trong tòa nhà",
+        "Cửa an toàn cho em bé",
+        "Dành cho trẻ em",
+        "Dịch vụ phát trực tuyến như netflix",
+        "Ghế cao cho trẻ con ngồi ăn",
+        "Ghế tắm",
+        "Giường cực dài",
+        "Giường gấp",
+        "Giải trí",
+        "Hướng núi",
+        "Khu vực tiếp khách",
+        "Khu vực ăn uống riêng",
+        "Không gian làm việc cho máy tính xách tay",
+        "Khả năng tiếp cận cho người khuyết tật",
+        "Ly rượu vang",
+        "Lò sưởi",
+        "Lò vi sóng",
+        "Lối vào hồ bơi",
+        "Lối đi riêng",
+        "Màn",
+        "Máy giặt",
+        "Máy lọc không khí",
+        "Máy pha trà cà phê",
+        "Máy rửa bát",
+        "Máy tính",
+        "Máy tính bảng trong phòng",
+        "Nhà vệ sinh cho người khuyết tật",
+        "Nhà vệ sinh phụ",
+        "Phòng thay đồ",
+        "Phòng tắm có lối đi thoai thoải",
+        "Phòng tắm dành cho người khuyết tật",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Phòng xông khô",
+        "Quần áo và giặt ủi",
+        "Rượu",
+        "Sàn gỗ miếng",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "Sách dvd nhạc cho trẻ em",
+        "Sưởi",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Thiết bị chơi điện tử",
+        "Thiết bị phát dữ liệu di động",
+        "Thiết bị điện thoại thông minh",
+        "Tiện nghi bể bơi",
+        "Tiện nghi cho em bé theo yêu cầu",
+        "Truyền hình cáp vệ tinh",
+        "Trái cây đồ ăn vặt",
+        "Trò chơi board game xếp hình",
+        "Trạm nối ipod",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Tủ lạnh",
+        "Ít gây dị ứng",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đài",
+        "Được vào phòng chờ thương gia",
+        "Đầu báo khí co",
+        "Đầu phát blu-ray",
+        "Đầu đĩa dvd cd",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 24,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/866360455.jpg?k=10049a1f191944e69c259b2ebbcd0f074e109309d9e57173b855dd935f4a09f1&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/867313336.jpg?k=72d4d311801be79d53a1bb93cd6e1364f1e596ff11d91a9b1e824ed5b7d1a6e3&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/871797555.jpg?k=ee7e9938255825a722e39c0d07f8d220bbce9806d38b0a96085fbe04516814dc&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/871797325.jpg?k=d24583d1319b2e693de5db7eac81a732a32f556cc258611bedca98482367ac42&o="
+      ],
+      "review_score": null,
+      "price_per_night": 440000,
+      "original_price": 640000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": "Với khu vườn, phòng chờ chung, cùng nhà hàng, Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi cung cấp chỗ nghỉ ở Hà Nội có Wi-Fi miễn phí và nhìn ra biển. Chỗ đậu xe riêng có sẵn trong khuôn viên.\n\nCăn hộ có 1 phòng ngủ, 1 phòng tắm, ga trải giường, khăn tắm, TV màn hình phẳng có truyền hình vệ tinh, khu vực ăn uống, bếp đầy đủ tiện nghi, cùng sân hiên nhìn ra thành phố. Để thuận tiện hơn cho khách, chỗ nghỉ có thể cung cấp khăn tắm và khăn trải giường với khoản phụ phí.\n\nThành thạo tiếng Anh, tiếng Tây Ban Nha, tiếng Pháp và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn sẵn lòng đưa ra thông tin hữu ích về khu vực xung quanh.\n\nCăn hộ có sân chơi trẻ em. Khuôn viên của Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi có sòng bạc và du khách có thể đi xe đạp ở khu vực gần đó.\n\nChỗ nghỉ cách Trung tâm thương mại Vincom Nguyễn Chí Thanh 4.5 km. Sân bay Quốc tế Nội Bài cách 28 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 0-17 tuổi [bao gồm cả bé 17 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 1377639572,
+        "name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Mỹ Đình của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1609858,
+      "title": "Xe Limousine Ghế Ngồi Hà Nội - Sapa bởi HK Buslines",
+      "description": "Di chuyển từ Hà Nội đến Sapa bằng xe limousine ghế ngồi hiện đại, mang đến hành trình thoải mái cho chuyến đi của bạn.\n\n- Miễn phí đón và trả khách tại khu vực Phố Cổ Hà Nội và trung tâm Sapa\n- Xe đượ",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 374692.0,
+                "crossedOut": 460876.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541889,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium",
+      "description": "Khám phá thế giới đại dương kỳ thú tại Vinpearl Aquarium và trải nghiệm hoạt động giáo dục thú vị tại VinKE trong trung tâm thương mại Vincom Mega Mall Times City.\n\n- Trẻ em có cơ hội tìm hiểu và thử",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 181101.0,
+                "crossedOut": 181101.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1267404,
+      "title": "Vé xem Múa rối nước Lotus tại Hà Nội",
+      "description": "Khám phá nghệ thuật múa rối nước tại Hà Nội, một loại hình nghệ thuật truyền thống độc đáo ra đời và phát triển từ hơn một ngàn năm trước tại vùng đồng bằng sông Hồng.\n\n- Chiêm ngưỡng những màn trình",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 81909.0,
+                "crossedOut": 100750.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541704,
+      "title": "Vé xem Múa rối nước Thăng Long",
+      "description": "Khám phá nghệ thuật múa rối nước Thăng Long, một truyền thống độc đáo với lịch sử 1.000 năm được trình diễn trên sân khấu nước sống động ngay tại Hà Nội.\n\n- Theo dõi các câu chuyện dân gian, truyền th",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 150026.0,
+                "crossedOut": 150026.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681394,
+      "title": "內排國際機場(HAN) | Terminal 1 | Vietnam Airlines Lotus Lounge | 貴賓室服務",
+      "description": "位置：安檢後大堂C二樓，護照及安全檢查後前往大堂D，三樓右側\n設施亮點：提供WiFi、小食、茶水及飲料，還有電視和報刊雜誌\n營業時間：每日04:00-23:00，提供長達120分鐘的使用時間\n兒童政策：2歲以下兒童免費入內\n注意事項：預計於2025年5月12日重新開放，",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 456037.0,
+                "crossedOut": 601632.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1092992,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium Times City, Hà Nội",
+      "description": "Khám phá VinKE và Thủy cung Vinpearl tại Vincom Mega Mall Times City, điểm đến lý tưởng cho các gia đình và trẻ nhỏ tại Hà Nội.\n\n- Trải nghiệm thế giới nghề nghiệp mơ ước thông qua các trò chơi hướng",
+      "review_score": 4.3,
+      "review_count": 16,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 190100.0,
+                "crossedOut": 190100.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1089184,
+      "title": "Noi Bai Airport Transfer to Hanoi Hotel or Vice Versa",
+      "description": "Travel between Noi Bai Airport and your hotel in Hanoi with a professional driver and a clean, modern vehicle.\n\n- Fleet of newest generation, air-conditioned vehicles\n- English-speaking drivers availa",
+      "review_score": 5.0,
+      "review_count": 171,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 216693.0,
+                "crossedOut": 263296.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1486418,
+      "title": "Viettel Vietnam SIM/eSIM | 5GB/Day | 10 Days",
+      "description": "Stay connected throughout your journey with a Viettel SIM or eSIM for Vietnam, featuring 5GB of high-speed data per day for 10 days.\n\n- 4G/5G coverage available nationwide\n- Physical SIM pickup availa",
+      "review_score": 4.9,
+      "review_count": 60,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 163857.0,
+                "crossedOut": 209268.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1198574,
+      "title": "Halong Bay Day Cruise with Buffet Lunch - Diamond Era",
+      "description": "Explore the breathtaking beauty of Halong Bay aboard the Diamond Era, a cruise featuring an elegant, modern design. This 6-hour \"Route 2\" itinerary allows you to discover the wonders of this world her",
+      "review_score": 4.9,
+      "review_count": 1902,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 926382.0,
+                "crossedOut": 1263823.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681393,
+      "title": "內排國際機場(HAN) | Terminal 2 | ACV Lounge | 貴賓室服務",
+      "description": "位置：位於內排國際機場國際航站樓4樓，靠近31號登機口。\n設施亮點：提供淋浴間、熱食冷食自助吧、按摩椅及充電設備。\n營業時間：每天06:00至最晚航班。\n使用時間限制：每位客戶最多可享用180分鐘服務。\n家庭政策：2歲及以下兒童免費進入。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 876133.0,
+                "crossedOut": 1033175.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [
+    "Hướng Núi"
+  ],
+  "tags": [
+    "Bàn tiếp tân [24 giờ]",
+    "Câu lạc bộ đêm",
+    "Dọn phòng hằng ngày",
+    "Hướng Núi",
+    "Quán bar",
+    "Thích hợp cho các hoạt động",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Đưa đón sân bay"
+  ],
+  "embedding_text": "Premium Cozy Apartment Near Marriott Hotel and Landmark72 Hanoi - khách sạn 2.5 sao tại Hà Nội.\nĐịa chỉ: G3 Vinhomes Green Bay, 400 Luong The Vinh Street, Dai Mo, Ha Noi, Mỹ Đình, Hà Nội, Việt Nam.\nNằm ở vị trí trung tâm tại Mỹ Đình của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Bàn là, Bàn/không gian làm việc, Bãi đỗ xe [tại chỗ], Bình chữa cháy, Bình nóng lạnh, Bảo vệ [24 giờ], Bếp, Bể bơi, Bồn tắm, Cà phê hoặc trà, Các loại khăn, Câu lạc bộ đêm, Dọn phòng hằng ngày, Lò sưởi trong nhà, Lối đi riêng, Máy giặt, Máy sấy tóc, Phòng tập, Phù hợp cho xe lăn, Quán bar, Quạt, TV, Thang máy, Tiếng Anh, Trung Quốc [Quan Thoại], Truyền hình cáp, Tủ quần áo, Vải trải giường, Vật dụng tắm rửa, Wi-Fi miễn phí trong tất cả các phòng!.\nCác loại phòng: Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment).\nGần: V+ g2 Vinhomes Greenbay Lương Thế Vinh, K-Market Greenbay, Vm+ G1 Vinhomes Green, Vm+ lô01 ct2 đài phát thanh Mễ Trì, Bệnh viện Y học Cổ truyền Bộ Công An, Trung tâm y khoa Quốc tế Việt Xuân.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

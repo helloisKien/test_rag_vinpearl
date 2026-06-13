@@ -1,0 +1,53 @@
+# ontology/_meta.yaml — Registry & quy ước chung cho toàn bộ ontology DA10
+# Owner: Trương Anh Long (Knowledge Engineering). Task 1.2 (refactor v2) — Sprint 1.
+#
+# Đây là NGUỒN SỰ THẬT về cấu trúc; mỗi facet là 1 file trong core/.
+# Đọc file này trước để hiểu các trường bắt buộc của một concept.
+
+version: "2.0.0"
+
+# -----------------------------------------------------------------------------
+# FACET REGISTRY — mỗi facet ánh xạ 1 file core/<file> và (nếu có) 1 slot của DA09.
+# fact_type mặc định của facet: hard = sự thật/presence; soft = trải nghiệm/opinion.
+# -----------------------------------------------------------------------------
+facets:
+  object_type: {file: core/object_type.yaml, default_fact_type: hard, da09_slot: accommodation_type, cardinality: one}
+  location:    {file: core/location.yaml,    default_fact_type: hard, da09_slot: destination,        cardinality: one}
+  amenity:     {file: core/amenity.yaml,     default_fact_type: hard, da09_slot: amenity,            cardinality: many}
+  setting:     {file: core/setting.yaml,     default_fact_type: hard, da09_slot: null,               cardinality: many}
+  price_tier:  {file: core/price_tier.yaml,  default_fact_type: hard, da09_slot: budget,             cardinality: one}
+  purpose:     {file: core/purpose.yaml,     default_fact_type: soft, da09_slot: audience,           cardinality: many}
+  style:       {file: core/style.yaml,       default_fact_type: soft, da09_slot: null,               cardinality: many}
+  aspect:      {file: core/aspect.yaml,      default_fact_type: soft, da09_slot: null,               cardinality: many}
+
+# -----------------------------------------------------------------------------
+# HỢP ĐỒNG SCHEMA cho 1 concept (mọi file trong core/ tuân theo).
+# -----------------------------------------------------------------------------
+concept_schema:
+  required: [facet, fact_type, tier, label, description]
+  fields:
+    facet:        "1 trong facets ở trên"
+    fact_type:    "hard | soft. hard = có/không (structured data). soft = từ review/opinion (cần sentiment)."
+    tier:         "core | candidate. File trong core/ luôn = core. Candidate ở candidate/."
+    provenance:   "list nguồn định nghĩa Core: [domain_knowledge, agoda, booking, google_hotels, tripadvisor]"
+    label:        "{vi, en} — NHÃN ĐẠI DIỆN DUY NHẤT (1 chuỗi/ngôn ngữ). KHÔNG để synonym ở đây."
+    surface_forms: "{vi: [...], en: [...]} — các cách gõ bề mặt. build_synonym_index.py SINH synonym_dictionary từ đây."
+    description:  "{vi, en} — mô tả ngắn."
+    broader:      "concept_id cha (tùy chọn)"
+    narrower:     "[concept_id con] (tùy chọn)"
+    related:      "[concept_id liên quan] (tùy chọn)"
+
+# -----------------------------------------------------------------------------
+# QUY ƯỚC Core vs Candidate (Phần 0.5 DA10 — BA THỨ TÁCH BIỆT).
+# -----------------------------------------------------------------------------
+tiers:
+  core:
+    description: "Ổn định, dùng ngay. Định nghĩa từ DOMAIN KNOWLEDGE chuẩn ngành: Agoda, Booking, Google Hotels, Tripadvisor."
+    change_policy: "Chỉ đổi qua human review + chạy lại golden set (tốt hơn mới merge)."
+  candidate:
+    description: "Ứng viên. Định nghĩa từ review, faq, article, query log. CHƯA dùng cho retrieval."
+    file: candidate/candidate_queue.yaml
+    promotion: "candidate -> core khi: human duyệt + golden set không giảm chỉ số."
+
+# Prefix ID theo facet (giữ nguyên để tra cứu nhanh):
+# OBJ_ / LOC_ / AMEN_ / SETTING_ / PRICE_ / PURPOSE_ / STYLE_ / ASPECT_

@@ -1,0 +1,1554 @@
+{
+  "crawled_at": "2026-06-04T13:03:50",
+  "source_url": "https://www.agoda.com/mercure-hoi-an-royal_6/hotel/hoi-an-vn.html?hotel=70417406&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 70417406,
+  "name": "Mercure Hoi An",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 4.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "321 Cua Dai street, Cẩm Châu, tp. Hội An, Quảng Nam 051000, Vietnam, Cẩm Châu, Hội An, Việt Nam",
+  "area": "Cẩm Châu",
+  "city": "Hội An",
+  "country": "Việt Nam",
+  "postal_code": "051000",
+  "latitude": 15.881889343261719,
+  "longitude": 108.34545135498047,
+  "description": "This establishment offers a total of 116 guest rooms. The establishment's common areas include Wi-Fi internet connection. The front desk offers 24-hour reception. Communal areas are wheelchair accessible at this hotel. The Saga Hotel Hoi An provides parking for guests' convenience. Delegates may wish to hold a meeting at this establishment ideal for business trips. Everyone staying at this accommodation will revel in dishes served at its gastronomic options. Travellers may choose to pamper themselves at the health facilities available at the hotel. Some services may be payable.",
+  "check_in_from": null,
+  "check_out_until": null,
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {},
+  "highlights": [
+    "Tọa lạc tại trung tâm Hội An",
+    "Dọn phòng hằng ngày",
+    "Tủ lạnh nhỏ trong phòng",
+    "Rèm che ánh sáng",
+    "Ban công/sân hiên"
+  ],
+  "location_tags": [
+    "An Bang Beach",
+    "Ban công/sân hiên",
+    "Cua Dai Beach",
+    "Cách trung tâm TP. 150 m",
+    "Dọn phòng hằng ngày",
+    "Hoi An Ancient Town",
+    "Japanese Covered Bridge",
+    "Rèm che ánh sáng",
+    "Tọa lạc tại trung tâm Hội An",
+    "Tủ lạnh nhỏ trong phòng"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Bàn tiếp tân 24 giờ",
+    "Bảo vệ 24 giờ",
+    "Bệnh xá",
+    "Cửa hàng",
+    "Dịch vụ giặt là",
+    "Dịch vụ phòng",
+    "Dịch vụ trông trẻ",
+    "Dọn phòng hằng ngày",
+    "Giữ hành lý",
+    "Nhân viên trực cửa",
+    "Phù hợp cho xe lăn",
+    "Thang máy",
+    "Thuê xe đạp",
+    "Thích hợp cho gia đình trẻ em",
+    "Tiện nghi nấu nướng ngoài trời",
+    "Tọa lạc tại trung tâm hội an",
+    "WiFi",
+    "Ô tô cho thuê",
+    "Đổi ngoại tệ",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_count": 25,
+  "amenity_groups": {
+    "Khả năng tiếp cận cho người khuyết tật": [
+      "Phù hợp cho xe lăn"
+    ],
+    "Truy cập Internet": [
+      "WiFi"
+    ],
+    "Ăn uống": [
+      "Dịch vụ phòng",
+      "Tiện nghi nấu nướng ngoài trời"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Bệnh xá",
+      "Cửa hàng",
+      "Dịch vụ giặt là",
+      "Giữ hành lý",
+      "Nhân viên trực cửa",
+      "Thang máy",
+      "Đổi ngoại tệ"
+    ],
+    "Dành cho trẻ em": [
+      "Dịch vụ trông trẻ",
+      "Thích hợp cho gia đình trẻ em"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bàn tiếp tân 24 giờ",
+      "Bảo vệ 24 giờ"
+    ],
+    "Đi lại": [
+      "Ô tô cho thuê",
+      "Đỗ xe tại chỗ"
+    ],
+    "Cho thuê dụng cụ thể thao": [
+      "Thuê xe đạp"
+    ]
+  },
+  "amenities_general": [
+    "Bàn tiếp tân 24 giờ",
+    "Bảo vệ 24 giờ",
+    "Bệnh xá",
+    "Cửa hàng",
+    "Dịch vụ giặt là",
+    "Dịch vụ trông trẻ",
+    "Giữ hành lý",
+    "Nhân viên trực cửa",
+    "Phù hợp cho xe lăn",
+    "Thang máy",
+    "Thích hợp cho gia đình trẻ em",
+    "WiFi",
+    "Ô tô cho thuê",
+    "Đổi ngoại tệ",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_leisure": [
+    "Thuê xe đạp"
+  ],
+  "amenities_dining": [
+    "Dịch vụ phòng",
+    "Tiện nghi nấu nướng ngoài trời"
+  ],
+  "nearby_places": [
+    {
+      "name": "Việt Huệ",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.01
+    },
+    {
+      "name": "Sarah's Boutique",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.03
+    },
+    {
+      "name": "Chợ",
+      "type": "Siêu Thị",
+      "distance_km": 0.46
+    },
+    {
+      "name": "Cửa hàng Bầu Trời Đỏ",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.46
+    },
+    {
+      "name": "Aum Yoga Việt Nam",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.5
+    },
+    {
+      "name": "Thời trang nam nữ Ngân Châu",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.51
+    },
+    {
+      "name": "Spa Hội An - Na Spa & Beauty",
+      "type": "Spa",
+      "distance_km": 0.51
+    },
+    {
+      "name": "Bingboong Shop",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.52
+    },
+    {
+      "name": "Nhà may Yên Dung",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.53
+    },
+    {
+      "name": "Đảo Thuận Tình",
+      "type": "Đảo",
+      "distance_km": 0.63
+    }
+  ],
+  "image_count": 129,
+  "image_urls": [
+    "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0b90d4591ccc9a753287df5957cde300.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/75af6cd9d4ea5943e835443d0602e553.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5da450b39b1776816dd028ab2198eb0b.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/53b20a8b4365f4c096462c98da2cddb9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a585f62cea8a97e8fc50010bef7e5761.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c20d67f5f9d3a5a0093b64738df03eeb.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/23f00ee53bfa01d684061e8a6f1c2907.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/75235bba3de4f2d6a7edbbac7277a3f9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/69d16f3a528b35ae02af045926634424.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a8debf00dbbed57d98ccc12498478131.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/afc0eb21dcc06e03c40b16a75d4032a0.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/cfb3cbaf073d39b2b84483645dcdcb58.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1a6758d140ab189dd0b57305d6c03851.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ac53efab27d9b48668c4f5c7eaafe7dd.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/09341138bd0c174904bd93ecb2ca1b32.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/15ad037c1b2e63823a29d0a4f0d9d41e.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/8ca5ebcc9af252e18ff3d22ba2e2bd04.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/8ff8a302db298c0b95c8dd515e77ff4a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/dcf926c9f038dce2903b219269ce2154.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ea32bffeb8693863a99c32f61b2cf0f7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5e92f3ae6667dbe59cb905c7715728e3.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0d6f7657af2089235ab48648295532c8.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/940ee45b4b44a9ad0cc3a9abc1853725.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/aa161bee40a6d1a081268a6fc2f7a009.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/716e23804a3bbda9d76adba800a79f26.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b5bbe749f5ca6ac125ae4117986293c2.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/6cc8a65c05ea36b1e5888125642657ce.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c52253dfe05eb7468060bf15a9baa8eb.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/30259169ae861b6f5f2c2e0db4b073ad.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/da662766cef15882e4bb47028f58e43d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/4194043d3a59501f2fe2a41a1f47a533.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b066cdc18963b83d69e4dca145887f48.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/852dc05d3737d44193945eb8bb3613a8.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0e1297072c00be9c5ff6e8c5a8caa4bf.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a92056a46c531f2e1e33f182082edb5f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/683e3298a31286e6ffb1e502d94e788d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ad7f5a1d0f491d6487a674147dc60058.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/524b8bc98f397f59372b6e1213202392.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d3b1d9c3115aed6dc9ddb0e5afe79e21.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/582011698fdd040c91de43cab9c013cd.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c37f3920d2bfaba0d7e40653bb70f7b5.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/24df609709c76f4932586d6291f99595.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c124b4bdb21c0b68e61555093fe4f3bd.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/73f185695285f5b899f7f3d3dd59688d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/7864c6c2456e0797d88cebd310756076.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/adf6a040e7d9e4047010266d3071d49f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/cead47c64259f32e4e1359fa7484c518.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b6cbb02e21c30640ab159b525efa8cd8.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1803d89c787bb51c617ebad1247ad942.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/f4cd03c364e418fb6a59064a22072a53.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/7cb4ad95fef87056ec0502e0e2a5319c.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/6751c0156fd7bd6862c6aad5a6fd4fc7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/f1ee93164020688f67a8f7a90c81dcdd.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/00c0d876a4441ddcc31b50ec6da34711.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/bd702689f9ac0b496eb77bc0ccd1ebe8.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/36cc7cb7b9fa7f36dc5e43152d0e143f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/888d46110891cb5640ac1911664bfced.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d7423a1a5941753271b75ae205165a37.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/2fe2e8a827def13f5b9c9a6e9779b76a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/2eed6ac3dd2f9998c3efebc614a72e06.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1d242d64a815463596bcd6182945bcff.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/e9d41550274a134893584d0c85846136.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/edab51e876e4ce7f2e21ffe60b4fb795.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d63eaec50a63f2b3516981ad8d1bf3ce.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d2b124dc09c0134c343c368f219faa54.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b8c04a54c7d9e56b458f38f5b79451de.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5f8c3ebc4895acbd6f650698a85927b1.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a2ce5bf72a800964c5339e2570e5bfcc.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b22e6213dee8baaabed2283a7f589bed.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5845df7503fc2a31d66cc7433215fb17.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/9badbe8f44c381c0825ce5b208e0fa74.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/8613f538c7f57f871ca7ed25aedaa7e6.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/51e8eb9e9f6785e28206d5a82dcf835a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/9ff91e84e6ec915fc7a32d4f702fd8ea.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/70107236b6f0482f731ca0b778f3ce79.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d70fcb9707be96c40d6d74a8dc4ec592.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/2de52240483c0222a0915bfc2b7eeaf9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ee700e0c88d4131ac877b22eb757e45a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1bb95603406b439cabd6569a5a7513d5.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b8d982ccc8b2da36debf470df6260851.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/bc91269774746a362a849e475d2eae2d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a9180fe77a5d7a8fb9444f0e96002c56.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b69f7c92e1bea209662ec5ff8392851d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/d4ea7e396c7433eef9879cb6e7f442a7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/93f9c417d995deb588598c2dab66214d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/3d581faf0779b41445edbc909383475e.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5dd4158b4d90e75e3a3a09307c687c2c.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/6df4871bd220eca206051ce194f3f88b.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c13800df6dde4fd4ba00f41fede7b1ee.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1c796f707cc9c976b316dad32b694209.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/3b81b3d4668acc0929a9af595582b724.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/dc93a6c16155136239981673cff4a4b0.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/8dbfabfda5e53ca3dc49231bd99feed9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/30285df1fc82fbda5d0b8ef6068e31cf.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/2246a8170add39c106cee899c20b153c.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b6f4a3042d003421d40e1fccc6071049.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ed30d01928290a095edf695991bdca0e.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b3490921496d5fa808358e1df355d5f1.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/716dc35b9434dda94d28b6a6098382a7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/1508003d294896bbe0bca25b469ae714.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/add8a99072db7546c7b214601db9ffdc.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b9876a4865698f4011baeff8c6c8e73f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/b1883fb06531ef976bba3a2598bfc5f9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/f04f0fe393cc98fc5f9a83499eca489f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5e96a24e76e81a372efe1556b06ff2d2.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/25d32b3df25e82c9f801a066bfe7c2c7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/5b2bd9cb5d064708f0b654b0934132d7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/7cfbcf438722442c1929b427b618f51d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/ad956a755617fe98d79f3878627ad5dc.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/122124765586e15457259a56a3f295c6.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/f722d2f50c5af2b5ebdd96ddbf196a88.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0eab9d09cffb8d6a8a56d8a9adb3df3a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/dcc162883eef10aaf209fc9ba634cfdc.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/c8ce5b7e286d76fd97efffc957a4e70b.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/02928ac079fff22b97f4aae73521e9d0.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/f2d1ceed58ae2cd186b6f9ec00c1b3d5.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/16248be72c2c703e12cefdca11aecc86.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/7b8e6ce9c4193ec01967f4fdeae76417.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0b23cc03cfa415d48d9f9465695415b7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/235ad0f0d20c9cb2014d78e08fde5b69.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/0664bb90655887d204dc30a3306cb882.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/a72fcbeff436e14d271b5c0c8dff9d9d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70417406/0/884363446076246bc1372bd8922582c7.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/1519079/6348b83d296b479f9e9a3fa3e62b00c8.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/222527/2_222527.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/52252/2_52252.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24368/2_24368_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/88362/2_88362_04.jpg?ca=7&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0b90d4591ccc9a753287df5957cde300.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/75af6cd9d4ea5943e835443d0602e553.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5da450b39b1776816dd028ab2198eb0b.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/53b20a8b4365f4c096462c98da2cddb9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a585f62cea8a97e8fc50010bef7e5761.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c20d67f5f9d3a5a0093b64738df03eeb.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/23f00ee53bfa01d684061e8a6f1c2907.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/75235bba3de4f2d6a7edbbac7277a3f9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/69d16f3a528b35ae02af045926634424.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a8debf00dbbed57d98ccc12498478131.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/afc0eb21dcc06e03c40b16a75d4032a0.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/cfb3cbaf073d39b2b84483645dcdcb58.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1a6758d140ab189dd0b57305d6c03851.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ac53efab27d9b48668c4f5c7eaafe7dd.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/09341138bd0c174904bd93ecb2ca1b32.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/15ad037c1b2e63823a29d0a4f0d9d41e.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/8ca5ebcc9af252e18ff3d22ba2e2bd04.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/8ff8a302db298c0b95c8dd515e77ff4a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/dcf926c9f038dce2903b219269ce2154.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ea32bffeb8693863a99c32f61b2cf0f7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5e92f3ae6667dbe59cb905c7715728e3.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0d6f7657af2089235ab48648295532c8.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/940ee45b4b44a9ad0cc3a9abc1853725.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/aa161bee40a6d1a081268a6fc2f7a009.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/716e23804a3bbda9d76adba800a79f26.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b5bbe749f5ca6ac125ae4117986293c2.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/6cc8a65c05ea36b1e5888125642657ce.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c52253dfe05eb7468060bf15a9baa8eb.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/30259169ae861b6f5f2c2e0db4b073ad.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/da662766cef15882e4bb47028f58e43d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/4194043d3a59501f2fe2a41a1f47a533.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b066cdc18963b83d69e4dca145887f48.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/852dc05d3737d44193945eb8bb3613a8.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0e1297072c00be9c5ff6e8c5a8caa4bf.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a92056a46c531f2e1e33f182082edb5f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/683e3298a31286e6ffb1e502d94e788d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ad7f5a1d0f491d6487a674147dc60058.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/524b8bc98f397f59372b6e1213202392.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d3b1d9c3115aed6dc9ddb0e5afe79e21.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/582011698fdd040c91de43cab9c013cd.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c37f3920d2bfaba0d7e40653bb70f7b5.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/24df609709c76f4932586d6291f99595.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c124b4bdb21c0b68e61555093fe4f3bd.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/73f185695285f5b899f7f3d3dd59688d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/7864c6c2456e0797d88cebd310756076.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/adf6a040e7d9e4047010266d3071d49f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/cead47c64259f32e4e1359fa7484c518.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b6cbb02e21c30640ab159b525efa8cd8.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1803d89c787bb51c617ebad1247ad942.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/f4cd03c364e418fb6a59064a22072a53.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/7cb4ad95fef87056ec0502e0e2a5319c.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/6751c0156fd7bd6862c6aad5a6fd4fc7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/f1ee93164020688f67a8f7a90c81dcdd.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/00c0d876a4441ddcc31b50ec6da34711.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/bd702689f9ac0b496eb77bc0ccd1ebe8.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/36cc7cb7b9fa7f36dc5e43152d0e143f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/888d46110891cb5640ac1911664bfced.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d7423a1a5941753271b75ae205165a37.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/2fe2e8a827def13f5b9c9a6e9779b76a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/2eed6ac3dd2f9998c3efebc614a72e06.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1d242d64a815463596bcd6182945bcff.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/e9d41550274a134893584d0c85846136.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/edab51e876e4ce7f2e21ffe60b4fb795.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d63eaec50a63f2b3516981ad8d1bf3ce.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d2b124dc09c0134c343c368f219faa54.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b8c04a54c7d9e56b458f38f5b79451de.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5f8c3ebc4895acbd6f650698a85927b1.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a2ce5bf72a800964c5339e2570e5bfcc.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b22e6213dee8baaabed2283a7f589bed.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5845df7503fc2a31d66cc7433215fb17.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/9badbe8f44c381c0825ce5b208e0fa74.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/8613f538c7f57f871ca7ed25aedaa7e6.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/51e8eb9e9f6785e28206d5a82dcf835a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/9ff91e84e6ec915fc7a32d4f702fd8ea.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/70107236b6f0482f731ca0b778f3ce79.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d70fcb9707be96c40d6d74a8dc4ec592.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/2de52240483c0222a0915bfc2b7eeaf9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ee700e0c88d4131ac877b22eb757e45a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1bb95603406b439cabd6569a5a7513d5.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b8d982ccc8b2da36debf470df6260851.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/bc91269774746a362a849e475d2eae2d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a9180fe77a5d7a8fb9444f0e96002c56.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b69f7c92e1bea209662ec5ff8392851d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/d4ea7e396c7433eef9879cb6e7f442a7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/93f9c417d995deb588598c2dab66214d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/3d581faf0779b41445edbc909383475e.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5dd4158b4d90e75e3a3a09307c687c2c.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/6df4871bd220eca206051ce194f3f88b.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c13800df6dde4fd4ba00f41fede7b1ee.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1c796f707cc9c976b316dad32b694209.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/3b81b3d4668acc0929a9af595582b724.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/dc93a6c16155136239981673cff4a4b0.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/8dbfabfda5e53ca3dc49231bd99feed9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/30285df1fc82fbda5d0b8ef6068e31cf.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/2246a8170add39c106cee899c20b153c.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b6f4a3042d003421d40e1fccc6071049.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ed30d01928290a095edf695991bdca0e.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b3490921496d5fa808358e1df355d5f1.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/716dc35b9434dda94d28b6a6098382a7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/1508003d294896bbe0bca25b469ae714.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/add8a99072db7546c7b214601db9ffdc.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b9876a4865698f4011baeff8c6c8e73f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/b1883fb06531ef976bba3a2598bfc5f9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/f04f0fe393cc98fc5f9a83499eca489f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5e96a24e76e81a372efe1556b06ff2d2.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/25d32b3df25e82c9f801a066bfe7c2c7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/5b2bd9cb5d064708f0b654b0934132d7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/7cfbcf438722442c1929b427b618f51d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/ad956a755617fe98d79f3878627ad5dc.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/122124765586e15457259a56a3f295c6.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/f722d2f50c5af2b5ebdd96ddbf196a88.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0eab9d09cffb8d6a8a56d8a9adb3df3a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/dcc162883eef10aaf209fc9ba634cfdc.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/c8ce5b7e286d76fd97efffc957a4e70b.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/02928ac079fff22b97f4aae73521e9d0.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/f2d1ceed58ae2cd186b6f9ec00c1b3d5.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/16248be72c2c703e12cefdca11aecc86.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/7b8e6ce9c4193ec01967f4fdeae76417.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0b23cc03cfa415d48d9f9465695415b7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/235ad0f0d20c9cb2014d78e08fde5b69.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/0664bb90655887d204dc30a3306cb882.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/a72fcbeff436e14d271b5c0c8dff9d9d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70417406/0/884363446076246bc1372bd8922582c7.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/1519079/6348b83d296b479f9e9a3fa3e62b00c8.jpg?ce=0&s=1024x768",
+      "caption": "Chợ trung tâm - cách nơi ở 1.57 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/222527/2_222527.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hội quán Phước Kiến - cách nơi ở 1.61 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/52252/2_52252.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Đền Quan Công - cách nơi ở 1.63 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24368/2_24368_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Phố cổ Hội An - cách nơi ở 1.83 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/88362/2_88362_04.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Hội quán Quảng Đông - cách nơi ở 2.06 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Cẩm Châu",
+  "province": "Hội An",
+  "city_id": 16552,
+  "property_page": "/mercure-hoi-an-royal_6/hotel/hoi-an-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 10,
+    "rooms": [
+      {
+        "room_type_id": 349291911,
+        "name": "DOUBLE SUPERIOR 1 KING BED (DOUBLE Superior 1 King Bed)",
+        "name_en": "(DOUBLE Superior 1 King Bed)",
+        "room_size": "28 m²",
+        "size_sqm": 28.0,
+        "max_occupancy": 5,
+        "max_occupancy_text": "Tối đa 5 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "28 m²"
+        ],
+        "image_count": 2,
+        "images": [
+          "https://pix8.agoda.net/property/25358837/349291911/91315a92dc08649a0f9404889a57a8f2.jpg?ca=23&ce=0&s=800x600",
+          "https://pix8.agoda.net/property/25358837/349291911/7f6ba7fe3873cd338e12763981beb2bb.jpg?ca=19&ce=1&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1720000,
+        "original_price": 2200000
+      },
+      {
+        "room_type_id": 349291936,
+        "name": "DOUBLE STANDARD 1 KING BED",
+        "name_en": null,
+        "room_size": "24 m²",
+        "size_sqm": 24.0,
+        "max_occupancy": 5,
+        "max_occupancy_text": "Tối đa 5 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "24 m²"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/25358837/349291936/5b9a090357796715e4383b253ca9b395.jpg?ca=23&ce=0&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1330000,
+        "original_price": 1860000
+      },
+      {
+        "room_type_id": 164950980,
+        "name": "Phòng Superior (Superior)",
+        "name_en": "(Superior)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1850000,
+        "original_price": 2490000
+      },
+      {
+        "room_type_id": 368011866,
+        "name": "Phòng Đơn (Single Room)",
+        "name_en": "(Single Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1850000,
+        "original_price": 2800000
+      },
+      {
+        "room_type_id": 424539181,
+        "name": "SUITE SOFA BED WATER VIEW",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 3000000,
+        "original_price": 5140000
+      },
+      {
+        "room_type_id": 402863645,
+        "name": "DELUXE TRIPLE ROOM FOR NON-SMOKERS",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 2400000,
+        "original_price": 3640000
+      },
+      {
+        "room_type_id": 368011844,
+        "name": "Suite Junior có Giường cỡ King (Junior Suite King Bed)",
+        "name_en": "(Junior Suite King Bed)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 3000000,
+        "original_price": 5300000
+      },
+      {
+        "room_type_id": 368011834,
+        "name": "Phòng đôi có giường King (Double Room King Bed)",
+        "name_en": "(Double Room King Bed)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1850000,
+        "original_price": 3110000
+      },
+      {
+        "room_type_id": 164951144,
+        "name": "Phòng giường đôi (Double Bed)",
+        "name_en": "(Double Bed)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1850000,
+        "original_price": 2720000
+      },
+      {
+        "room_type_id": 232529774,
+        "name": "Phòng Loại Sang (Deluxe)",
+        "name_en": "(Deluxe)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 2400000,
+        "original_price": 3960000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 349291911,
+      "name": "DOUBLE SUPERIOR 1 KING BED (DOUBLE Superior 1 King Bed)",
+      "name_en": "(DOUBLE Superior 1 King Bed)",
+      "room_size": "28 m²",
+      "size_sqm": 28.0,
+      "max_occupancy": 5,
+      "max_occupancy_text": "Tối đa 5 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "28 m²"
+      ],
+      "image_count": 2,
+      "images": [
+        "https://pix8.agoda.net/property/25358837/349291911/91315a92dc08649a0f9404889a57a8f2.jpg?ca=23&ce=0&s=800x600",
+        "https://pix8.agoda.net/property/25358837/349291911/7f6ba7fe3873cd338e12763981beb2bb.jpg?ca=19&ce=1&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1720000,
+      "original_price": 2200000
+    },
+    {
+      "room_type_id": 349291936,
+      "name": "DOUBLE STANDARD 1 KING BED",
+      "name_en": null,
+      "room_size": "24 m²",
+      "size_sqm": 24.0,
+      "max_occupancy": 5,
+      "max_occupancy_text": "Tối đa 5 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "24 m²"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/25358837/349291936/5b9a090357796715e4383b253ca9b395.jpg?ca=23&ce=0&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1330000,
+      "original_price": 1860000
+    },
+    {
+      "room_type_id": 164950980,
+      "name": "Phòng Superior (Superior)",
+      "name_en": "(Superior)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1850000,
+      "original_price": 2490000
+    },
+    {
+      "room_type_id": 368011866,
+      "name": "Phòng Đơn (Single Room)",
+      "name_en": "(Single Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1850000,
+      "original_price": 2800000
+    },
+    {
+      "room_type_id": 424539181,
+      "name": "SUITE SOFA BED WATER VIEW",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 3000000,
+      "original_price": 5140000
+    },
+    {
+      "room_type_id": 402863645,
+      "name": "DELUXE TRIPLE ROOM FOR NON-SMOKERS",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 2400000,
+      "original_price": 3640000
+    },
+    {
+      "room_type_id": 368011844,
+      "name": "Suite Junior có Giường cỡ King (Junior Suite King Bed)",
+      "name_en": "(Junior Suite King Bed)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 3000000,
+      "original_price": 5300000
+    },
+    {
+      "room_type_id": 368011834,
+      "name": "Phòng đôi có giường King (Double Room King Bed)",
+      "name_en": "(Double Room King Bed)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1850000,
+      "original_price": 3110000
+    },
+    {
+      "room_type_id": 164951144,
+      "name": "Phòng giường đôi (Double Bed)",
+      "name_en": "(Double Bed)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1850000,
+      "original_price": 2720000
+    },
+    {
+      "room_type_id": 232529774,
+      "name": "Phòng Loại Sang (Deluxe)",
+      "name_en": "(Deluxe)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70417406/0/4b6e1837aa85ce6a918537d4a589b240.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 2400000,
+      "original_price": 3960000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": "This establishment offers a total of 116 guest rooms. The establishment's common areas include Wi-Fi internet connection. The front desk offers 24-hour reception. Communal areas are wheelchair accessible at this hotel. The Saga Hotel Hoi An provides parking for guests' convenience. Delegates may wish to hold a meeting at this establishment ideal for business trips. Everyone staying at this accommodation will revel in dishes served at its gastronomic options. Travellers may choose to pamper themselves at the health facilities available at the hotel. Some services may be payable.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 10,
+    "dateless_rooms": [
+      {
+        "room_id": 349291911,
+        "name": "DOUBLE SUPERIOR 1 KING BED (DOUBLE Superior 1 King Bed)",
+        "features": [],
+        "image_count": 2,
+        "bed_summary": null
+      },
+      {
+        "room_id": 349291936,
+        "name": "DOUBLE STANDARD 1 KING BED",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 574431560,
+        "name": "Phòng Superior, 2 giường đơn (Superior Room, 2 Twin Beds )",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 77525312,
+        "name": "Phòng Tiêu Chuẩn (Standard Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 581220431,
+        "name": "Junior Suite, Multiple Beds, Poolside",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 77525367,
+        "name": "Phòng Superior (Superior Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 77524748,
+        "name": "Phòng giường King (King Bed Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 77525039,
+        "name": "Phòng Junior Suite (Junior Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 77522169,
+        "name": "Phòng Superior, 1 giường cỡ king (Superior Room, 1 King Bed)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 574431562,
+        "name": "Suite Junior, 2 giường đơn (Junior Suite, 2 Twin Beds)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Cẩm Châu của Hội An, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "An Bang Beach",
+    "Ban công/sân hiên",
+    "Cua Dai Beach",
+    "Cách trung tâm TP. 150 m",
+    "Dọn phòng hằng ngày",
+    "Hoi An Ancient Town",
+    "Japanese Covered Bridge",
+    "Rèm che ánh sáng",
+    "Tọa lạc tại trung tâm Hội An",
+    "Tủ lạnh nhỏ trong phòng"
+  ],
+  "embedding_text": "Mercure Hoi An - khách sạn 4.0 sao tại Hội An.\nĐịa chỉ: 321 Cua Dai street, Cẩm Châu, tp. Hội An, Quảng Nam 051000, Vietnam, Cẩm Châu, Hội An, Việt Nam.\nNằm ở vị trí trung tâm tại Cẩm Châu của Hội An, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Ban công/sân hiên, Bàn tiếp tân [24 giờ], Bãi đỗ xe [tại chỗ], Bảo vệ [24 giờ], Bệnh xá, Cửa hàng, Dịch vụ giặt là, Dịch vụ phòng, Dịch vụ trông trẻ, Dọn phòng hằng ngày, Giữ hành lý, Internet, Két sắt, Nhân viên trực cửa, Phù hợp cho xe lăn, Rèm che ánh sáng, Thang máy, Thuê xe đạp, Thích hợp cho gia đình/trẻ em, Tiện nghi nấu nướng ngoài trời, Tọa lạc tại trung tâm Hội An, Tủ lạnh nhỏ trong phòng, Wi-Fi ở nơi công cộng, Ô tô cho thuê, Đổi ngoại tệ.\nCác loại phòng: DOUBLE SUPERIOR 1 KING BED (DOUBLE Superior 1 King Bed); DOUBLE STANDARD 1 KING BED; Phòng Superior (Superior); Phòng Đơn (Single Room); SUITE SOFA BED WATER VIEW; DELUXE TRIPLE ROOM FOR NON-SMOKERS; Suite Junior có Giường cỡ King (Junior Suite King Bed); Phòng đôi có giường King (Double Room King Bed).\nGần: Việt Huệ, Sarah's Boutique, Chợ, Cửa hàng Bầu Trời Đỏ, Aum Yoga Việt Nam, Thời trang nam nữ Ngân Châu.",
+  "_sources_captured": [
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

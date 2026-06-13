@@ -1,0 +1,88 @@
+# core/style.yaml — facet: style (SOFT fact, từ review/opinion). Phong cách / cảm nhận.
+# Core = vocabulary phong cách chuẩn ngành (Tripadvisor "hotel style", Booking property
+# highlights, Google Hotels vibes). TRUNG TÍNH: polarity nằm ở sentiment, KHÔNG ở ID.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  STYLE_QUIET:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor, google_hotels]
+    label: {vi: Yên tĩnh, en: Quiet}
+    surface_forms:
+      vi: [yên tĩnh, tĩnh lặng, không ồn ào, im ắng, thanh bình, yên bình, ít ồn,
+           riêng tư yên tĩnh, cần yên tĩnh, muốn yên tĩnh, tránh ồn ào, không gian yên tĩnh]
+      en: [quiet, peaceful, calm]
+    description: {vi: Không gian ít tiếng ồn, phù hợp nghỉ dưỡng, en: Low-noise environment, good for relaxation}
+    related: [STYLE_RELAXING, SETTING_NATURE]
+
+  STYLE_LIVELY:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor]
+    label: {vi: Sôi động, en: Lively}
+    surface_forms:
+      vi: [sôi động, náo nhiệt, nhộn nhịp, vui nhộn, đông vui, nhiều hoạt động, có chỗ vui chơi, gần chỗ ăn chơi]
+      en: [lively, vibrant, bustling]
+    description: {vi: Không gian sôi động, nhiều hoạt động, en: Lively, energetic atmosphere}
+
+  STYLE_RELAXING:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor, google_hotels]
+    label: {vi: Thư giãn, en: Relaxing}
+    surface_forms:
+      vi: [thư giãn, thoải mái, dễ chịu, thư thái]
+      en: [relaxing, soothing, restful]
+    description: {vi: Cảm giác thư giãn, thoải mái, en: Relaxing, restful feel}
+    related: [STYLE_QUIET, PURPOSE_WELLNESS]
+
+  STYLE_MODERN:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor, booking]
+    label: {vi: Hiện đại, en: Modern}
+    surface_forms:
+      vi: [hiện đại, tiện nghi hiện đại, thiết kế hiện đại, tân tiến, trẻ trung]
+      en: [modern, contemporary]
+    description: {vi: Phong cách thiết kế hiện đại, en: Modern / contemporary design style}
+
+  STYLE_ROMANTIC:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor]
+    label: {vi: Lãng mạn, en: Romantic}
+    surface_forms:
+      vi: [lãng mạn, lãng mạn riêng tư, không gian lãng mạn, tình tứ, hẹn hò, tuần trăng mật]
+      en: [romantic, intimate]
+    description: {vi: Phong cách lãng mạn, riêng tư, en: Romantic, intimate style}
+    related: [PURPOSE_ROMANTIC]
+
+  STYLE_LUXURY:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor, booking]
+    label: {vi: Đẳng cấp, en: Luxurious}
+    surface_forms:
+      vi: [đẳng cấp, sang trọng, xa hoa, fancy, sang, xịn sò, hoành tráng, sang xịn, đẳng cấp sang trọng, cao sang, lộng lẫy]
+      en: [luxurious, opulent, exclusive]
+    description: {vi: Phong cách sang trọng, đẳng cấp (cảm nhận, khác phân khúc giá PRICE_LUXURY), en: Luxurious style/feel (distinct from PRICE_LUXURY tier)}
+    related: [PRICE_LUXURY, AMEN_SPA, AMEN_PRIVATE_POOL]
+
+  STYLE_ECO:
+    facet: style
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, booking, google_hotels]
+    label: {vi: Thân thiện môi trường, en: Eco-friendly}
+    surface_forms:
+      vi: [thân thiện môi trường, sinh thái, xanh, eco]
+      en: [eco-friendly, sustainable, green]
+    description: {vi: Phong cách sinh thái, thân thiện môi trường, en: Eco-friendly / sustainable style}
+    related: [SETTING_NATURE]

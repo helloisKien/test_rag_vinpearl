@@ -1,0 +1,1045 @@
+##################### FAQ: MATRIX (category x city, count>=5) #####################
+
+### FAQ label='parking' (cat~'facilities_parking', kws=[])
+     10  Nha Trang
+      6  Hội An
+      5  Đà Nẵng
+      5  Đà Lạt
+      5  Quy Nhơn (Bình Định)
+      5  Đảo Phú Quốc
+
+### FAQ label='laundry' (cat~'facilities_cleaning', kws=['giat'])
+     17  Hà Nội
+     13  Nha Trang
+     13  Hồ Chí Minh
+     10  Hạ Long
+      9  Hội An
+      9  Đà Nẵng
+      6  Đảo Phú Quốc
+      5  Vũng Tàu
+      5  Quy Nhơn (Bình Định)
+
+### FAQ label='payment' (cat~'info_payment', kws=[])
+      9  Hà Nội
+      9  Hồ Chí Minh
+      8  Đà Nẵng
+      5  Đảo Phú Quốc
+      5  Hội An
+
+### FAQ label='shuttle' (cat~'', kws=['dua don san bay'])
+      8  Hội An
+      6  Nha Trang
+      5  Đà Nẵng
+      5  Hà Nội
+
+### FAQ label='spa' (cat~'things-to-do', kws=['spa'])
+
+### FAQ label='pool' (cat~'things-to-do', kws=['be boi', 'ho boi'])
+      8  Hồ Chí Minh
+
+### FAQ label='bar' (cat~'facilities_food and drink', kws=['bar'])
+      5  Đà Nẵng
+      5  Nha Trang
+
+### FAQ label='family' (cat~'policies_family', kws=[])
+     13  Hà Nội
+     12  Hồ Chí Minh
+      9  Đà Nẵng
+      8  Đảo Phú Quốc
+      7  Nha Trang
+      7  Quy Nhơn (Bình Định)
+      6  Hạ Long
+      5  Hội An
+      5  Phan Thiết
+
+### FAQ label='price' (cat~'info_price', kws=[])
+     10  Nha Trang
+     10  Hà Nội
+     10  Hồ Chí Minh
+      8  Đảo Phú Quốc
+      8  Đà Nẵng
+      5  Phan Rang - Tháp Chàm (Ninh Thuận)
+
+### FAQ label='year_built' (cat~'info_property', kws=['xay dung'])
+      9  Hồ Chí Minh
+      5  Hà Nội
+      5  Nha Trang
+
+### FAQ label='languages' (cat~'languages spoken', kws=[])
+     11  Hồ Chí Minh
+      8  Hà Nội
+      7  Hạ Long
+      6  Nha Trang
+      6  Đà Nẵng
+      5  Đà Lạt
+
+##################### FAQ: DETAIL #####################
+==========================================================================================
+FAQ 'parking' | city=Nha Trang | n=10
+==========================================================================================
+[48363] Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) | review=8.9
+    Q: Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) có bãi đỗ xe không?
+    A: Khách sạn Sunrise Nha Trang Beach Hotel & Spa có bãi đỗ xe miễn phí cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú đ
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    Q: Vinpearl Beachfront Nha Trang có bãi đỗ xe không?
+    A: Vinpearl Beachfront Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú
+[6421211] Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) | review=8.9
+    Q: Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại c
+[6906462] Khách Sạn Lucky Sun (Lucky Sun Hotel) | review=8.9
+    Q: Khách Sạn Lucky Sun (Lucky Sun Hotel) có bãi đỗ xe không?
+    A: Khách Sạn Lucky Sun có bãi đỗ xe trong khuôn viên có áp dụng phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại
+[869046] Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) | review=8.9
+    Q: Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Liberty Central Nha Trang có bãi đỗ xe trong khuôn viên và lân cận để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | review=8.7
+    Q: Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) có bãi đỗ xe không?
+    A: Khu nghỉ dưỡng Wyndham Garden Cam Ranh có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi
+[766807] Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) | review=8.7
+    Q: Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Mường Thanh Luxury Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể chọn khi nghỉ tại cơ sở lưu trú này. Tro
+[706033] Khách sạn Nha Trang Palace (Nha Trang Palace Hotel) | review=8.6
+    Q: Khách sạn Nha Trang Palace (Nha Trang Palace Hotel) có bãi đỗ xe không?
+    A: Khách sạn Nha Trang Palace có bãi đỗ xe lân cận có áp dụng phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đâ
+
+==========================================================================================
+FAQ 'parking' | city=Hội An | n=6
+==========================================================================================
+[1639502] Four Seasons Resort The Nam Hai Hoi An Vietnam | review=9.4
+    Q: Four Seasons Resort The Nam Hai Hoi An Vietnam có bãi đỗ xe không?
+    A: Four Seasons Resort The Nam Hai Hoi An Vietnam có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | review=9.4
+    Q: Sunora Villa Hội An (Sunora Villa Hoi An) có bãi đỗ xe không?
+    A: Sunora Villa Hội An có bãi đỗ xe lân cận cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú để biết thêm thông tin hoặc
+[1193207] Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) | review=9.0
+    Q: Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) có bãi đỗ xe không?
+    A: Khách sạn Gia Huy Riverside Hội An có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu
+[1803429] Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) | review=9.0
+    Q: Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) có bãi đỗ xe không?
+    A: Wyndham Garden Hội An Cửa Đại Beach có bãi đỗ xe trong khuôn viên có áp dụng phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ
+[3664358] Hoi An Dream City Hotel | review=8.7
+    Q: Hoi An Dream City Hotel có bãi đỗ xe không?
+    A: Hoi An Dream City Hotel có bãi đỗ xe lân cận cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú để biết thêm thông tin h
+[859981] Khách sạn Mường Thanh Holiday Hội An (Muong Thanh Holiday Hoi An Hotel) | review=8.3
+    Q: Khách sạn Mường Thanh Holiday Hội An (Muong Thanh Holiday Hoi An Hotel) có bãi đỗ xe không?
+    A: Khách sạn Mường Thanh Holiday Hội An có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi l
+
+==========================================================================================
+FAQ 'parking' | city=Đà Nẵng | n=5
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    Q: Banyan Tree Lang Co có bãi đỗ xe không?
+    A: Banyan Tree Lang Co có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể chọn khi nghỉ tại cơ sở lưu trú này. Trong trường hợp bãi đ
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    Q: Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) có bãi đỗ xe không?
+    A: Khu nghỉ dưỡng & Spa Marriott Đà Nẵng có bãi đỗ xe trong khuôn viên cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú đ
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    Q: Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) có bãi đỗ xe không?
+    A: Melia Vinpearl Riverfront Đà Nẵng có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể chọn khi nghỉ tại cơ sở lưu trú này. Trong tr
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    Q: Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) có bãi đỗ xe không?
+    A: Mercure Đà Nẵng French Village Bà Nà Hills có bãi đỗ xe lân cận miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu
+[2167475] Robin Hotel (Robin Hotel Danang) | review=8.7
+    Q: Robin Hotel (Robin Hotel Danang) có bãi đỗ xe không?
+    A: Robin Hotel có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể chọn khi nghỉ tại cơ sở lưu trú này. Trong trường hợp bãi đỗ xe hết
+
+==========================================================================================
+FAQ 'laundry' | city=Hà Nội | n=17
+==========================================================================================
+[1122443] Novotel Suites Hà Nội (Novotel Suites Hanoi) | review=8.7
+    Q: Novotel Suites Hà Nội (Novotel Suites Hanoi) có dịch vụ giặt là không?
+    A: Có! Novotel Suites Hà Nội cung cấp Giặt ga gối trải giường và quần áo bằng nước nóng và dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | review=8.7
+    Q: Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 - 96 Hai bà Trưng cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng
+[6542427] Novotel Hà Nội Thái Hà (Novotel Hanoi Thai Ha) | review=8.7
+    Q: Novotel Hà Nội Thái Hà (Novotel Hanoi Thai Ha) có dịch vụ giặt là không?
+    A: Có! Novotel Hà Nội Thái Hà cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ
+[10665115] Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) | review=8.6
+    Q: Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách Sạn Minasi HanoiOi LakeSide cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục y
+[289726] Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) | review=8.5
+    Q: Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 - 46 Châu Long cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng li
+[617191] A25 - Signature Hotel | review=8.5
+    Q: A25 - Signature Hotel có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 Premium cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ v
+[161676] Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) | review=8.4
+    Q: Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Mercure Hà Nội La Gare cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yê
+[729579] Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) | review=8.4
+    Q: Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) có dịch vụ giặt là không?
+    A: Có! Khách sạn Hà Nội Gallant cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên h
+
+==========================================================================================
+FAQ 'laundry' | city=Nha Trang | n=13
+==========================================================================================
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    Q: Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Novotel Nha Trang cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thí
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    Q: Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) có dịch vụ giặt là không?
+    A: Có! Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh cung cấp dịch vụ giặt là và Giặt ga gối trải giường và quần áo bằng nước nóng để quý khách sử dụng bất cứ kh
+[4459783] Vinpearl Empire Nha Trang, Affiliated by Meliá | review=8.9
+    Q: Vinpearl Empire Nha Trang, Affiliated by Meliá có dịch vụ giặt khô không?
+    A: Có! Vinpearl Empire Nha Trang, Affiliated by Meliá cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    Q: Vinpearl Beachfront Nha Trang có dịch vụ giặt khô không?
+    A: Có! Vinpearl Beachfront Nha Trang cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu t
+[6421211] Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) | review=8.9
+    Q: Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) có dịch vụ giặt là không?
+    A: Có! Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ
+[869046] Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) | review=8.9
+    Q: Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) có dịch vụ giặt là không?
+    A: Có! Khách sạn Liberty Central Nha Trang cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui
+[10670772] Khách Sạn Sun Kiss (Sun Kiss Hotel) | review=8.7
+    Q: Khách Sạn Sun Kiss (Sun Kiss Hotel) có dịch vụ giặt là không?
+    A: Có! Khách Sạn Sun Kiss cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với
+[6251087] Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre (Nha Trang Marriott Resort & Spa, Hon Tre Island) | review=8.7
+    Q: Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre (Nha Trang Marriott Resort & Spa, Hon Tre Island) có dịch vụ giặt là không?
+    A: Có! Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ ng
+
+==========================================================================================
+FAQ 'laundry' | city=Hồ Chí Minh | n=13
+==========================================================================================
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    Q: Vinpearl Landmark 81, Autograph Collection có dịch vụ giặt là không?
+    A: Có! Vinpearl Landmark 81, Autograph Collection cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mìn
+[16260062] Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel) | review=8.5
+    Q: Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diệ
+[315667] Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) | review=8.5
+    Q: Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) có dịch vụ giặt là không?
+    A: Có! Khách sạn Novotel Saigon Centre cung cấp Giặt ga gối trải giường và quần áo bằng nước nóng và dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần á
+[33815684] Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) | review=8.4
+    Q: Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 - 255 Lê Thánh Tôn cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòn
+[433003] Novotel Living Sài Gòn South (Novotel Living Saigon South) | review=8.3
+    Q: Novotel Living Sài Gòn South (Novotel Living Saigon South) có dịch vụ giặt là không?
+    A: Có! Novotel Living Sài Gòn South cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng li
+[173622] Khách sạn Viet Lotus Sài Gòn (Viet Lotus Saigon Hotel) | review=8.1
+    Q: Khách sạn Viet Lotus Sài Gòn (Viet Lotus Saigon Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Viet Lotus Sài Gòn cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu th
+[43411] Liberty Saigon Green View Hotel | review=8.1
+    Q: Liberty Saigon Green View Hotel có dịch vụ giặt là không?
+    A: Có! Liberty Saigon Green View Hotel cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng
+[317796] Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) | review=8.0
+    Q: Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Ibis Saigon South cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thí
+
+==========================================================================================
+FAQ 'payment' | city=Hà Nội | n=9
+==========================================================================================
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    Q: Grand Mercure Hà Nội (Grand Mercure Hanoi) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Grand Mercure Hà Nội chấp nhận đến 6, với các lựa chọn thẻ thanh toán bao gồm UnionPay, MasterCard, Americ
+[1122443] Novotel Suites Hà Nội (Novotel Suites Hanoi) | review=8.7
+    Q: Novotel Suites Hà Nội (Novotel Suites Hanoi) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Novotel Suites Hà Nội chấp nhận đến 8, với các lựa chọn thẻ thanh toán bao gồm Tiền mặt, Thẻ Discover, Uni
+[10665115] Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) | review=8.6
+    Q: Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách Sạn Minasi HanoiOi LakeSide chấp nhận đến 7 với các lựa chọn thẻ thanh toán bao gồm Visa, American Express, MasterCard và Tiền mặt.
+[303011] Khách sạn A25 Premium - 23 Quán Thánh (A25 Premium Hotel - 23 Quan Thanh) | review=8.6
+    Q: Khách sạn A25 Premium - 23 Quán Thánh (A25 Premium Hotel - 23 Quan Thanh) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 Premium - 23 Quán Thánh chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard và Visa.
+[9372539] Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet) | review=8.5
+    Q: Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 - 63A Phương Liệt chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm MasterCard, Visa và American Express.
+[161676] Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) | review=8.4
+    Q: Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Khách sạn Mercure Hà Nội La Gare chấp nhận đến 6, với các lựa chọn thẻ thanh toán bao gồm UnionPay, Master
+[10962] Hilton Hanoi Opera (Hanoi Opera) | review=8.2
+    Q: Hilton Hanoi Opera (Hanoi Opera) chấp nhận các thẻ thanh toán nào?
+    A: Hilton Hanoi Opera chấp nhận đến 5 với các lựa chọn thẻ thanh toán bao gồm Tiền mặt, American Express, Visa và MasterCard.
+[10961] Khách sạn Pullman Hà Nội (Pullman Hanoi Hotel) | review=8.1
+    Q: Khách sạn Pullman Hà Nội (Pullman Hanoi Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn Pullman Hà Nội chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard, UnionPay và Visa.
+
+==========================================================================================
+FAQ 'payment' | city=Hồ Chí Minh | n=9
+==========================================================================================
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    Q: Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) chấp nhận các thẻ thanh toán nào?
+    A: Express by M Village Điện Biên Phủ (The Tropic) chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm Visa, Tiền mặt và MasterCard.
+[10976] Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) | review=8.7
+    Q: Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn Sofitel Saigon Plaza chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm Visa, MasterCard, American Express và Tiền mặt.
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | review=8.6
+    Q: Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn ibis Sài Gòn sân bay chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard, Visa và Tiền mặt.
+[1189049] Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) | review=8.5
+    Q: Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 - 307 Lý Tự Trọng chấp nhận đến 3 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard và Visa.
+[159186] Khách sạn Cochin Zen (Cochin Zen Hotel) | review=8.5
+    Q: Khách sạn Cochin Zen (Cochin Zen Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn Cochin Zen chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard và Visa.
+[33815684] Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) | review=8.4
+    Q: Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 - 255 Lê Thánh Tôn chấp nhận đến 5 với các lựa chọn thẻ thanh toán bao gồm Visa, MasterCard, UnionPay và American Express.
+[317796] Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) | review=8.0
+    Q: Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Khách sạn Ibis Saigon South chấp nhận đến 7, với các lựa chọn thẻ thanh toán bao gồm UnionPay, American Ex
+[1155111] TTC Hotel Deluxe Airport | review=7.9
+    Q: TTC Hotel Deluxe Airport chấp nhận các thẻ thanh toán nào?
+    A: TTC Hotel Deluxe Airport chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm MasterCard, Visa và American Express.
+
+==========================================================================================
+FAQ 'payment' | city=Đà Nẵng | n=8
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    Q: Banyan Tree Lang Co chấp nhận các thẻ thanh toán nào?
+    A: Banyan Tree Lang Co chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard, Thẻ Discover và Visa.
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    Q: Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) chấp nhận các thẻ thanh toán nào?
+    A: Novotel Đà Nẵng Premier Han River chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm MasterCard, Visa, Tiền mặt và American Express.
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    Q: Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) chấp nhận các thẻ thanh toán nào?
+    A: Melia Vinpearl Riverfront Đà Nẵng chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm UnionPay, American Express, MasterCard và Visa.
+[338255] Angsana Lang Co | review=8.8
+    Q: Angsana Lang Co chấp nhận các thẻ thanh toán nào?
+    A: Angsana Lang Co chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm Visa, American Express và MasterCard.
+[9755468] Khách Sạn A25 - 137 Nguyễn Du - Đà Nẵng (A25 Hotel - 137 Nguyen Du - Da Nang) | review=8.8
+    Q: Khách Sạn A25 - 137 Nguyễn Du - Đà Nẵng (A25 Hotel - 137 Nguyen Du - Da Nang) chấp nhận các thẻ thanh toán nào?
+    A: Khách Sạn A25 - 137 Nguyễn Du - Đà Nẵng chấp nhận đến 7 với các lựa chọn thẻ thanh toán bao gồm Visa, MasterCard, American Express và Tiền mặt.
+[149036] Khách Sạn Mường Thanh Luxury Sông Hàn (Muong Thanh Luxury Song Han Hotel) | review=8.2
+    Q: Khách Sạn Mường Thanh Luxury Sông Hàn (Muong Thanh Luxury Song Han Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách Sạn Mường Thanh Luxury Sông Hàn chấp nhận đến 5 với các lựa chọn thẻ thanh toán bao gồm MasterCard, American Express, UnionPay và Visa.
+[517713] Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) | review=7.8
+    Q: Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng chấp nhận đến 6, với các lựa chọn th
+[4139218] Sunflower 2 Hotel | review=7.4
+    Q: Sunflower 2 Hotel chấp nhận các thẻ thanh toán nào?
+    A: Sunflower 2 Hotel chấp nhận đến 5 với các lựa chọn thẻ thanh toán bao gồm UnionPay, Visa, Tiền mặt và MasterCard.
+
+==========================================================================================
+FAQ 'shuttle' | city=Hội An | n=8
+==========================================================================================
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | review=9.4
+    Q: Sunora Villa Hội An (Sunora Villa Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Sunora Villa Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 350000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào
+[1193207] Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) | review=9.0
+    Q: Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn Gia Huy Riverside Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 250000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ c
+[1803429] Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) | review=9.0
+    Q: Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) có dịch vụ đưa đón sân bay không?
+    A: Wyndham Garden Hội An Cửa Đại Beach cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 500000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ
+[32713399] Nam An Mama Villa Hội An (Nam An Mama Villa Hoi An) | review=8.9
+    Q: Nam An Mama Villa Hội An (Nam An Mama Villa Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Nam An Mama Villa Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấ
+[3664358] Hoi An Dream City Hotel | review=8.7
+    Q: Hoi An Dream City Hotel có dịch vụ đưa đón sân bay không?
+    A: Hoi An Dream City Hotel cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu
+[860887] Khách Sạn & Spa Aurora Riverside Hội An (Hoi An Aurora Riverside Hotel & Spa) | review=8.6
+    Q: Khách Sạn & Spa Aurora Riverside Hội An (Hoi An Aurora Riverside Hotel & Spa) có dịch vụ đưa đón sân bay không?
+    A: Khách Sạn & Spa Aurora Riverside Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 500000 VND theo tiền tệ địa phương. Để yêu cầu,
+[1233488] Sunrise Homestay | review=8.3
+    Q: Sunrise Homestay có dịch vụ đưa đón sân bay không?
+    A: Sunrise Homestay cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ cần đánh dấu vào ô trống tro
+[1994212] Vinpearl Hoi An Villas | review=7.8
+    Q: Vinpearl Hoi An Villas có dịch vụ đưa đón sân bay không?
+    A: Vinpearl Hoi An Villas cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ cần đánh dấu vào ô trố
+
+==========================================================================================
+FAQ 'shuttle' | city=Nha Trang | n=6
+==========================================================================================
+[48363] Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) | review=8.9
+    Q: Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn Sunrise Nha Trang Beach Hotel & Spa cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ
+[6906462] Khách Sạn Lucky Sun (Lucky Sun Hotel) | review=8.9
+    Q: Khách Sạn Lucky Sun (Lucky Sun Hotel) có dịch vụ đưa đón sân bay không?
+    A: Khách Sạn Lucky Sun cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 500000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào
+[2402683] ibis Styles Nha Trang | review=8.5
+    Q: ibis Styles Nha Trang có dịch vụ đưa đón sân bay không?
+    A: ibis Styles Nha Trang cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu v
+[4973904] Khách sạn Sochi (Sochi Hotel) | review=8.3
+    Q: Khách sạn Sochi (Sochi Hotel) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn Sochi cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 350000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô t
+[30804222] Khách sạn BN Boutique Nha Trang (BN Boutique Nha Trang Hotel) | review=8.1
+    Q: Khách sạn BN Boutique Nha Trang (BN Boutique Nha Trang Hotel) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn BN Boutique Nha Trang cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần
+[444892] Sun City Hotel | review=7.8
+    Q: Sun City Hotel có dịch vụ đưa đón sân bay không?
+    A: Sun City Hotel cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 370000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô tr
+
+==========================================================================================
+FAQ 'shuttle' | city=Đà Nẵng | n=5
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    Q: Banyan Tree Lang Co có dịch vụ đưa đón sân bay không?
+    A: Banyan Tree Lang Co cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 1100000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu và
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    Q: Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) có dịch vụ đưa đón sân bay không?
+    A: Mercure Đà Nẵng French Village Bà Nà Hills cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 580000 VND theo tiền tệ địa phương. Để yêu cầ
+[24112682] Khách sạn bãi biển Sunview Đà Nẵng (SUNVIEW Beach Hotel Danang) | review=8.6
+    Q: Khách sạn bãi biển Sunview Đà Nẵng (SUNVIEW Beach Hotel Danang) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn bãi biển Sunview Đà Nẵng cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ cần đánh d
+[281497] Grand Mercure Đà Nẵng (Grand Mercure Danang) | review=8.6
+    Q: Grand Mercure Đà Nẵng (Grand Mercure Danang) có dịch vụ đưa đón sân bay không?
+    A: Grand Mercure Đà Nẵng cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 300000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu v
+[502099] Khách sạn Mường Thanh Grand Đà Nẵng (Muong Thanh Grand Da Nang Hotel) | review=8.0
+    Q: Khách sạn Mường Thanh Grand Đà Nẵng (Muong Thanh Grand Da Nang Hotel) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn Mường Thanh Grand Đà Nẵng cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 750000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ
+
+==========================================================================================
+FAQ 'pool' | city=Hồ Chí Minh | n=8
+==========================================================================================
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    Q: Vinpearl Landmark 81, Autograph Collection có bể bơi không?
+    A: Trong thời gian lưu trú tại Vinpearl Landmark 81, Autograph Collection, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    Q: Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn Sheraton Sài Gòn Grand Opera, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    Q: Liberty Central Saigon Citypoint Hotel có bể bơi không?
+    A: Trong thời gian lưu trú tại Liberty Central Saigon Citypoint Hotel, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | review=8.6
+    Q: Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn ibis Sài Gòn sân bay, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú
+[488444] Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) | review=8.6
+    Q: Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn Liberty Central Saigon Riverside, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ
+[1032041] Khách sạn Mường Thanh Sài Gòn Centre (Muong Thanh Saigon Centre Hotel) | review=8.5
+    Q: Khách sạn Mường Thanh Sài Gòn Centre (Muong Thanh Saigon Centre Hotel) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn Mường Thanh Sài Gòn Centre, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lư
+[159186] Khách sạn Cochin Zen (Cochin Zen Hotel) | review=8.5
+    Q: Khách sạn Cochin Zen (Cochin Zen Hotel) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn Cochin Zen, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú hoặc chỉ đ
+[315667] Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) | review=8.5
+    Q: Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) có bể bơi không?
+    A: Trong thời gian lưu trú tại Khách sạn Novotel Saigon Centre, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú
+
+==========================================================================================
+FAQ 'bar' | city=Đà Nẵng | n=5
+==========================================================================================
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    Q: Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Khu nghỉ dưỡng Pullman Đà Nẵng, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    Q: Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) có quán bar trong khuôn viên không?
+    A: Nhâm nhi đồ uống yêu thích của quý khách tại bar ở Novotel Đà Nẵng Premier Han River. Khách có thể thưởng thức các loại đồ uống khác tại bar cạnh hồ bơi vào nhữ
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    Q: Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Mercure Đà Nẵng French Village Bà Nà Hills, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng
+[6185262] Sunshine Beach Đà Nẵng (Sunshine Beach Da Nang) | review=8.0
+    Q: Sunshine Beach Đà Nẵng (Sunshine Beach Da Nang) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Sunshine Beach Đà Nẵng, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai l
+[517713] Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) | review=7.8
+    Q: Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng, chỉ cách quý khách một vài bước chân
+
+==========================================================================================
+FAQ 'bar' | city=Nha Trang | n=5
+==========================================================================================
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    Q: Vinpearl Beachfront Nha Trang có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Vinpearl Beachfront Nha Trang, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | review=8.7
+    Q: Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Khu nghỉ dưỡng Wyndham Garden Cam Ranh, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một
+[6251087] Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre (Nha Trang Marriott Resort & Spa, Hon Tre Island) | review=8.7
+    Q: Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre (Nha Trang Marriott Resort & Spa, Hon Tre Island) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre, chỉ cách quý khách một vài bước chân để quý khách có thể th
+[65153] Vinpearl Resort Nha Trang | review=8.7
+    Q: Vinpearl Resort Nha Trang có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Vinpearl Resort Nha Trang, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai ly n
+[463095] Muong Thanh Grand Nha Trang Hotel | review=8.5
+    Q: Muong Thanh Grand Nha Trang Hotel có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Muong Thanh Grand Nha Trang Hotel, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một
+
+==========================================================================================
+FAQ 'family' | city=Hà Nội | n=13
+==========================================================================================
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Minasi Grand (Minasi Grand Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Minasi Grand tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm t
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    Q: Chính sách về giường ngủ cho trẻ em tại Sheraton Hà Nội West (Sheraton Hanoi West)
+    A: Chính sách Giường ngủ cho trẻ em tại Sheraton Hà Nội West tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm th
+[6868294] Wyndham Garden Hà Nội (Wyndham Garden Hanoi) | review=8.8
+    Q: Chính sách về giường ngủ cho trẻ em tại Wyndham Garden Hà Nội (Wyndham Garden Hanoi)
+    A: Chính sách Giường ngủ cho trẻ em tại Wyndham Garden Hà Nội tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm t
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | review=8.7
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 - 96 Hai bà Trưng tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có
+[289726] Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 - 46 Châu Long tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có th
+[5368161] Khách sạn A25 - 185 - 187 Lò Đúc (A25 Hotel - 185 - 187 Lo Duc) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 - 185 - 187 Lò Đúc (A25 Hotel - 185 - 187 Lo Duc)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 - 185 - 187 Lò Đúc tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách c
+[9372539] Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 - 63A Phương Liệt tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có
+[33907335] Khách sạn A25 Premium - 705 Lạc Long Quân (A25 Premium Hotel - 705 Lạc Long Quân) | review=8.4
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 Premium - 705 Lạc Long Quân (A25 Premium Hotel - 705 Lạc Long Quân)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 Premium - 705 Lạc Long Quân tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Qu
+
+==========================================================================================
+FAQ 'family' | city=Hồ Chí Minh | n=12
+==========================================================================================
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn & Căn hộ JW Marriott Sài Gòn tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý k
+[488444] Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) | review=8.6
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Liberty Central Saigon Riverside tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Q
+[1032041] Khách sạn Mường Thanh Sài Gòn Centre (Muong Thanh Saigon Centre Hotel) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Mường Thanh Sài Gòn Centre (Muong Thanh Saigon Centre Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Mường Thanh Sài Gòn Centre tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khá
+[16260062] Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ
+[407839] Tan Son Nhat Saigon Hotel | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Tan Son Nhat Saigon Hotel
+    A: Chính sách Giường ngủ cho trẻ em tại Tan Son Nhat Saigon Hotel tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể t
+[9195] Khách sạn Renaissance Riverside Sài Gòn (Renaissance Riverside Hotel Saigon) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Renaissance Riverside Sài Gòn (Renaissance Riverside Hotel Saigon)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Renaissance Riverside Sài Gòn tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý
+[165247] Liberty Central Saigon Centre Hotel | review=8.4
+    Q: Chính sách về giường ngủ cho trẻ em tại Liberty Central Saigon Centre Hotel
+    A: Chính sách Giường ngủ cho trẻ em tại Liberty Central Saigon Centre Hotel tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khác
+[25539435] Khách sạn Hạ Long (Ha Long Hotel) | review=8.4
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Hạ Long (Ha Long Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Hạ Long tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm
+
+==========================================================================================
+FAQ 'family' | city=Đà Nẵng | n=9
+==========================================================================================
+[2167475] Robin Hotel (Robin Hotel Danang) | review=8.7
+    Q: Chính sách về giường ngủ cho trẻ em tại Robin Hotel (Robin Hotel Danang)
+    A: Chính sách Giường ngủ cho trẻ em tại Robin Hotel tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm thông t
+[4974064] Four Points by Sheraton Đà Nẵng (Four Points by Sheraton Danang) | review=8.7
+    Q: Chính sách về giường ngủ cho trẻ em tại Four Points by Sheraton Đà Nẵng (Four Points by Sheraton Danang)
+    A: Chính sách Giường ngủ cho trẻ em tại Four Points by Sheraton Đà Nẵng tính trẻ 12 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có
+[2190907] Khách sạn Mường Thanh Luxury Đà Nẵng (Muong Thanh Luxury Da Nang hotel) | review=8.5
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Mường Thanh Luxury Đà Nẵng (Muong Thanh Luxury Da Nang hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Mường Thanh Luxury Đà Nẵng tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khác
+[149036] Khách Sạn Mường Thanh Luxury Sông Hàn (Muong Thanh Luxury Song Han Hotel) | review=8.2
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách Sạn Mường Thanh Luxury Sông Hàn (Muong Thanh Luxury Song Han Hotel)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách Sạn Mường Thanh Luxury Sông Hàn tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khá
+[31998515] Khách sạn Cherry Đà Nẵng (Cherry Hotel Da Nang ) | review=7.8
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Cherry Đà Nẵng (Cherry Hotel Da Nang )
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Cherry Đà Nẵng tính trẻ 7 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm
+[34513923] Khu nghỉ dưỡng căn hộ Mường Thanh (Mường Thanh Apartment Resort) | review=7.8
+    Q: Chính sách về giường ngủ cho trẻ em tại Khu nghỉ dưỡng căn hộ Mường Thanh (Mường Thanh Apartment Resort)
+    A: Chính sách Giường ngủ cho trẻ em tại Khu nghỉ dưỡng căn hộ Mường Thanh tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách
+[34513919] Căn hộ Mường Thanh - 2 phòng ngủ (MUONG THANH APARTMENT - 2BR*****) | review=7.7
+    Q: Chính sách về giường ngủ cho trẻ em tại Căn hộ Mường Thanh - 2 phòng ngủ (MUONG THANH APARTMENT - 2BR*****)
+    A: Chính sách Giường ngủ cho trẻ em tại Căn hộ Mường Thanh - 2 phòng ngủ tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách c
+[533079] Khách sạn Moonlight Đà Nẵng (Moonlight Hotel Da Nang) | review=7.7
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn Moonlight Đà Nẵng (Moonlight Hotel Da Nang)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn Moonlight Đà Nẵng tính trẻ 7 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể
+
+==========================================================================================
+FAQ 'price' | city=Nha Trang | n=10
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    Q: Giá phòng trung bình của Vinpearl Luxury Nha Trang trong những tháng qua
+    A: Giá phòng trung bình của Vinpearl Luxury Nha Trang trong những tháng qua là 6156035.84 VND, so với giá trung bình của thành phố là 1565102.79 VND.
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    Q: Giá phòng trung bình của Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) trong những tháng qua
+    A: Giá phòng trung bình của Khu nghỉ dưỡng & Spa The Westin Cam Ranh trong những tháng qua là 3517495.4 VND, so với giá trung bình của thành phố là 1509602.74 VND.
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    Q: Giá phòng trung bình của Vinpearl Beachfront Nha Trang trong những tháng qua
+    A: Giá phòng trung bình của Vinpearl Beachfront Nha Trang trong những tháng qua là 1636267.79 VND, so với giá trung bình của thành phố là 1565102.79 VND.
+[6359030] Muong Thanh Luxury Khanh Hoa | review=8.9
+    Q: Giá phòng trung bình của Muong Thanh Luxury Khanh Hoa trong những tháng qua
+    A: Giá phòng trung bình của Muong Thanh Luxury Khanh Hoa trong những tháng qua là 1944488.29 VND, so với giá trung bình của thành phố là 1509602.74 VND.
+[6421211] Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) | review=8.9
+    Q: Giá phòng trung bình của Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang trong những tháng qua là 1593568.79 VND, so với giá trung bình của thành phố là 15651
+[10670772] Khách Sạn Sun Kiss (Sun Kiss Hotel) | review=8.7
+    Q: Giá phòng trung bình của Khách Sạn Sun Kiss (Sun Kiss Hotel) trong những tháng qua
+    A: Giá phòng trung bình của Khách Sạn Sun Kiss trong những tháng qua là 762694.03 VND, so với giá trung bình của thành phố là 1509602.74 VND.
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | review=8.7
+    Q: Giá phòng trung bình của Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) trong những tháng qua
+    A: Giá phòng trung bình của Khu nghỉ dưỡng Wyndham Garden Cam Ranh trong những tháng qua là 3470402.53 VND, so với giá trung bình của thành phố là 1509602.74 VND.
+[766807] Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) | review=8.7
+    Q: Giá phòng trung bình của Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn Mường Thanh Luxury Nha Trang trong những tháng qua là 1744596.73 VND, so với giá trung bình của thành phố là 1565102.79 VND.
+
+==========================================================================================
+FAQ 'price' | city=Hà Nội | n=10
+==========================================================================================
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    Q: Giá phòng trung bình của Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn Sofitel Legend Metropole Hà Nội trong những tháng qua là 8579847.41 VND, so với giá trung bình của thành phố là 1074717.18 VN
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    Q: Giá phòng trung bình của Grand Mercure Hà Nội (Grand Mercure Hanoi) trong những tháng qua
+    A: Giá phòng trung bình của Grand Mercure Hà Nội trong những tháng qua là 3329913.18 VND, so với giá trung bình của thành phố là 1074717.18 VND.
+[6868294] Wyndham Garden Hà Nội (Wyndham Garden Hanoi) | review=8.8
+    Q: Giá phòng trung bình của Wyndham Garden Hà Nội (Wyndham Garden Hanoi) trong những tháng qua
+    A: Giá phòng trung bình của Wyndham Garden Hà Nội trong những tháng qua là 1372270.46 VND, so với giá trung bình của thành phố là 1074717.18 VND.
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | review=8.7
+    Q: Giá phòng trung bình của Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 - 96 Hai bà Trưng trong những tháng qua là 863456.99 VND, so với giá trung bình của thành phố là 1074717.18 VND.
+[289726] Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) | review=8.5
+    Q: Giá phòng trung bình của Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 - 46 Châu Long trong những tháng qua là 700316.29 VND, so với giá trung bình của thành phố là 1115445.44 VND.
+[48364] Khách sạn Sheraton Hà Nội (Sheraton Hanoi Hotel) | review=8.5
+    Q: Giá phòng trung bình của Khách sạn Sheraton Hà Nội (Sheraton Hanoi Hotel) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn Sheraton Hà Nội trong những tháng qua là 4498289.93 VND, so với giá trung bình của thành phố là 1074717.18 VND.
+[5368161] Khách sạn A25 - 185 - 187 Lò Đúc (A25 Hotel - 185 - 187 Lo Duc) | review=8.5
+    Q: Giá phòng trung bình của Khách sạn A25 - 185 - 187 Lò Đúc (A25 Hotel - 185 - 187 Lo Duc) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 - 185 - 187 Lò Đúc trong những tháng qua là 685872.14 VND, so với giá trung bình của thành phố là 1074717.18 VND.
+[33907335] Khách sạn A25 Premium - 705 Lạc Long Quân (A25 Premium Hotel - 705 Lạc Long Quân) | review=8.4
+    Q: Giá phòng trung bình của Khách sạn A25 Premium - 705 Lạc Long Quân (A25 Premium Hotel - 705 Lạc Long Quân) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 Premium - 705 Lạc Long Quân trong những tháng qua là 1020257.83 VND, so với giá trung bình của thành phố là 1074717.18 VN
+
+==========================================================================================
+FAQ 'price' | city=Hồ Chí Minh | n=10
+==========================================================================================
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    Q: Giá phòng trung bình của Vinpearl Landmark 81, Autograph Collection trong những tháng qua
+    A: Giá phòng trung bình của Vinpearl Landmark 81, Autograph Collection trong những tháng qua là 5606220.34 VND, so với giá trung bình của thành phố là 1021085.92 V
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | review=8.6
+    Q: Giá phòng trung bình của Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn ibis Sài Gòn sân bay trong những tháng qua là 1446198.37 VND, so với giá trung bình của thành phố là 1020784.0 VND.
+[1189049] Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) | review=8.5
+    Q: Giá phòng trung bình của Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 - 307 Lý Tự Trọng trong những tháng qua là 1224037.95 VND, so với giá trung bình của thành phố là 1021085.92 VND.
+[407839] Tan Son Nhat Saigon Hotel | review=8.5
+    Q: Giá phòng trung bình của Tan Son Nhat Saigon Hotel trong những tháng qua
+    A: Giá phòng trung bình của Tan Son Nhat Saigon Hotel trong những tháng qua là 2183372.8 VND, so với giá trung bình của thành phố là 1020784.0 VND.
+[165247] Liberty Central Saigon Centre Hotel | review=8.4
+    Q: Giá phòng trung bình của Liberty Central Saigon Centre Hotel trong những tháng qua
+    A: Giá phòng trung bình của Liberty Central Saigon Centre Hotel trong những tháng qua là 1746645.62 VND, so với giá trung bình của thành phố là 1020784.0 VND.
+[33815684] Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) | review=8.4
+    Q: Giá phòng trung bình của Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) trong những tháng qua
+    A: Giá phòng trung bình của Khách sạn A25 - 255 Lê Thánh Tôn trong những tháng qua là 1146547.18 VND, so với giá trung bình của thành phố là 1021085.92 VND.
+[433003] Novotel Living Sài Gòn South (Novotel Living Saigon South) | review=8.3
+    Q: Giá phòng trung bình của Novotel Living Sài Gòn South (Novotel Living Saigon South) trong những tháng qua
+    A: Giá phòng trung bình của Novotel Living Sài Gòn South trong những tháng qua là 2709023.94 VND, so với giá trung bình của thành phố là 1020784.0 VND.
+[10987] Khách Sạn Liberty Sài Gòn Parkview (Liberty Hotel Saigon Parkview) | review=7.9
+    Q: Giá phòng trung bình của Khách Sạn Liberty Sài Gòn Parkview (Liberty Hotel Saigon Parkview) trong những tháng qua
+    A: Giá phòng trung bình của Khách Sạn Liberty Sài Gòn Parkview trong những tháng qua là 1306761.38 VND, so với giá trung bình của thành phố là 1020784.0 VND.
+
+==========================================================================================
+FAQ 'year_built' | city=Hồ Chí Minh | n=9
+==========================================================================================
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    Q: Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) được xây dựng vào năm nào?
+    A: Khách sạn & Căn hộ JW Marriott Sài Gòn được xây dựng vào 2024.
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | review=8.6
+    Q: Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) được xây dựng vào năm nào?
+    A: Khách sạn ibis Sài Gòn sân bay được xây dựng vào 2016.
+[488373] Khách sạn Pullman Saigon Centre (Pullman Saigon Centre Hotel) | review=8.6
+    Q: Khách sạn Pullman Saigon Centre (Pullman Saigon Centre Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Pullman Saigon Centre được xây dựng vào 2013.
+[488444] Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) | review=8.6
+    Q: Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Liberty Central Saigon Riverside được xây dựng vào 2013.
+[315667] Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) | review=8.5
+    Q: Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Novotel Saigon Centre được xây dựng vào 2012.
+[407839] Tan Son Nhat Saigon Hotel | review=8.5
+    Q: Tan Son Nhat Saigon Hotel được xây dựng vào năm nào?
+    A: Tan Son Nhat Saigon Hotel được xây dựng vào 2012.
+[5797972] Căn hộ & Khách sạn Sunny Sài Gòn 2 (Sunny Saigon Apartments & Hotel 2) | review=8.1
+    Q: Căn hộ & Khách sạn Sunny Sài Gòn 2 (Sunny Saigon Apartments & Hotel 2) được xây dựng vào năm nào?
+    A: Căn hộ & Khách sạn Sunny Sài Gòn 2 được xây dựng vào 2017.
+[10987] Khách Sạn Liberty Sài Gòn Parkview (Liberty Hotel Saigon Parkview) | review=7.9
+    Q: Khách Sạn Liberty Sài Gòn Parkview (Liberty Hotel Saigon Parkview) được xây dựng vào năm nào?
+    A: Khách Sạn Liberty Sài Gòn Parkview được xây dựng vào 1998.
+
+==========================================================================================
+FAQ 'year_built' | city=Hà Nội | n=5
+==========================================================================================
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    Q: Sheraton Hà Nội West (Sheraton Hanoi West) được xây dựng vào năm nào?
+    A: Sheraton Hà Nội West được xây dựng vào 2011.
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | review=8.7
+    Q: Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) được xây dựng vào năm nào?
+    A: Khách sạn A25 - 96 Hai bà Trưng được xây dựng vào 2018.
+[729579] Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) | review=8.4
+    Q: Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Hà Nội Gallant được xây dựng vào 2014.
+[10962] Hilton Hanoi Opera (Hanoi Opera) | review=8.2
+    Q: Hilton Hanoi Opera (Hanoi Opera) được xây dựng vào năm nào?
+    A: Hilton Hanoi Opera được xây dựng vào 1993.
+[2570866] Khách sạn Nam Long Hà Nội (NAM LONG HOTEL HA NOI ) | review=6.8
+    Q: Khách sạn Nam Long Hà Nội (NAM LONG HOTEL HA NOI ) được xây dựng vào năm nào?
+    A: Khách sạn Nam Long Hà Nội được xây dựng vào 2011.
+
+==========================================================================================
+FAQ 'year_built' | city=Nha Trang | n=5
+==========================================================================================
+[805030] Vinpearl Resort & Spa Nha Trang Bay | review=8.8
+    Q: Vinpearl Resort & Spa Nha Trang Bay được xây dựng vào năm nào?
+    A: Vinpearl Resort & Spa Nha Trang Bay được xây dựng vào 2015.
+[766807] Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) | review=8.7
+    Q: Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Mường Thanh Luxury Nha Trang được xây dựng vào 2014.
+[463095] Muong Thanh Grand Nha Trang Hotel | review=8.5
+    Q: Muong Thanh Grand Nha Trang Hotel được xây dựng vào năm nào?
+    A: Muong Thanh Grand Nha Trang Hotel được xây dựng vào 2013.
+[5930920] Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) | review=8.4
+    Q: Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) được xây dựng vào năm nào?
+    A: Khách Sạn Anrizon Nha Trang được xây dựng vào 2018.
+[4973904] Khách sạn Sochi (Sochi Hotel) | review=8.3
+    Q: Khách sạn Sochi (Sochi Hotel) được xây dựng vào năm nào?
+    A: Khách sạn Sochi được xây dựng vào 2019.
+
+==========================================================================================
+FAQ 'languages' | city=Hồ Chí Minh | n=11
+==========================================================================================
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    Q: Nhân viên của Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn Sheraton Sài Gòn Grand Opera có thể giao tiếp bằng 5 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | review=8.6
+    Q: Nhân viên của Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn ibis Sài Gòn sân bay có thể giao tiếp bằng 3 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan Thoại) c
+[1189049] Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) | review=8.5
+    Q: Nhân viên của Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 - 307 Lý Tự Trọng có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử
+[16260062] Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel) | review=8.5
+    Q: Nhân viên của Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo d
+[25539435] Khách sạn Hạ Long (Ha Long Hotel) | review=8.4
+    Q: Nhân viên của Khách sạn Hạ Long (Ha Long Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Hạ Long có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng ở phần T
+[433003] Novotel Living Sài Gòn South (Novotel Living Saigon South) | review=8.3
+    Q: Nhân viên của Novotel Living Sài Gòn South (Novotel Living Saigon South) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Novotel Living Sài Gòn South có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụ
+[336669] Khách sạn A25 - 251 Hai Bà Trưng HCM (A25 Hotel - 251 Hai Bà Trưng HCM) | review=8.2
+    Q: Nhân viên của Khách sạn A25 - 251 Hai Bà Trưng HCM (A25 Hotel - 251 Hai Bà Trưng HCM) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 - 251 Hai Bà Trưng HCM có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn n
+[173622] Khách sạn Viet Lotus Sài Gòn (Viet Lotus Saigon Hotel) | review=8.1
+    Q: Nhân viên của Khách sạn Viet Lotus Sài Gòn (Viet Lotus Saigon Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Viet Lotus Sài Gòn có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụ
+
+==========================================================================================
+FAQ 'languages' | city=Hà Nội | n=8
+==========================================================================================
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    Q: Nhân viên của Khách sạn Minasi Grand (Minasi Grand Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn Minasi Grand có thể giao tiếp bằng 4 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan Thoại) cho khách
+[303011] Khách sạn A25 Premium - 23 Quán Thánh (A25 Premium Hotel - 23 Quan Thanh) | review=8.6
+    Q: Nhân viên của Khách sạn A25 Premium - 23 Quán Thánh (A25 Premium Hotel - 23 Quan Thanh) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 Premium - 23 Quán Thánh có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn
+[289726] Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) | review=8.5
+    Q: Nhân viên của Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 - 46 Châu Long có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụ
+[617191] A25 - Signature Hotel | review=8.5
+    Q: Nhân viên của A25 - Signature Hotel có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 Premium có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng ở ph
+[9372539] Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet) | review=8.5
+    Q: Nhân viên của Khách sạn A25 - 63A Phương Liệt (A25 Hotel - 63A Phuong Liet) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn A25 - 63A Phương Liệt có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử
+[247372] Khách sạn Mường Thanh Grand Hà Nội (Muong Thanh Grand Hanoi Hotel) | review=8.2
+    Q: Nhân viên của Khách sạn Mường Thanh Grand Hà Nội (Muong Thanh Grand Hanoi Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Mường Thanh Grand Hà Nội có thể sử dụng tối đa 3 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ
+[2985143] Khách sạn Sunrise Hà Nội (Sunrise Hanoi Hotel) | review=8.2
+    Q: Nhân viên của Khách sạn Sunrise Hà Nội (Sunrise Hanoi Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn Sunrise Hà Nội có thể giao tiếp bằng 4 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan Thoại) cho khá
+[290212] Khách sạn Collection O Le Grand Hà Nội - The Sun (Collection O Le Grand Hanoi hotel â€" The Sun) | review=7.3
+    Q: Nhân viên của Khách sạn Collection O Le Grand Hà Nội - The Sun (Collection O Le Grand Hanoi hotel â€" The Sun) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Collection O Le Grand Hà Nội - The Sun có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo dan
+
+==========================================================================================
+FAQ 'languages' | city=Hạ Long | n=7
+==========================================================================================
+[31461091] Green bay hotel Ha Long | review=9.1
+    Q: Nhân viên của Green bay hotel Ha Long có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Green bay hotel Ha Long có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng ở
+[6593570] Khách Sạn Hạ Long Boutique (Halong Boutique Hotel) | review=9.0
+    Q: Nhân viên của Khách Sạn Hạ Long Boutique (Halong Boutique Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách Sạn Hạ Long Boutique có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng
+[1160137] Khách sạn Wyndham Legend Hạ Long (Wyndham Legend Halong Hotel) | review=8.9
+    Q: Nhân viên của Khách sạn Wyndham Legend Hạ Long (Wyndham Legend Halong Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn Wyndham Legend Hạ Long có thể giao tiếp bằng 3 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan Thoại)
+[16360312] Mường Thanh Holiday Suối Mơ (Muong Thanh Holiday Suoi Mo) | review=8.9
+    Q: Nhân viên của Mường Thanh Holiday Suối Mơ (Muong Thanh Holiday Suoi Mo) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Mường Thanh Holiday Suối Mơ có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụn
+[10185656] Khách sạn Hạ Long Halios (Halios Halong Hotel) | review=8.8
+    Q: Nhân viên của Khách sạn Hạ Long Halios (Halios Halong Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Nhân viên của Khách sạn Hạ Long Halios có thể giao tiếp bằng 3 ngôn ngữ và hỗ trợ các ngôn ngữ thông dụng khác như Tiếng Anh và Tiếng Trung (Quan Thoại) cho khá
+[5920941] Ivy Hotel Ha Long | review=8.7
+    Q: Nhân viên của Ivy Hotel Ha Long có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Ivy Hotel Ha Long có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng ở phần T
+[24247480] Khách sạn Sunlight Hạ Long (Sunlight Hotel Ha Long) | review=8.6
+    Q: Nhân viên của Khách sạn Sunlight Hạ Long (Sunlight Hotel Ha Long) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn Sunlight Hạ Long có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng
+
+
+
+##################### ACTIVITY THEMES (top 8/city) #####################
+==========================================================================================
+ACT 'vinwonders_nhatrang' | city~Nha Trang | kws=['vinwonders', 'vinpearl harbour', 'vinke'] | matched=37
+==========================================================================================
+[6359030] Muong Thanh Luxury Khanh Hoa | Nha Trang | review=8.9 | hits=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+[869046] Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) | Nha Trang | review=8.9 | hits=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+[239482] Khách Sạn TTC - Michelia (TTC Hotel - Michelia) | Nha Trang | review=8.7 | hits=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | Nha Trang | review=8.7 | hits=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+[463095] Muong Thanh Grand Nha Trang Hotel | Nha Trang | review=8.5 | hits=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | Nha Trang | review=9.1 | hits=5
+    - Vé Cáp Treo Vinpearl Harbour Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | Nha Trang | review=8.9 | hits=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+[5685860] Vinpearl Beachfront Nha Trang | Nha Trang | review=8.9 | hits=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+
+==========================================================================================
+ACT 'cruise_halong' | city~Hạ Long | kws=['du thuyen', 'cruise', 'vinh ha long', 'kayak'] | matched=22
+==========================================================================================
+[1015998] Vinpearl Resort & Spa Hạ Long (Vinpearl Resort & Spa Ha Long) | Hạ Long | review=9.0 | hits=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[11081745] Mường Thanh Grand Bãi Cháy (Muong Thanh Grand Bai Chay) | Hạ Long | review=8.9 | hits=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[16360312] Mường Thanh Holiday Suối Mơ (Muong Thanh Holiday Suoi Mo) | Hạ Long | review=8.9 | hits=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[32914376] Mường Thanh Luxury Hạ Long Centre II (Muong Thanh Luxury Ha Long Centre II) | Hạ Long | review=8.4 | hits=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[247789] Khách sạn Mường Thanh Grand Hạ Long (Muong Thanh Grand Ha Long Hotel) | Hạ Long | review=8.0 | hits=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[35444743] Khách sạn A25 Premium - Bãi Cháy Hạ Long (A25 Premium Hotel - Bãi Cháy Hạ Long) | Hạ Long | review=9.4 | hits=8
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+[38722254] Khách sạn Radisson Blu Vịnh Hạ Long (Radisson Blu Hotel, Ha Long Bay) | Hạ Long | review=9.2 | hits=8
+    - Vé vào cổng Sun World Ha Long
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+[58958232] Wyndham Garden Legend Hạ Long (Wyndham Garden Legend Halong) | Hạ Long | review=9.2 | hits=8
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Vé vào cổng Sun World Ha Long
+
+==========================================================================================
+ACT 'bana_danang' | city~Đà Nẵng | kws=['ba na', 'bana', 'sun world ba na', 'cap treo'] | matched=43
+==========================================================================================
+[74957819] Wyndham Soleil Đà Nẵng - Dịch vụ đưa đón sân bay miễn phí (Wyndham Soleil Danang - Free Schedule Airport Shuttle) | Đà Nẵng | review=8.4 | hits=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[59714076] Khách sạn Ocean Star Đà Nẵng Bay (Ocean Star Da Nang Bay Hotel) | Đà Nẵng | review=7.9 | hits=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[31998515] Khách sạn Cherry Đà Nẵng (Cherry Hotel Da Nang ) | Đà Nẵng | review=7.8 | hits=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[517713] Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) | Đà Nẵng | review=7.8 | hits=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[533079] Khách sạn Moonlight Đà Nẵng (Moonlight Hotel Da Nang) | Đà Nẵng | review=7.7 | hits=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[64242078] Khách sạn DS Đà Nẵng (DS HOTEL ĐÀ NẴNG) | Đà Nẵng | review=8.6 | hits=6
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[33100210] Khách sạn Liberty Đà Nẵng (Liberty Hotel Da Nang) | Đà Nẵng | review=8.3 | hits=6
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | Đà Nẵng | review=10.0 | hits=4
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé Sun World Ba Na Hills | Đà Nẵng
+
+==========================================================================================
+ACT 'basketboat_hoian' | city~Hội An | kws=['thung', 'rung dua', 'coconut', 'bay mau'] | matched=22
+==========================================================================================
+[44777877] Grand Sunrise Palace Hội An (Grand Sunrise Palace Hoi An) | Hội An | review=9.7 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | Hội An | review=9.4 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[36975063] Biệt thự Sunkissed Paddy Hoi An (Sunkissed Paddy Hoi An Villa) | Hội An | review=8.9 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[31561179] ViVi An Bang Hotel (1 Stop ViVi An Bang Beach Hoi An Hotel) | Hội An | review=8.8 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[3664358] Hoi An Dream City Hotel | Hội An | review=8.7 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[4593719] Vinpearl Resort & Golf Nam Hội An (Vinpearl Resort & Golf Nam Hoi An ) | Hội An | review=8.7 | hits=3
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+[1985188] Khu nghỉ dưỡng & spa Renaissance Đà Nẵng Hội An (Renaissance Danang Hoi An Resort & Spa) | Hội An | review=8.6 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+[34054260] Nhà trọ & Pool Bar Bed Station Hội An " Trước đây là Sunflower" (Bed Station Hostel & Pool Bar Hoi An " Former Sunflower") | Hội An | review=8.6 | hits=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+
+==========================================================================================
+ACT 'coaster_dalat' | city~Đà Lạt | kws=['alpine', 'coaster', 'datanla', 'truot'] | matched=21
+==========================================================================================
+[168993] Khách Sạn Mường Thanh Đà Lạt (Muong Thanh Dalat Hotel) | Đà Lạt | review=8.0 | hits=3
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[49851722] Khách sạn Golden Sun Đà Lạt (Golden Sun Hotel - Dalat) | Đà Lạt | review=9.3 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[32680041] Khách sạn Tala Đà Lạt (Tala Dalat Hotel) | Đà Lạt | review=9.2 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[41926154] Khách sạn Sunset Hill (Sunset Hill Hotel) | Đà Lạt | review=9.2 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[23388080] Khách sạn A25 - 386 Hai Bà Trưng Đà Lạt (A25 Hotel - 386 Hai Ba Trung Da Lat) | Đà Lạt | review=9.0 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[49385769] CALYSSA HOTELS & VILLAGE | Đà Lạt | review=9.0 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[42109640] Khách sạn MerPerle Đà Lạt (MerPerle Dalat Hotel) | Đà Lạt | review=8.9 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[50138938] Khách sạn Savio Triệu Việt Vương Đà Lạt (Savio Hotel Trieu Viet Vuong) | Đà Lạt | review=8.9 | hits=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+
+==========================================================================================
+ACT 'phuquoc_park' | city~Phú Quốc | kws=['vinwonders', 'grand world', 'hon thom', 'safari'] | matched=27
+==========================================================================================
+[35958304] Wyndham Garden Grandworld Phú Quốc (Wyndham Garden Grandworld Phu Quoc) | Đảo Phú Quốc | review=8.7 | hits=8
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé vào cổng Vinpearl Safari Phú Quốc
+[6377313] Vinpearl Wonderworld Phú Quốc (Vinpearl Wonderworld Phu Quoc) | Đảo Phú Quốc | review=8.7 | hits=6
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Combo Sun World Hòn Thơm Phú Quốc
+[1985199] Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) | Đảo Phú Quốc | review=8.6 | hits=6
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Combo Sun World Hòn Thơm Phú Quốc
+[34118773] Robins Homestay Vinpearl Phu Quoc | Đảo Phú Quốc | review=8.8 | hits=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Sun World Hon Thom | Phú Quốc
+[58866380] Khách sạn ROVA - Positano Horse Phú Quốc (ROVA HOTEL - POSITANO HORSE PHU QUOC) | Đảo Phú Quốc | review=8.8 | hits=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+[625168] Vinpearl Resort & Spa Phú Quốc | Đảo Phú Quốc | review=8.8 | hits=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Sun World Hon Thom | Phú Quốc
+[11081947] Khách sạn Paralia Bãi Khem Phú Quốc (Paralia Khem Beach Phu Quoc Hotel) | Đảo Phú Quốc | review=8.5 | hits=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+[44314482] Khách sạn Mimosa Phú Quốc (Mimosa Hotel Phu Quoc) | Đảo Phú Quốc | review=8.5 | hits=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+
+==========================================================================================
+ACT 'show_hanoi' | city~Hà Nội | kws=['roi nuoc', 'puppet', 'thang long'] | matched=49
+==========================================================================================
+[37181026] Khách sạn Minasi Premium (Minasi Premium Hotel) | Hà Nội | review=8.8 | hits=4
+    - Vé xem Múa rối nước Thăng Long
+    - Thang Long Water Puppet Show - Vietnam
+[61425173] Khách sạn Tiến Minh 113 Lê Thanh Nghị (Tien Minh Hotel 113 Le Thanh Nghi) | Hà Nội | review=7.8 | hits=3
+    - Thang Long Water Puppet Theater Skip-the-Line Ticket - Hanoi
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+[86658383] Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ | Hà Nội | review=9.3 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | Hà Nội | review=9.2 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé Múa Rối Nước Thăng Long tại Hà Nội
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | Hà Nội | review=9.1 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | Hà Nội | review=9.1 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | Hà Nội | review=9.1 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Thang Long Water Puppet Theater Skip-the-Line Ticket - Hanoi
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | Hà Nội | review=9.0 | hits=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé Múa Rối Nước Thăng Long tại Hà Nội
+
+==========================================================================================
+ACT 'hue_tour' | city~Huế | kws=['song huong', 'dai noi', 'ca hue', 'citadel', 'city tour'] | matched=4
+==========================================================================================
+[70624] Khách sạn TTC Imperial (TTC Imperial Hotel) | Huế | review=9.1 | hits=3
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+    - Hue City Full-Day Tour - Imperial Citadel, Tombs, Pagoda
+[16209810] KOBI Onsen Huế Resort, Liên Kết Bởi Melia (Kobi Onsen Resort Hue, Affiliated by Melia) | Huế | review=9.0 | hits=3
+    - Hue City Full-Day Tour - Imperial Citadel, Tombs, Pagoda
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+[11002] Huong Giang Hotel Resort & Spa | Huế | review=8.5 | hits=2
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+    - Tour Thành Phố Huế Cả Ngày
+[5663891] Melia Vinpearl Huế (Melia Vinpearl Hue) | Huế | review=9.4 | hits=1
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+
+==========================================================================================
+ACT 'hotspring_danang' | city~Đà Nẵng | kws=['than tai', 'suoi khoang', 'khoang nong'] | matched=14
+==========================================================================================
+[33100210] Khách sạn Liberty Đà Nẵng (Liberty Hotel Da Nang) | Đà Nẵng | review=8.3 | hits=2
+    - Công viên Suối khoáng nóng Núi Thần Tài
+    - Vé Công viên Suối khoáng nóng Núi Thần Tài tại Đà Nẵng
+[64242078] Khách sạn DS Đà Nẵng (DS HOTEL ĐÀ NẴNG) | Đà Nẵng | review=8.6 | hits=1
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[2190907] Khách sạn Mường Thanh Luxury Đà Nẵng (Muong Thanh Luxury Da Nang hotel) | Đà Nẵng | review=8.5 | hits=1
+    - Vé Công Viên Suối Khoáng Nóng Thần Tài - Đà Nẵng
+[74957819] Wyndham Soleil Đà Nẵng - Dịch vụ đưa đón sân bay miễn phí (Wyndham Soleil Danang - Free Schedule Airport Shuttle) | Đà Nẵng | review=8.4 | hits=1
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[149036] Khách Sạn Mường Thanh Luxury Sông Hàn (Muong Thanh Luxury Song Han Hotel) | Đà Nẵng | review=8.2 | hits=1
+    - Vé Công Viên Suối Khoáng Nóng Thần Tài - Đà Nẵng
+[502099] Khách sạn Mường Thanh Grand Đà Nẵng (Muong Thanh Grand Da Nang Hotel) | Đà Nẵng | review=8.0 | hits=1
+    - Vé Công Viên Suối Khoáng Nóng Thần Tài - Đà Nẵng
+[59714076] Khách sạn Ocean Star Đà Nẵng Bay (Ocean Star Da Nang Bay Hotel) | Đà Nẵng | review=7.9 | hits=1
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[31998515] Khách sạn Cherry Đà Nẵng (Cherry Hotel Da Nang ) | Đà Nẵng | review=7.8 | hits=1
+    - Công viên Suối khoáng nóng Núi Thần Tài
+
+==========================================================================================
+ACT 'ninhbinh_from_hanoi' | city~Hà Nội | kws=['trang an', 'ninh binh', 'tam coc', 'bai dinh', 'hoa lu'] | matched=15
+==========================================================================================
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | Hà Nội | review=9.1 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[58686039] Khách sạn Hanoian (Hanoian Hotel) | Hà Nội | review=9.0 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[35054716] Khách sạn Hanoi Lucky (Hanoi Lucky Hotel ) | Hà Nội | review=8.5 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[729579] Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) | Hà Nội | review=8.4 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[247372] Khách sạn Mường Thanh Grand Hà Nội (Muong Thanh Grand Hanoi Hotel) | Hà Nội | review=8.2 | hits=1
+    - Chuyến Đi Trong Ngày Ninh Bình (Chuyến Đi Thuyền Tam Cốc Hoặc Tràng An & Hoa Lư Hoặc Bái Đính Với Hang Mua) | Khởi hành từ Hà Nội | Việt Nam
+[36780702] Khách sạn Coco Hà Nội (Coco Hanoi Hotel) | Hà Nội | review=7.9 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[289451] Khách sạn Công Đoàn Việt Nam (Cong Doan Viet Nam Hotel) | Hà Nội | review=7.8 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+[194445] Khách Sạn Hanoi Fantasea (Hanoi Fantasea Hotel) | Hà Nội | review=7.4 | hits=1
+    - Bai Dinh Trang An Private Day Tour Ninh Binh from Hanoi
+
+==========================================================================================
+ACT 'fasttrack_hcm' | city~Hồ Chí Minh | kws=['fast track', 'fast-track', 'lounge', 'phong cho', 'don tien san bay'] | matched=42
+==========================================================================================
+[47843559] Hilton Sài Gòn (Hilton Saigon) | Hồ Chí Minh | review=9.0 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | Hồ Chí Minh | review=8.9 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | Hồ Chí Minh | review=8.9 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | Hồ Chí Minh | review=8.9 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[10976] Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) | Hồ Chí Minh | review=8.7 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[488373] Khách sạn Pullman Saigon Centre (Pullman Saigon Centre Hotel) | Hồ Chí Minh | review=8.6 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[315667] Khách sạn Novotel Saigon Centre (Novotel Saigon Centre Hotel) | Hồ Chí Minh | review=8.5 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務
+[9195] Khách sạn Renaissance Riverside Sài Gòn (Renaissance Riverside Hotel Saigon) | Hồ Chí Minh | review=8.5 | hits=5
+    - Dịch vụ VIP Fast Track nhập cảnh tại sân bay Tân Sơn Nhất
+    - 新山一國際機場(SGN) | Terminal 2 | Jasmine Halal Lounge | 貴賓室服務

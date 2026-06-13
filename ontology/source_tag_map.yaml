@@ -1,0 +1,241 @@
+# source_tag_map.yaml — Tầng 0 của ontology_mapper (Sprint 2, Bước 1)
+# ---------------------------------------------------------------------------
+# Map VOCABULARY NGUỒN (Agoda) -> concept_id ĐÃ TỒN TẠI trong ontology/core/*.
+# Đây là lớp phủ rẻ & chắc nhất: tag nguồn -> concept, confidence cao (~0.95),
+# source: "source_tag". ontology_mapper áp bảng này TRƯỚC rule/embedding/LLM.
+#
+# QUY TẮC (theo working agreement):
+#   - CHỈ map sang concept_id có thật. KHÔNG bịa concept mới ở đây.
+#   - Giá trị nguồn chưa có concept phù hợp -> để ở `_unmapped` (ứng viên candidate_queue,
+#     CHỜ người duyệt + golden set; KHÔNG tự thêm vào core).
+#   - Noise (ngôn ngữ phục vụ, khoảng cách "Cách bãi biển X mét", an toàn COVID, vật dụng
+#     phòng vụn vặt) -> KHÔNG map, gom ở `_skip` kèm lý do.
+#   - Mỗi trường nguồn map theo NGỮ CẢNH riêng của nó (xem từng block).
+#
+# Phủ: top ~90 chuỗi amenity (theo Pareto, >95% số lần xuất hiện) + 4 trường cố định.
+# Số liệu khảo sát: docs/reports/ontology/sprint2/step0_data_survey.md
+version: "1.0.0"
+source: agoda
+ontology_version: concepts_v2.0.0
+
+# ===========================================================================
+# 1. accommodation_type -> object_type (facet one)  — 13/13 giá trị
+# ===========================================================================
+accommodation_type:
+  "Khách sạn":              OBJ_HOTEL
+  "Resort":                 OBJ_RESORT
+  "Căn hộ":                 OBJ_APARTMENT
+  "Căn hộ dịch vụ":         OBJ_APARTMENT
+  "Nhà dân":                OBJ_HOMESTAY
+  "Toàn bộ căn nhà":        OBJ_HOMESTAY      # nguyên căn cho thuê ~ homestay/nhà riêng
+  "Nhà khách / Nhà nghỉ B&B": OBJ_BNB
+  "Giường và Bữa sáng":     OBJ_BNB
+  "Nhà nghỉ":               OBJ_GUESTHOUSE
+  "Nhà nghỉ ven đường":     OBJ_GUESTHOUSE
+  "Biệt thự":               OBJ_VILLA
+  "Biệt thự nghỉ dưỡng":    OBJ_VILLA
+  "Bungalow":               OBJ_BUNGALOW
+
+# ===========================================================================
+# 2. suitable_for -> purpose (facet many)  — 6/6 giá trị
+# ===========================================================================
+suitable_for:
+  "Khách du lịch một mình":      PURPOSE_SOLO
+  "Cặp đôi":                     PURPOSE_ROMANTIC
+  "Nhóm du khách":               PURPOSE_GROUP
+  "Gia đình có trẻ nhỏ":         PURPOSE_FAMILY
+  "Gia đình có thanh thiếu niên": PURPOSE_FAMILY
+  "Khách đi công tác":           PURPOSE_BUSINESS
+
+# ===========================================================================
+# 3. view_types -> setting / amenity(view)  (many)  — "Hướng X"
+#    Hướng nhìn ra biển/đại dương/bãi biển -> AMEN_SEA_VIEW (đã có surface "hướng biển").
+#    Hướng ra cảnh quan tự nhiên -> setting tương ứng. Hướng đô thị/không-cảnh -> _skip.
+# ===========================================================================
+view_types:
+  "Hướng Biển":                  AMEN_SEA_VIEW
+  "Hướng Đại dương":             AMEN_SEA_VIEW
+  "Hướng Đại dương (một phần)":  AMEN_SEA_VIEW
+  "Hướng biển (hướng một phần)": AMEN_SEA_VIEW
+  "Hướng Bãi biển":              AMEN_SEA_VIEW
+  "Hướng Vịnh":                  AMEN_SEA_VIEW
+  "Hướng Vịnh biển":             AMEN_SEA_VIEW
+  "Hướng Núi":                   SETTING_MOUNTAIN
+  "Hướng Thung lũng":            SETTING_MOUNTAIN
+  "Hướng Sông":                  SETTING_RIVERSIDE
+  "Hướng Hồ":                    SETTING_RIVERSIDE
+  "Hướng Hồ (một phần)":         SETTING_RIVERSIDE
+  "Hướng Vườn":                  SETTING_NATURE
+  "Hướng Thiên nhiên":           SETTING_NATURE
+  "Hướng Nông thôn":             SETTING_NATURE
+  "Hướng Bể bơi":                AMEN_POOL          # nhìn ra hồ bơi -> có hồ bơi
+  # _skip (không mang ý nghĩa lọc setting/amenity):
+  #   "Hướng Thành phố", "Hướng Đường phố", "Hướng Ngoài trời", "Hướng Sân trong",
+  #   "Hướng Công viên", "Hướng Không có cửa sổ", "Hướng Cảnh đêm"
+
+# ===========================================================================
+# 4. amenities + amenity_groups[*] -> amenity (many)
+#    Map các chuỗi nguồn về AMEN_* có thật. Một concept gom nhiều biến thể nguồn.
+#    Phủ top theo tần suất; đuôi hiếm + chuỗi không có concept -> _unmapped / _skip.
+# ===========================================================================
+amenities:
+  # ---- Pool family ----
+  "Bể bơi ngoài trời":      AMEN_POOL
+  "Bể bơi":                 AMEN_POOL
+  "Bể bơi trong nhà":       AMEN_POOL
+  "Tiện nghi bể bơi":       AMEN_POOL
+  "Lối vào hồ bơi":         AMEN_POOL
+  "Lối vào tất cả các bể bơi tại chỗ nghỉ phù hợp cho người khuyết tật": AMEN_POOL
+  "Bể bơi có tầm nhìn":     AMEN_INFINITY_POOL
+  "Bể bơi trẻ em":          AMEN_KIDS_POOL
+  "Bể bơi riêng":           AMEN_PRIVATE_POOL
+  # ---- Beach / water ----
+  "Bãi biển riêng":         AMEN_BEACHFRONT
+  "Khu đối diện bãi biển":  AMEN_BEACHFRONT
+  "Lối vào bãi biển riêng": AMEN_BEACHFRONT
+  "Bãi biển":               AMEN_BEACHFRONT
+  # ---- Wellness / sport ----
+  "Spa":                    AMEN_SPA
+  "Mát-xa":                 AMEN_SPA
+  "Spa xông khô":           AMEN_SPA
+  "Phòng xông ướt":         AMEN_SPA
+  "Xông khô":               AMEN_SPA
+  "Phòng xông khô":         AMEN_SPA
+  "Phòng xông khô hàn quốc": AMEN_SPA
+  "Nhà tắm thổ nhĩ kỳ":     AMEN_SPA
+  "Tắm suối nước nóng":     AMEN_SPA
+  "Bồn ngâm chân":          AMEN_SPA
+  "Phòng tập":              AMEN_GYM
+  "Sân gôn":                AMEN_GOLF
+  "Sân gôn tại chỗ nghỉ":   AMEN_GOLF
+  "Sân gôn nhỏ":            AMEN_GOLF
+  "Phòng yoga":             AMEN_GYM           # phòng tập yoga ~ gym/fitness
+  # ---- Family ----
+  "CLB trẻ em":             AMEN_KIDS_CLUB
+  "Sân chơi":               AMEN_KIDS_CLUB
+  "Cơ sở vật chất cho trẻ em": AMEN_KIDS_CLUB
+  "Thích hợp cho gia đình trẻ em": AMEN_KIDS_CLUB
+  "Dịch vụ trông trẻ":      AMEN_BABYSITTING
+  # ---- Services ----
+  "Đưa đón sân bay":        AMEN_AIRPORT_SHUTTLE
+  "Miễn phí đưa đón sân bay": AMEN_AIRPORT_SHUTTLE
+  "Dịch vụ đưa đón":        AMEN_AIRPORT_SHUTTLE
+  "WiFi miễn phí":          AMEN_WIFI
+  "WiFi":                   AMEN_WIFI
+  "WiFi có dây":            AMEN_WIFI
+  "WiFi mạng lan trong phòng miễn phí": AMEN_WIFI
+  "Quán bar":               AMEN_BAR
+  "Quán bar cạnh bể bơi":   AMEN_BAR
+  "Quán rượu":              AMEN_BAR
+  "Nhà hàng":               AMEN_RESTAURANT
+  "Dịch vụ phòng":          AMEN_RESTAURANT
+  "Dịch vụ phòng 24 giờ":   AMEN_RESTAURANT
+  "Bữa sáng tự chọn":       AMEN_RESTAURANT
+  "Nhà hàng bữa sáng":      AMEN_RESTAURANT
+  "Nhà hàng phục vụ bữa trưa": AMEN_RESTAURANT
+  "Nhà hàng phục vụ cà phê trà": AMEN_RESTAURANT
+  "Nhà hàng phục vụ gọi theo món": AMEN_RESTAURANT
+  "Nhà hàng ẩm thực châu á": AMEN_RESTAURANT
+  "Quán cà phê":            AMEN_CAFE
+  # cách âm = tín hiệu yên tĩnh (presence) -> STYLE_QUIET
+  "Phòng cách âm":          STYLE_QUIET
+  "Cách âm":                STYLE_QUIET
+  "Điều hòa":               AMEN_AC
+  "Điều hòa ở khu vực chung": AMEN_AC
+  "Điều hòa cá nhân":       AMEN_AC
+  "Đỗ xe miễn phí":         AMEN_PARKING
+  "Đỗ xe tại chỗ":          AMEN_PARKING
+  "Đỗ xe có nhân viên":     AMEN_PARKING
+  "Đỗ xe gần bên":          AMEN_PARKING
+  "Bãi đậu xe tính phí":    AMEN_PARKING
+  "Bãi để xe":              AMEN_PARKING
+  "Đỗ xe trả phí":          AMEN_PARKING
+  "Chỗ để xe cho ô tô - phương tiện tự đỗ xe": AMEN_PARKING
+  "Thang máy":              AMEN_ELEVATOR
+  "Đi lên bằng thang máy":  AMEN_ELEVATOR
+  "Bếp":                    AMEN_KITCHEN
+  "Bếp chung":              AMEN_KITCHEN
+  "Bếp nhỏ":                AMEN_KITCHEN
+  "Bếp đầy đủ":             AMEN_KITCHEN
+  # ---- Pet ----
+  "Được phép đưa thú nuôi vào":      AMEN_PET_FRIENDLY
+  "Được mang theo chó":              AMEN_PET_FRIENDLY
+  "Được mang theo mèo":              AMEN_PET_FRIENDLY
+  "Cho phép đưa thú cưng vào miễn phí": AMEN_PET_FRIENDLY
+  "Được phép đưa thú cưng vào phòng": AMEN_PET_FRIENDLY
+  "Cơ sở vật chất cho thú cưng":     AMEN_PET_FRIENDLY
+  # ---- Accessibility ----
+  "Phù hợp cho xe lăn":     AMEN_WHEELCHAIR
+  "Tiện nghi cho khách khuyết tật": AMEN_WHEELCHAIR
+  "Các phương tiện dành cho khách khuyết tật": AMEN_WHEELCHAIR
+  "Khả năng tiếp cận cho người khó đi lại": AMEN_WHEELCHAIR
+  "Nhà vệ sinh cho người khuyết tật": AMEN_WHEELCHAIR
+  "Phòng tắm dành cho người khuyết tật": AMEN_WHEELCHAIR
+  # ---- Meeting / business ----
+  "Cơ sở vật chất cho họp mặt tiệc lớn": AMEN_MEETING_ROOM
+  "Phòng họp":              AMEN_MEETING_ROOM
+  "Phòng hội thảo":         AMEN_MEETING_ROOM
+  # ---- Garden / outdoor ----
+  "Vườn":                   AMEN_GARDEN
+  "Sân hiên":               AMEN_GARDEN
+  "Khu vực tầng thượng":    AMEN_GARDEN
+  "Ban công sân hiên":      AMEN_GARDEN
+  "Khu vực tầng thượng ":   AMEN_GARDEN
+  "Đồ gỗ ngoài trời":       AMEN_GARDEN
+  # ---- Bike ----
+  "Đỗ xe đạp":              AMEN_BIKE
+  "Thuê xe đạp":            AMEN_BIKE
+  "Xe đạp":                 AMEN_BIKE
+  "Thuê xe đạp miễn phí":   AMEN_BIKE
+  # ---- Sport / leisure (promote từ candidate 2026-06-08) ----
+  "Sân quần vợt":           AMEN_TENNIS
+  "Sân cầu lông":           AMEN_TENNIS
+  "Sân bóng quần":          AMEN_TENNIS
+  "Karaoke":                AMEN_KARAOKE
+  "Bi-a":                   AMEN_GAME_ROOM
+  "Bóng bàn":               AMEN_GAME_ROOM
+  "Bơi xuồng":              AMEN_WATERSPORT
+  "Câu cá":                 AMEN_WATERSPORT
+  "Lặn":                    AMEN_WATERSPORT
+  "Bơi với ống thở":        AMEN_WATERSPORT
+  "Các môn thể thao dưới nước không có động cơ": AMEN_WATERSPORT
+  "Các môn thể thao dưới nước có động cơ":       AMEN_WATERSPORT
+  "Thuê dụng cụ thể thao dưới nước":             AMEN_WATERSPORT
+  "Đi chơi bằng thuyền":    AMEN_WATERSPORT
+  "Đi bộ đường dài":        AMEN_HIKING
+
+# ===========================================================================
+# _unmapped — vocabulary nguồn LẶP NHIỀU nhưng CHƯA có concept phù hợp.
+#   => ứng viên candidate_queue. KHÔNG tự thêm core. (đối chiếu candidate_queue.yaml)
+#   Ghi kèm tần suất (số hotel) + gợi ý concept_id nếu được duyệt.
+# ===========================================================================
+_unmapped:
+  # ✅ ĐÃ PROMOTE (2026-06-08): Tennis, Karaoke, GameRoom(bi-a/bóng bàn), Watersport, Hiking
+  #    -> đã chuyển lên mục `amenities` chính + thêm vào core/amenity.yaml.
+  # ⏸ DEFER (chờ query log / review ABSA):
+  amenities_defer:
+    - {value: "Phòng yoga",   freq: 120, suggest: AMEN_YOGA,   note: "tạm map AMEN_GYM ở mục chính; tách riêng nếu query log đòi"}
+    - {value: "Câu lạc bộ đêm", freq: 88, suggest: null,       note: "nightclub; gần STYLE_LIVELY — chờ review"}
+    - {value: "Công viên nước", freq: 83, suggest: null,       note: "water park; gần PURPOSE_FAMILY — chờ tín hiệu"}
+    - {value: "Công viên giải trí", freq: 45, suggest: null,   note: "thường là nearby landmark hơn amenity"}
+    - {value: "Thư viện",     freq: 52,  suggest: null,        note: "chờ tín hiệu"}
+  # ❌ REJECT (không phân biệt / ít giá trị lọc — KHÔNG promote):
+  amenities_reject:
+    - {value: "Đổi ngoại tệ", freq: 514, reason: "dịch vụ vận hành, gần như KS nào cũng có -> không phân biệt khi search"}
+    - {value: "Cửa hàng tạp hóa", freq: 288, reason: "convenience, ít giá trị lọc"}
+    - {value: "Tủ lạnh",      freq: 358, reason: "tiện nghi trong phòng phổ biến, không phân biệt"}
+    - {value: "Sòng bạc",     freq: 47,  reason: "casino hiếm ở VN, không ai search"}
+
+# ===========================================================================
+# _skip — KHÔNG map (không mang ý nghĩa lọc tìm kiếm). Ghi lý do theo nhóm.
+# ===========================================================================
+_skip:
+  groups:
+    - {pattern: "Tiếng <ngôn ngữ>",       reason: "ngôn ngữ nhân viên phục vụ — không phải tiện ích lọc (Tiếng Anh/Việt/Hàn/Nga...)"}
+    - {pattern: "Cách bãi biển X mét / Cách phương tiện công cộng X mét", reason: "khoảng cách — thuộc range_filters/nearby, KHÔNG phải amenity (~80 chuỗi đuôi)"}
+    - {pattern: "Tọa lạc tại trung tâm <thành phố>", reason: "là location/SETTING_CITY_CENTER suy từ field location, không map qua amenity"}
+    - {pattern: "an toàn COVID / khử trùng / khẩu trang / giãn cách", reason: "biện pháp vệ sinh tạm thời — không phải tiện ích phân biệt (Sản phẩm làm sạch chống virus, Khẩu trang miễn phí, Giãn cách 1 mét, Nhiệt kế cơ thể...)"}
+    - {pattern: "vật dụng phòng vụn vặt", reason: "không mang giá trị lọc (Bộ kim chỉ, Đèn đọc sách, Ổ điện hạ thấp, Móc, Bàn là, TV, Tủ lạnh-mini, Gia vị thiết yếu...)"}
+    - {pattern: "dịch vụ hành chính / lễ tân chung", reason: "phổ biến ~mọi KS, không phân biệt (Bàn tiếp tân 24 giờ, Giữ hành lý, Dịch vụ giặt là, Có cung cấp hóa đơn, Đổi tiền, Dịch vụ bưu chính...)"}
+    - {pattern: "an ninh chung", reason: "Bảo vệ 24 giờ, CCTV — phổ biến, ít giá trị lọc"}
+    - {pattern: "phòng không hút thuốc / hút thuốc", reason: "thuộc tính phòng, không phải amenity cơ sở"}

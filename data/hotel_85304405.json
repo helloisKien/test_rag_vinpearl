@@ -1,0 +1,902 @@
+{
+  "crawled_at": "2026-06-04T11:50:29",
+  "source_url": "https://www.agoda.com/tru-by-hilton-da-nang-city-centre-h85304405/hotel/da-nang-vn.html?hotel=85304405&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 85304405,
+  "name": "Tru by Hilton Da Nang City Centre",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 0.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "15 Le Duan Street, Hải Châu, Đà Nẵng, Việt Nam",
+  "area": "Hải Châu",
+  "city": "Đà Nẵng",
+  "country": "Việt Nam",
+  "postal_code": "220000",
+  "latitude": 16.07149314880371,
+  "longitude": 108.22224426269531,
+  "description": "Nằm ở vị trí trung tâm tại Hải Châu của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "check_in_from": null,
+  "check_out_until": null,
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {},
+  "highlights": [
+    "Tọa lạc tại trung tâm Đà Nẵng"
+  ],
+  "location_tags": [
+    "Dragon Bridge",
+    "My Khe Beach",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "trong nội thành",
+    "Điểm mua sắm và chợ",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Tọa lạc tại trung tâm đà nẵng"
+  ],
+  "amenities_count": 1,
+  "amenity_groups": {},
+  "amenities_general": [],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Bưu điện trung tâm thành phố Đà Nẵng",
+      "type": "Dịch Vụ Internet, Bưu Chính và Điện Thoại",
+      "distance_km": 0.26
+    },
+    {
+      "name": "Trung tâm Thương mại Indochina Riverside",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.28
+    },
+    {
+      "name": "Dana Tours",
+      "type": "Thông Tin Du Lịch và Du Hành",
+      "distance_km": 0.29
+    },
+    {
+      "name": "Trung tâm thương mại Indochina Riverside",
+      "type": "Cửa Hiệu",
+      "distance_km": 0.31
+    },
+    {
+      "name": "Đại học Đà Nẵng",
+      "type": "Trường Cao Đẳng và Đại Học",
+      "distance_km": 0.31
+    },
+    {
+      "name": "Ngân hàng Vietcombank",
+      "type": "Ngân Hàng và Quầy Đổi Ngoại Tệ",
+      "distance_km": 0.35
+    },
+    {
+      "name": "Nhà may Paul Bespoke Tailoring",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.36
+    },
+    {
+      "name": "Tranh đá quý Thái Hoàng",
+      "type": "Viện Bảo Tàng và Phòng Trưng Bày Nghệ Thuật",
+      "distance_km": 0.41
+    },
+    {
+      "name": "Công Ty TNHH Tơ Lụa Nhất Hoa",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.43
+    },
+    {
+      "name": "Cửa hàng Kitsch",
+      "type": "Cửa Hiệu",
+      "distance_km": 0.43
+    }
+  ],
+  "image_count": 26,
+  "image_urls": [
+    "https://pix8.agoda.net/hotelImages/85304405/1331978683/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978736/7c66adae8cfecdfef1739c6c7b8037ad.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/645a7066e176d79b1b6348a4d5918dd7.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/cb950358b684dc3937a9cb7705b94169.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/0c67db7afa4403be91ee5434b0509f70.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/cec1a29ea702a7a11ac76c0dc5406d43.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/3eaa6385af07deb5d20f35d21b557cb1.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978736/509af99cd82bc92ead53d0a8f043292a.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/eb0d092f352e3510862a7aad2d65543d.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/27703ea8d139e30ee0b7bf1d1e14a0c9.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978700/5f1efd33486d943b1cb0bc670bb5c383.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/a9751d8b8734e0e005a67a0562abbd48.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/1d2910cbfb3482311a70ec636a7c76a7.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978683/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/9753944c4ebf4d18059698f2cac4d0c4.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/42125b8459e57b12e3af46ba25f2709c.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978711/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/aee7aba838b311035cc9e0ddd9c024fd.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/0/099b456b0b9e6a95776109a91e886dbb.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978700/08245c0c447dbc181c659e9f956caad9.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85304405/1331978707/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/40748/2_40748_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/38127/43747db72327a420ca9c003d669d4f9d.jpg?ca=19&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24364/2_24364_03.jpg?ca=7&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978683/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng 1 Giường Lớn - Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978736/7c66adae8cfecdfef1739c6c7b8037ad.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng 4 giường đơn - Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/645a7066e176d79b1b6348a4d5918dd7.jpeg?ce=3&s=1024x768",
+      "caption": "Hành lang",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/cb950358b684dc3937a9cb7705b94169.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/0c67db7afa4403be91ee5434b0509f70.jpeg?ce=3&s=1024x768",
+      "caption": "Nội thất khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/cec1a29ea702a7a11ac76c0dc5406d43.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/3eaa6385af07deb5d20f35d21b557cb1.jpeg?ce=3&s=1024x768",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978736/509af99cd82bc92ead53d0a8f043292a.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng 4 giường đơn - Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/eb0d092f352e3510862a7aad2d65543d.jpeg?ce=3&s=1024x768",
+      "caption": "Quán bar",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/27703ea8d139e30ee0b7bf1d1e14a0c9.jpeg?ce=3&s=1024x768",
+      "caption": "Tiện nghi giải trí",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978700/5f1efd33486d943b1cb0bc670bb5c383.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/a9751d8b8734e0e005a67a0562abbd48.jpeg?ce=3&s=1024x768",
+      "caption": "Tiện nghi giải trí",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/1d2910cbfb3482311a70ec636a7c76a7.jpeg?ce=3&s=1024x768",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978683/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng 1 Giường Lớn - Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/9753944c4ebf4d18059698f2cac4d0c4.jpeg?ce=3&s=1024x768",
+      "caption": "Nhà hàng",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/42125b8459e57b12e3af46ba25f2709c.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978711/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/aee7aba838b311035cc9e0ddd9c024fd.jpeg?ce=3&s=1024x768",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/0/099b456b0b9e6a95776109a91e886dbb.jpeg?ce=3&s=1024x768",
+      "caption": "Nội thất khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978700/08245c0c447dbc181c659e9f956caad9.jpeg?ce=3&s=1024x768",
+      "caption": "Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85304405/1331978707/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=1024x768",
+      "caption": "1 KING ACCESSIBLE ROOM - Phòng nghỉ",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu sông Hàn - Cách nơi ở 480 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/40748/2_40748_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Nhà thờ chính tòa Đà Nẵng - Cách nơi ở 540 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/38127/43747db72327a420ca9c003d669d4f9d.jpg?ca=19&ce=1&s=1024x768",
+      "caption": "Đền Cao Đài - cách nơi ở 1.07 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu Rồng - cách nơi ở 1.29 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24364/2_24364_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Cầu Thuận Phước - cách nơi ở 2.3 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Hải Châu",
+  "province": "Đà Nẵng",
+  "city_id": 16440,
+  "property_page": "/tru-by-hilton-da-nang-city-centre-h85304405/hotel/da-nang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 6,
+    "rooms": [
+      {
+        "room_type_id": 1331978683,
+        "name": "Phòng 1 Giường Lớn (1 King Bed Room)",
+        "name_en": "(1 King Bed Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 11,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978683/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978683/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978683/e038ff24722f686640ed4d3a47e589dd.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978683/747aee0a25d5dd0d0030a116c287049a.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978683/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1220000
+      },
+      {
+        "room_type_id": 1331978736,
+        "name": "Phòng 4 giường đơn (2 Twin Bed Room)",
+        "name_en": "(2 Twin Bed Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 16,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978736/7c66adae8cfecdfef1739c6c7b8037ad.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978736/509af99cd82bc92ead53d0a8f043292a.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978736/a9bd3deba0dfe21aae3e8512d28a8ccb.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978736/2bf88c4fea46e036eccdadc9e81702e8.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978736/035cb381bf0f4ec4b318d7ca3d21c244.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1470000
+      },
+      {
+        "room_type_id": 1331978700,
+        "name": "1 KING GUEST RM W SOFA BED (1 King Guest Rm W Sofa Bed)",
+        "name_en": "(1 King Guest Rm W Sofa Bed)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 18,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978700/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978700/5f1efd33486d943b1cb0bc670bb5c383.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978700/e038ff24722f686640ed4d3a47e589dd.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978700/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978700/747aee0a25d5dd0d0030a116c287049a.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1580000
+      },
+      {
+        "room_type_id": 1331978732,
+        "name": "2 Queen Accessible Room",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 6,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978732/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978732/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978732/15a1be2eb0c870bcecc894e5ef2c0693.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978732/b681aa84aadac7271f8778b59f399ad1.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978732/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1200000
+      },
+      {
+        "room_type_id": 1331978711,
+        "name": "1 QUEEN ACCESSIBLE ROOM (1 Queen Accessible Room)",
+        "name_en": "(1 Queen Accessible Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 4,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978711/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978711/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978711/077b2d06f294c025deb4efac520921e0.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978711/d5861abb5e2526bf653b8b48fea0ba3b.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1150000
+      },
+      {
+        "room_type_id": 1331978707,
+        "name": "1 KING ACCESSIBLE ROOM (1 King Accessible Room)",
+        "name_en": "(1 King Accessible Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 5,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85304405/1331978707/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978707/da40f5b9d8d4b332577aed0a622fec8c.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978707/3cc9d78da79f5f2b2fa23bbb37ab898f.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978707/1143069aed9a7df98328ae71f7b450aa.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85304405/1331978707/154987b62ae389f84a7172113026424c.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1440000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1331978683,
+      "name": "Phòng 1 Giường Lớn (1 King Bed Room)",
+      "name_en": "(1 King Bed Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 11,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978683/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978683/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978683/e038ff24722f686640ed4d3a47e589dd.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978683/747aee0a25d5dd0d0030a116c287049a.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978683/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1220000
+    },
+    {
+      "room_type_id": 1331978736,
+      "name": "Phòng 4 giường đơn (2 Twin Bed Room)",
+      "name_en": "(2 Twin Bed Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 16,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978736/7c66adae8cfecdfef1739c6c7b8037ad.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978736/509af99cd82bc92ead53d0a8f043292a.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978736/a9bd3deba0dfe21aae3e8512d28a8ccb.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978736/2bf88c4fea46e036eccdadc9e81702e8.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978736/035cb381bf0f4ec4b318d7ca3d21c244.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1470000
+    },
+    {
+      "room_type_id": 1331978700,
+      "name": "1 KING GUEST RM W SOFA BED (1 King Guest Rm W Sofa Bed)",
+      "name_en": "(1 King Guest Rm W Sofa Bed)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 18,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978700/2991a7d6d88deeb183176072cab3ba9b.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978700/5f1efd33486d943b1cb0bc670bb5c383.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978700/e038ff24722f686640ed4d3a47e589dd.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978700/0aa1f68e82b343e8764708536bc496cb.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978700/747aee0a25d5dd0d0030a116c287049a.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1580000
+    },
+    {
+      "room_type_id": 1331978732,
+      "name": "2 Queen Accessible Room",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 6,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978732/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978732/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978732/15a1be2eb0c870bcecc894e5ef2c0693.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978732/b681aa84aadac7271f8778b59f399ad1.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978732/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1200000
+    },
+    {
+      "room_type_id": 1331978711,
+      "name": "1 QUEEN ACCESSIBLE ROOM (1 Queen Accessible Room)",
+      "name_en": "(1 Queen Accessible Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 4,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978711/17c27b9ddf45694421467950cb4a0ee6.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978711/3194cf231874b21e10fae9e94d54e84d.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978711/077b2d06f294c025deb4efac520921e0.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978711/d5861abb5e2526bf653b8b48fea0ba3b.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1150000
+    },
+    {
+      "room_type_id": 1331978707,
+      "name": "1 KING ACCESSIBLE ROOM (1 King Accessible Room)",
+      "name_en": "(1 King Accessible Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 5,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85304405/1331978707/b475c4cc0d5795d2b60786386c33a3be.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978707/da40f5b9d8d4b332577aed0a622fec8c.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978707/3cc9d78da79f5f2b2fa23bbb37ab898f.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978707/1143069aed9a7df98328ae71f7b450aa.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85304405/1331978707/154987b62ae389f84a7172113026424c.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1440000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": null,
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 6,
+    "dateless_rooms": [
+      {
+        "room_id": 1331978700,
+        "name": "1 KING GUEST RM W SOFA BED (1 King Guest Rm W Sofa Bed)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1331978736,
+        "name": "Phòng 4 giường đơn (2 Twin Bed Room)",
+        "features": [],
+        "image_count": 16,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1331978683,
+        "name": "Phòng 1 Giường Lớn (1 King Bed Room)",
+        "features": [],
+        "image_count": 11,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1331978732,
+        "name": "2 Queen Accessible Room",
+        "features": [],
+        "image_count": 6,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1331978707,
+        "name": "1 KING ACCESSIBLE ROOM (1 King Accessible Room)",
+        "features": [],
+        "image_count": 5,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1331978711,
+        "name": "1 QUEEN ACCESSIBLE ROOM (1 Queen Accessible Room)",
+        "features": [],
+        "image_count": 4,
+        "bed_summary": null
+      }
+    ]
+  },
+  "activities": [
+    {
+      "activity_id": 1489059,
+      "title": "Sun World Ba Na Hills - Cáp treo & Buffet",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi du khách có thể chiêm ngưỡng khung cảnh núi non hùng vĩ từ trên cao. Trải nghiệm hệ thống cáp treo hiện đại để di chuyển lên đỉnh núi và tận hưởng không",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1197640.0,
+                "crossedOut": 1274085.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1033902,
+      "title": "Vé vào cổng Công viên nước Mikazuki 365, Đà Nẵng",
+      "description": "Khám phá Mikazuki Water Park 365, công viên nước trong nhà độc đáo tại Đà Nẵng, nơi mang đến những trải nghiệm vui chơi dưới nước suốt bốn mùa bất kể thời tiết.\n\n- Thư giãn tại Onsen theo phong cách N",
+      "review_score": 4.4,
+      "review_count": 44,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 216200.0,
+                "crossedOut": 224974.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1129195,
+      "title": "DIFF 2026 | Vé tham dự Lễ hội Pháo hoa Quốc tế Đà Nẵng | Nhận voucher miễn phí trên KKday",
+      "description": "Nhận nhiều loại voucher hấp dẫn, bao gồm vé xem\nÁo Dài Show\n,\nBảo tàng Đà Nẵng\n, cùng",
+      "review_score": 4.6,
+      "review_count": 15,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 745773.0,
+                "crossedOut": 850369.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1396114,
+      "title": "Private Car Transfer: Da Nang Airport to Hotel",
+      "description": "Travel between Da Nang Airport, the train station, and your hotel in the city center with a private car transfer. This service is available for both arrivals and departures.\n\n- Complimentary transfers",
+      "review_score": 4.8,
+      "review_count": 114,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 88122.0,
+                "crossedOut": 114295.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681591,
+      "title": "峴港國際機場(DAD) | Domestic Terminal | Domestic Business Lounge | 貴賓室服務",
+      "description": "位於峴港國際機場國內航站樓三樓，安檢後出發區域。\n提供冷熱餐食、自助小食、飲料及水果，滿足各種需求。\n營業時間：每日04:30-22:00。\n使用時間限制：最多可使用120分鐘。\n2歲以下兒童可免費入內。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 682055.0,
+                "crossedOut": 890411.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1041545,
+      "title": "Vé Sun World Ba Na Hills | Đà Nẵng",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi bạn có thể chiêm ngưỡng Cầu Vàng biểu tượng và ghé thăm chùa Linh Ứng thanh tịnh.\n\n- Trải nghiệm cáp treo ngắm nhìn toàn cảnh vùng núi Ba Na từ trên cao",
+      "review_score": 4.6,
+      "review_count": 2560,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 96944.0,
+                "crossedOut": 96944.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541702,
+      "title": "Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills",
+      "description": "Trải nghiệm cảm giác mạnh cùng Alpine Coaster tại Sun World Ba Na Hills, nơi bạn có thể tự điều khiển tốc độ khi lướt đi trên đường ray uốn lượn.\n\n- Hệ thống xe trượt tốc độ cao vận hành bằng trọng lự",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 100982.0,
+                "crossedOut": 100982.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1042432,
+      "title": "Xe Thuê Riêng Đà Nẵng - Bà Nà Hills | Việt Nam",
+      "description": "Di chuyển từ trung tâm thành phố Đà Nẵng đến Ba Na Hills bằng dịch vụ xe riêng, giúp bạn dễ dàng tiếp cận điểm đến đầy sức hút này.\n\n- Khám phá các điểm tham quan tại Sun World Ba Na Hills như Cầu Vàn",
+      "review_score": 4.5,
+      "review_count": 685,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 317945.0,
+                "crossedOut": 376712.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1259234,
+      "title": "[Giảm 20%] Xe đưa đón riêng Hội An - Đà Nẵng và ngược lại",
+      "description": "Di chuyển thuận tiện giữa Hội An và Đà Nẵng với dịch vụ xe đưa đón riêng, phù hợp cho hành trình khám phá miền Trung.\n\n- Xe đón trong vòng 30 phút sau khi đặt\n- Tài xế giàu kinh nghiệm cùng hệ thống x",
+      "review_score": 4.9,
+      "review_count": 554,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 244528.0,
+                "crossedOut": 294257.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681590,
+      "title": "峴港國際機場(DAD) | International Terminal | CIP Orchid Lounge | 貴賓室服務",
+      "description": "位置：峴港國際機場國際航廈夾層，安檢後右轉100米\n設施亮點：提供冷熱餐食、自助酒精飲料及淋浴設施\n營業時間：每日營業，從第一班飛機至最後一班飛機\n使用時間限制：每位客人最多可使用180分鐘\n家庭友好：2歲以下兒童可免費入內",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 846223.0,
+                "crossedOut": 1000263.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Dragon Bridge",
+    "My Khe Beach",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "trong nội thành",
+    "Điểm mua sắm và chợ",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Tru by Hilton Da Nang City Centre tại Đà Nẵng.\nĐịa chỉ: 15 Le Duan Street, Hải Châu, Đà Nẵng, Việt Nam.\nNằm ở vị trí trung tâm tại Hải Châu của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nTiện ích: Tọa lạc tại trung tâm Đà Nẵng.\nCác loại phòng: Phòng 1 Giường Lớn (1 King Bed Room); Phòng 4 giường đơn (2 Twin Bed Room); 1 KING GUEST RM W SOFA BED (1 King Guest Rm W Sofa Bed); 2 Queen Accessible Room; 1 QUEEN ACCESSIBLE ROOM (1 Queen Accessible Room); 1 KING ACCESSIBLE ROOM (1 King Accessible Room).\nGần: Bưu điện trung tâm thành phố Đà Nẵng, Trung tâm Thương mại Indochina Riverside, Dana Tours, Trung tâm thương mại Indochina Riverside, Đại học Đà Nẵng, Ngân hàng Vietcombank.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

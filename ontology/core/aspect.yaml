@@ -1,0 +1,82 @@
+# core/aspect.yaml — facet: aspect (SOFT fact). Khía cạnh đánh giá dùng cho ABSA (Sprint 2).
+# Core = khía cạnh chuẩn ngành (Agoda rating_breakdown/review tags, Booking review categories,
+# Tripadvisor rating categories). TRUNG TÍNH: sentiment riêng, KHÔNG nhét tốt/xấu vào ID.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  ASPECT_CLEANLINESS:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Độ sạch sẽ, en: Cleanliness}
+    surface_forms:
+      vi: [độ sạch sẽ, sạch sẽ, vệ sinh, sạch]
+      en: [cleanliness, clean]
+    description: {vi: Khía cạnh độ sạch sẽ / vệ sinh, en: Cleanliness aspect}
+
+  ASPECT_SERVICE:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Dịch vụ, en: Service}
+    surface_forms:
+      vi: [dịch vụ, nhân viên, thái độ phục vụ, chăm sóc khách]
+      en: [service, staff]
+    description: {vi: Khía cạnh dịch vụ / thái độ nhân viên, en: Service / staff aspect}
+
+  ASPECT_LOCATION:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Vị trí, en: Location}
+    surface_forms:
+      vi: [vị trí, địa điểm, vị trí thuận tiện]
+      en: [location]
+    description: {vi: Khía cạnh vị trí / địa điểm, en: Location aspect}
+
+  ASPECT_FOOD:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Ăn uống, en: Food}
+    surface_forms:
+      vi: [ăn uống, bữa sáng, ẩm thực, đồ ăn, món ăn]
+      en: [food, breakfast, dining]
+    description: {vi: Khía cạnh ăn uống / ẩm thực, en: Food / dining aspect}
+
+  ASPECT_ROOM:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Phòng, en: Room}
+    surface_forms:
+      vi: [phòng, kích thước phòng, độ thoải mái của phòng, chất lượng phòng, tiện nghi phòng]
+      en: [room, room comfort, room quality]
+    description: {vi: Khía cạnh phòng (kích thước, tiện nghi, thoải mái), en: Room aspect (size, comfort, amenities)}
+
+  ASPECT_VALUE:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Đáng tiền, en: Value}
+    surface_forms:
+      vi: [đáng tiền, giá trị, đáng giá, xứng đáng]
+      en: [value, value for money, worth]
+    description: {vi: Khía cạnh giá trị / đáng đồng tiền, en: Value-for-money aspect}
+
+  ASPECT_FACILITIES:
+    facet: aspect
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Cơ sở vật chất, en: Facilities}
+    surface_forms:
+      vi: [cơ sở vật chất, tiện ích, tiện nghi cơ sở lưu trú]
+      en: [facilities, amenities quality]
+    description: {vi: Khía cạnh cơ sở vật chất / tiện nghi chung, en: Facilities aspect}

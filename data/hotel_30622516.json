@@ -1,0 +1,2339 @@
+{
+  "crawled_at": "2026-06-06T14:45:43",
+  "source_url": "https://www.agoda.com/alpha-homestay-marina-long-xuyen/hotel/long-xuyen-an-giang-vn.html?hotel=30622516&currency=VND&checkIn=2026-06-16&checkOut=2026-06-17&rooms=1&adults=2&children=0",
+  "hotel_id": 30622516,
+  "name": "Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 3.5,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 8.5,
+  "review_count": 208,
+  "address": "Marina Plaza Long Xuyên, Long Xuyên, Long Xuyên, Việt Nam",
+  "area": "Long Xuyên",
+  "city": "Long Xuyên",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 10.3832484,
+  "longitude": 105.4366191,
+  "description": "Chào cả nhà, Alpha Hotel Long Xuyên là loại hình khách sạn theo phong cách căn hộ. Mang đến cho khách hàng không gian nghỉ ngơi, giải trí yên tĩnh và kín đáo. Được trang bị đầy đủ nội thất bao gồm: bếp, tủ lạnh, máy lạnh, bàn ghế, rèm, ban công...\nĐến với ALPHA khách hàng có thể tận hưởng:\n- View thành phố Long Xuyên đẹp và yên bình\n- View chụp hình check in xịn sò\n- Không gian riêng tư sạch sẽ và thoải mái ( Căn hộ được vệ sinh và thay mới ga gói thường xuyên)\n- Đầy đủ tiện nghi của 1 căn hộ: bếp, tủ lạnh, máy lạnh, bàn ghế, rèm, máy nước nóng, wifi, ban công...",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "11:00",
+    "Nhận phòng đến": "23:59"
+  },
+  "highlights": [
+    "Điều hòa",
+    "Thang máy",
+    "Ban công/sân hiên",
+    "Khu vực hút thuốc",
+    "Vải trải giường"
+  ],
+  "location_tags": [
+    "Bếp dễ tiếp cận",
+    "Dịch vụ chăm sóc khách chuyên nghiệp",
+    "Giá trị vượt trội",
+    "Tầm nhìn đẹp",
+    "Vị trí lý tưởng"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Bàn không gian làm việc",
+    "Bình nóng lạnh",
+    "Bếp",
+    "Cho phép hút thuốc",
+    "Chuông liên lạc nội bộ không dây",
+    "Khu vực hút thuốc",
+    "Khóa điện tử",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "WiFi",
+    "Điều hòa",
+    "Được phép đưa thú nuôi vào",
+    "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_count": 24,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Bếp": [
+      "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt"
+    ],
+    "Ngoài trời": [
+      "Ban công hoặc sân hiên"
+    ],
+    "Giải trí ": [
+      "WiFi"
+    ],
+    "Tiện nghi": [
+      "Bình nóng lạnh",
+      "Điều hòa"
+    ],
+    "Ăn uống": [
+      "Bếp"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Dịch vụ và tiện nghi": [
+      "Thang máy"
+    ],
+    "Bố trí và nội thất phòng": [
+      "Bàn không gian làm việc"
+    ],
+    "Quần áo và Giặt ủi": [],
+    "Dễ dàng tiếp cận": [
+      "Chuông liên lạc nội bộ không dây",
+      "Khóa điện tử",
+      "Được phép đưa thú nuôi vào"
+    ],
+    "Đi lại": [
+      "Đỗ xe tại chỗ"
+    ],
+    "Tính năng an toàn và an ninh": [
+      "Cho phép hút thuốc"
+    ]
+  },
+  "amenities_general": [
+    "Ban công hoặc sân hiên",
+    "Bàn không gian làm việc",
+    "Bình nóng lạnh",
+    "Cho phép hút thuốc",
+    "Chuông liên lạc nội bộ không dây",
+    "Khóa điện tử",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "WiFi",
+    "Điều hòa",
+    "Được phép đưa thú nuôi vào",
+    "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [
+    "Bếp"
+  ],
+  "nearby_places": [
+    {
+      "name": "Nhà thờ chính tòa Long Xuyên",
+      "type": "Nơi Thờ Cúng",
+      "distance_km": 0.38
+    },
+    {
+      "name": "Tượng Tôn Đức Thắng",
+      "type": "Đài Kỷ Niệm và Di Tích Lịch Sử",
+      "distance_km": 2.66
+    },
+    {
+      "name": "Trại cá sấu Blue Sky",
+      "type": "Vườn Bách Thảo và Vườn Thú",
+      "distance_km": 5.92
+    },
+    {
+      "name": "Sân bay Quốc tế Cần Thơ",
+      "type": "Sân Bay",
+      "distance_km": 45.21
+    },
+    {
+      "name": "Sân bay Rạch Giá",
+      "type": "Sân Bay",
+      "distance_km": 57.55
+    },
+    {
+      "name": "Techo International Airport",
+      "type": "Sân Bay",
+      "distance_km": 121.68
+    },
+    {
+      "name": "Sân bay Cà Mau",
+      "type": "Sân Bay",
+      "distance_km": 137.29
+    },
+    {
+      "name": "Sân bay Quốc tế Tân Sơn Nhất",
+      "type": "Sân Bay",
+      "distance_km": 142.12
+    },
+    {
+      "name": "Sân bay Quốc Tế Phú Quốc",
+      "type": "Sân Bay",
+      "distance_km": 159.33
+    },
+    {
+      "name": "Sân bay Quốc tế Sihanouk",
+      "type": "Sân Bay",
+      "distance_km": 197.67
+    }
+  ],
+  "image_count": 48,
+  "image_urls": [
+    "https://pix8.agoda.net/hotelImages/30622516/0/0ddb5d18c70dfe86fba2a2d0807e93b7.png?ce=0&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/5cfa7ac9fde07e9940a981e8c566df3d.jpg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/b4b1612fef346189ccc8c5cd6b7bb8f0.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478765247.jpg?k=795c7c5a2e1ec8d2662dff454e76deaff2b444d155dff513c662570d372c181e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800103.jpg?k=281c5953cd056998164ac77aeccecc338eb0294ff72fe366aad57c29a15682e8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/438990652.jpg?k=a8abe2708b74bf8a8c70eb6a764362d77378b70e80a6511509910ba893d40a24&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/40bbdd38ca48fb1bb4c9ac375638188b.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/446772702.jpg?k=d86b4039fb4a9aae8d0ca23577627ba5113c7f2b4ed8edb79f62f116fd8d8b54&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702529.jpg?k=6c4b5853026efcd98e490214e9b16496d47008c5dbb7fcf71ef8c3ae9cafd6db&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838857090.jpg?k=792fee0c45f0b072d8e466d22dcc476abfd63d71d3e5447f683cc1ac8f299335&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/141ed718e5f8d820b4d85efc38927008.jpg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/eb34b59261e6c9d83faa231f9569e83a.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/447958341.jpg?k=f016dc5af8575973e3fbeb43cb5d1e244525f9a5d70f20faeae45078d5c4224b&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/f6ae614275543efaa3633bb3ad62e413.jpg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/966a708bc9548fafd87d91f5c998de12.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/618747044.jpg?k=7238294f5fc5346150b4efb2addef14fa34d5de37ca5df266246e0243cfc76d8&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/490b8816f68b90fc86c4b76ff97ebed2.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/338186560.jpg?k=29a5cde8b6b0afd7eee5d69315139ade59a6e1aa0ec665367e41ffe2f28cefba&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/617222434.jpg?k=bd8933df047e63a87d6f78223f3460344d0a312091e61b84f01b2c87e15352bc&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/f09aa5ec6e06586d164f2d544036e47a.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478468363.jpg?k=771de4d7ed868c4bd4f887456746907f006123b04fa53d54a26dc94d7353ea22&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/458362625.jpg?k=ebfd517f1644932c2e3000ba372151fd9fa496c8b9afc58a78053aa4f5e113b6&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/428cf8ed46218a48aabb90c46ff8e92a.jpg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/967e59272aafb7265be3eadb3bf8ea7d.jpg?ce=0&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/617222525.jpg?k=a40b9ed1f4ad851b32773ffd34b18c08aa36e50b3366640b361eee4b8b408d88&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/78d1dfff8e8a79c6ce704340402bfd8e.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478765249.jpg?k=ff0f03c3d52bfcd15460b123ad54d5346113540bd0e3a9b38202f61f93569012&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838857153.jpg?k=7a0034d20d95f3197b8a2bbf384f6e4d865c6aca2f0c4e2ee23da6503abb495b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/522240812.jpg?k=cac9529b4d1cdf5b66d17a06f29d070379b0faeeb1df0f1e43ab989ef4fad569&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/845023687.jpg?k=03b05f6710b2e14ac85621b4ff7a3c119ff11fc5557326780250cc47845640e3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/540940352.jpg?k=5a8fdc96ff7c757bc370225ac3ece58e56e1371f81f70eb3286a1b33f83d1297&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/025c8589f0efd5dd18325b5a73905206.jpg?ce=3&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800198.jpg?k=a975d1edec85b24b95da07bd08830cf663d6e9aff0319f3fec5b1922ab0a0043&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/b214aa00531da927017a320c92802f4b.jpg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/30622516/0/2fd32b05a69f714f5ae98b78fe239708.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800141.jpg?k=bb0f163f49e12d37e04351c90a64246932dae43c35c0ec0918a43acb6f74ce6c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/540940347.jpg?k=454b85f2f31d320e2351df1fe1d05372c55d7513e17151b0d392f13a0a2542cb&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/ed22c6fcafeae01e03aa131a718853d0.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702530.jpg?k=1017426f9a0f96b8215c171c66eda9fa6ca560b53302de0a6dfdbae137e46abe&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/0bf1d99a0350e0318e180adabf2cc53f.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800028.jpg?k=9b69035ce2611c99acf1e3384e9a2ef4d08a3fd3d55b63768639f9fcf8a80bed&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/f0d159efc06aba1a59eb619f9687e427.jpg?ce=3&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/338186558.jpg?k=80d9b307f8dec8df4dd7dd3531bc637919e3953344a1f517d08f392cab61345d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/446772320.jpg?k=773b53378d11273f2e76a95f65dfb460ddedc9c732e0c48b3476ce86ac23254e&o=",
+    "https://pix8.agoda.net/hotelImages/30622516/0/fbc8fdb94e66ca35e036950d8d1cce51.jpg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800070.jpg?k=6f177c4942dcc9d0d2210dcbb94af9d454ad138ace04a07dab5f50c3806a4c05&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702531.jpg?k=1349548742d0320e06110767c435407cf9825d6b7fef343d20a24baf0202eb36&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/438990673.jpg?k=8d0463ce4de71023965bcd551d780e3671ea9fbe4481eb4267e7771df3a25946&o="
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/0ddb5d18c70dfe86fba2a2d0807e93b7.png?ce=0&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/5cfa7ac9fde07e9940a981e8c566df3d.jpg?ce=2&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/b4b1612fef346189ccc8c5cd6b7bb8f0.jpg?ce=2&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478765247.jpg?k=795c7c5a2e1ec8d2662dff454e76deaff2b444d155dff513c662570d372c181e&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800103.jpg?k=281c5953cd056998164ac77aeccecc338eb0294ff72fe366aad57c29a15682e8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/438990652.jpg?k=a8abe2708b74bf8a8c70eb6a764362d77378b70e80a6511509910ba893d40a24&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/40bbdd38ca48fb1bb4c9ac375638188b.jpg?ce=2&s=1024x768",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/446772702.jpg?k=d86b4039fb4a9aae8d0ca23577627ba5113c7f2b4ed8edb79f62f116fd8d8b54&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702529.jpg?k=6c4b5853026efcd98e490214e9b16496d47008c5dbb7fcf71ef8c3ae9cafd6db&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838857090.jpg?k=792fee0c45f0b072d8e466d22dcc476abfd63d71d3e5447f683cc1ac8f299335&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/141ed718e5f8d820b4d85efc38927008.jpg?ce=2&s=1024x768",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/eb34b59261e6c9d83faa231f9569e83a.jpg?ce=2&s=1024x768",
+      "caption": "Phòng khách riêng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/447958341.jpg?k=f016dc5af8575973e3fbeb43cb5d1e244525f9a5d70f20faeae45078d5c4224b&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/f6ae614275543efaa3633bb3ad62e413.jpg?ce=2&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/966a708bc9548fafd87d91f5c998de12.jpg?ce=2&s=1024x768",
+      "caption": "Lối vào",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/618747044.jpg?k=7238294f5fc5346150b4efb2addef14fa34d5de37ca5df266246e0243cfc76d8&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/490b8816f68b90fc86c4b76ff97ebed2.jpg?ce=2&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/338186560.jpg?k=29a5cde8b6b0afd7eee5d69315139ade59a6e1aa0ec665367e41ffe2f28cefba&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/617222434.jpg?k=bd8933df047e63a87d6f78223f3460344d0a312091e61b84f01b2c87e15352bc&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/f09aa5ec6e06586d164f2d544036e47a.jpg?ce=2&s=1024x768",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478468363.jpg?k=771de4d7ed868c4bd4f887456746907f006123b04fa53d54a26dc94d7353ea22&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/458362625.jpg?k=ebfd517f1644932c2e3000ba372151fd9fa496c8b9afc58a78053aa4f5e113b6&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/428cf8ed46218a48aabb90c46ff8e92a.jpg?ce=2&s=1024x768",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/967e59272aafb7265be3eadb3bf8ea7d.jpg?ce=0&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/617222525.jpg?k=a40b9ed1f4ad851b32773ffd34b18c08aa36e50b3366640b361eee4b8b408d88&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/78d1dfff8e8a79c6ce704340402bfd8e.jpg?ce=2&s=1024x768",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/478765249.jpg?k=ff0f03c3d52bfcd15460b123ad54d5346113540bd0e3a9b38202f61f93569012&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838857153.jpg?k=7a0034d20d95f3197b8a2bbf384f6e4d865c6aca2f0c4e2ee23da6503abb495b&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/522240812.jpg?k=cac9529b4d1cdf5b66d17a06f29d070379b0faeeb1df0f1e43ab989ef4fad569&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/845023687.jpg?k=03b05f6710b2e14ac85621b4ff7a3c119ff11fc5557326780250cc47845640e3&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/540940352.jpg?k=5a8fdc96ff7c757bc370225ac3ece58e56e1371f81f70eb3286a1b33f83d1297&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/025c8589f0efd5dd18325b5a73905206.jpg?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800198.jpg?k=a975d1edec85b24b95da07bd08830cf663d6e9aff0319f3fec5b1922ab0a0043&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/b214aa00531da927017a320c92802f4b.jpg?ce=2&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/2fd32b05a69f714f5ae98b78fe239708.jpg?ce=2&s=1024x768",
+      "caption": "Phòng khách riêng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800141.jpg?k=bb0f163f49e12d37e04351c90a64246932dae43c35c0ec0918a43acb6f74ce6c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/540940347.jpg?k=454b85f2f31d320e2351df1fe1d05372c55d7513e17151b0d392f13a0a2542cb&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/ed22c6fcafeae01e03aa131a718853d0.jpg?ce=2&s=1024x768",
+      "caption": "Phòng khách riêng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702530.jpg?k=1017426f9a0f96b8215c171c66eda9fa6ca560b53302de0a6dfdbae137e46abe&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/0bf1d99a0350e0318e180adabf2cc53f.jpg?ce=2&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800028.jpg?k=9b69035ce2611c99acf1e3384e9a2ef4d08a3fd3d55b63768639f9fcf8a80bed&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/f0d159efc06aba1a59eb619f9687e427.jpg?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/338186558.jpg?k=80d9b307f8dec8df4dd7dd3531bc637919e3953344a1f517d08f392cab61345d&o=",
+      "caption": "Phòng tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/446772320.jpg?k=773b53378d11273f2e76a95f65dfb460ddedc9c732e0c48b3476ce86ac23254e&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/30622516/0/fbc8fdb94e66ca35e036950d8d1cce51.jpg?ce=2&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/632800070.jpg?k=6f177c4942dcc9d0d2210dcbb94af9d454ad138ace04a07dab5f50c3806a4c05&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/490702531.jpg?k=1349548742d0320e06110767c435407cf9825d6b7fef343d20a24baf0202eb36&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/438990673.jpg?k=8d0463ce4de71023965bcd551d780e3671ea9fbe4481eb4267e7771df3a25946&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    }
+  ],
+  "district": "Long Xuyên",
+  "province": "Long Xuyên",
+  "city_id": 115622,
+  "property_page": "/alpha-homestay-marina-long-xuyen/hotel/long-xuyen-an-giang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 479737110,
+        "name": "Căn hộ (Apartment)",
+        "name_en": "(Apartment)",
+        "room_size": "32 m²",
+        "size_sqm": 32.0,
+        "max_occupancy": 4,
+        "max_occupancy_text": "Tối đa 4 người lớn",
+        "bed_type": "1 giường đôi nhỏ",
+        "bed_types": [
+          "1 giường đôi nhỏ"
+        ],
+        "room_view": "Hướng Thành phố",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Thành phố",
+          "Cho phép hút thuốc",
+          "Vòi sen",
+          "Phòng tắm chung"
+        ],
+        "room_amenities": [
+          "1 giường đôi nhỏ",
+          "32 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Cho phép hút thuốc",
+          "Căn hộ riêng trong tòa nhà",
+          "Giải trí",
+          "Hướng thành phố",
+          "Khu vực ăn uống riêng",
+          "Ly rượu vang",
+          "Nhà vệ sinh phụ",
+          "Phòng tắm chung",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sưởi",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi miễn phí",
+          "WiFi mạng lan trong phòng miễn phí",
+          "Ăn uống",
+          "Đi lên bằng thang máy",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 48,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/30622516/0/0ddb5d18c70dfe86fba2a2d0807e93b7.png?ce=0&s=800x600",
+          "https://pix8.agoda.net/hotelImages/30622516/0/5cfa7ac9fde07e9940a981e8c566df3d.jpg?ce=2&s=800x600",
+          "https://pix8.agoda.net/hotelImages/30622516/0/b4b1612fef346189ccc8c5cd6b7bb8f0.jpg?ce=2&s=800x600",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/478765247.jpg?k=795c7c5a2e1ec8d2662dff454e76deaff2b444d155dff513c662570d372c181e&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/632800103.jpg?k=281c5953cd056998164ac77aeccecc338eb0294ff72fe366aad57c29a15682e8&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1790000,
+        "original_price": 3170000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 479737110,
+      "name": "Căn hộ (Apartment)",
+      "name_en": "(Apartment)",
+      "room_size": "32 m²",
+      "size_sqm": 32.0,
+      "max_occupancy": 4,
+      "max_occupancy_text": "Tối đa 4 người lớn",
+      "bed_type": "1 giường đôi nhỏ",
+      "bed_types": [
+        "1 giường đôi nhỏ"
+      ],
+      "room_view": "Hướng Thành phố",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Thành phố",
+        "Cho phép hút thuốc",
+        "Vòi sen",
+        "Phòng tắm chung"
+      ],
+      "room_amenities": [
+        "1 giường đôi nhỏ",
+        "32 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Cho phép hút thuốc",
+        "Căn hộ riêng trong tòa nhà",
+        "Giải trí",
+        "Hướng thành phố",
+        "Khu vực ăn uống riêng",
+        "Ly rượu vang",
+        "Nhà vệ sinh phụ",
+        "Phòng tắm chung",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sưởi",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi miễn phí",
+        "WiFi mạng lan trong phòng miễn phí",
+        "Ăn uống",
+        "Đi lên bằng thang máy",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 48,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/30622516/0/0ddb5d18c70dfe86fba2a2d0807e93b7.png?ce=0&s=800x600",
+        "https://pix8.agoda.net/hotelImages/30622516/0/5cfa7ac9fde07e9940a981e8c566df3d.jpg?ce=2&s=800x600",
+        "https://pix8.agoda.net/hotelImages/30622516/0/b4b1612fef346189ccc8c5cd6b7bb8f0.jpg?ce=2&s=800x600",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/478765247.jpg?k=795c7c5a2e1ec8d2662dff454e76deaff2b444d155dff513c662570d372c181e&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/632800103.jpg?k=281c5953cd056998164ac77aeccecc338eb0294ff72fe366aad57c29a15682e8&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1790000,
+      "original_price": 3170000
+    }
+  ],
+  "reviews_detail": {
+    "score": 8.5,
+    "score_text": "Tuyệt vời",
+    "review_count": 208,
+    "comments_count": 66,
+    "grades": [
+      {
+        "name": "Vị trí",
+        "score": 9.2
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 9.1
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 8.9
+      },
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 8.8
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 8.7
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 8.7
+      },
+      {
+        "name": "",
+        "score": 8.5
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Độ sạch sẽ",
+        "mentioned": 3,
+        "positive_pct": 66.0
+      },
+      {
+        "tag": "Phòng tắm",
+        "mentioned": 2,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Tiện nghi trong phòng",
+        "mentioned": 2,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Địa điểm",
+        "mentioned": 2,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Hướng nhìn từ phòng",
+        "mentioned": 2,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Điều hòa",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Bộ đồ giường",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Nhận phòng",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Bếp",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Bãi đỗ xe",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Dịch vụ",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Vòi sen",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Đáng tiền",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      }
+    ],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Khách đi công tác",
+        "count": 13,
+        "score": 9.1
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 73,
+        "score": 9.1
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 34,
+        "score": 9.0
+      },
+      {
+        "name": "Gia đình có trẻ nhỏ",
+        "count": 3,
+        "score": 9.9
+      },
+      {
+        "name": "Gia đình có thanh thiếu niên",
+        "count": 2,
+        "score": 10.0
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 5,
+        "score": 6.6
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 25,
+        "score": 8.5
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 11,
+        "score": 9.1
+      },
+      {
+        "name": "Gia đình có trẻ nhỏ",
+        "count": 1,
+        "score": 9.5
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 4,
+        "score": 8.9
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "17 tháng 6 2025",
+        "check_in": "Tháng 6 năm 2025",
+        "text": "Homestay sạch sẽ, đủ đồ dùng cho 2 người, được sắp xếp ngăn nắp. View đẹp về ban đêm. Tuy nhiên giữ xe mất khá nhiều tiền.",
+        "title": "Du lịch Long Xuyên ngắn ngày",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lệ",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Việt Nam",
+        "room_type": "Căn hộ"
+      },
+      {
+        "rating": 9.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "07 tháng 5 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Tuyệt vời",
+        "positives": "view sáng tối gìi cũng đẹpp",
+        "negatives": "0 có gì lun",
+        "response": null,
+        "reviewer_name": "Tiến",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "27 tháng 5 2024",
+        "check_in": "Tháng 5 năm 2024",
+        "text": "Phòng decor dễ thương, ấm cúng với gương, đèn, thảm và đặc biệt chiếc view để ngắm hoàng hôn. Lần tới chắc mình sẽ lại ghé.",
+        "title": "Phòng dễ thương",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thi",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Việt Nam",
+        "room_type": "Căn hộ"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "21 tháng 2 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Trên cả tuyệt vời",
+        "positives": "Khách sạn thậg sự rất tiênn nghi, chủ đã đáp ứng tất cả nhu cầu của tôi",
+        "negatives": "Hiện tại là không, chỉ có phòng tắm hơi nhỏ, nhưng điều này hoàn toàn chấp nhận được",
+        "response": null,
+        "reviewer_name": "Quang",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.6,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "20 tháng 9 2024",
+        "check_in": "Tháng 9 năm 2024",
+        "text": "Căn hộ 1 phòng ngủ tuyệt vời với bếp đầy đủ trong một tòa nhà nhiều tầng. Căn hộ rất dễ chịu, cảm giác mới mẻ và chất lượng tốt. Vòi hoa sen rất tốt. Được khuyến nghị.\nMặt tiêu cực:\n1. Cửa rèm không chặn được ánh sáng bên ngoài, nên phòng khá sáng từ sớm.\n2. Chỉ có một điều hòa trong căn hộ (trong phòng ngủ), nhưng có 2 phòng.\n3. Bên trong các tủ (cả trong bếp và phòng tắm) không được làm sạch trước khi tôi đến.",
+        "title": "Căn hộ rộng rãi rất thoải mái",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Uri",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Israel",
+        "room_type": "Căn hộ"
+      },
+      {
+        "rating": 1.0,
+        "rating_text": "Điểm nhận xét",
+        "date": "02 tháng 9 2025",
+        "check_in": "",
+        "text": null,
+        "title": "tệ",
+        "positives": null,
+        "negatives": "quên booking",
+        "response": null,
+        "reviewer_name": "huy",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.6,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "28 tháng 6 2024",
+        "check_in": "Tháng 6 năm 2024",
+        "text": "Vị trí tuyệt vời, view đẹp và rất sạch sẽ. \nNhà bếp được trang bị đầy đủ với bếp điện, nồi cơm điện và nhiều dụng cụ bếp cùng đồ dùng ăn uống. Cũng có một máy giặt ở ban công, điều này thực sự rất hữu ích. \nQuá trình nhận phòng không theo cách thông thường nhưng khá dễ dàng và giao tiếp với chủ nhà rõ ràng và nhạy bén. \nTôi cảm thấy giá hơi cao cho một thị trấn nhỏ ở Việt Nam, nhưng không hiểu sao các khách sạn ở Long Xuyên lại đắt hơn TP.HCM trong cùng phân khúc giá, vì vậy nơi này, so với những chỗ khác xung quanh có ít tiện nghi hơn, thực sự khá rẻ. \nTôi chắc chắn sẽ ở lại đây một lần nữa nếu có dịp đến LX.",
+        "title": "Căn hộ tuyệt vời ở vị trí hoàn hảo",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Sergio",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Việt Nam",
+        "room_type": "Căn hộ"
+      },
+      {
+        "rating": 7.0,
+        "rating_text": "Rất tốt",
+        "date": "08 tháng 9 2024",
+        "check_in": "",
+        "text": null,
+        "title": "Tạm ổn",
+        "positives": null,
+        "negatives": "Phí giữ xe cao",
+        "response": null,
+        "reviewer_name": "Van",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 7.6,
+        "rating_text": "Rất tốt",
+        "date": "13 tháng 2 2026",
+        "check_in": "Tháng 2 năm 2026",
+        "text": "Nơi này thì ổn. Chỉ có hai vấn đề tôi gặp phải là giường / gối không tốt và hệ thống thoát nước trong nhà tắm mất thời gian để nước chảy ra (cả từ khu vực vòi sen và bồn vệ sinh). Những bức ảnh trong đánh giá này đều từ một quán cà phê gần đó. Có một trung tâm thương mại lớn - Vincom - đối diện với bất động sản, điều này thật tốt.",
+        "title": "Được Nhưng Không Tuyệt Vời - Giường Khiến Tôi Đau Lưng",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Sumiitra",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Malaysia",
+        "room_type": "Căn hộ"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "18 tháng 8 2024",
+        "check_in": "",
+        "text": null,
+        "title": "Sẽ quay lại",
+        "positives": "Chủ nhà dễ thương\r\nCạnh trung tâm mua sắm\r\nĐi ra trung tâm gần",
+        "negatives": "Chăn hơi mỏng\r\nPhí gửi xe qua đêm 20k",
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 769857850,
+        "rating": 7.2,
+        "rating_text": "Very good",
+        "date": "February 03, 2024",
+        "check_in": "February 2024",
+        "title": "Leisure Stays for 2 nights",
+        "text": "Good location , nice and welcoming staffs",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "KimHoang",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Canada",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 771419976,
+        "rating": 4.0,
+        "rating_text": "Review score",
+        "date": "January 30, 2024",
+        "check_in": "",
+        "title": "Acceptable",
+        "text": null,
+        "positives": "Location",
+        "negatives": "No service no body there to check in and check out . \nNo reception foreigner not book this . \nVery difficult their system.",
+        "response": null,
+        "reviewer_name": "Shariful",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1075258343,
+        "rating": 7.6,
+        "rating_text": "Very good",
+        "date": "February 13, 2026",
+        "check_in": "February 2026",
+        "title": "Ok But Not Great - Bed Gave Me A Back Ache",
+        "text": "The place is ok. Only two issues I had were that the bed / pillows are not good and that the drainage in the bathroom takes time for the water to flow out (both from the shower area and the toilet bowl or commode. Photos in this review are from a nearby cafe. There is a big mall -Vincom - opposite the property which is good.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Sumiitra",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Malaysia",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 761928058,
+        "rating": 7.0,
+        "rating_text": "Very good",
+        "date": "January 02, 2024",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Location",
+        "negatives": "The bed was quite hard to sleep",
+        "response": null,
+        "reviewer_name": "Huong",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 766505733,
+        "rating": 8.8,
+        "rating_text": "Excellent",
+        "date": "January 28, 2024",
+        "check_in": "January 2024",
+        "title": "Good for Family",
+        "text": "All facilities are sufficient, and good for a family. Check-in was convenient.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Huy",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 949868478,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 02, 2025",
+        "check_in": "",
+        "title": "Appartement confortable a Long Xuyen",
+        "text": null,
+        "positives": "Appartement très confortable dans une résidence récente avec une vue sur la ville.\n\nA 20 minutes du quai pour le marché flottant (qui n'existait pas vraiment quand je suis passé)\n.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "vincent",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 908307406,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "December 24, 2024",
+        "check_in": "December 2024",
+        "title": "Good location",
+        "text": "It was a satisfying choice with a good location and a balcony with a great view.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Kim",
+        "reviewer_type": "Couple",
+        "reviewer_country": "South Korea",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 1022249869,
+        "rating": 1.0,
+        "rating_text": "Review score",
+        "date": "September 02, 2025",
+        "check_in": "",
+        "title": "tệ",
+        "text": null,
+        "positives": null,
+        "negatives": "quên booking",
+        "response": null,
+        "reviewer_name": "huy",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 737436368,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "November 09, 2023",
+        "check_in": "October 2023",
+        "title": "Great value",
+        "text": "......",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Liem",
+        "reviewer_type": "Couple",
+        "reviewer_country": "United States",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 712553516,
+        "rating": 4.0,
+        "rating_text": "Review score",
+        "date": "September 13, 2023",
+        "check_in": "",
+        "title": "Acceptable",
+        "text": null,
+        "positives": null,
+        "negatives": "co đung hết xà bông bên chổ nghĩ ,nên khi trả phòng có nhờ bạn laik dọn giúp vi đột xuất phải đi vê sg gấp , bạn co gơm 2 chai xà bông trong ks vi nghĩ la của minh , nhung bên ks đt nói xa bông còn rất nhiều nói mình dung hết k thấy chai đâu , muốn thu phí mình 50 k , mình thays thật vô lý vi xa bông la để cho khách dùng , minh ở 7 đêm , dọn p cho minh co 2 lần , mình phải nhắc, 7 đêm dung hết hat k hết xà bông thi ks cũng k có quyên dt đòi tiền của khách , vi đó la xa bông cho khách sử dụng mà sao lai dt đoi 50 k ???\n Vấn đề thứ 2 mình k có huỷ chổ đặt phòng nhưng sao khi minh o 7 đêm , minh đã thanh toán đủ , nhung bên ks tự ý báo mình huỷ phong trên booking làm vậy sẽ ảnh hưởng đến uy tín đặt p của mình với booking , lam ăn vây sao được vi muốn thu hết tiên mà bao la minh huỷ , vây la k muốn tra phí cho booking , làm ăn k đúng .",
+        "response": null,
+        "reviewer_name": "thanh",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 712669635,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "September 16, 2023",
+        "check_in": "August 2023",
+        "title": "Very good apartment and helpful manager",
+        "text": "A 2 room apartment in a multi-story building, this place is a very good place to stay in. The manager was super nice and helped with all probelems that arose.\nIt would have been better, though, if those problems would have been taken care of beforehand.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Uri",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Israel",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 851866764,
+        "rating": 7.0,
+        "rating_text": "Very good",
+        "date": "September 08, 2024",
+        "check_in": "",
+        "title": "Tạm ổn",
+        "text": null,
+        "positives": null,
+        "negatives": "Phí giữ xe cao",
+        "response": null,
+        "reviewer_name": "Van",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 706257001,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "September 05, 2023",
+        "check_in": "August 2023",
+        "title": "Very nice place and helpful manager",
+        "text": "It is an apartment with one bedroom and one living room/kitchen and a balcony in one of the tallest buildings in Long Xuyen. It is a very nice and high quality apartment, and the manager was very nice and very helpful. He tried to fix any issue as soon as I reported it to him. However, it would have been better if these issues were fixed before I entered (they included a broken balcony lock, a clogged shower drain and a faulty air-conditioner).\nOverall, very recommended.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Uri",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Israel",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 1117660146,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "May 07, 2026",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "view sáng tối gìi cũng đẹpp",
+        "negatives": "0 có gì lun",
+        "response": null,
+        "reviewer_name": "Tiến",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 870020850,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "September 20, 2024",
+        "check_in": "September 2024",
+        "title": "Very Pleasant Sapcious Apartment",
+        "text": "Great 1 bedroom apartment with a full kitchen in a multi-story building. The apartment is very pleasant, feels new and good qality. Very good shower. Recommended.\nOn the downside:\n1. The curtains don't block outside light, so the room is pretty bright from early in the morning.\n2. There is only one AC in the apartment (In the bedroom), but 2 rooms.\n3. The inside of the cabinets (both in the kichen and the bathroom) were not cleaned before my arrival.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Uri",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Israel",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 702155152,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "August 19, 2023",
+        "check_in": "",
+        "title": "Rất ok",
+        "text": null,
+        "positives": "Sạch sẽ, yên tĩnh, tiện nghi",
+        "negatives": "Nhà tắm chật",
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 823752915,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "June 28, 2024",
+        "check_in": "June 2024",
+        "title": "Great apartment in perfect location",
+        "text": "Excellent location, nice view and very clean. \nThe kitchen is well equipped with cooktop, rice cooker and lots of cutlery and crockery. There is also a washing machine in the balcony which was super helpful. \nCheck in was unconventional but easy and communication with the host was clear and responsive. \nI felt it was a bit overpriced for a small town in Vietnam but for some reason hotels in Long Xuyen are more expensive than HCM for the same price range, so this place, compared to others nearby with less to offer, was actually quite cheap. \nI will definitely stay again if I happen to be in LX",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Sergio",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 1081129463,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "February 21, 2026",
+        "check_in": "",
+        "title": "Trên cả tuyệt vời",
+        "text": null,
+        "positives": "Khách sạn thậg sự rất tiênn nghi, chủ đã đáp ứng tất cả nhu cầu của tôi",
+        "negatives": "Hiện tại là không, chỉ có phòng tắm hơi nhỏ, nhưng điều này hoàn toàn chấp nhận được",
+        "response": null,
+        "reviewer_name": "Quang",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 739950121,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "November 15, 2023",
+        "check_in": "November 2023",
+        "title": "Exceptional",
+        "text": "Good price, location and facilities",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "TRI",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Canada",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 848921717,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 18, 2024",
+        "check_in": "",
+        "title": "Sẽ quay lại",
+        "text": null,
+        "positives": "Chủ nhà dễ thương\r\nCạnh trung tâm mua sắm\r\nĐi ra trung tâm gần",
+        "negatives": "Chăn hơi mỏng\r\nPhí gửi xe qua đêm 20k",
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1039100978,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 16, 2025",
+        "check_in": "August 2025",
+        "title": "Exceptional",
+        "text": "Beautiful room view, spacious, comfortable.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Châu",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 810506882,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "May 24, 2024",
+        "check_in": "",
+        "title": "Mình ở Marina khá nhiều lần",
+        "text": null,
+        "positives": "Thích mọi tiện nghi",
+        "negatives": "Hmm đi ra đi vào là phí gửi xe gần bằng 1 ly highland coffee. Mình ở 2 ngày và gần 70k tiền gửi xe.",
+        "response": null,
+        "reviewer_name": "Phúc",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1035474728,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 05, 2025",
+        "check_in": "October 2025",
+        "title": "A place worth living.",
+        "text": "The receptionist is enthusiastic, provides attentive support, the rooms are airy and clean with a beautiful view.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Bob",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 803894536,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "May 12, 2024",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Phòng rộng rãi, thoáng mát!",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Chau",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 976541417,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "June 17, 2025",
+        "check_in": "June 2025",
+        "title": "Short trip to Long Xuyen",
+        "text": "Clean homestay, equipped with enough amenities for 2 people, well-organized. Beautiful view at night. However, parking costs quite a lot.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lệ",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 791950129,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 14, 2024",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Sạch sẽ, vị trí thuận lợi",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Phuong",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 866736858,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 17, 2024",
+        "check_in": "September 2024",
+        "title": "Suitable for family rooms or couples.",
+        "text": "The room is clean and comfortable.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Cương",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 846627441,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 08, 2024",
+        "check_in": "August 2024",
+        "title": "ALL GOOD.",
+        "text": "Great location to stay, clean, quiet. Great host. All you need.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Shawn",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Singapore",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 810266187,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "May 27, 2024",
+        "check_in": "May 2024",
+        "title": "Cute room",
+        "text": "The room is cute and cozy with mirrors, lights, rugs, and especially a view to enjoy the sunset. Next time, I will definitely come back.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thi",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 797860903,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 26, 2024",
+        "check_in": "April 2024",
+        "title": "Exceptional",
+        "text": "Nice room, good price, convenient location, friendly staff. Will come back if there is time and a holiday.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thi",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 797656235,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 23, 2024",
+        "check_in": "April 2024",
+        "title": "Exceptional",
+        "text": "The room is clean, and the service quality is outstanding. I will return for the next trips.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Bao",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 776441846,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "February 24, 2024",
+        "check_in": "February 2024",
+        "title": "A great place to stay",
+        "text": "It was a pleasant days for me to stay at Alpha Homestay Marina. I highly recommended for anyone who wants to have a place like home.\nIt's a homestay. It has everything like hotel but better.\nThis homestay located in a very good location, right in the middle of Long Xuyen, a short distance walk to Vincom Plaza. You can find plenty of restaurants around there.\nThe room is clean and neat with a great view from above.\nOne important note, make sure you have the Alpha Homestay's phone number ready, just in case you need help to locate the property.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Trang",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "United States",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 735471344,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 04, 2023",
+        "check_in": "November 2023",
+        "title": "Travel",
+        "text": "The manager named Tân is very cute and polite. Very thoughtful. The room is clean and spacious, making it very suitable for going in a group. When I met to make the reservation, I waited a bit long; just as I was about to book another room, he ran back, looking a bit awkward, which was endearing.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Dương",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 712342190,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 13, 2023",
+        "check_in": "September 2023",
+        "title": "Marina homestay",
+        "text": "The room is clean and well-equipped right in the center at a reasonable price. The owner is very friendly and enthusiastic; I will visit again later.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Linh",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 626200848,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 01, 2023",
+        "check_in": "February 2023",
+        "title": "Exceptional",
+        "text": "The apartment is very clean, cozy and quiet, with beautiful sunset view. Mr. Tan is an awesome host, super responsive and very supportive. Lovely stay overall we will certainly come back.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 592173195,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 24, 2023",
+        "check_in": "January 2023",
+        "title": "Beautiful and clean apartment.",
+        "text": "My 2-year-old daughter and I have been here for 2 nights. It's wonderful. The apartment is lovely and tidy, with a harmonious layout. It's a civilized and polite place, right in the center. The apartment is very new. The host replies to messages very quickly. Thank you very much.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nguyen",
+        "reviewer_type": "Family with young children",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 765935519,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 21, 2024",
+        "check_in": "January 2024",
+        "title": "À recommander chaudement !",
+        "text": "Très bon hébergement ! L'emplacement fut idéal pour manger et profiter de la vie nocturne au bord du fleuve ainsi que pour aller au marché le lendemain !\nLe propriétaire est très gentil et m'a même aidé à réserver mon prochain bus !\nJe recommande les yeux fermés",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Marie",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "France",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 1076793752,
+        "rating": 3.2,
+        "rating_text": "Review score",
+        "date": "February 18, 2026",
+        "check_in": "February 2026",
+        "title": "숙소청소, 서비스 상태",
+        "text": "청소도 거의 안해주고, 수건, 생수 등 서비스 개념이 없습니다.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Seungho",
+        "reviewer_type": "Couple",
+        "reviewer_country": "South Korea",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 576802880,
+        "rating": 5.2,
+        "rating_text": "Review score",
+        "date": "December 12, 2022",
+        "check_in": "December 2022",
+        "title": "Above average",
+        "text": "Phòng dơ",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "PHẠM",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 766038372,
+        "rating": 6.8,
+        "rating_text": "Good",
+        "date": "January 22, 2024",
+        "check_in": "January 2024",
+        "title": "Good",
+        "text": "Chỗ ở không có ti vi",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ngoc",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 647223329,
+        "rating": 6.8,
+        "rating_text": "Good",
+        "date": "May 07, 2023",
+        "check_in": "April 2023",
+        "title": "Good",
+        "text": "Ok",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Hoa",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 763720338,
+        "rating": 7.2,
+        "rating_text": "Very good",
+        "date": "January 17, 2024",
+        "check_in": "January 2024",
+        "title": "Very good",
+        "text": "Phòng giá phải chăng. Ở ngay trung tâm\nGửi xe 5k/ lần\nBạn chủ homestay tự ý vào phòng mình mà ko thông báo",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Anh",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 596742383,
+        "rating": 7.6,
+        "rating_text": "Very good",
+        "date": "February 22, 2023",
+        "check_in": "January 2023",
+        "title": "Very good",
+        "text": "Ok",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Phan",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 647223301,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "May 07, 2023",
+        "check_in": "April 2023",
+        "title": "Very good",
+        "text": "Sạch sẽ",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Hoa",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 803260866,
+        "rating": 8.4,
+        "rating_text": "Excellent",
+        "date": "May 08, 2024",
+        "check_in": "May 2024",
+        "title": "Excellent",
+        "text": "Xứng đáng",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Trung",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 737994228,
+        "rating": 8.4,
+        "rating_text": "Excellent",
+        "date": "November 11, 2023",
+        "check_in": "November 2023",
+        "title": "Excellent",
+        "text": "Phòng tắm hơi nhỏ",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Triet",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 1114179955,
+        "rating": 8.8,
+        "rating_text": "Excellent",
+        "date": "May 03, 2026",
+        "check_in": "April 2026",
+        "title": "Excellent",
+        "text": "Bếp điện từ ko sử dụng được",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Pha",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 782346509,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "March 22, 2024",
+        "check_in": "March 2024",
+        "title": "Exceptional",
+        "text": "Too many ants.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ly",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 578176202,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "December 19, 2022",
+        "check_in": "September 2022",
+        "title": "Exceptional",
+        "text": "Ok",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Đỗ",
+        "reviewer_type": "Family with young children",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 567762861,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "November 22, 2022",
+        "check_in": "November 2022",
+        "title": "Phòng xinh xắn",
+        "text": "Phòng xinh, ngay trung tâm rất tiện di chuyển. Tuy nhiên khu vực gửi xe hơi bất tiện và tốn 5k mỗi lần đi ra ngoài. Phí gửi qua đêm 20k",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nguyen",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 908145117,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 22, 2024",
+        "check_in": "October 2024",
+        "title": "Rất tốt",
+        "text": "Nên lưu trú",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nhớ",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 897775359,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 24, 2024",
+        "check_in": "November 2024",
+        "title": "Chỗ nghĩ ok",
+        "text": "Thoáng, đẹp mền hơi mỏng, tấy cả còn lại ok",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "trung",
+        "reviewer_type": "Couple",
+        "reviewer_country": "North Macedonia",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 847861632,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 22, 2024",
+        "check_in": "March 2024",
+        "title": "Tốt",
+        "text": "Nên trải nghiệm",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Phan",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 847586626,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 19, 2024",
+        "check_in": "August 2024",
+        "title": "Good",
+        "text": "They doing good for service",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nguyen",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 827781861,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 03, 2024",
+        "check_in": "March 2024",
+        "title": "Exceptional",
+        "text": "Quá tiện nghi và dễ thương",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Huỳnh",
+        "reviewer_type": "Group",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 770938113,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "February 11, 2024",
+        "check_in": "February 2024",
+        "title": "Exceptional",
+        "text": "Ok",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Trum",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 745821176,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 01, 2023",
+        "check_in": "November 2023",
+        "title": "Exceptional",
+        "text": "Vị trí thuận tiện, chủ nhà nhiệt tìnhh",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nguyen",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 689409880,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 09, 2023",
+        "check_in": "August 2023",
+        "title": "Exceptional",
+        "text": "Phòng đẹp thoải mái.. đi lại rất dễ dàng.. lần sau mình sẽ quay lại",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thủy",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 650309279,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "May 16, 2023",
+        "check_in": "April 2023",
+        "title": "Tiện nghi đầy đủ và vị trí đẹp",
+        "text": "Rất hài lòng về căn hộ lưu trú.\nSẽ book tiếp cho đợt du lịch sắp tới.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "GIANG",
+        "reviewer_type": "Group",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 583370207,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 11, 2023",
+        "check_in": "January 2023",
+        "title": "Exceptional",
+        "text": "Mình thấy khá hài lòng, phòng sạch sẽ, vị trí tiện đi lại.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nguyễn",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 567335063,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 13, 2022",
+        "check_in": "November 2022",
+        "title": "Tốt",
+        "text": "Rất ok , anh chủ dễ thương nhiệt tình . Có đi long xuyên sẽ ghé",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Cường",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 566937610,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 03, 2022",
+        "check_in": "November 2022",
+        "title": "Exceptional",
+        "text": "Dịch vụ rất tốt",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Nhơn",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 542682994,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 30, 2022",
+        "check_in": "August 2022",
+        "title": "Phòng rất ok",
+        "text": "Anh chủ rất lịch sự. Sạch sẽ yên tĩnh , view Đẹp. Nếu bạn có nhu cầu đến Long xuyên nên chọn nơi này",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Manh",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "Hong Kong SAR, China",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 519494094,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "June 19, 2022",
+        "check_in": "June 2022",
+        "title": "Exceptional",
+        "text": "Căn hộ ngay trung tâm, sạch sẽ.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ngân",
+        "reviewer_type": "Family with young children",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      },
+      {
+        "review_id": 680095651,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "July 21, 2023",
+        "check_in": "July 2023",
+        "title": "Nhìn chung hài lòng.",
+        "text": "Mong có thể giữ phòng được như vậy. Dụng cụ có thể hơi ít nhưng phòng sạch, gọn gàng. View cũng đẹp, thoáng mát.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Huy",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "Apartment"
+      }
+    ]
+  },
+  "rating_overall": 8.5,
+  "rating_count": 208,
+  "rating_breakdown": {
+    "Vị trí": 9.2,
+    "Dịch vụ": 9.1,
+    "Độ sạch sẽ": 8.9,
+    "Sự thoải mái và chất lượng phòng": 8.8,
+    "Cơ sở vật chất": 8.7,
+    "Đáng tiền": 8.7
+  },
+  "secondary": {
+    "description_full": "Chào cả nhà, Alpha Hotel Long Xuyên là loại hình khách sạn theo phong cách căn hộ. Mang đến cho khách hàng không gian nghỉ ngơi, giải trí yên tĩnh và kín đáo. Được trang bị đầy đủ nội thất bao gồm: bếp, tủ lạnh, máy lạnh, bàn ghế, rèm, ban công...\nĐến với ALPHA khách hàng có thể tận hưởng:\n- View thành phố Long Xuyên đẹp và yên bình\n- View chụp hình check in xịn sò\n- Không gian riêng tư sạch sẽ và thoải mái ( Căn hộ được vệ sinh và thay mới ga gói thường xuyên)\n- Đầy đủ tiện nghi của 1 căn hộ: bếp, tủ lạnh, máy lạnh, bàn ghế, rèm, máy nước nóng, wifi, ban công...",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": true,
+          "policy": "Trẻ sơ sinh 0-1 tuổi [bao gồm cả bé 1 tuổi]",
+          "description": "Lưu trú miễn phí khi sử dụng giường có sẵn. Lưu ý, nếu quý khách cần cũi em bé, việc này có thể phát sinh thêm phụ phí và phụ thuộc vào tình trạng thực tế."
+        },
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 2-7 tuổi [bao gồm cả bé 7 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 479737110,
+        "name": "Căn hộ (Apartment)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi nhỏ",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Long Xuyên của Long Xuyên, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 5 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1289739,
+      "title": "Vé vào cổng Công viên Chủ đề VinWonders Cửa Hội",
+      "description": "Khám phá VinWonders Cửa Hội, tổ hợp giải trí sôi động tại miền Trung Việt Nam với những trải nghiệm đa dạng từ vui chơi đến tâm linh.\n\n- Trải nghiệm hệ thống cáp treo vượt biển đầu tiên và duy nhất tạ",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 87446.0,
+                "crossedOut": 100053.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681589,
+      "title": "金蘭國際機場(CXR) | Domestic Terminal | SH Premium Lounge - Cam Ranh | 貴賓室服務",
+      "description": "位置：金蘭國際機場國內航站樓二樓，靠近5號或6號登機口\n設施亮點：電視、充電設備、冷熱餐食自助吧、獨立洗手間\n營業時間：每日05:00-22:00\n使用時間限制：最多180分鐘\n兒童政策：5歲以下兒童免費入場",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 497154.0,
+                "crossedOut": 686677.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1646346,
+      "title": "Dịch vụ VIP ưu tiên tại Việt Nam (Đến/Đi)",
+      "description": "Bỏ qua các hàng chờ kiểm tra nhập cảnh tại sân bay Tân Sơn Nhất (SGN), sân bay Nội Bài (HAN), sân bay Đà Nẵng (DAD), sân bay Cam Ranh (CXR) và sân bay Phú Quốc (PQC) với dịch vụ VIP Fast Track của",
+      "review_score": 5.0,
+      "review_count": 3,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 347171.0,
+                "crossedOut": 416272.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1585699,
+      "title": "The Mộc Spa - Quận 1, Thành phố Hồ Chí Minh",
+      "description": "Khám phá The Mộc Spa ở Quận 1, một không gian thư giãn tinh tế tại Hồ Chí Minh, lấy cảm hứng từ các yếu tố gỗ tự nhiên và kỹ thuật trị liệu truyền thống châu Á.\n- Thưởng thức các liệu pháp massage đa",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 227384.0,
+                "crossedOut": 254344.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1670065,
+      "title": "Dịch Vụ Nhanh Cam Ranh - Nha Trang",
+      "description": "Chào đón chu đáo: Khi đến sân bay, bạn sẽ được đội ngũ nhân viên chuyên nghiệp và tận tâm của chúng tôi chào đón. Không còn phải tìm kiếm quầy hay cảm thấy lạc lõng giữa đám đông - đội ngũ của chún",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368145.0,
+                "crossedOut": 411796.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1649522,
+      "title": "Dịch vụ Fast Track tại sân bay Tân Sơn Nhất",
+      "description": "Trải nghiệm dịch vụ Fast Track tại sân bay Tân Sơn Nhất để tối ưu hóa thời gian khi nhập cảnh vào Thành phố Hồ Chí Minh.\n\n- Nhân viên chuyên nghiệp đón tiếp trực tiếp ngay khi bạn vừa hạ cánh\n- Hỗ trợ",
+      "review_score": 4.3,
+      "review_count": 152,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 452649.0,
+                "crossedOut": 506319.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1560209,
+      "title": "Sân bay Quốc tế Đà Nẵng (DAD) - Dịch vụ Ưu tiên Đón Tiễn",
+      "description": "- Nhận hỗ trợ ưu tiên cho các thủ tục nhập cảnh và hải quan tại sân bay Đà Nẵng.\n- Trải nghiệm dịch vụ chào đón và hộ tống cá nhân bởi đội ngũ nhân viên tại sân bay quốc tế Đà Nẵng.\n- Lựa chọn linh ho",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368381.0,
+                "crossedOut": 412059.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1562177,
+      "title": "Du Thuyền Hạ Long - Lan Hạ, Cát Bà - Chèo Kayak - Hà Nội",
+      "description": "Bắt đầu chuyến đi trong ngày trên du thuyền khám phá Vịnh Hạ Long và Vịnh Lan Hạ, hòa mình vào vẻ đẹp thiên nhiên hùng vĩ của Việt Nam. Hành trình đưa bạn đến Đảo Cát Bà, nơi bạn có thể trải nghiệm xe",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 977555.0,
+                "crossedOut": 1118483.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1614446,
+      "title": "Ưu tiên làm thủ tục nhanh tại sân bay Việt Nam: Không cần xếp hàng khi đến nơi.",
+      "description": "Tận hưởng trải nghiệm nhập cảnh thoải mái tại các sân bay Việt Nam với làn ưu tiên làm thủ tục nhanh.\nĐón tiếp thân mật khi đến nơi với bảng tên cá nhân.\nHỗ trợ liền mạch từ",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 372423.0,
+                "crossedOut": 446551.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1496994,
+      "title": "Du Thuyền IRIS Trong Ngày - Vịnh Hạ Long, Hang Sửng Sốt",
+      "description": "* Du thuyền IRIS được thiết kế như một nhà hát nổi trên Vịnh Hạ Long di sản, với sân khấu trên boong tắm nắng cùng hệ thống âm thanh và ánh sáng ngoài trời hiện đại.\n* Khám phá Vịnh Hạ Long với nh",
+      "review_score": 5.0,
+      "review_count": 5,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 892616.0,
+                "crossedOut": 966035.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": "Chính sách về giường ngủ cho trẻ em tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "Chính sách Giường ngủ cho trẻ em tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên tính trẻ 8 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm thông tin về Chính sách cụ thể cho Trẻ em và Độ tuổi của cơ sở lưu trú này tại phần Chính sách Cơ sở lưu trú nằm tại trang thông tin cơ sở lưu trú để biết thêm chi tiết.",
+      "category": "property_faq_property_policies_family"
+    },
+    {
+      "question": "Tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN), khách thường lưu trú trong bao lâu?",
+      "answer": "Khách trước đây đã được xác thực lưu trú tạiCăn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên có thời gian lưu trú trung bình mỗi đêm là 2 đêm tại cơ sở lưu trú này.",
+      "category": "property_faq_property_info_stay"
+    },
+    {
+      "question": "Mùa cao điểm trong năm tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "June là mùa cao điểm trong năm tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên. Đây là khoảng thời gian du khách đã xác thực lưu trú nhiều nhất tại đây.",
+      "category": "property_faq_property_info_stay"
+    },
+    {
+      "question": "Điều gì ở Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN) được khách yêu thích nhất?",
+      "answer": "Khách đã xác thực lưu trú tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đã đánh giá 9.333 cho cơ sở lưu trú này vì location hiếm có như là điểm nhấn chính cho kỳ lưu trú của họ.",
+      "category": "property_faq_review_topic"
+    },
+    {
+      "question": "Điểm trung bình từ khách đi một mình dành cho Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "8.9 là điểm số trung bình của khách đi một mình trước đây đã nghỉ tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét bằng cách lọc theo đối tượng khách đã được xác thực ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Điểm trung bình từ khách doanh nhân dành cho Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "8.3 là điểm số trung bình của khách doanh nhân trước đây đã nghỉ tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét bằng cách lọc theo đối tượng khách đã được xác thực ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Điểm trung bình từ khách cặp đôi dành cho Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "9.0 là điểm số trung bình của khách cặp đôi trước đây đã nghỉ tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét bằng cách lọc theo đối tượng khách đã được xác thực ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Điểm trung bình từ khách gia đình có trẻ nhỏ dành cho Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "9.9 là điểm số trung bình của khách gia đình có trẻ nhỏ đã xác thực nghỉ tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét bằng cách lọc theo đối tượng khách đã được xác thực ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Điểm trung bình từ khách đi theo nhóm dành cho Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)",
+      "answer": "9.4 là điểm số trung bình của khách đi theo nhóm trước đây đã nghỉ tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét bằng cách lọc theo đối tượng khách đã được xác thực ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Du khách nội địa nghĩ gì về Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN)?",
+      "answer": "Du khách nội địa đã từng ở tại Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên đánh giá trung bình 8.5 cho cơ sở lưu trú này. Quý khách có thể xem các đánh giá chi tiết hơn của khách hàng và nhận xét về cơ sở lưu trú này ở phần đánh giá.",
+      "category": "property_faq_review_traveler_type"
+    },
+    {
+      "question": "Sân bay gần Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN) nhất",
+      "answer": "Sân bay gần Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên nhất là Sân bay Quốc tế Cần Thơ, cách 45.0 km.",
+      "category": "property_faq_location_airport"
+    }
+  ],
+  "suitable_for": [
+    "Khách đi công tác",
+    "Cặp đôi",
+    "Khách du lịch một mình",
+    "Gia đình có trẻ nhỏ",
+    "Gia đình có thanh thiếu niên",
+    "Nhóm du khách"
+  ],
+  "view_types": [
+    "Hướng Thành phố"
+  ],
+  "tags": [
+    "Ban công/sân hiên",
+    "Bếp dễ tiếp cận",
+    "Cặp đôi",
+    "Dịch vụ chăm sóc khách chuyên nghiệp",
+    "Gia đình có thanh thiếu niên",
+    "Gia đình có trẻ nhỏ",
+    "Giá trị vượt trội",
+    "Hướng Thành phố",
+    "Khu vực hút thuốc",
+    "Khách du lịch một mình",
+    "Khách đi công tác",
+    "Nhóm du khách",
+    "Thang máy",
+    "Tầm nhìn đẹp",
+    "Vải trải giường",
+    "Vị trí lý tưởng",
+    "Điều hòa"
+  ],
+  "embedding_text": "Căn hộ 32 m² 1 phòng ngủ, 1 phòng tắm riêng ở Long Xuyên (ALPHA HOMESTAY MARINA LONG XUYÊN) - khách sạn 3.5 sao tại Long Xuyên.\nĐịa chỉ: Marina Plaza Long Xuyên, Long Xuyên, Long Xuyên, Việt Nam.\nNằm ở vị trí trung tâm tại Long Xuyên của Long Xuyên, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 5 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Ban công hoặc sân hiên, Ban công/sân hiên, Bàn/không gian làm việc, Bãi đỗ xe [tại chỗ], Bình nóng lạnh, Bếp, Cho phép hút thuốc, Chuông/liên lạc nội bộ không dây, Các loại khăn, Internet, Khu vực hút thuốc, Khóa điện tử, Máy sấy tóc, Thang máy, Tiếng Anh, Tủ quần áo, Vải trải giường, Vật dụng tắm rửa, Wi-Fi, tiếng Việt, Điều hòa, Được phép đưa thú nuôi vào, Đầu báo khói, Đồ dùng cơ bản trong nhà bếp (dụng cụ nấu ăn, dầu, nước sốt).\nĐiểm đánh giá 8.5/10 dựa trên 208 đánh giá.\nKhách hay nhắc đến: Độ sạch sẽ, Phòng tắm, Tiện nghi trong phòng, Địa điểm, Hướng nhìn từ phòng, Điều hòa, Bộ đồ giường, Nhận phòng.\nCác loại phòng: Căn hộ (Apartment).\nGần: Nhà thờ chính tòa Long Xuyên, Tượng Tôn Đức Thắng, Trại cá sấu Blue Sky, Sân bay Quốc tế Cần Thơ, Sân bay Rạch Giá, Techo International Airport.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

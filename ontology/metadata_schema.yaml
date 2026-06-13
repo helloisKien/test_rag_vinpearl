@@ -1,0 +1,91 @@
+# ontology/metadata_schema.yaml — CONTRACT v1.0 (KE-controlled). Task 1.8 — Sprint 1.
+# Owner: Trương Anh Long (Knowledge Engineering) — bạn CHỦ TRÌ, đồng bộ DA09.
+#
+# 1 trong 3 CONTRACT chốt cuối Sprint 1 (cùng data_schema.json của Minh Hiếu, api_contract.yaml của Kiên).
+#
+# QUAN HỆ với docs/metadata.md:
+#   - docs/metadata.md (DA09/bạn viết, đang chờ team 9 duyệt) = contract ĐẦY ĐỦ 10 layer metadata.
+#   - File NÀY = phần KE SỞ HỮU: schema knowledge_object + semantic tag + evidence + ontology binding.
+#     KHÔNG chép lại 10 layer; THAM CHIẾU sang metadata.md.
+#   - Mọi nhãn ngữ nghĩa (Layer 8) dùng concept_id từ ontology/core/*.yaml (đã đồng bộ metadata.md).
+#
+# Validate bằng pydantic: knowledge_engineering/metadata_extraction/schema.py
+
+version: "1.0.0"
+ontology_version: "concepts_v2.0.0"      # khớp ontology/_meta.yaml version
+metadata_doc: docs/metadata.md            # contract đầy đủ 10 layer (tham chiếu)
+
+# -----------------------------------------------------------------------------
+# KNOWLEDGE OBJECT — đơn vị tài liệu cuối (chi tiết build ở Sprint 3).
+# Dùng được cho Filter / Retrieve / Generate Context.
+# -----------------------------------------------------------------------------
+knowledge_object:
+  required: [id, type, title, source]
+  fields:
+    id: str                 # vd acc_805030 (acc_<hotel_id>)
+    type: str               # hotel | resort | villa | apartment | homestay | review | faq | guide
+    title: str
+    content: str            # mô tả đã clean (có thể null nếu object là review/faq)
+    source: str             # agoda | booking | ...
+
+    # metadata: 10 layer THEO docs/metadata.md. Ở contract này chỉ liệt kê các layer KE
+    # trực tiếp dùng để filter/score; chi tiết field xem metadata.md.
+    metadata:
+      core: ref(metadata.md#layer-1-core-metadata)               # object_type, location, star_rating...
+      search_filter: ref(metadata.md#layer-3-search-filter-metadata)  # pool, spa, kids_club... (hard filter)
+      nearby_geo: ref(metadata.md#layer-5-nearby-geo-metadata)   # near_* + distance (quan hệ near)
+      review_reputation: ref(metadata.md#layer-6)                # rating_breakdown, topics (ranking)
+      semantic: semantic_metadata                                # Layer 8 — dùng concept_id (xem dưới)
+
+    # tags: semantic tag KE gắn. concept TRUNG TÍNH; mỗi tag có confidence + provenance.
+    tags:
+      type: list
+      item:
+        required: [concept, confidence, sources]
+        fields:
+          concept: str       # concept_id thuộc ontology/core/*.yaml
+          confidence: float  # 0..1
+          sources: [str]     # source_tag | rule | embedding | llm | review_profile (provenance tầng nào gắn)
+
+# -----------------------------------------------------------------------------
+# SEMANTIC METADATA (Layer 8) — dùng concept_id, KHÔNG chuỗi phẳng. Mỗi key ánh xạ 1 facet.
+# Giá trị hợp lệ = concept_id của facet tương ứng (xem ontology/facets.yaml).
+# -----------------------------------------------------------------------------
+semantic_metadata:
+  travel_style:   {facet: style+price_tier, values: concept_id}
+  guest_type:     {facet: purpose,          values: concept_id}
+  location_type:  {facet: setting+amenity,  values: concept_id}
+  experience_tags:{facet: mixed,            values: concept_id}
+  room_experience:{facet: amenity+room_attr,values: concept_id}
+  atmosphere:     {facet: style,            values: concept_id}
+
+# -----------------------------------------------------------------------------
+# REVIEW EXTRA — ABSA output (Sprint 2). concept TRUNG TÍNH + sentiment riêng.
+# -----------------------------------------------------------------------------
+review_extra:
+  fields:
+    overall_sentiment: str          # positive | negative | neutral | mixed
+    aspects:
+      type: list
+      item:
+        required: [aspect, sentiment, confidence]
+        fields:
+          aspect: str               # concept_id facet=aspect (ASPECT_*)
+          sentiment: str            # positive | negative | neutral | mixed
+          confidence: float
+          span: str                 # câu trích dẫn (evidence)
+
+# -----------------------------------------------------------------------------
+# RANGE FILTERS — attribute SỐ (filter cứng), khớp facets.yaml > range_filters + metadata.md Layer 1.
+# Liệt kê kiểu/đơn vị để pydantic + DA09 thống nhất. KHÔNG phải concept.
+# -----------------------------------------------------------------------------
+range_filters:
+  star_rating:  {type: int,   min: 1, max: 5,  metadata_field: core_metadata.star_rating}
+  review_score: {type: float, min: 0, max: 10, metadata_field: core_metadata.review_score}
+  price_vnd:    {type: int,   min: 0,          metadata_field: room_metadata.cheapest_price, nullable: true}
+  distance_km:  {type: float, min: 0,          metadata_field: nearby_geo_metadata.nearby_summary}
+
+# -----------------------------------------------------------------------------
+# SCHEMA CHANGE PROTOCOL (mentor yêu cầu): đổi schema -> GitHub Issue -> họp 24h ->
+# cập nhật cả 3 contract cùng lúc -> tăng version. Không ai tự sửa.
+# -----------------------------------------------------------------------------

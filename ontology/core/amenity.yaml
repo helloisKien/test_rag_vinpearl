@@ -1,0 +1,357 @@
+# core/amenity.yaml — facet: amenity (HARD fact: có/không, lấy từ structured data).
+# tier: core. Provenance: domain_knowledge + Agoda amenities/amenity_groups/tags.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  # ---- Pool family ----------------------------------------------------------
+  AMEN_POOL:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Hồ bơi, en: Swimming pool}
+    surface_forms:
+      vi: [hồ bơi, bể bơi, bể bơi ngoài trời, hồ bơi ngoài trời]
+      en: [pool, swimming pool, outdoor pool]
+    description: {vi: Hồ bơi (bể bơi) tại cơ sở lưu trú, en: Swimming pool at the property}
+    narrower: [AMEN_INFINITY_POOL, AMEN_KIDS_POOL, AMEN_PRIVATE_POOL]
+
+  AMEN_INFINITY_POOL:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Hồ bơi vô cực, en: Infinity pool}
+    surface_forms:
+      vi: [hồ bơi vô cực, bể bơi vô cực, bể bơi có tầm nhìn]
+      en: [infinity pool, view pool]
+    description: {vi: Hồ bơi vô cực hoặc hồ bơi có tầm nhìn, en: Infinity pool or pool with a view}
+    broader: AMEN_POOL
+
+  AMEN_KIDS_POOL:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Hồ bơi trẻ em, en: Kids pool}
+    surface_forms:
+      vi: [hồ bơi trẻ em, bể bơi trẻ em]
+      en: [kids pool, children pool]
+    description: {vi: Hồ bơi dành cho trẻ em, en: Pool for children}
+    broader: AMEN_POOL
+    related: [PURPOSE_FAMILY]
+
+  AMEN_PRIVATE_POOL:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Hồ bơi riêng, en: Private pool}
+    surface_forms:
+      vi: [hồ bơi riêng, bể bơi riêng, hồ bơi trong phòng]
+      en: [private pool]
+    description: {vi: Hồ bơi riêng của phòng / villa, en: Private pool for the room / villa}
+    broader: AMEN_POOL
+    related: [OBJ_VILLA]
+
+  # ---- Beach / water ---------------------------------------------------------
+  AMEN_BEACHFRONT:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Bãi biển riêng, en: Beachfront}
+    surface_forms:
+      vi: [sát biển, ven biển, gần biển, ngay bãi biển, bãi biển riêng, lối ra bãi biển]
+      en: [beachfront, by the beach, private beach, beach access]
+    description: {vi: Vị trí ngay sát bãi biển / có bãi biển riêng, en: Right on the beach / has private beach access}
+    broader: SETTING_COASTAL
+
+  AMEN_SEA_VIEW:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Hướng biển, en: Sea view}
+    surface_forms:
+      vi: [view biển, hướng biển, hướng đại dương, tầm nhìn ra biển, nhìn ra biển, phòng view biển]
+      en: [sea view, ocean view]
+    description: {vi: Phòng có hướng nhìn ra biển / đại dương, en: Room facing the sea / ocean}
+
+  # ---- Wellness / sport ------------------------------------------------------
+  AMEN_SPA:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Spa, en: Spa}
+    surface_forms:
+      vi: [spa, mát-xa, massage, xông hơi, xông khô, phòng xông ướt, sauna]
+      en: [spa, massage, sauna]
+      # bỏ "tắm khoáng": bỏ dấu = "tam khoang" trùng "tầm khoảng" (phổ biến) -> false match
+    description: {vi: Dịch vụ spa, mát-xa, xông hơi, en: Spa, massage and sauna services}
+    related: [PURPOSE_WELLNESS]
+
+  AMEN_GYM:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Phòng tập, en: Gym}
+    surface_forms:
+      vi: [phòng tập, phòng gym, gym, phòng thể dục]
+      en: [gym, fitness, fitness center]
+    description: {vi: Phòng tập thể dục / trung tâm thể hình, en: Gym / fitness center}
+
+  AMEN_GOLF:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Sân golf, en: Golf}
+    surface_forms:
+      vi: [sân golf, sân gôn, golf, chơi golf]
+      en: [golf, golf course]
+    description: {vi: Sân golf tại chỗ hoặc gần kề, en: Golf course on-site or nearby}
+
+  # ---- Family ----------------------------------------------------------------
+  AMEN_KIDS_CLUB:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Câu lạc bộ trẻ em, en: Kids club}
+    surface_forms:
+      vi: [câu lạc bộ trẻ em, clb trẻ em, khu vui chơi trẻ em, sân chơi,
+           chỗ cho trẻ chơi, chỗ cho bé chơi, khu trẻ em, khu vui chơi cho bé]
+      en: [kids club, children club, playground]
+    description: {vi: Câu lạc bộ / khu vui chơi cho trẻ em, en: Kids club / children play area}
+    related: [PURPOSE_FAMILY]
+
+  # ---- Services --------------------------------------------------------------
+  AMEN_AIRPORT_SHUTTLE:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Đưa đón sân bay, en: Airport shuttle}
+    surface_forms:
+      vi: [đưa đón sân bay, dịch vụ đưa đón, xe đưa đón]
+      en: [airport shuttle, airport transfer]
+    description: {vi: Dịch vụ đưa đón sân bay, en: Airport shuttle / transfer service}
+
+  AMEN_WIFI:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Wi-Fi, en: Wi-Fi}
+    surface_forms:
+      vi: [wifi, wi-fi, wi fi, wifi miễn phí, internet, mạng]
+      en: [wifi, free wifi, internet]
+    description: {vi: Wi-Fi / Internet (thường miễn phí), en: Wi-Fi / Internet access (often free)}
+
+  AMEN_BAR:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Quán bar, en: Bar}
+    surface_forms:
+      vi: [quán bar, bar, quán bar cạnh bể bơi, pool bar]
+      en: [bar, pool bar]
+    description: {vi: Quán bar tại cơ sở lưu trú, en: Bar at the property}
+
+  AMEN_RESTAURANT:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Nhà hàng, en: Restaurant}
+    surface_forms:
+      vi: [nhà hàng, ẩm thực, dịch vụ phòng, ăn sáng, buffet]
+      en: [restaurant, dining]
+    description: {vi: Nhà hàng / dịch vụ ẩm thực tại chỗ, en: On-site restaurant / dining}
+
+  AMEN_CAFE:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Quán cà phê, en: Cafe}
+    surface_forms:
+      vi: [quán cà phê, cà phê, coffee shop]
+      en: [cafe, coffee shop]
+    description: {vi: Quán cà phê tại cơ sở lưu trú, en: On-site cafe}
+
+  # ── Bổ sung từ corpus 520 VN (amenity du khách lọc, chưa có concept) ───────────
+  AMEN_AC:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Điều hòa, en: Air conditioning}
+    surface_forms:
+      vi: [điều hòa, máy lạnh, điều hoà nhiệt độ]
+      en: [air conditioning, ac, air-con]
+    description: {vi: Điều hòa nhiệt độ (819 hotel), en: Air conditioning}
+
+  AMEN_PARKING:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Bãi đỗ xe, en: Parking}
+    surface_forms:
+      vi: [bãi đỗ xe, đỗ xe, chỗ đậu xe, đỗ xe miễn phí, bãi đậu xe, nhà để xe]
+      en: [parking, free parking, car park]
+    description: {vi: Bãi đỗ xe (miễn phí hoặc tính phí) (766 hotel), en: Parking (free or paid)}
+
+  AMEN_ELEVATOR:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Thang máy, en: Elevator}
+    surface_forms:
+      vi: [thang máy, thang cuốn]
+      en: [elevator, lift]
+    description: {vi: Thang máy (830 hotel), en: Elevator / lift}
+
+  AMEN_KITCHEN:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Bếp, en: Kitchen}
+    surface_forms:
+      vi: [bếp, nhà bếp, bếp chung, khu bếp, bếp nấu]
+      en: [kitchen, kitchenette, shared kitchen]
+    description: {vi: Bếp / khu nấu ăn (quan trọng cho căn hộ, lưu trú dài) (305 hotel), en: Kitchen / cooking area}
+    related: [OBJ_APARTMENT]
+
+  AMEN_PET_FRIENDLY:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Cho phép thú cưng, en: Pet-friendly}
+    surface_forms:
+      vi: [cho phép thú cưng, được phép đưa thú nuôi vào, thú cưng, mang theo thú cưng, pet, cho mang thú cưng, mang chó mèo]
+      en: [pet-friendly, pets allowed]
+    description: {vi: Cho phép mang theo thú cưng (144 hotel), en: Pets allowed}
+
+  AMEN_WHEELCHAIR:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Tiện nghi cho người khuyết tật, en: Wheelchair accessible}
+    surface_forms:
+      vi: [phù hợp cho xe lăn, tiện nghi cho khách khuyết tật, lối đi xe lăn, người khuyết tật]
+      en: [wheelchair accessible, accessibility, disabled access]
+    description: {vi: Tiện nghi tiếp cận cho người khuyết tật / xe lăn (510 hotel), en: Wheelchair / accessibility features}
+
+  AMEN_MEETING_ROOM:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Phòng họp / hội nghị, en: Meeting / conference room}
+    surface_forms:
+      vi: [phòng họp, phòng hội thảo, phòng hội nghị, cơ sở vật chất cho họp mặt tiệc lớn, trung tâm hội nghị]
+      en: [meeting room, conference room, banquet facilities]
+    description: {vi: Phòng họp / hội nghị / tiệc (564 hotel), en: Meeting / conference / banquet facilities}
+    related: [PURPOSE_BUSINESS]
+
+  AMEN_GARDEN:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Vườn / sân hiên, en: Garden / terrace}
+    surface_forms:
+      vi: [vườn, sân hiên, sân vườn, khu vực tầng thượng, ban công sân hiên]
+      en: [garden, terrace, rooftop area]
+    description: {vi: Vườn / sân hiên / không gian ngoài trời (600 hotel), en: Garden / terrace / outdoor area}
+
+  AMEN_BABYSITTING:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Dịch vụ trông trẻ, en: Babysitting}
+    surface_forms:
+      vi: [dịch vụ trông trẻ, trông trẻ, giữ trẻ]
+      en: [babysitting, child care]
+    description: {vi: Dịch vụ trông trẻ (410 hotel), en: Babysitting / child care service}
+    related: [PURPOSE_FAMILY]
+
+  AMEN_BIKE:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Xe đạp, en: Bicycle}
+    surface_forms:
+      vi: [xe đạp, thuê xe đạp, cho thuê xe đạp, đỗ xe đạp]
+      en: [bicycle, bike rental, bike]
+    description: {vi: Xe đạp / cho thuê xe đạp (324 hotel), en: Bicycle / bike rental}
+
+  # ── Promote từ candidate_queue (Sprint 2 Bước 1, duyệt 2026-06-08) — amenity giải trí/thể thao ──
+  AMEN_TENNIS:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Sân tennis, en: Tennis court}
+    surface_forms:
+      vi: [sân tennis, sân quần vợt, quần vợt, sân cầu lông, cầu lông]
+      en: [tennis court, tennis, badminton court]
+    description: {vi: Sân tennis / quần vợt / cầu lông (120 hotel), en: Tennis / racquet sports court}
+
+  AMEN_KARAOKE:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Karaoke, en: Karaoke}
+    surface_forms:
+      vi: [karaoke, phòng karaoke, hát karaoke]
+      en: [karaoke]
+    description: {vi: Phòng karaoke (130 hotel), en: Karaoke room}
+
+  AMEN_GAME_ROOM:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Phòng giải trí, en: Game room}
+    surface_forms:
+      vi: [bi-a, bida, bi a, phòng bi-a, bóng bàn, phòng giải trí, phòng game]
+      en: [billiards, pool table, table tennis, ping pong, game room]
+    description: {vi: Phòng giải trí trong nhà — bi-a, bóng bàn (gom 116+64 hotel), en: Indoor game room — billiards, table tennis}
+
+  AMEN_WATERSPORT:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Thể thao nước, en: Water sports}
+    surface_forms:
+      vi: [thể thao nước, bơi xuồng, chèo thuyền, lặn, lặn biển, câu cá, bơi với ống thở, lặn ống thở, lướt ván]
+      en: [water sports, kayaking, diving, snorkeling, fishing, windsurfing]
+    description: {vi: Thể thao dưới nước — chèo xuồng, lặn, câu cá, ống thở (gom ~120 hotel), en: Water sports — kayaking, diving, fishing, snorkeling}
+    related: [SETTING_COASTAL]
+
+  AMEN_HIKING:
+    facet: amenity
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Đi bộ đường dài, en: Hiking}
+    surface_forms:
+      vi: [đi bộ đường dài, leo núi, trekking, hiking, đường mòn]
+      en: [hiking, trekking, hiking trail]
+    description: {vi: Đi bộ đường dài / leo núi / trekking (130 hotel), en: Hiking / trekking}
+    related: [SETTING_MOUNTAIN]

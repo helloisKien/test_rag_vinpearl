@@ -1,0 +1,30 @@
+# AUTO-GENERATED — KHÔNG sửa tay. Sinh bởi knowledge_engineering/entity_extraction/build_location_setting.py
+# Suy SETTING của location TỪ DATA: % hotel trong location có tín hiệu coastal/mountain/island.
+# KHÔNG gõ tay địa lý. build_objects đọc file này gắn SETTING cho hotel theo location.
+# Đổi corpus -> chạy lại. evidence = % hotel mang tín hiệu + cỡ mẫu.
+version: 1.0.0
+location_setting:
+  LOC_CHAU_DOC:
+    SETTING_MOUNTAIN: 50% of 6 hotel
+  LOC_CON_DAO:
+    SETTING_COASTAL: 60% of 5 hotel
+    SETTING_MOUNTAIN: 80% of 5 hotel
+  LOC_DA_LAT:
+    SETTING_MOUNTAIN: 39% of 23 hotel
+  LOC_DA_NANG:
+    SETTING_COASTAL: 54% of 48 hotel
+  LOC_HA_LONG:
+    SETTING_COASTAL: 73% of 22 hotel
+  LOC_NHA_TRANG:
+    SETTING_COASTAL: 92% of 39 hotel
+  LOC_NINH_BINH:
+    SETTING_MOUNTAIN: 33% of 6 hotel
+  LOC_PHAN_THIET:
+    SETTING_COASTAL: 83% of 12 hotel
+  LOC_PHU_QUOC:
+    SETTING_COASTAL: 82% of 28 hotel
+  LOC_TAN_HIEP:
+    SETTING_COASTAL: 60% of 5 hotel
+    SETTING_MOUNTAIN: 60% of 5 hotel
+  LOC_VUNG_TAU:
+    SETTING_COASTAL: 85% of 20 hotel

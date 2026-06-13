@@ -1,0 +1,1133 @@
+{
+  "crawled_at": "2026-06-04T12:02:38",
+  "source_url": "https://www.agoda.com/maison-perla-luxury-boutique-villa-by-hampton-danang/hotel/all/da-nang-vn.html?hotel=87755467&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 87755467,
+  "name": "Maison Perla - Luxury Boutique Villa by Hampton Danang",
+  "property_type": "Hotel",
+  "accommodation_type": "Căn hộ dịch vụ",
+  "star_rating": 0.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 8.6,
+  "review_count": 4,
+  "address": "12 Phạm Văn Đồng, Phước Mỹ, Đà Nẵng, Việt Nam",
+  "area": "Phước Mỹ",
+  "city": "Đà Nẵng",
+  "country": "Việt Nam",
+  "postal_code": "550000",
+  "latitude": 16.070398330688477,
+  "longitude": 108.24267578125,
+  "description": "Cách Bãi biển Mỹ Khê 4 phút đi bộ, Maison Perla - Luxury Boutique Villa by Hampton Danang có ban công và Wi-Fi miễn phí.\n\nChỗ nghỉ có điều hòa, bếp nhỏ đầy đủ tiện nghi với khu vực ăn uống, TV màn hình phẳng, cũng như phòng tắm riêng với vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tủ lạnh, lò vi sóng và bếp, cũng như ấm đun nước đều được cung cấp.\n\nKhách sạn căn hộ cách Cầu sông Hàn 1.9 km và Cầu khóa Tình yêu Đà Nẵng 2.3 km.",
+  "check_in_from": "15:00",
+  "check_out_until": "11:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "15:00",
+    "Trả phòng đến": "11:00",
+    "Trả phòng từ": "00:00",
+    "Nhận phòng đến": "23:00"
+  },
+  "highlights": [
+    "Cách bãi biển 320 mét",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Điều hòa",
+    "Ban công/sân hiên"
+  ],
+  "location_tags": [
+    "Bàn tiếp tân [24 giờ]",
+    "Bãi biển",
+    "Cách bãi biển 320 mét",
+    "Dragon Bridge",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 1,86 km",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Bàn tiếp tân 24 giờ",
+    "Cách bãi biển 320 mét",
+    "Hoàn toàn không hút thuốc",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tọa lạc tại trung tâm đà nẵng",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Điều hòa ở khu vực chung",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 14,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Truy cập Internet": [
+      "WiFi miễn phí"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Hoàn toàn không hút thuốc",
+      "Điều hòa ở khu vực chung"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bàn tiếp tân 24 giờ"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ]
+  },
+  "amenities_general": [
+    "Bàn tiếp tân 24 giờ",
+    "Hoàn toàn không hút thuốc",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "WiFi miễn phí",
+    "Điều hòa ở khu vực chung",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Bãi biển Phạm Văn Đồng",
+      "type": "Bãi Biển",
+      "distance_km": 0.32
+    },
+    {
+      "name": "Siêu thị AU MiniMart",
+      "type": "Siêu Thị",
+      "distance_km": 0.37
+    },
+    {
+      "name": "Công viên Biển Đông",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 0.4
+    },
+    {
+      "name": "Biển Mỹ Khê",
+      "type": "Bãi Biển",
+      "distance_km": 0.43
+    },
+    {
+      "name": "Tháp cứu hộ",
+      "type": "Địa điểm giải trí",
+      "distance_km": 0.44
+    },
+    {
+      "name": "Trung Tam Phong Chong Lao",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.67
+    },
+    {
+      "name": "Horizon Bar",
+      "type": "Quán Rượu",
+      "distance_km": 0.86
+    },
+    {
+      "name": "Bệnh viện 199 Bộ Công An",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.88
+    },
+    {
+      "name": "Phòng tập HD Fitness 996",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 1.23
+    },
+    {
+      "name": "Vincom Plaza",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.32
+    }
+  ],
+  "image_count": 23,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329518.jpg?k=18e713611423bc354e93a06143358432c2e3e80e7cbe21682d99f81de52ee84c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329369.jpg?k=11a6da7dfaf61cbf6eeea98255b4fe858be57196d3c85bee3898dd03d1841a31&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329374.jpg?k=0386558945f45a8affe3f37a2b376b29e8682647fb82167b59d2fd2ae1d33c2a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329646.jpg?k=3d1570879b821a34fe02ff266878c9da0b5c0293cee5df94e2ef755123e99ac2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329563.jpg?k=3d466cd73ce79c056edd615ecc363cc7c5849c7af6ee5b9b0747072e5d39940d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329484.jpg?k=61809e1eba283a13d2dd6360d00da307240fe9c721b37115724833fcba3229fc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329603.jpg?k=9599cba2d41b89c437624d03757d2e92d2a32693373d498b28ed024290815f9b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329541.jpg?k=8022227e852c394d3743810efed6bb075f8e3ae2e59da3f3c749f2a7fd2d4855&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329592.jpg?k=9ef95bc34b3f8f5fef7570366b19132030cb90e5d53a76276af30041ac3bc88a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329595.jpg?k=5643f5c5ed0a92fb7f043d4e9391c315120fca90765a68b376d6157cf035a119&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329529.jpg?k=64a1765c8412c454bc13b43719b062a833cc63026e6a3b825abc8efec0cf1460&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329550.jpg?k=8269a49fe9a30af58b44c4565fd421b488d4da82c07a011cbb0af5b7a1e138d9&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329583.jpg?k=ee744eeeeac8ad6db32a601fb6073d3e42bf4760a375cee0c40628b3ec077cc3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329519.jpg?k=327c8d7a9c35165a77737925b4ce391c10799236e0411ea12ab7799e72a572aa&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329535.jpg?k=1de703bd3bbf3c17ae647294df8a5f915891ad6e01b75b5e6b09585ef1e8cde7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329440.jpg?k=5e62623f301dacfcb979750ca17036f0e1e5693487e906c0d3248fab2d2f34d7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329523.jpg?k=fcc5a2f01e123b3c3744a6220f4231fc6a0c24382df91d83543c7b79d7660ba8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329560.jpg?k=bf352f0b7401bea0152006e3b996d10e40138b6479495dd7ef70bfbf38f77144&o=",
+    "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329518.jpg?k=18e713611423bc354e93a06143358432c2e3e80e7cbe21682d99f81de52ee84c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329369.jpg?k=11a6da7dfaf61cbf6eeea98255b4fe858be57196d3c85bee3898dd03d1841a31&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329374.jpg?k=0386558945f45a8affe3f37a2b376b29e8682647fb82167b59d2fd2ae1d33c2a&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329646.jpg?k=3d1570879b821a34fe02ff266878c9da0b5c0293cee5df94e2ef755123e99ac2&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329563.jpg?k=3d466cd73ce79c056edd615ecc363cc7c5849c7af6ee5b9b0747072e5d39940d&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329484.jpg?k=61809e1eba283a13d2dd6360d00da307240fe9c721b37115724833fcba3229fc&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329603.jpg?k=9599cba2d41b89c437624d03757d2e92d2a32693373d498b28ed024290815f9b&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329541.jpg?k=8022227e852c394d3743810efed6bb075f8e3ae2e59da3f3c749f2a7fd2d4855&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329592.jpg?k=9ef95bc34b3f8f5fef7570366b19132030cb90e5d53a76276af30041ac3bc88a&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329595.jpg?k=5643f5c5ed0a92fb7f043d4e9391c315120fca90765a68b376d6157cf035a119&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329529.jpg?k=64a1765c8412c454bc13b43719b062a833cc63026e6a3b825abc8efec0cf1460&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329550.jpg?k=8269a49fe9a30af58b44c4565fd421b488d4da82c07a011cbb0af5b7a1e138d9&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329583.jpg?k=ee744eeeeac8ad6db32a601fb6073d3e42bf4760a375cee0c40628b3ec077cc3&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329519.jpg?k=327c8d7a9c35165a77737925b4ce391c10799236e0411ea12ab7799e72a572aa&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329535.jpg?k=1de703bd3bbf3c17ae647294df8a5f915891ad6e01b75b5e6b09585ef1e8cde7&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329440.jpg?k=5e62623f301dacfcb979750ca17036f0e1e5693487e906c0d3248fab2d2f34d7&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329523.jpg?k=fcc5a2f01e123b3c3744a6220f4231fc6a0c24382df91d83543c7b79d7660ba8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/859329560.jpg?k=bf352f0b7401bea0152006e3b996d10e40138b6479495dd7ef70bfbf38f77144&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Biển Mỹ Khê - Cách nơi ở 430 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+      "caption": "Bến du thuyền DHC - cách nơi ở 1.62 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu Rồng - cách nơi ở 1.96 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu sông Hàn - cách nơi ở 1.98 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Phước Mỹ",
+  "province": "Đà Nẵng",
+  "city_id": 16440,
+  "property_page": "/maison-perla-luxury-boutique-villa-by-hampton-danang/hotel/all/da-nang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 5,
+    "rooms": [
+      {
+        "room_type_id": 1370484549,
+        "name": "Studio Có Ban Công (Studio with Balcony)",
+        "name_en": "(Studio with Balcony)",
+        "room_size": "38 m²",
+        "size_sqm": 38.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "38 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Dành cho trẻ em",
+          "Giường cũi của em bé theo yêu cầu",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV màn hình phẳng",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 18,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329518.jpg?k=18e713611423bc354e93a06143358432c2e3e80e7cbe21682d99f81de52ee84c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329369.jpg?k=11a6da7dfaf61cbf6eeea98255b4fe858be57196d3c85bee3898dd03d1841a31&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329646.jpg?k=3d1570879b821a34fe02ff266878c9da0b5c0293cee5df94e2ef755123e99ac2&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329563.jpg?k=3d466cd73ce79c056edd615ecc363cc7c5849c7af6ee5b9b0747072e5d39940d&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329484.jpg?k=61809e1eba283a13d2dd6360d00da307240fe9c721b37115724833fcba3229fc&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2200000
+      },
+      {
+        "room_type_id": 1370484591,
+        "name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+        "name_en": "(Apartment with Balcony)",
+        "room_size": "38 m²",
+        "size_sqm": 38.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường đôi",
+        "bed_types": [
+          "1 giường đôi"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi",
+          "38 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Dành cho trẻ em",
+          "Giường cũi của em bé theo yêu cầu",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV màn hình phẳng",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1170000,
+        "original_price": 2100000
+      },
+      {
+        "room_type_id": 1370484540,
+        "name": "Studio Deluxe Giường Đôi (Deluxe Double Studio)",
+        "name_en": "(Deluxe Double Studio)",
+        "room_size": "25 m²",
+        "size_sqm": 25.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "25 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Dành cho trẻ em",
+          "Giường cũi của em bé theo yêu cầu",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV màn hình phẳng",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1080000,
+        "original_price": 1770000
+      },
+      {
+        "room_type_id": 1374239601,
+        "name": "Phòng Tiêu chuẩn với Ban công (Standard Room with Balcony)",
+        "name_en": "(Standard Room with Balcony)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "Không hút thuốc",
+          "Tính năng an toàn và an ninh"
+        ],
+        "image_count": 18,
+        "images": [
+          "https://pix8.agoda.net/property/87864423/1374239601/3a78207ccc75a8a95822d39f796389c2.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/87864423/1374239601/7f4c1cef8d9583562ef1fc9309a74a1e.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/87864423/1374239601/83009933f967b3526c4dfa39169cd892.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/87864423/1374239601/c1d1af7f718e6e781c643e9bf0aa303a.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/87864423/1374239601/2728c278a706129b22cdcd5a7a0def9c.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 830000,
+        "original_price": 1220000
+      },
+      {
+        "room_type_id": 1370484614,
+        "name": "Suite Executive (Executive Suite)",
+        "name_en": "(Executive Suite)",
+        "room_size": "50 m²",
+        "size_sqm": 50.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Bồn tắm"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "50 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Dành cho trẻ em",
+          "Giường cũi của em bé theo yêu cầu",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV màn hình phẳng",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2650000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1370484549,
+      "name": "Studio Có Ban Công (Studio with Balcony)",
+      "name_en": "(Studio with Balcony)",
+      "room_size": "38 m²",
+      "size_sqm": 38.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "38 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Dành cho trẻ em",
+        "Giường cũi của em bé theo yêu cầu",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV màn hình phẳng",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 18,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329518.jpg?k=18e713611423bc354e93a06143358432c2e3e80e7cbe21682d99f81de52ee84c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329369.jpg?k=11a6da7dfaf61cbf6eeea98255b4fe858be57196d3c85bee3898dd03d1841a31&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329646.jpg?k=3d1570879b821a34fe02ff266878c9da0b5c0293cee5df94e2ef755123e99ac2&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329563.jpg?k=3d466cd73ce79c056edd615ecc363cc7c5849c7af6ee5b9b0747072e5d39940d&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859329484.jpg?k=61809e1eba283a13d2dd6360d00da307240fe9c721b37115724833fcba3229fc&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2200000
+    },
+    {
+      "room_type_id": 1370484591,
+      "name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+      "name_en": "(Apartment with Balcony)",
+      "room_size": "38 m²",
+      "size_sqm": 38.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường đôi",
+      "bed_types": [
+        "1 giường đôi"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi",
+        "38 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Dành cho trẻ em",
+        "Giường cũi của em bé theo yêu cầu",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV màn hình phẳng",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1170000,
+      "original_price": 2100000
+    },
+    {
+      "room_type_id": 1370484540,
+      "name": "Studio Deluxe Giường Đôi (Deluxe Double Studio)",
+      "name_en": "(Deluxe Double Studio)",
+      "room_size": "25 m²",
+      "size_sqm": 25.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "25 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Dành cho trẻ em",
+        "Giường cũi của em bé theo yêu cầu",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV màn hình phẳng",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1080000,
+      "original_price": 1770000
+    },
+    {
+      "room_type_id": 1374239601,
+      "name": "Phòng Tiêu chuẩn với Ban công (Standard Room with Balcony)",
+      "name_en": "(Standard Room with Balcony)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "Không hút thuốc",
+        "Tính năng an toàn và an ninh"
+      ],
+      "image_count": 18,
+      "images": [
+        "https://pix8.agoda.net/property/87864423/1374239601/3a78207ccc75a8a95822d39f796389c2.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/87864423/1374239601/7f4c1cef8d9583562ef1fc9309a74a1e.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/87864423/1374239601/83009933f967b3526c4dfa39169cd892.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/87864423/1374239601/c1d1af7f718e6e781c643e9bf0aa303a.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/87864423/1374239601/2728c278a706129b22cdcd5a7a0def9c.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 830000,
+      "original_price": 1220000
+    },
+    {
+      "room_type_id": 1370484614,
+      "name": "Suite Executive (Executive Suite)",
+      "name_en": "(Executive Suite)",
+      "room_size": "50 m²",
+      "size_sqm": 50.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Bồn tắm"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "50 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Dành cho trẻ em",
+        "Giường cũi của em bé theo yêu cầu",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV màn hình phẳng",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/859300605.jpg?k=064779cedc312d45e0700be2015156481778c5755122fabff6d0cec85ae01a60&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2650000
+    }
+  ],
+  "reviews_detail": {
+    "score": 8.6,
+    "score_text": null,
+    "review_count": 4,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "rating_overall": 8.6,
+  "rating_count": 4,
+  "rating_breakdown": {},
+  "secondary": {
+    "description_full": "Cách Bãi biển Mỹ Khê 4 phút đi bộ, Maison Perla - Luxury Boutique Villa by Hampton Danang có ban công và Wi-Fi miễn phí.\n\nChỗ nghỉ có điều hòa, bếp nhỏ đầy đủ tiện nghi với khu vực ăn uống, TV màn hình phẳng, cũng như phòng tắm riêng với vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tủ lạnh, lò vi sóng và bếp, cũng như ấm đun nước đều được cung cấp.\n\nKhách sạn căn hộ cách Cầu sông Hàn 1.9 km và Cầu khóa Tình yêu Đà Nẵng 2.3 km.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 0-2 tuổi [bao gồm cả bé 2 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 5,
+    "dateless_rooms": [
+      {
+        "room_id": 1370484549,
+        "name": "Studio Có Ban Công (Studio with Balcony)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1374239601,
+        "name": "Phòng Tiêu chuẩn với Ban công (Standard Room with Balcony)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1370484614,
+        "name": "Suite Executive (Executive Suite)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1370484591,
+        "name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1370484540,
+        "name": "Studio Deluxe Giường Đôi (Deluxe Double Studio)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "activities": [
+    {
+      "activity_id": 1489059,
+      "title": "Sun World Ba Na Hills - Cáp treo & Buffet",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi du khách có thể chiêm ngưỡng khung cảnh núi non hùng vĩ từ trên cao. Trải nghiệm hệ thống cáp treo hiện đại để di chuyển lên đỉnh núi và tận hưởng không",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1223122.0,
+                "crossedOut": 1274085.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1033902,
+      "title": "Vé vào cổng Công viên nước Mikazuki 365, Đà Nẵng",
+      "description": "Khám phá Mikazuki Water Park 365, công viên nước trong nhà độc đáo tại Đà Nẵng, nơi mang đến những trải nghiệm vui chơi dưới nước suốt bốn mùa bất kể thời tiết.\n\n- Thư giãn tại Onsen theo phong cách N",
+      "review_score": 4.4,
+      "review_count": 44,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 220699.0,
+                "crossedOut": 224974.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1129195,
+      "title": "DIFF 2026 | Vé tham dự Lễ hội Pháo hoa Quốc tế Đà Nẵng | Nhận voucher miễn phí trên KKday",
+      "description": "Nhận nhiều loại voucher hấp dẫn, bao gồm vé xem\nÁo Dài Show\n,\nBảo tàng Đà Nẵng\n, cùng",
+      "review_score": 4.6,
+      "review_count": 15,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 762781.0,
+                "crossedOut": 850369.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1396114,
+      "title": "Private Car Transfer: Da Nang Airport to Hotel",
+      "description": "Travel between Da Nang Airport, the train station, and your hotel in the city center with a private car transfer. This service is available for both arrivals and departures.\n\n- Complimentary transfers",
+      "review_score": 4.8,
+      "review_count": 114,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 90408.0,
+                "crossedOut": 114295.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681591,
+      "title": "峴港國際機場(DAD) | Domestic Terminal | Domestic Business Lounge | 貴賓室服務",
+      "description": "位於峴港國際機場國內航站樓三樓，安檢後出發區域。\n提供冷熱餐食、自助小食、飲料及水果，滿足各種需求。\n營業時間：每日04:30-22:00。\n使用時間限制：最多可使用120分鐘。\n2歲以下兒童可免費入內。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 699863.0,
+                "crossedOut": 890411.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1041545,
+      "title": "Vé Sun World Ba Na Hills | Đà Nẵng",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi bạn có thể chiêm ngưỡng Cầu Vàng biểu tượng và ghé thăm chùa Linh Ứng thanh tịnh.\n\n- Trải nghiệm cáp treo ngắm nhìn toàn cảnh vùng núi Ba Na từ trên cao",
+      "review_score": 4.6,
+      "review_count": 2560,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 61780.0,
+                "crossedOut": 61780.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541702,
+      "title": "Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills",
+      "description": "Trải nghiệm cảm giác mạnh cùng Alpine Coaster tại Sun World Ba Na Hills, nơi bạn có thể tự điều khiển tốc độ khi lướt đi trên đường ray uốn lượn.\n\n- Hệ thống xe trượt tốc độ cao vận hành bằng trọng lự",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 100982.0,
+                "crossedOut": 100982.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1042432,
+      "title": "Xe Thuê Riêng Đà Nẵng - Bà Nà Hills | Việt Nam",
+      "description": "Di chuyển từ trung tâm thành phố Đà Nẵng đến Ba Na Hills bằng dịch vụ xe riêng, giúp bạn dễ dàng tiếp cận điểm đến đầy sức hút này.\n\n- Khám phá các điểm tham quan tại Sun World Ba Na Hills như Cầu Vàn",
+      "review_score": 4.5,
+      "review_count": 685,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 325479.0,
+                "crossedOut": 376712.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1259234,
+      "title": "[Giảm 20%] Xe đưa đón riêng Hội An - Đà Nẵng và ngược lại",
+      "description": "Di chuyển thuận tiện giữa Hội An và Đà Nẵng với dịch vụ xe đưa đón riêng, phù hợp cho hành trình khám phá miền Trung.\n\n- Xe đón trong vòng 30 phút sau khi đặt\n- Tài xế giàu kinh nghiệm cùng hệ thống x",
+      "review_score": 4.9,
+      "review_count": 554,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 250413.0,
+                "crossedOut": 294257.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681590,
+      "title": "峴港國際機場(DAD) | International Terminal | CIP Orchid Lounge | 貴賓室服務",
+      "description": "位置：峴港國際機場國際航廈夾層，安檢後右轉100米\n設施亮點：提供冷熱餐食、自助酒精飲料及淋浴設施\n營業時間：每日營業，從第一班飛機至最後一班飛機\n使用時間限制：每位客人最多可使用180分鐘\n家庭友好：2歲以下兒童可免費入內",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 866228.0,
+                "crossedOut": 1000263.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Ban công/sân hiên",
+    "Bàn tiếp tân [24 giờ]",
+    "Bãi biển",
+    "Cách bãi biển 320 mét",
+    "Dragon Bridge",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 1,86 km",
+    "Điều hòa",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Maison Perla - Luxury Boutique Villa by Hampton Danang tại Đà Nẵng.\nĐịa chỉ: 12 Phạm Văn Đồng, Phước Mỹ, Đà Nẵng, Việt Nam.\nNằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nTiện ích: Ban công/sân hiên, Bàn tiếp tân [24 giờ], Bãi đỗ xe [miễn phí], Cách bãi biển 320 mét, Dịch vụ Internet, Internet, Máy điều hòa ở khu vực chung, Tiếng Anh, Tọa lạc tại trung tâm Đà Nẵng, Wi-Fi miễn phí trong tất cả các phòng!, Wi-Fi ở nơi công cộng, hoàn toàn không hút thuốc, tiếng Việt, Điều hòa.\nĐiểm đánh giá 8.6/10 dựa trên 4 đánh giá.\nCác loại phòng: Studio Có Ban Công (Studio with Balcony); Căn Hộ Có Ban Công (Apartment with Balcony); Studio Deluxe Giường Đôi (Deluxe Double Studio); Phòng Tiêu chuẩn với Ban công (Standard Room with Balcony); Suite Executive (Executive Suite).\nGần: Bãi biển Phạm Văn Đồng, Siêu thị AU MiniMart, Công viên Biển Đông, Biển Mỹ Khê, Tháp cứu hộ, Trung Tam Phong Chong Lao.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

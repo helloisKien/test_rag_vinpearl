@@ -1,0 +1,3330 @@
+{
+  "crawled_at": "2026-06-04T12:01:43",
+  "source_url": "https://www.agoda.com/hampton-danang-luxury-apartment-h75852436/hotel/da-nang-vn.html?hotel=82014402&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 82014402,
+  "name": "Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment)",
+  "property_type": "Hotel",
+  "accommodation_type": "Căn hộ dịch vụ",
+  "star_rating": 3.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 9.3,
+  "review_count": 127,
+  "address": "14 Đường Lê Lâm 11 căn hộ, Phước Mỹ, Đà Nẵng, Việt Nam",
+  "area": "Phước Mỹ",
+  "city": "Đà Nẵng",
+  "country": "Việt Nam",
+  "postal_code": "550000",
+  "latitude": 16.083172,
+  "longitude": 108.2437,
+  "description": "Căn hộ cao cấp Hampton Đà Nẵng\n\nHãy tận dụng vô vàn dịch vụ và tiện ích không có gì sánh được tại Căn hộ cao cấp Hampton Đà Nẵng. Giữ liên lạc trong suốt kỳ nghỉ của quý khách với việc được truy cập internet miễn phí. Khách có thể đỗ xe thuận tiện có sẵn ngay tại căn hộ dịch vụ. Cảm thấy lười biếng? Các tiện ích trong phòng như dọn phòng hằng ngày giúp quý khách tận dụng tối đa thời gian trong phòng.\nPhòng nghỉ có tất cả tiện nghi mà quý khách cần để có một đêm ngủ ngon giấc. Một số phòng được trang bị dịch vụ giặt là và điều hòa để thuận tiện cho quý khách. Một số phòng tại Căn hộ cao cấp Hampton Đà Nẵng sẵn có các đặc điểm thiết kế như ban công hoặc sân hiên. Hãy mở to sự lựa chọn giải trí kể cả ở trong phòng của quý khách với một loạt các cơ sở vật chất bao gồm ti-vi sẵn có trong các phòng chọn lọc. Quý khách có thể yên tâm khi biết rằng tủ lạnh sẵn có trong một số phòng chọn lọc. Quý khách có thể luôn sảng khoái và sạch sẽ với khăn tắm, máy sấy tóc và vật dụng tắm rửa được cung cấp trong một số phòng tắm của khách.\n\nXung quanh chỗ nghỉ\n\nKhi ở Đà Nẵng, hãy dành một chút thời gian để phiêu lưu bên ngoài Căn hộ cao cấp Hampton Đà Nẵng. Quý khách chắc chắn sẽ muốn đến thăm Ngũ Hành Sơn nằm cách đó 9,1 km, một trong những bức ảnh được săn tìm nhiều nhất với bất kỳ ai ghé thăm Đà Nẵng.",
+  "check_in_from": "15:00",
+  "check_out_until": "11:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": "1",
+  "useful_info": {
+    "Nhận phòng từ": "15:00",
+    "Trả phòng đến": "11:00",
+    "Nhận phòng đến": "18:00",
+    "Số lượng phòng": "1"
+  },
+  "highlights": [
+    "Cách bãi biển 420 mét",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày",
+    "Ban công/sân hiên",
+    "Bãi để xe"
+  ],
+  "location_tags": [
+    "Bãi biển",
+    "Cách bãi biển 420 mét",
+    "Dragon Bridge",
+    "Lady Buddha",
+    "Phòng nghỉ thoải mái, chất lượng cao",
+    "Sạch bóng",
+    "Thích hợp cho các hoạt động",
+    "cách trung tâm thành phố 2,1 km",
+    "Đáng tiền nhất",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Biệt lập",
+    "Bàn ăn",
+    "Bãi biển riêng",
+    "Bãi để xe",
+    "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+    "Bảo vệ 24 giờ",
+    "Bếp nhỏ",
+    "Bếp đầy đủ",
+    "CCTV bên ngoài chỗ nghỉ",
+    "CCTV trong khu vực chung",
+    "Chỗ nghỉ chỉ dành cho người lớn",
+    "Cách bày bàn ăn an toàn",
+    "Cách bãi biển 420 mét",
+    "Cách âm",
+    "Có cung cấp hóa đơn",
+    "Có thể yêu cầu không khử trùng phòng",
+    "Cửa an toàn cho em bé",
+    "Dịch vụ làm đẹp",
+    "Dịch vụ phát trực tuyến như netflix",
+    "Dịch vụ phòng",
+    "Dọn phòng hằng ngày",
+    "Giãn cách vật lý ít nhất 1 mét",
+    "Giường cực dài",
+    "Giặt đồ vải lanh và quần áo bằng nước nóng",
+    "Giữ hành lý",
+    "Khu vực hút thuốc",
+    "Khu vực tiếp khách",
+    "Khu vực ăn uống riêng",
+    "Không có văn phòng phẩm dùng chung",
+    "Khẩu trang miễn phí",
+    "Lò vi sóng",
+    "Lựa chọn thức ăn bọc riêng",
+    "Máy giặt",
+    "Máy sưởi ở khu vực chung",
+    "Máy sấy quần áo",
+    "Nhiệt kế cơ thể",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhân viên được đào tạo về giao thức an toàn",
+    "Nhận trả phòng không tiếp xúc",
+    "Nhận trả phòng nhanh",
+    "Phòng cách âm",
+    "Phòng không gây dị ứng",
+    "Phòng không hút thuốc",
+    "Phòng thay đồ",
+    "Phòng được vệ sinh giữa các lần ở",
+    "Sàn lát gạch sàn đá cẩm thạch",
+    "Sân hiên",
+    "Sản phẩm làm sạch chống virus",
+    "Sản phẩm vệ sinh",
+    "TV màn hình phẳng",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tính năng an toàn bảo mật",
+    "Tủ lạnh",
+    "Vật dụng nhà bếp và bộ đồ ăn được vệ sinh",
+    "WiFi miễn phí",
+    "Ít gây dị ứng",
+    "Đi lên bằng thang máy",
+    "Điều hòa",
+    "Điều hòa cá nhân",
+    "Đồ dùng cho giấc ngủ thoải mái",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 92,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Truy cập Internet": [
+      "WiFi miễn phí"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Bãi biển riêng"
+    ],
+    "Độ sạch sẽ và an toàn": [
+      "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+      "Cách bày bàn ăn an toàn",
+      "Có thể yêu cầu không khử trùng phòng",
+      "Giãn cách vật lý ít nhất 1 mét",
+      "Giặt đồ vải lanh và quần áo bằng nước nóng",
+      "Không có văn phòng phẩm dùng chung",
+      "Khẩu trang miễn phí",
+      "Lựa chọn thức ăn bọc riêng",
+      "Nhiệt kế cơ thể",
+      "Nhân viên được đào tạo về giao thức an toàn",
+      "Phòng được vệ sinh giữa các lần ở",
+      "Sản phẩm làm sạch chống virus",
+      "Vật dụng nhà bếp và bộ đồ ăn được vệ sinh"
+    ],
+    "Ăn uống": [
+      "Dịch vụ phòng"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Có cung cấp hóa đơn",
+      "Dịch vụ làm đẹp",
+      "Dọn phòng hằng ngày",
+      "Giữ hành lý",
+      "Khu vực hút thuốc",
+      "Máy sưởi ở khu vực chung",
+      "Nhân viên chăm sóc khách hàng",
+      "Nhận trả phòng không tiếp xúc",
+      "Sân hiên",
+      "Thang máy"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ",
+      "CCTV bên ngoài chỗ nghỉ",
+      "CCTV trong khu vực chung",
+      "Chỗ nghỉ chỉ dành cho người lớn",
+      "Nhận trả phòng nhanh",
+      "Phòng cách âm",
+      "Phòng không gây dị ứng",
+      "Phòng không hút thuốc",
+      "Tính năng an toàn bảo mật"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ],
+    "Có trong tất cả phòng": [
+      "Ban công sân hiên",
+      "Biệt lập",
+      "Bàn ăn",
+      "Bếp nhỏ",
+      "Bếp đầy đủ",
+      "Cách âm",
+      "Cửa an toàn cho em bé",
+      "Dịch vụ phát trực tuyến như netflix",
+      "Giường cực dài",
+      "Khu vực tiếp khách",
+      "Khu vực ăn uống riêng",
+      "Lò vi sóng",
+      "Máy giặt",
+      "Máy sấy quần áo",
+      "Phòng thay đồ",
+      "Sàn lát gạch sàn đá cẩm thạch",
+      "Sản phẩm vệ sinh",
+      "TV màn hình phẳng",
+      "Tính năng an toàn bảo mật",
+      "Tủ lạnh",
+      "Ít gây dị ứng",
+      "Đi lên bằng thang máy",
+      "Điều hòa",
+      "Điều hòa cá nhân",
+      "Đồ dùng cho giấc ngủ thoải mái"
+    ]
+  },
+  "amenities_general": [
+    "Ban công sân hiên",
+    "Biệt lập",
+    "Bàn ăn",
+    "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+    "Bảo vệ 24 giờ",
+    "Bếp nhỏ",
+    "Bếp đầy đủ",
+    "CCTV bên ngoài chỗ nghỉ",
+    "CCTV trong khu vực chung",
+    "Chỗ nghỉ chỉ dành cho người lớn",
+    "Cách bày bàn ăn an toàn",
+    "Cách âm",
+    "Có cung cấp hóa đơn",
+    "Có thể yêu cầu không khử trùng phòng",
+    "Cửa an toàn cho em bé",
+    "Dịch vụ làm đẹp",
+    "Dịch vụ phát trực tuyến như netflix",
+    "Dọn phòng hằng ngày",
+    "Giãn cách vật lý ít nhất 1 mét",
+    "Giường cực dài",
+    "Giặt đồ vải lanh và quần áo bằng nước nóng",
+    "Giữ hành lý",
+    "Khu vực hút thuốc",
+    "Khu vực tiếp khách",
+    "Khu vực ăn uống riêng",
+    "Không có văn phòng phẩm dùng chung",
+    "Khẩu trang miễn phí",
+    "Lò vi sóng",
+    "Lựa chọn thức ăn bọc riêng",
+    "Máy giặt",
+    "Máy sưởi ở khu vực chung",
+    "Máy sấy quần áo",
+    "Nhiệt kế cơ thể",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhân viên được đào tạo về giao thức an toàn",
+    "Nhận trả phòng không tiếp xúc",
+    "Nhận trả phòng nhanh",
+    "Phòng cách âm",
+    "Phòng không gây dị ứng",
+    "Phòng không hút thuốc",
+    "Phòng thay đồ",
+    "Phòng được vệ sinh giữa các lần ở",
+    "Sàn lát gạch sàn đá cẩm thạch",
+    "Sân hiên",
+    "Sản phẩm làm sạch chống virus",
+    "Sản phẩm vệ sinh",
+    "TV màn hình phẳng",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tính năng an toàn bảo mật",
+    "Tủ lạnh",
+    "Vật dụng nhà bếp và bộ đồ ăn được vệ sinh",
+    "WiFi miễn phí",
+    "Ít gây dị ứng",
+    "Đi lên bằng thang máy",
+    "Điều hòa",
+    "Điều hòa cá nhân",
+    "Đồ dùng cho giấc ngủ thoải mái",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [
+    "Bãi biển riêng"
+  ],
+  "amenities_dining": [
+    "Dịch vụ phòng"
+  ],
+  "nearby_places": [
+    {
+      "name": "Bãi biển Phạm Văn Đồng",
+      "type": "Bãi Biển",
+      "distance_km": 0.42
+    },
+    {
+      "name": "Làng chài Mân Thái",
+      "type": "Bến Du Thuyền",
+      "distance_km": 0.59
+    },
+    {
+      "name": "Horizon Bar",
+      "type": "Quán Rượu",
+      "distance_km": 0.63
+    },
+    {
+      "name": "Trạm y tế Phường Mân Thái",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.67
+    },
+    {
+      "name": "Du Lịch Tuổi Trẻ Việt - Tour Đà Nẵng",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.76
+    },
+    {
+      "name": "Siêu thị AU MiniMart",
+      "type": "Siêu Thị",
+      "distance_km": 1.06
+    },
+    {
+      "name": "Tháp cứu hộ",
+      "type": "Địa điểm giải trí",
+      "distance_km": 1.2
+    },
+    {
+      "name": "Co.opMart",
+      "type": "Siêu Thị",
+      "distance_km": 1.26
+    },
+    {
+      "name": "Trạm y tế Phường An Hải Bắc",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 1.34
+    },
+    {
+      "name": "Bảo Tàng 3D Đà Nẵng Art in Paradise",
+      "type": "Viện Bảo Tàng và Phòng Trưng Bày Nghệ Thuật",
+      "distance_km": 1.37
+    }
+  ],
+  "image_count": 24,
+  "image_urls": [
+    "https://pix8.agoda.net/hotelImages/82014402/1282116790/2bffb403106117f25385e2e566c609f2.jpg?ce=3&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741624230.jpg?k=1c6a69c4b0415e7db473f935cadfc64e93d2838a11c0931d09341424c9803546&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741607759.jpg?k=9b8782d4852839fd4ecef81f10be4418f0ea6417d0afd632d818c088585e2bc7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+    "https://pix8.agoda.net/hotelImages/82014402/1282116790/c28979e8d352663e5d34b64d760bb4cc.jpg?ce=3&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614499.jpg?k=ddc67a399d807459544a108336750cb16e71c369c7c237ab273af4957d06f9aa&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486289.jpg?k=5eadced93e107989d7ab80b4eb05257bd67268f8c7f580914d5952dcbe52c07f&o=",
+    "https://pix8.agoda.net/hotelImages/82014402/1282116780/b87d39064d1aa84748a89fa4945a4540.jpg?ce=3&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614733.jpg?k=d2c349652661311864b75d7be3ffb6594a9cded5753bfa0cdd4cbf3f3656c006&o=",
+    "https://pix8.agoda.net/property/78328742/0/e10966251cada57e29036adc0da1e18a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/82014402/1282116780/a148d3cdc265bcd46e7bc85362aac30b.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/78328742/0/9645eae2aff2839e4a886e025723368f.jpeg?ce=2&s=1024x768",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699495186.jpg?k=20005454aa7389c93fac1cdbadb8659b007717ee386ad7f99ce2fa38a8bbcd84&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614559.jpg?k=23c09f86c114c76150657eb128574b00cc6f7cb6eb831916ff471acbd1953434&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486244.jpg?k=abb2cec0ed1e181676ce118edcd7ddb25af5ca8d0b03ff9f708005545ca6b1b7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486242.jpg?k=1a1d39b2ccc738d8993035169c6d796e952321f1fc257641a5ea7c2c929d84de&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o=",
+    "https://pix8.agoda.net/property/76806199/0/975e503710926cd8eb9f173b2fdf9f26.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/76806199/0/00aa12b149c97bb4dec3d47dddae30a9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/76806199/0/dcb5dd38514a2e1d736ba1251a7edb3d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24364/2_24364_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/hotelImages/82014402/1282116790/2bffb403106117f25385e2e566c609f2.jpg?ce=3&s=1024x768",
+      "caption": "Căn hộ Superior có Ban công - Phòng ốc",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741624230.jpg?k=1c6a69c4b0415e7db473f935cadfc64e93d2838a11c0931d09341424c9803546&o=",
+      "caption": "Giường",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741607759.jpg?k=9b8782d4852839fd4ecef81f10be4418f0ea6417d0afd632d818c088585e2bc7&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/82014402/1282116790/c28979e8d352663e5d34b64d760bb4cc.jpg?ce=3&s=1024x768",
+      "caption": "Căn hộ Superior có Ban công - Phòng ốc",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614499.jpg?k=ddc67a399d807459544a108336750cb16e71c369c7c237ab273af4957d06f9aa&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486289.jpg?k=5eadced93e107989d7ab80b4eb05257bd67268f8c7f580914d5952dcbe52c07f&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/82014402/1282116780/b87d39064d1aa84748a89fa4945a4540.jpg?ce=3&s=1024x768",
+      "caption": "Căn Hộ 1 Phòng Ngủ Có Ban Công - Phòng ốc",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614733.jpg?k=d2c349652661311864b75d7be3ffb6594a9cded5753bfa0cdd4cbf3f3656c006&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/78328742/0/e10966251cada57e29036adc0da1e18a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/82014402/1282116780/a148d3cdc265bcd46e7bc85362aac30b.jpg?ce=3&s=1024x768",
+      "caption": "Căn Hộ 1 Phòng Ngủ Có Ban Công - Phòng ốc",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/78328742/0/9645eae2aff2839e4a886e025723368f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699495186.jpg?k=20005454aa7389c93fac1cdbadb8659b007717ee386ad7f99ce2fa38a8bbcd84&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614559.jpg?k=23c09f86c114c76150657eb128574b00cc6f7cb6eb831916ff471acbd1953434&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486244.jpg?k=abb2cec0ed1e181676ce118edcd7ddb25af5ca8d0b03ff9f708005545ca6b1b7&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/699486242.jpg?k=1a1d39b2ccc738d8993035169c6d796e952321f1fc257641a5ea7c2c929d84de&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o=",
+      "caption": "Hành lang",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/76806199/0/975e503710926cd8eb9f173b2fdf9f26.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/76806199/0/00aa12b149c97bb4dec3d47dddae30a9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/76806199/0/dcb5dd38514a2e1d736ba1251a7edb3d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Biển Mỹ Khê - cách nơi ở 1.7 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24364/2_24364_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Cầu Thuận Phước - cách nơi ở 2.6 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu sông Hàn - cách nơi ở 2.67 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+      "caption": "Bến du thuyền DHC - cách nơi ở 2.72 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Phước Mỹ",
+  "province": "Đà Nẵng",
+  "city_id": 16440,
+  "property_page": "/hampton-danang-luxury-apartment-h75852436/hotel/da-nang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 10,
+    "rooms": [
+      {
+        "room_type_id": 1282116780,
+        "name": "Căn Hộ 1 Phòng Ngủ Có Ban Công (One-Bedroom Apartment with Balcony)",
+        "name_en": "(One-Bedroom Apartment with Balcony)",
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "40 m²",
+          "Ban công sân hiên",
+          "Biệt lập",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Cách âm",
+          "Cửa an toàn cho em bé",
+          "Dịch vụ phát trực tuyến như netflix",
+          "Giường cực dài",
+          "Giải trí",
+          "Hướng núi",
+          "Khu vực tiếp khách",
+          "Khu vực ăn uống riêng",
+          "Không hút thuốc",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng thay đồ",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi miễn phí",
+          "Ít gây dị ứng",
+          "Ăn uống",
+          "Đi lên bằng thang máy",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ dùng làm bếp",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 18,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/82014402/1282116780/b87d39064d1aa84748a89fa4945a4540.jpg?ce=3&s=800x600",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116780/b2a586eaf7be100a12c6eaf696528bdc.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116780/a148d3cdc265bcd46e7bc85362aac30b.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116780/15b8c4e45621cf4358f57d4cd1ad6641.jpg?ce=3&s=800x600"
+        ],
+        "review_score": 9.0,
+        "price_per_night": 1230000,
+        "original_price": 1650000
+      },
+      {
+        "room_type_id": 1195561403,
+        "name": "Boutique Apartment Balcony Room-5min To Beach",
+        "name_en": null,
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "40 m²",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Không hút thuốc",
+          "Lò vi sóng",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "WiFi",
+          "Ăn uống",
+          "Điều hòa",
+          "Đồ dùng làm bếp"
+        ],
+        "image_count": 18,
+        "images": [
+          "https://pix8.agoda.net/property/76806199/1187694050/975e503710926cd8eb9f173b2fdf9f26.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1187694050/00aa12b149c97bb4dec3d47dddae30a9.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1187694050/9b58ffce25401513604abc5cb4be8aa7.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1187694050/d7d3aae483515f1e57fb1207ef2fadfc.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1187694050/e2fd743907bc879acfcb20d48bcc1293.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1230000,
+        "original_price": 1680000
+      },
+      {
+        "room_type_id": 1282116787,
+        "name": "Căn Hộ - Tầng Trệt (Apartment - Ground Floor)",
+        "name_en": "(Apartment - Ground Floor)",
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": "Hướng Vườn",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Vườn",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "40 m²",
+          "Ban công sân hiên",
+          "Biệt lập",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Cách âm",
+          "Cửa an toàn cho em bé",
+          "Dịch vụ phát trực tuyến như netflix",
+          "Giường cực dài",
+          "Giải trí",
+          "Hướng vườn",
+          "Khu vực tiếp khách",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng thay đồ",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Tủ lạnh",
+          "Ít gây dị ứng",
+          "Ăn uống",
+          "Đi lên bằng thang máy",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái"
+        ],
+        "image_count": 15,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614533.jpg?k=e70169b81c0d0d68b592b06ae6815f3ef7a53a2737cab532eed15bcd3b5aa197&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614448.jpg?k=a3dc8d164d6a4fbb957bc72869037bffad5f00438d374f68399daa56e28ab6de&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614559.jpg?k=23c09f86c114c76150657eb128574b00cc6f7cb6eb831916ff471acbd1953434&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1230000,
+        "original_price": 2010000
+      },
+      {
+        "room_type_id": 1282116790,
+        "name": "Căn hộ Superior có Ban công (Superior Apartment with Balcony)",
+        "name_en": "(Superior Apartment with Balcony)",
+        "room_size": "50 m²",
+        "size_sqm": 50.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "50 m²",
+          "Ban công sân hiên",
+          "Biệt lập",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Cách âm",
+          "Cửa an toàn cho em bé",
+          "Dịch vụ phát trực tuyến như netflix",
+          "Giường cực dài",
+          "Giải trí",
+          "Hướng núi",
+          "Khu vực tiếp khách",
+          "Khu vực ăn uống riêng",
+          "Không hút thuốc",
+          "Ly rượu vang",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng thay đồ",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi miễn phí",
+          "Ít gây dị ứng",
+          "Ăn uống",
+          "Đi lên bằng thang máy",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ dùng làm bếp",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 12,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/82014402/1282116790/2bffb403106117f25385e2e566c609f2.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116790/c0829d50a7cca6b899e7da9e0a824f48.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116790/41b4a3069aad1ac6c7e184aec40d15c0.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/82014402/1282116790/c28979e8d352663e5d34b64d760bb4cc.jpg?ce=3&s=800x600",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2050000
+      },
+      {
+        "room_type_id": 1241363777,
+        "name": "Classic Suite Apartment",
+        "name_en": null,
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "40 m²",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Giường cực dài",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Không hút thuốc",
+          "Khả năng tiếp cận cho người khuyết tật",
+          "Lò vi sóng",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sản phẩm vệ sinh",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi mạng lan trong phòng tính phí",
+          "Ăn uống",
+          "Điều hòa",
+          "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+          "Đồ dùng làm bếp"
+        ],
+        "image_count": 8,
+        "images": [
+          "https://pix8.agoda.net/property/85179924/1326183820/b155039ccf27fc6d62e2a03f0c08df90.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917581/5be87e455c118ee91a4f18ff4491b750.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917581/3b6b10c6af872675d25b0739f081a898.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917581/38ea411e22f544691447f432e739dfc4.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917581/afab517499d98c2a970a33daa249256f.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2150000
+      },
+      {
+        "room_type_id": 1241363776,
+        "name": "Căn hộ Premier Suite (Premier Suite Apartment)",
+        "name_en": "(Premier Suite Apartment)",
+        "room_size": "50 m²",
+        "size_sqm": 50.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": "Tối đa 2 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "50 m²",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Giường cực dài",
+          "Giải trí",
+          "Khu vực ăn uống riêng",
+          "Không hút thuốc",
+          "Khả năng tiếp cận cho người khuyết tật",
+          "Lò vi sóng",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sản phẩm vệ sinh",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi mạng lan trong phòng tính phí",
+          "Ăn uống",
+          "Điều hòa",
+          "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+          "Đồ dùng làm bếp"
+        ],
+        "image_count": 5,
+        "images": [
+          "https://pix8.agoda.net/property/85179924/1326183817/1f6ff6b483e4f35934309dcaf44378a5.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917573/3d02dfe864fc0e9cfdbfaffe7827e51f.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917573/54792992c2aea59141317a490fbefa2d.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917573/ca0470b9ae1326bc2239ace1c79ccf94.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/76806199/1238917573/230e15a8533a94832756bd0901125c3d.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2400000
+      },
+      {
+        "room_type_id": 1210342112,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "name_en": null,
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": "Hướng Thành phố",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Thành phố"
+        ],
+        "room_amenities": [
+          "40 m²",
+          "Giải trí",
+          "Hướng thành phố",
+          "TV"
+        ],
+        "image_count": 2,
+        "images": [
+          "https://pix8.agoda.net/property/78328742/1210342112/a13fcca0f409dd9b15f7f8fd72b333e0.jpeg?ce=2&s=800x600",
+          "https://pix8.agoda.net/property/78328742/1210342112/da3f7fcccfdf0b474642f613f486baff.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2650000
+      },
+      {
+        "room_type_id": 1243576606,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "name_en": null,
+        "room_size": "40 m²",
+        "size_sqm": 40.0,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": "Hướng Thành phố",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Thành phố"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "40 m²",
+          "Hướng thành phố"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741624230.jpg?k=1c6a69c4b0415e7db473f935cadfc64e93d2838a11c0931d09341424c9803546&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 1880000
+      },
+      {
+        "room_type_id": 1326183818,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bàn ăn",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Giường cực dài",
+          "Giải trí",
+          "Không hút thuốc",
+          "Khả năng tiếp cận cho người khuyết tật",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sản phẩm vệ sinh",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "WiFi mạng lan trong phòng miễn phí",
+          "Ăn uống",
+          "Điều hòa",
+          "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+          "Đồ dùng làm bếp"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/85179924/1326183818/45333ac8b3baa6085eedc200807e02d1.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1200000,
+        "original_price": 1520000
+      },
+      {
+        "room_type_id": 1326183819,
+        "name": "Boutique Apartment Balcony Room(Balcony)",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Không hút thuốc",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "Ban công sân hiên",
+          "Bàn là quần",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp nhỏ",
+          "Bố trí và nội thất phòng",
+          "Giường cực dài",
+          "Giải trí",
+          "Không hút thuốc",
+          "Khả năng tiếp cận cho người khuyết tật",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sản phẩm vệ sinh",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "Tủ lạnh",
+          "WiFi mạng lan trong phòng tính phí",
+          "Ăn uống",
+          "Điều hòa",
+          "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+          "Đồ dùng làm bếp"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/85179924/1326183819/779cfb7f3acc1772a982478beebf7970.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1170000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1282116780,
+      "name": "Căn Hộ 1 Phòng Ngủ Có Ban Công (One-Bedroom Apartment with Balcony)",
+      "name_en": "(One-Bedroom Apartment with Balcony)",
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "40 m²",
+        "Ban công sân hiên",
+        "Biệt lập",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Cách âm",
+        "Cửa an toàn cho em bé",
+        "Dịch vụ phát trực tuyến như netflix",
+        "Giường cực dài",
+        "Giải trí",
+        "Hướng núi",
+        "Khu vực tiếp khách",
+        "Khu vực ăn uống riêng",
+        "Không hút thuốc",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng thay đồ",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi miễn phí",
+        "Ít gây dị ứng",
+        "Ăn uống",
+        "Đi lên bằng thang máy",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ dùng làm bếp",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 18,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/82014402/1282116780/b87d39064d1aa84748a89fa4945a4540.jpg?ce=3&s=800x600",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116780/b2a586eaf7be100a12c6eaf696528bdc.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116780/a148d3cdc265bcd46e7bc85362aac30b.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116780/15b8c4e45621cf4358f57d4cd1ad6641.jpg?ce=3&s=800x600"
+      ],
+      "review_score": 9.0,
+      "price_per_night": 1230000,
+      "original_price": 1650000
+    },
+    {
+      "room_type_id": 1195561403,
+      "name": "Boutique Apartment Balcony Room-5min To Beach",
+      "name_en": null,
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "40 m²",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Không hút thuốc",
+        "Lò vi sóng",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "WiFi",
+        "Ăn uống",
+        "Điều hòa",
+        "Đồ dùng làm bếp"
+      ],
+      "image_count": 18,
+      "images": [
+        "https://pix8.agoda.net/property/76806199/1187694050/975e503710926cd8eb9f173b2fdf9f26.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1187694050/00aa12b149c97bb4dec3d47dddae30a9.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1187694050/9b58ffce25401513604abc5cb4be8aa7.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1187694050/d7d3aae483515f1e57fb1207ef2fadfc.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1187694050/e2fd743907bc879acfcb20d48bcc1293.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1230000,
+      "original_price": 1680000
+    },
+    {
+      "room_type_id": 1282116787,
+      "name": "Căn Hộ - Tầng Trệt (Apartment - Ground Floor)",
+      "name_en": "(Apartment - Ground Floor)",
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": "Hướng Vườn",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Vườn",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "40 m²",
+        "Ban công sân hiên",
+        "Biệt lập",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Cách âm",
+        "Cửa an toàn cho em bé",
+        "Dịch vụ phát trực tuyến như netflix",
+        "Giường cực dài",
+        "Giải trí",
+        "Hướng vườn",
+        "Khu vực tiếp khách",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng thay đồ",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Tủ lạnh",
+        "Ít gây dị ứng",
+        "Ăn uống",
+        "Đi lên bằng thang máy",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái"
+      ],
+      "image_count": 15,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614533.jpg?k=e70169b81c0d0d68b592b06ae6815f3ef7a53a2737cab532eed15bcd3b5aa197&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614299.jpg?k=ff60589cbbf47fba8e18cda6127c08388f829884991351d0c10188b255fe344c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614448.jpg?k=a3dc8d164d6a4fbb957bc72869037bffad5f00438d374f68399daa56e28ab6de&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614559.jpg?k=23c09f86c114c76150657eb128574b00cc6f7cb6eb831916ff471acbd1953434&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1230000,
+      "original_price": 2010000
+    },
+    {
+      "room_type_id": 1282116790,
+      "name": "Căn hộ Superior có Ban công (Superior Apartment with Balcony)",
+      "name_en": "(Superior Apartment with Balcony)",
+      "room_size": "50 m²",
+      "size_sqm": 50.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "50 m²",
+        "Ban công sân hiên",
+        "Biệt lập",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Cách âm",
+        "Cửa an toàn cho em bé",
+        "Dịch vụ phát trực tuyến như netflix",
+        "Giường cực dài",
+        "Giải trí",
+        "Hướng núi",
+        "Khu vực tiếp khách",
+        "Khu vực ăn uống riêng",
+        "Không hút thuốc",
+        "Ly rượu vang",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng thay đồ",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi miễn phí",
+        "Ít gây dị ứng",
+        "Ăn uống",
+        "Đi lên bằng thang máy",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ dùng làm bếp",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 12,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/82014402/1282116790/2bffb403106117f25385e2e566c609f2.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116790/c0829d50a7cca6b899e7da9e0a824f48.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116790/41b4a3069aad1ac6c7e184aec40d15c0.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/82014402/1282116790/c28979e8d352663e5d34b64d760bb4cc.jpg?ce=3&s=800x600",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741614219.jpg?k=4c2c36f1232421afde8b7c2ce2cd2e68285b5d873a5c69ef131555b31d9e0464&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2050000
+    },
+    {
+      "room_type_id": 1241363777,
+      "name": "Classic Suite Apartment",
+      "name_en": null,
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "40 m²",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Giường cực dài",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Không hút thuốc",
+        "Khả năng tiếp cận cho người khuyết tật",
+        "Lò vi sóng",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sản phẩm vệ sinh",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi mạng lan trong phòng tính phí",
+        "Ăn uống",
+        "Điều hòa",
+        "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+        "Đồ dùng làm bếp"
+      ],
+      "image_count": 8,
+      "images": [
+        "https://pix8.agoda.net/property/85179924/1326183820/b155039ccf27fc6d62e2a03f0c08df90.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917581/5be87e455c118ee91a4f18ff4491b750.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917581/3b6b10c6af872675d25b0739f081a898.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917581/38ea411e22f544691447f432e739dfc4.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917581/afab517499d98c2a970a33daa249256f.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2150000
+    },
+    {
+      "room_type_id": 1241363776,
+      "name": "Căn hộ Premier Suite (Premier Suite Apartment)",
+      "name_en": "(Premier Suite Apartment)",
+      "room_size": "50 m²",
+      "size_sqm": 50.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": "Tối đa 2 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "50 m²",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Giường cực dài",
+        "Giải trí",
+        "Khu vực ăn uống riêng",
+        "Không hút thuốc",
+        "Khả năng tiếp cận cho người khuyết tật",
+        "Lò vi sóng",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sản phẩm vệ sinh",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi mạng lan trong phòng tính phí",
+        "Ăn uống",
+        "Điều hòa",
+        "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+        "Đồ dùng làm bếp"
+      ],
+      "image_count": 5,
+      "images": [
+        "https://pix8.agoda.net/property/85179924/1326183817/1f6ff6b483e4f35934309dcaf44378a5.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917573/3d02dfe864fc0e9cfdbfaffe7827e51f.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917573/54792992c2aea59141317a490fbefa2d.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917573/ca0470b9ae1326bc2239ace1c79ccf94.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/76806199/1238917573/230e15a8533a94832756bd0901125c3d.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2400000
+    },
+    {
+      "room_type_id": 1210342112,
+      "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+      "name_en": null,
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": "Hướng Thành phố",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Thành phố"
+      ],
+      "room_amenities": [
+        "40 m²",
+        "Giải trí",
+        "Hướng thành phố",
+        "TV"
+      ],
+      "image_count": 2,
+      "images": [
+        "https://pix8.agoda.net/property/78328742/1210342112/a13fcca0f409dd9b15f7f8fd72b333e0.jpeg?ce=2&s=800x600",
+        "https://pix8.agoda.net/property/78328742/1210342112/da3f7fcccfdf0b474642f613f486baff.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2650000
+    },
+    {
+      "room_type_id": 1243576606,
+      "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+      "name_en": null,
+      "room_size": "40 m²",
+      "size_sqm": 40.0,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": "Hướng Thành phố",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Thành phố"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "40 m²",
+        "Hướng thành phố"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/741624230.jpg?k=1c6a69c4b0415e7db473f935cadfc64e93d2838a11c0931d09341424c9803546&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 1880000
+    },
+    {
+      "room_type_id": 1326183818,
+      "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bàn ăn",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Giường cực dài",
+        "Giải trí",
+        "Không hút thuốc",
+        "Khả năng tiếp cận cho người khuyết tật",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sản phẩm vệ sinh",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "WiFi mạng lan trong phòng miễn phí",
+        "Ăn uống",
+        "Điều hòa",
+        "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+        "Đồ dùng làm bếp"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/85179924/1326183818/45333ac8b3baa6085eedc200807e02d1.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1200000,
+      "original_price": 1520000
+    },
+    {
+      "room_type_id": 1326183819,
+      "name": "Boutique Apartment Balcony Room(Balcony)",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Không hút thuốc",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "Ban công sân hiên",
+        "Bàn là quần",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp nhỏ",
+        "Bố trí và nội thất phòng",
+        "Giường cực dài",
+        "Giải trí",
+        "Không hút thuốc",
+        "Khả năng tiếp cận cho người khuyết tật",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sản phẩm vệ sinh",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "Tủ lạnh",
+        "WiFi mạng lan trong phòng tính phí",
+        "Ăn uống",
+        "Điều hòa",
+        "Đầu vòi sen cầm tay có thể điều chỉnh chiều cao",
+        "Đồ dùng làm bếp"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/85179924/1326183819/779cfb7f3acc1772a982478beebf7970.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1170000
+    }
+  ],
+  "reviews_detail": {
+    "score": 9.3,
+    "score_text": "Trên cả tuyệt vời",
+    "review_count": 127,
+    "comments_count": 3,
+    "grades": [
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 9.7
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 9.5
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 9.5
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 9.5
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 9.4
+      },
+      {
+        "name": "",
+        "score": 9.3
+      },
+      {
+        "name": "Vị trí",
+        "score": 8.8
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Địa điểm",
+        "mentioned": 4,
+        "positive_pct": 75.0
+      },
+      {
+        "tag": "Dịch vụ",
+        "mentioned": 3,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Độ sạch sẽ",
+        "mentioned": 3,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Thiết kế phòng",
+        "mentioned": 2,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Di chuyển",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Bãi biển",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Hướng nhìn từ phòng",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Độ thoải mái của phòng",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Tiện ích tại cơ sở lưu trú",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      }
+    ],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Cặp đôi",
+        "count": 3,
+        "score": 10.0
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 3,
+        "score": 8.0
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 0,
+        "score": 0.0
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 43,
+        "score": 9.6
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 28,
+        "score": 9.3
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 3,
+        "score": 9.7
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 9.6,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "29 tháng 12 2025",
+        "check_in": "Tháng 12 năm 2025",
+        "text": "Căn hộ này là căn tôi đã ở qua tốt nhất, ngoại trừ việc vị trí hơi xa, còn lại thật sự không có thiếu sót nào, trang trí nội thất cực kỳ đẹp.",
+        "title": "ĐÀ NẴNG",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "YITIAN",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Trung Quốc",
+        "room_type": "Căn Hộ 1 Phòng Ngủ Có Ban Công"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "18 tháng 12 2025",
+        "check_in": "",
+        "text": null,
+        "title": "Trên cả tuyệt vời",
+        "positives": "Phòng cực kỳ sạch sẽ và mới, có bếp, tủ lạnh to, máy giặt, kể cả nước giặt,nhân viên hỗ trợ nhiệt tình, còn hỗ trợ check out trễ,",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thi",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "17 tháng 5 2026",
+        "check_in": "Tháng 5 năm 2026",
+        "text": "Sehr neue und ruhige saubere Apartment nette Betreiber wir werden wieder kommen.",
+        "title": "Trên cả tuyệt vời",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Yenal",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Đức",
+        "room_type": "Căn Hộ 1 Phòng Ngủ Có Ban Công"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "26 tháng 8 2025",
+        "check_in": "",
+        "text": null,
+        "title": "Tuyệt vời vì đặt chỗ tuyệt vời này",
+        "positives": "Phòng sạch sẽ thơm đầy đủ tiện nghi\nChủ home nhiệt tình vui vẻ",
+        "negatives": "Không có điểm chê",
+        "response": null,
+        "reviewer_name": "Vũ",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 8.4,
+        "rating_text": "Tuyệt vời",
+        "date": "24 tháng 1 2026",
+        "check_in": "Tháng 1 năm 2026",
+        "text": "깨끗하고 조용히 쉬기 좋은곳입니다~",
+        "title": "깨끗하고 조용",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "sangshin",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Hàn Quốc",
+        "room_type": "Căn Hộ 1 Phòng Ngủ Có Ban Công"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "26 tháng 7 2025",
+        "check_in": "",
+        "text": null,
+        "title": "Trên cả tuyệt vời",
+        "positives": "rất tiện nghi mọi thứ đều sạch sẽ và xinh đẹp có hỗ trợ check in sớm, các bạn nhân viên thì rất nice và nhiệt tình lần sau có quay lại thì sẽ ưu tiên bên này",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thương",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 7.0,
+        "rating_text": "Rất tốt",
+        "date": "21 tháng 5 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Rất tốt",
+        "positives": "Flexible (early check-in), clean, nice staff",
+        "negatives": "Location (there is no nice cafes and restaurants near the hotel)",
+        "response": null,
+        "reviewer_name": "Misaki",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "25 tháng 3 2026",
+        "check_in": "",
+        "text": null,
+        "title": "The owners of this property are kind. Liked the location which is away from the tourist area!",
+        "positives": "Property was fantastic and the staff were amazing. About 3 blocks from the beach.",
+        "negatives": "Wish there was a couch in our room.",
+        "response": null,
+        "reviewer_name": "Sandra",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "01 tháng 3 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Great Stay. Will be back.",
+        "positives": "Staff was amazing. Room was spacious and very clean.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "hugh",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "09 tháng 2 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Spotlessly clean and comfortable. Lovely natural light. Quiet area.",
+        "positives": "Spotlessly clean and comfortable. Lovely natural light. Quiet area. Good size fridge etc . Almost Everything you need.\r\nFood & Convenience shops mins to walk to \r\nLovely staff. Good check in with personal service.",
+        "negatives": "Cooking implements Supplied but no cutlery or crockery. Seems strange when it had a kitchette. Not even a cup.\r\nSlightly further away from everything in general. But Grab made that ok.",
+        "response": null,
+        "reviewer_name": "Laurel",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1062791600,
+        "rating": 9.6,
+        "rating_text": "Exceptional",
+        "date": "December 29, 2025",
+        "check_in": "December 2025",
+        "title": "DANANG",
+        "text": "This apartment is the best I have ever lived in; aside from the location being a bit off, it truly has no shortcomings, and the decor and interior design are excellent.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "YITIAN",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "China",
+        "room_type": "One-Bedroom Apartment with Balcony"
+      },
+      {
+        "review_id": 1124200555,
+        "rating": 7.0,
+        "rating_text": "Very good",
+        "date": "May 21, 2026",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Flexible (early check-in), clean, nice staff",
+        "negatives": "Location (there is no nice cafes and restaurants near the hotel)",
+        "response": null,
+        "reviewer_name": "Misaki",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1119418219,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "May 17, 2026",
+        "check_in": "May 2026",
+        "title": "Exceptional",
+        "text": "Sehr neue und ruhige saubere Apartment nette Betreiber wir werden wieder kommen.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Yenal",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Germany",
+        "room_type": "One-Bedroom Apartment with Balcony"
+      },
+      {
+        "review_id": 1075735858,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "February 09, 2026",
+        "check_in": "",
+        "title": "Spotlessly clean and comfortable. Lovely natural light. Quiet area.",
+        "text": null,
+        "positives": "Spotlessly clean and comfortable. Lovely natural light. Quiet area. Good size fridge etc . Almost Everything you need.\r\nFood & Convenience shops mins to walk to \r\nLovely staff. Good check in with personal service.",
+        "negatives": "Cooking implements Supplied but no cutlery or crockery. Seems strange when it had a kitchette. Not even a cup.\r\nSlightly further away from everything in general. But Grab made that ok.",
+        "response": null,
+        "reviewer_name": "Laurel",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1069806905,
+        "rating": 8.4,
+        "rating_text": "Excellent",
+        "date": "January 24, 2026",
+        "check_in": "January 2026",
+        "title": "깨끗하고 조용",
+        "text": "깨끗하고 조용히 쉬기 좋은곳입니다~",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "sangshin",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "South Korea",
+        "room_type": "One-Bedroom Apartment with Balcony"
+      },
+      {
+        "review_id": 1031846397,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "September 26, 2025",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "The room is a little bit bright in the morning, but everything else is nice and clean",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Van",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1099875409,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 25, 2026",
+        "check_in": "",
+        "title": "The owners of this property are kind. Liked the location which is away from the tourist area!",
+        "text": null,
+        "positives": "Property was fantastic and the staff were amazing. About 3 blocks from the beach.",
+        "negatives": "Wish there was a couch in our room.",
+        "response": null,
+        "reviewer_name": "Sandra",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1081065293,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 01, 2026",
+        "check_in": "",
+        "title": "Great Stay. Will be back.",
+        "text": null,
+        "positives": "Staff was amazing. Room was spacious and very clean.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "hugh",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1070929939,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 16, 2026",
+        "check_in": "",
+        "title": "Good for couples and for longer stay.",
+        "text": null,
+        "positives": "The apartments are new, very clean, and comfortable, with fresh towels and bedding, plus stylish large windows that give the space a really nice feel. Having a washer-dryer and a spacious shower was a big convenience, especially for a longer stay. It's a great place for couples and works well for anyone planning to stay a bit longer.\r\n\r\nThe location is about a 30-minute walk from the city center, but the beach is just a short distance away, which is a big advantage. Taxis (Grab) are quite affordable, so getting around over longer distances isn't an issue at all. The neighborhood itself is quiet and peaceful. \r\n\r\nI'd also highly recommend stopping by the nearby café Caline Coffee & Milktea --- a lovely spot for a good coffee and smoothie.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Julia",
+        "reviewer_type": "Group",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253772,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 04, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Thanks for receptionist - helping us whatever needed",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Elizabet",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253773,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 03, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "It's very comfortable small apartments. The house feels like a brand new building. There's clean, and you can find all basic stuff that you need. The location is peaceful within walkable distance to the beach",
+        "negatives": "Important note:\nThere are problems with hot water. It's only hot for 5 minutes, and then it's cold. If you're a couple, there's only enough water for one person---it's very inconvenient",
+        "response": null,
+        "reviewer_name": "Aleksandr",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1022222861,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 06, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "One of the best places I have stayed in all of Vietnam! The apartment looks exactly like it does in the pictures and if you've traveled around Vietnam you know this usually isn't the case. Very comfortable bed, shower has great water pressure and gets hot instantly, apartment is very clean and has all the amenities you would need. Quiet area and easy to get a good nights sleep. Staff are very friendly and the owner is very nice and helps with anything you need! Don't hesitate to book if you're looking for a great place in Da Nang",
+        "negatives": "Nothing!",
+        "response": null,
+        "reviewer_name": "Travis",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1082357206,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "March 12, 2026",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "Schön eingerichtetes Apartment in einer ruhigen Seitenstraße. Mit Waschmaschine/Trockner und Balkon.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ute",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1067169386,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "December 30, 2025",
+        "check_in": "",
+        "title": "Top Apartment für Da Nang",
+        "text": null,
+        "positives": "Das Apartment war herrvorragend. Es ist exakt wie auf den Bildern und liefert einen grandiosen Aufenthalt in Da Nang. Ich kann dieses Apartment wirklich jeden empfehlen. Ich macht damit nichts falsch.",
+        "negatives": "Das ist nichts negatives aber manchmal muss man mit dem Personal mit Hilfe eines Übersetzers kommunizieren. Ist aber allgemein sehr verbreitet in Vietnam. Also wirklich keine Kritik",
+        "response": null,
+        "reviewer_name": "Morris",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1070929940,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 16, 2026",
+        "check_in": "",
+        "title": "Kurztrip Danang",
+        "text": null,
+        "positives": "Sehr gute Ausstattung, Lage etwas abseits, dafür ruhig, super nettes Personal.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Michaela",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1004553473,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 28, 2025",
+        "check_in": "",
+        "title": "Location top!",
+        "text": null,
+        "positives": "Struttura nuova, pulitissima e a due passi dal mare",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "PAOLO",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1031846396,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 26, 2025",
+        "check_in": "",
+        "title": "Geweldig!",
+        "text": null,
+        "positives": "Ik heb een heerlijk verblijf gehad. Het appartement had alles om ervoor te zorgen dat ik een comfortabel verblijf had. Het appartement was schoon, het bed lag heerlijk, geweldige douche en ontzettend fijn om een eigen wasmachine met droogfunctie te hebben. Lee is een ontzettend fijne host, aardig en goede communicatie. Ik kom hier zeker terug, als ik weer naar Da Nang kom.",
+        "negatives": "N/A",
+        "response": null,
+        "reviewer_name": "Romana",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1070929937,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "January 21, 2026",
+        "check_in": "",
+        "title": "非常推薦",
+        "text": null,
+        "positives": "接待的小哥哥很親切\n房間跟照片差不多 很舒適\n房間內有洗衣機 小廚房 \n周圍也有餐廳和超市\n也有摩托車可以租借\n雖然離市區有點小距離\n但整體來說很喜歡",
+        "negatives": "房內有紅色的大隻螞蟻\n雖然不會咬人 但有點煩人會爬到床上\n早上周圍施工的聲音有點明顯",
+        "response": null,
+        "reviewer_name": "筠",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1045019908,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 18, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "老板和员工人非常好，服务细致。",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "zheng",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1004553470,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 08, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "1.服务态度非常好，晚上下雨我们的摩托停在外面，第二天早上发现员工贴心的为我们盖上了防雨罩。\n2.房东先生是一位非常年轻帅气的男孩，态度也非常的好，这一点也是满分\n3.这个房型非常好，有阳台，还有洗衣机，晾衣区等等，非常适合家庭出行的人们。\n4.卫生非常干净。",
+        "negatives": "无",
+        "response": null,
+        "reviewer_name": "DOU",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 988658034,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 03, 2025",
+        "check_in": "",
+        "title": "旅行佳选",
+        "text": null,
+        "positives": "环境优异 房东待人和善，房间内干净整洁 设施完善。",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ma",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1062577794,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 18, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Phòng cực kỳ sạch sẽ và mới, có bếp, tủ lạnh to, máy giặt, kể cả nước giặt,nhân viên hỗ trợ nhiệt tình, còn hỗ trợ check out trễ,",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thi",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1014378186,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 26, 2025",
+        "check_in": "",
+        "title": "Tuyệt vời vì đặt chỗ tuyệt vời này",
+        "text": null,
+        "positives": "Phòng sạch sẽ thơm đầy đủ tiện nghi\nChủ home nhiệt tình vui vẻ",
+        "negatives": "Không có điểm chê",
+        "response": null,
+        "reviewer_name": "Vũ",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 996482264,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 26, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "rất tiện nghi mọi thứ đều sạch sẽ và xinh đẹp có hỗ trợ check in sớm, các bạn nhân viên thì rất nice và nhiệt tình lần sau có quay lại thì sẽ ưu tiên bên này",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Thương",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1031846398,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "September 24, 2025",
+        "check_in": "",
+        "title": "Красивые новые апартаменты. В тихом районе. Пеосонал очень любезен и помогает с любыми вопросами",
+        "text": null,
+        "positives": "Новый номер, тихий район",
+        "negatives": "Не хватает полочек или крючков в коридоре. И уборку чуть лучше. При заселении нашли волосы",
+        "response": null,
+        "reviewer_name": "Anastasiia",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1081065312,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "February 17, 2026",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Супер стильный и удобный номер, персонал выше всяких похвал;",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Мария",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1067169385,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 02, 2026",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Such a cozy place!!!",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Shakhov",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1062577795,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 18, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Прекрасное место! Очень уютно и чисто. Хорошее постельное белье и полотенца. Красивая посуда. Стиральная машина с сушкой как новая. Даже был стиральный порошок! Стильный интерьер. Хозяин очень приятный человек. Коммуникация была прекрасной. Отель расположен недалеко от пляжа в тихом месте. На первом этаже есть зонтики и дождевики для гостей. Нам было очень комфортно. Рекомендуем.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Vadim",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1059341693,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 08, 2025",
+        "check_in": "",
+        "title": "Все здорово! Мне понравилось! Осталось бы на подольше",
+        "text": null,
+        "positives": "Интерьер! Новое все! Классный дорогой стильный дизайн",
+        "negatives": "Далековато от тусовочных улиц;",
+        "response": null,
+        "reviewer_name": "Elena",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1038138142,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 10, 2025",
+        "check_in": "",
+        "title": "Уютно, красиво. Обязательно вернулась бы сюда еще",
+        "text": null,
+        "positives": "Проживали с мужем 6 ночей. Заезд был поздний, около 10, нас встретили. Предварительно списывались с отелем по вопросам, отвечали быстро. Номер очень красивый, новый. Есть все необходимое и даже больше. Много продуманных мелочей типа одноразовых бритв, буклет с информацией, два кондиционера, холодная вода в холодильнике. Улица тихая, рядом есть магазин с продуктами. В номере есть мини кухня, готовили завтраки. Удобно, что есть машинка и сушилка. На верхнем этаже есть патио, можно посидеть вечером.",
+        "negatives": "Уборка раз в неделю. Мы жили 6 ночей. Из-за моря много песка. Хотелось бы либо уборку чаще либо средства для уборки",
+        "response": null,
+        "reviewer_name": "Ataullova",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1004553471,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "August 05, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Очень внимательный и милый персонал. Всегда были на связи в ватсап и помогали по всем вопросам. И хост и горничная очень приветливые и дружелюбные. \nАпартаменты новые и чистые, полностью соответствуют фотографиям. Район тихий и спокойный. Мы жили на втором этаже, спать никто не мешал, соседей также не было слышно. \nНа крыше есть панорамная веранда, с красивым видом на 360 на весь дананг. \nНам все очень понравилось проживание. Рекомендуем,",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Daria",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1004553472,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 31, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Все было замечательно! Комфортный номер , чистый, вежливый и приветливый хозяин. Я даже продлевала прибывание , не хотелось уезжать )))",
+        "negatives": "Соседи , которые внизу пели караоке, но это мелочь",
+        "response": null,
+        "reviewer_name": "Yanina",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 981667296,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "June 27, 2025",
+        "check_in": "",
+        "title": "Отлично!",
+        "text": null,
+        "positives": "Персонал очень дружелюбный, помогали, подсказывали, можно обратиться по любому вопросу. \nСам номер очень чистый, стильно обставлен, вся мебель новая, полотенца чистые. В номере есть все необходимое, даже стиральный порошок для машинки и вешалки, чтоб развесить белье после стирки, очень удобно. \nТихий район в 3 минутах езды от центра, по ночам тихо и комфортно спать. Мне понравилось.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Marina",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253777,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 23, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Kambarys buvo nepriekaištingai švarus ir puikiai atitiko aprašymą - modernus ir stilingas. Visi darbuotojai buvo mandagūs, paslaugūs ir rūpestingi. Tai užtikrino sklandžią ir malonią viešnagę.",
+        "negatives": "-",
+        "response": null,
+        "reviewer_name": "Martinelyte",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1059341692,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "December 09, 2025",
+        "check_in": "",
+        "title": "Polecam!",
+        "text": null,
+        "positives": "Obiekt jest nowy, czyściutki, nowocześnie urządzony. Miła i pomocna obsługa. Jest Netflix. Nie było problemów ze skróceniem rezerwacji z powodu kiepskiej pogody.",
+        "negatives": "Daleko od centrum, ale za to blisko plaży.",
+        "response": null,
+        "reviewer_name": "Weronika",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1105025556,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "March 31, 2026",
+        "check_in": "",
+        "title": "Jó biztos vàlasztàs egy kellemes pihenèshez",
+        "text": null,
+        "positives": "Csendes kis utcàban tàvol a nyüzsgô vàros zajàtòl, tàgas szoba, sajàt mosógép, konyhasarok, ùj modern letisztult berendezés",
+        "negatives": "A pàrnàk nekünk tùl ducik voltak ezért kicsit kényelmetlenek voltak az alvàshoz.",
+        "response": null,
+        "reviewer_name": "Viktória",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1062577797,
+        "rating": 3.0,
+        "rating_text": "Review score",
+        "date": "December 14, 2025",
+        "check_in": "",
+        "title": "Acceptable",
+        "text": null,
+        "positives": "The only positives are the modern clean renovation and a comfortable bed --- and that's where the advantages end",
+        "negatives": "My stay at this apart-hotel was extremely noisy and uncomfortable.\n--- One evening there was a very loud party from 6 PM to 11 PM; the bass was so strong it came through the closed windows, making it impossible to work or relax. (You can check videos on google maps)\n\n--- For the next THREE days, loud music played almost NONSTOP from 8 AM to 9 PM. I was sick at the time, and this constant noise made the stay especially difficult. (You can check videos on google maps)\n\nI asked the manager to find out when it would end and whether it could end, but he told me that the ceremony would last 3-4 days only when I called in a rage on the 3rd morning. I begged him to tell me the truth before that so that I could understand how to make my plans for the day, but I didn't receive an answer until this morning.\n\n--- One night was disturbed by a loud boiler humming from 12:30 AM to 3 AM, which made it hard to sleep.\n\n--- There are many barking dogs in the area, often heard even at night.\n\n--- There is construction outside, including on Sundays.\n\n--- The neighbors frequently sing karaoke, and during my 17-day stay I didn't have a single quiet evening.\n\n--- The hot water runs out after about three minutes, which is extremely inconvenient --- especially for women with long hair or anyone with a multi-step shower routine.\n\n--- The entrance to the building is always blocked by scooters, making it very difficult to enter or exit comfortably.\n\nAll these noises and inconveniences overlap, so there is very little quiet or comfort throughout the day. If you need silence to work or rest, this place is definitely not for you.\n\nI really didn't want to give a bad rating, but people deserve to know the truth and be prepared for all of this if they decide to stay here.\n\nUpdate : I was eventually moved to a quieter room, but I do not understand why this was not offered earlier, knowing that loud funeral ceremonies with music would take place outside for more than three days, from 8 a.m. to 9 p.m.",
+        "response": null,
+        "reviewer_name": "Elizaveta",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1075735857,
+        "rating": 4.0,
+        "rating_text": "Review score",
+        "date": "February 11, 2026",
+        "check_in": "",
+        "title": "Disapointing",
+        "text": null,
+        "positives": "Design of the room, clean",
+        "negatives": "Very thin walls, mattress, noisy with building sites around. You could hear neighbours who live next door making it a lot if noise since early hours 7am, one day got woken up by something which sounded like small hammer on our wall at 6am. We did not have a good sleep for a 5 days we have stayed there. \nAlso there is not much hot water available, not for 2 people to have a shower.",
+        "response": null,
+        "reviewer_name": "Dagmara",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1050294595,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "November 10, 2025",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Everything is new\nStreet is relatively calm \nStaff friendly",
+        "negatives": "Only 1 minute of hot water \nDogs barking all day long \nNothing to dry the clothes \nCannot wash clothes without being in the apartment as you have to leave the key to have electricity",
+        "response": null,
+        "reviewer_name": "Raphael",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1117632499,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "May 07, 2026",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "It's a clean, fully equipped, and very comfortable apartment. Very close to the beach. It felt like staying in a hotel because they clean every day if you'd like. i aldı liked spending time at the terrace with a view",
+        "negatives": "Sometimes there can be construction noise, but I think this is a general issue throughout Da Nang.",
+        "response": null,
+        "reviewer_name": "dilan",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1038138146,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "October 06, 2025",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "The apartment is very well designed. The furniture is of a high quality and comfortable. The cleaner cleaned well every day. The staff seemed eager to help. The area is relaxing in the less built up area near the mountain. Great air conditioning. The bathroom was very nice and the kitchen as well. Comfortable bed.",
+        "negatives": "The room has the view listed as landmark, seaview and city. On the 4th floor it was just a city view. Very nice but not what was on the listing. Bikes have to be parked outside and there is no charging for an electric bike. A little small for a studio. The shower gel and shampoo were really funky smelling. I used my own.",
+        "response": null,
+        "reviewer_name": "Power",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1014378187,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "August 14, 2025",
+        "check_in": "",
+        "title": "TLDR - Amazing property and host",
+        "text": null,
+        "positives": "I was absolutely enamoured by the property and the room! It was a pleasant surprise to find that the room looked just as good (if not, better) than the photos. They had only been open for a few months at the time of my stay thus a slight element of \"risk\" on my end, but upon arrival, all doubts went out the window. The building, facilities, amenities within the room, AND location did not disappoint in the slightest. \r\n\r\nDid I mention the host, Lee, was superb? Proactive and warm from the get-go and he went above and beyond for me. I had forgotten a piece of clothing when I checked out and was already en route to the airport before I received a text from Lee about it. He very kindly arranged to have it delivered to me at the airport where, I am ashamed to admit, I did not have leftover Vietnamese Dong on me to pay for it. Lee handled it and refused even when i offered to transfer the cost of delivery electronically.",
+        "negatives": "Although I personally loved that the property is located at a quieter, more suburban part of town if you will, this is entirely subjective. If you prefer more people within the property to mingle with and the lively buzz of the city, you may enjoy the location a little less.",
+        "response": null,
+        "reviewer_name": "Jamaludin",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1111632918,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 26, 2026",
+        "check_in": "",
+        "title": "A comfortable stay in a local area near the beach",
+        "text": null,
+        "positives": "Very clean and modern, newly built rooms. The bed was comfortable and the bathroom great. It was nice to have a washing machine in the room. The location was nice, not very noisy.",
+        "negatives": "-",
+        "response": null,
+        "reviewer_name": "Nam",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1099875417,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 21, 2026",
+        "check_in": "",
+        "title": "Feel like Home",
+        "text": null,
+        "positives": "Very clean and spacious, definitely worthy for this price. They even have a 2-in-1 washer dryer! Love it!",
+        "negatives": "It is very near to the beach, but is a bit of distance from the city centre, but this can be solved by ordering Grab",
+        "response": null,
+        "reviewer_name": "Adeline",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1099875423,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 21, 2026",
+        "check_in": "",
+        "title": "Feel like Home",
+        "text": null,
+        "positives": "Very clean and spacious, definitely worthy for this price. They even have a 2-in-1 washer dryer! Love it!",
+        "negatives": "It is very near to the beach, but is a bit of distance from the city centre, but this can be solved by ordering Grab",
+        "response": null,
+        "reviewer_name": "Adeline",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1075735859,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 28, 2026",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Amazing apartment. Super clean and comfortable. Great location.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Jana",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1070929938,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 18, 2026",
+        "check_in": "",
+        "title": "Most comfortable and affordable place in Da Nang by a long shot",
+        "text": null,
+        "positives": "Super comfortable place and bed. Everything perfect no comments",
+        "negatives": "Nothing to complain",
+        "response": null,
+        "reviewer_name": "Kilian",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1070929941,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 15, 2026",
+        "check_in": "",
+        "title": "Supe clean and comfortable apartment, perfect for longer stays",
+        "text": null,
+        "positives": "The apartment is new and has everything you might need including kitchen and washing machine. There is also a balcony with big see-through windows. Very clean and stylish. The location is easy to find. The staff was friendly and helped us to rent a motorbike.",
+        "negatives": "It was a bit hard to understand each other during check-in process because the manager was not speaking english to good. But nothing that couldn't be solved.",
+        "response": null,
+        "reviewer_name": "Alina",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1067169384,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 04, 2026",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Loved our showers, washing machine and dryer and bed was comfy. Good amount of space and great fridge.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Gemma",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253775,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 28, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "We extended our stay to a month because we enjoyed the hotel so much",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Jenny",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253776,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 28, 2025",
+        "check_in": "",
+        "title": "Clean, calm and modern stay for 1 month",
+        "text": null,
+        "positives": "Everything was great! The staff, cleaning, location, amenities were wonderful. We stayed in a place that was full of mold prior so we were so thankful to the staff for providing a clean and welcoming place for our month in Da Nang.",
+        "negatives": "The microwave would zap me from time to time the shower for the water was hot for about 5 minutes and would get cold but it wasn't too much of an isssue (helps save water)",
+        "response": null,
+        "reviewer_name": "Jenny",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1057253779,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "November 16, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "The apartments are excellent, and Ms. Linh provided exceptional administrative support. We appreciate the wonderful experience. The design is beautiful, and the apartment photos accurately represent the property",
+        "negatives": "Construction is ongoing nearby. While this is a common urban issue and not directly adjacent to the hotel, occasional noise may be audible.",
+        "response": null,
+        "reviewer_name": "Dima",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1045019883,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 26, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Seams newly built or renovated, very clean and well equipped (we mainly used the washing machine). The Bed was very comfortable, the staff friendly and the location was solid, close to the monkey mountain and not far from the Beach.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Patrick",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1045019886,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 24, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Peaceful and cozy room. Great.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "DAE",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1045019902,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 20, 2025",
+        "check_in": "",
+        "title": "Wonderful",
+        "text": null,
+        "positives": "The property is clean and quiet. Staff were helpful as well.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "TAN",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1045019912,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 14, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "Everything was great...",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Cem",
+        "reviewer_type": "Group",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1038138137,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 12, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "At last, a room that is better than the photos! A fantastic apartment, spotlessly clean, top quality furniture and fittings, a supremely comfortable bed, excellent bathroom, brand new automatic washing machine, a fully equipped kitchen, and clean sheets & towels on request. \r\nHighly recommended. \r\nThanks to Mr. Leo and his team, I will see you next time I visit Da Nang.",
+        "negatives": "Nothing, everything is perfect.",
+        "response": null,
+        "reviewer_name": "Glyn",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1038138139,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 10, 2025",
+        "check_in": "",
+        "title": "Five stars",
+        "text": null,
+        "positives": "Beautifully furnished, very clean with fast internet. Both the owner and manager are very welcoming. I've already recommended this place to several people. Highly recommend also has very good internet I work online",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "James",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1038138144,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "October 06, 2025",
+        "check_in": "",
+        "title": "Comfortable, affordable and spacious!",
+        "text": null,
+        "positives": "I loved this stay!! It was very spacious and had everything you needed. This bed was by far the comfiest I've stayed in in all of Vietnam!! It was close to everything and the host was so friendly and helpful with extending our stay!! He also responded very quickly which was amazing!! Would definitely recommend",
+        "negatives": "Nothing it was a perfect stay for a few days in Da Nang!",
+        "response": null,
+        "reviewer_name": "Lucy",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1031846399,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 20, 2025",
+        "check_in": "",
+        "title": "It's the cleanest, and \"luxury\" new place I've stayed in Da Nang",
+        "text": null,
+        "positives": "Very nice stay and great value for the price. The apartment is virtually brand new. All the fixtures are top quality. Had a great view of the mountain. The bed was one of the most comfortable I've ever slept in. Lee, the manager, is very nice and speaks good English. Highly recommend.",
+        "negatives": "If I were being picky, the location is Son Tra, which is near the top, past the MyAnn area. But you could look at this as a positive because it's a quiet area. I also have a scooter, so it was fine for me.",
+        "response": null,
+        "reviewer_name": "Franco",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1031846400,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "September 17, 2025",
+        "check_in": "",
+        "title": "Modern, clean, safe, great for solo female travelers.",
+        "text": null,
+        "positives": "One of the best places to stay in Da Nang I have ever booked. It looks like the photos, all new, hot water that lasts a while, strong WiFi, and really clean. Host was really responsive and a good place for longer stays.",
+        "negatives": "For tourists, they may be a bit far from main things, but grab rides are easy and cheap.\n\nThe plot across the street is filled with trash and isn't something to look at. \n\nThere is also a strange order in the apartment that I am not sure where it came from but an air freshener helped.\n\nIt's a bit expensive for the area, but would stay again.",
+        "response": null,
+        "reviewer_name": "Rachel",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 996482266,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "July 22, 2025",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "I really enjoyed these apartments! Everything is brand new and perfectly clean, the neighborhood is quiet and peaceful -an ideal place to escape from the hustle and bustle of the city. The hosts are wonderful, kind, and welcoming people. Thank you for your excellent service",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Maksim",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 9.3,
+  "rating_count": 127,
+  "rating_breakdown": {
+    "Sự thoải mái và chất lượng phòng": 9.7,
+    "Độ sạch sẽ": 9.5,
+    "Cơ sở vật chất": 9.5,
+    "Dịch vụ": 9.5,
+    "Đáng tiền": 9.4,
+    "Vị trí": 8.8
+  },
+  "secondary": {
+    "description_full": "Căn hộ cao cấp Hampton Đà Nẵng\n\nHãy tận dụng vô vàn dịch vụ và tiện ích không có gì sánh được tại Căn hộ cao cấp Hampton Đà Nẵng. Giữ liên lạc trong suốt kỳ nghỉ của quý khách với việc được truy cập internet miễn phí. Khách có thể đỗ xe thuận tiện có sẵn ngay tại căn hộ dịch vụ. Cảm thấy lười biếng? Các tiện ích trong phòng như dọn phòng hằng ngày giúp quý khách tận dụng tối đa thời gian trong phòng.\nPhòng nghỉ có tất cả tiện nghi mà quý khách cần để có một đêm ngủ ngon giấc. Một số phòng được trang bị dịch vụ giặt là và điều hòa để thuận tiện cho quý khách. Một số phòng tại Căn hộ cao cấp Hampton Đà Nẵng sẵn có các đặc điểm thiết kế như ban công hoặc sân hiên. Hãy mở to sự lựa chọn giải trí kể cả ở trong phòng của quý khách với một loạt các cơ sở vật chất bao gồm ti-vi sẵn có trong các phòng chọn lọc. Quý khách có thể yên tâm khi biết rằng tủ lạnh sẵn có trong một số phòng chọn lọc. Quý khách có thể luôn sảng khoái và sạch sẽ với khăn tắm, máy sấy tóc và vật dụng tắm rửa được cung cấp trong một số phòng tắm của khách.\n\nXung quanh chỗ nghỉ\n\nKhi ở Đà Nẵng, hãy dành một chút thời gian để phiêu lưu bên ngoài Căn hộ cao cấp Hampton Đà Nẵng. Quý khách chắc chắn sẽ muốn đến thăm Ngũ Hành Sơn nằm cách đó 9,1 km, một trong những bức ảnh được săn tìm nhiều nhất với bất kỳ ai ghé thăm Đà Nẵng.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 0-10 tuổi [bao gồm cả bé 10 tuổi]",
+          "description": "Phải sử dụng giường phụ"
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 10,
+    "dateless_rooms": [
+      {
+        "room_id": 1282116780,
+        "name": "Căn Hộ 1 Phòng Ngủ Có Ban Công (One-Bedroom Apartment with Balcony)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1195561403,
+        "name": "Boutique Apartment Balcony Room-5min To Beach",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1282116787,
+        "name": "Căn Hộ - Tầng Trệt (Apartment - Ground Floor)",
+        "features": [],
+        "image_count": 15,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1282116790,
+        "name": "Căn hộ Superior có Ban công (Superior Apartment with Balcony)",
+        "features": [],
+        "image_count": 12,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1241363777,
+        "name": "Classic Suite Apartment",
+        "features": [],
+        "image_count": 8,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1241363776,
+        "name": "Căn hộ Premier Suite (Premier Suite Apartment)",
+        "features": [],
+        "image_count": 5,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1210342112,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "features": [],
+        "image_count": 2,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1326183819,
+        "name": "Boutique Apartment Balcony Room(Balcony)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1326183818,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1243576606,
+        "name": "Deluxe Apartment, 1 King Bed, Kitchen, City View",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Hãy để chuyến đi của quý khách có một khởi đầu tuyệt vời khi ở lại khách sạn này, nơi có Wi-Fi miễn phí trong tất cả các phòng. Nằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Hãy nhớ dành một chút thời gian để thăm thú Ngũ Hành Sơn cũng như Biển Mỹ Khê gần đó. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1489059,
+      "title": "Sun World Ba Na Hills - Cáp treo & Buffet",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi du khách có thể chiêm ngưỡng khung cảnh núi non hùng vĩ từ trên cao. Trải nghiệm hệ thống cáp treo hiện đại để di chuyển lên đỉnh núi và tận hưởng không",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1223122.0,
+                "crossedOut": 1274085.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1033902,
+      "title": "Vé vào cổng Công viên nước Mikazuki 365, Đà Nẵng",
+      "description": "Khám phá Mikazuki Water Park 365, công viên nước trong nhà độc đáo tại Đà Nẵng, nơi mang đến những trải nghiệm vui chơi dưới nước suốt bốn mùa bất kể thời tiết.\n\n- Thư giãn tại Onsen theo phong cách N",
+      "review_score": 4.4,
+      "review_count": 44,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 220699.0,
+                "crossedOut": 224974.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1129195,
+      "title": "DIFF 2026 | Vé tham dự Lễ hội Pháo hoa Quốc tế Đà Nẵng | Nhận voucher miễn phí trên KKday",
+      "description": "Nhận nhiều loại voucher hấp dẫn, bao gồm vé xem\nÁo Dài Show\n,\nBảo tàng Đà Nẵng\n, cùng",
+      "review_score": 4.6,
+      "review_count": 15,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 762781.0,
+                "crossedOut": 850369.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1396114,
+      "title": "Private Car Transfer: Da Nang Airport to Hotel",
+      "description": "Travel between Da Nang Airport, the train station, and your hotel in the city center with a private car transfer. This service is available for both arrivals and departures.\n\n- Complimentary transfers",
+      "review_score": 4.8,
+      "review_count": 114,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 90408.0,
+                "crossedOut": 114295.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681591,
+      "title": "峴港國際機場(DAD) | Domestic Terminal | Domestic Business Lounge | 貴賓室服務",
+      "description": "位於峴港國際機場國內航站樓三樓，安檢後出發區域。\n提供冷熱餐食、自助小食、飲料及水果，滿足各種需求。\n營業時間：每日04:30-22:00。\n使用時間限制：最多可使用120分鐘。\n2歲以下兒童可免費入內。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 699863.0,
+                "crossedOut": 890411.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1041545,
+      "title": "Vé Sun World Ba Na Hills | Đà Nẵng",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi bạn có thể chiêm ngưỡng Cầu Vàng biểu tượng và ghé thăm chùa Linh Ứng thanh tịnh.\n\n- Trải nghiệm cáp treo ngắm nhìn toàn cảnh vùng núi Ba Na từ trên cao",
+      "review_score": 4.6,
+      "review_count": 2560,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 61780.0,
+                "crossedOut": 61780.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541702,
+      "title": "Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills",
+      "description": "Trải nghiệm cảm giác mạnh cùng Alpine Coaster tại Sun World Ba Na Hills, nơi bạn có thể tự điều khiển tốc độ khi lướt đi trên đường ray uốn lượn.\n\n- Hệ thống xe trượt tốc độ cao vận hành bằng trọng lự",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 100982.0,
+                "crossedOut": 100982.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1042432,
+      "title": "Xe Thuê Riêng Đà Nẵng - Bà Nà Hills | Việt Nam",
+      "description": "Di chuyển từ trung tâm thành phố Đà Nẵng đến Ba Na Hills bằng dịch vụ xe riêng, giúp bạn dễ dàng tiếp cận điểm đến đầy sức hút này.\n\n- Khám phá các điểm tham quan tại Sun World Ba Na Hills như Cầu Vàn",
+      "review_score": 4.5,
+      "review_count": 685,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 325479.0,
+                "crossedOut": 376712.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1259234,
+      "title": "[Giảm 20%] Xe đưa đón riêng Hội An - Đà Nẵng và ngược lại",
+      "description": "Di chuyển thuận tiện giữa Hội An và Đà Nẵng với dịch vụ xe đưa đón riêng, phù hợp cho hành trình khám phá miền Trung.\n\n- Xe đón trong vòng 30 phút sau khi đặt\n- Tài xế giàu kinh nghiệm cùng hệ thống x",
+      "review_score": 4.9,
+      "review_count": 554,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 250413.0,
+                "crossedOut": 294257.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681590,
+      "title": "峴港國際機場(DAD) | International Terminal | CIP Orchid Lounge | 貴賓室服務",
+      "description": "位置：峴港國際機場國際航廈夾層，安檢後右轉100米\n設施亮點：提供冷熱餐食、自助酒精飲料及淋浴設施\n營業時間：每日營業，從第一班飛機至最後一班飛機\n使用時間限制：每位客人最多可使用180分鐘\n家庭友好：2歲以下兒童可免費入內",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 866228.0,
+                "crossedOut": 1000263.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Cặp đôi",
+    "Khách du lịch một mình",
+    "Nhóm du khách"
+  ],
+  "view_types": [
+    "Hướng Núi",
+    "Hướng Thành phố",
+    "Hướng Vườn"
+  ],
+  "tags": [
+    "Ban công/sân hiên",
+    "Bãi biển",
+    "Bãi để xe",
+    "Cách bãi biển 420 mét",
+    "Cặp đôi",
+    "Dragon Bridge",
+    "Dọn phòng hằng ngày",
+    "Hướng Núi",
+    "Hướng Thành phố",
+    "Hướng Vườn",
+    "Khách du lịch một mình",
+    "Lady Buddha",
+    "Nhóm du khách",
+    "Phòng nghỉ thoải mái, chất lượng cao",
+    "Sạch bóng",
+    "Thích hợp cho các hoạt động",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 2,1 km",
+    "Đáng tiền nhất",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment) - khách sạn 3.0 sao tại Đà Nẵng.\nĐịa chỉ: 14 Đường Lê Lâm 11 căn hộ, Phước Mỹ, Đà Nẵng, Việt Nam.\nHãy để chuyến đi của quý khách có một khởi đầu tuyệt vời khi ở lại khách sạn này, nơi có Wi-Fi miễn phí trong tất cả các phòng. Nằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Hãy nhớ dành một chút thời gian để thăm thú Ngũ Hành Sơn cũng như Biển Mỹ Khê gần đó. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Ban công/sân hiên, Biệt lập, Bàn làm việc, Bàn ăn, Bãi biển riêng, Bãi để xe, Bãi đỗ xe [miễn phí], Bình chữa cháy, Băng niêm phong phòng dành cho khách sau khi vệ sinh, Bảo vệ [24 giờ], Bếp nhỏ, Bếp đầy đủ, CCTV bên ngoài chỗ nghỉ, CCTV trong khu vực chung, Chỗ nghỉ chỉ dành cho người lớn, Các loại khăn, Cách bày bàn ăn an toàn, Cách bãi biển 420 mét, Cách âm, Có cung cấp hóa đơn, Có thể yêu cầu không khử trùng phòng, Cửa an toàn cho em bé, Dép đi trong nhà, Dịch vụ Internet, Dịch vụ làm đẹp, Dịch vụ phát trực tuyến như Netflix, Dịch vụ phòng, Dọn phòng hằng ngày, Ghế sofa, Giá treo quần áo.\nĐiểm đánh giá 9.3/10 dựa trên 127 đánh giá.\nKhách hay nhắc đến: Địa điểm, Dịch vụ, Độ sạch sẽ, Thiết kế phòng, Di chuyển, Bãi biển, Hướng nhìn từ phòng, Độ thoải mái của phòng.\nCác loại phòng: Căn Hộ 1 Phòng Ngủ Có Ban Công (One-Bedroom Apartment with Balcony); Boutique Apartment Balcony Room-5min To Beach; Căn Hộ - Tầng Trệt (Apartment - Ground Floor); Căn hộ Superior có Ban công (Superior Apartment with Balcony); Classic Suite Apartment; Căn hộ Premier Suite (Premier Suite Apartment); Deluxe Apartment, 1 King Bed, Kitchen, City View; Deluxe Apartment, 1 King Bed, Kitchen, City View.\nGần: Bãi biển Phạm Văn Đồng, Làng chài Mân Thái, Horizon Bar, Trạm y tế Phường Mân Thái, Du Lịch Tuổi Trẻ Việt - Tour Đà Nẵng, Siêu thị AU MiniMart.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

@@ -1,0 +1,69 @@
+# review_tag_map.yaml — map vocabulary REVIEW-AGGREGATE Agoda -> concept (Sprint 2, Bước 5.2 SEED).
+# ---------------------------------------------------------------------------
+# Nguồn: reviews_detail.tags (45 tag, có mentioned + positive_pct) + rating_breakdown (7 aspect /10).
+# Đây là SEED RẺ (không gọi LLM): Agoda đã tổng hợp sẵn -> profile thô cho 520 hotel ngay.
+# ABSA per-review (5.3) sẽ tinh chỉnh + thêm span/concept ngoài aspect sau.
+#
+# QUY TẮC: chỉ map sang concept_id ĐÃ TỒN TẠI. concept TRUNG TÍNH (sentiment để riêng).
+# Tag review map sang 3 loại facet:
+#   - aspect (ASPECT_*): khía cạnh trải nghiệm — nguồn chính của profile SOFT.
+#   - style (STYLE_*): cảm nhận phong cách (Cách âm/Không khí -> yên tĩnh...).
+#   - amenity (AMEN_*): presence tiện ích (đã có từ structured, review chỉ xác nhận thêm).
+version: "1.0.0"
+source: agoda
+
+# rating_breakdown key (7) -> ASPECT_* (điểm /10 sẵn, evidence mạnh)
+rating_breakdown:
+  "Độ sạch sẽ": ASPECT_CLEANLINESS
+  "Vị trí": ASPECT_LOCATION
+  "Dịch vụ": ASPECT_SERVICE
+  "Cơ sở vật chất": ASPECT_FACILITIES
+  "Đáng tiền": ASPECT_VALUE
+  "Sự thoải mái và chất lượng phòng": ASPECT_ROOM
+  "Ăn uống": ASPECT_FOOD
+
+# reviews_detail.tags (tag name) -> concept. positive_pct -> sentiment.
+review_tags:
+  # --- aspect ---
+  "Dịch vụ": ASPECT_SERVICE
+  "Độ sạch sẽ": ASPECT_CLEANLINESS
+  "Địa điểm": ASPECT_LOCATION
+  "Khả năng đi bộ thuận tiện": ASPECT_LOCATION
+  "Độ thoải mái của phòng": ASPECT_ROOM
+  "Kích thước phòng": ASPECT_ROOM
+  "Tiện nghi trong phòng": ASPECT_ROOM
+  "Thiết kế phòng": ASPECT_ROOM
+  "Bộ đồ giường": ASPECT_ROOM
+  "Phòng tắm": ASPECT_ROOM
+  "Đáng tiền": ASPECT_VALUE
+  "Bữa sáng": ASPECT_FOOD
+  "Nhiều lựa chọn nhà hàng": ASPECT_FOOD
+  "Tiện ích tại cơ sở lưu trú": ASPECT_FACILITIES
+  "Nhận phòng": ASPECT_SERVICE
+  "Trả phòng": ASPECT_SERVICE
+  # --- style (cảm nhận) ---
+  "Cách âm": STYLE_QUIET
+  "Không khí": STYLE_QUIET            # "không khí yên tĩnh/trong lành" — gần STYLE_QUIET
+  # --- amenity (review xác nhận presence; đã có từ structured) ---
+  "Bể bơi": AMEN_POOL
+  "Điều hòa": AMEN_AC
+  "Bãi biển": AMEN_BEACHFRONT
+  "Bãi đỗ xe": AMEN_PARKING
+  "Phòng tập": AMEN_GYM
+  "Wi-Fi": AMEN_WIFI
+  "Cơ sở vật chất cho trẻ em": AMEN_KIDS_CLUB
+  "Đưa đón sân bay": AMEN_AIRPORT_SHUTTLE
+  "Gia đình": PURPOSE_FAMILY
+  # --- vá đợt 2026-06-08 (gap có concept rõ) ---
+  "Spa": AMEN_SPA
+  "Bar": AMEN_BAR
+  "Bếp": AMEN_KITCHEN
+  "Đi công tác": PURPOSE_BUSINESS
+  "Cặp đôi": PURPOSE_ROMANTIC
+  "Bữa tối": ASPECT_FOOD
+  "Thiên nhiên": SETTING_NATURE
+  "Suối nước nóng": AMEN_SPA
+  # --- _skip (không map: thuộc tính phòng vụn / trùng / không phân biệt) ---
+  # "Hướng nhìn từ phòng","Vòi sen","Nước nóng","Bồn tắm" -> chi tiết phòng.
+  # "Chủ nhà","An toàn","Di chuyển","Mua sắm","Hoạt động không thể bỏ qua",
+  # "Cuộc sống về đêm" -> không có concept rõ / là intent, không seed.

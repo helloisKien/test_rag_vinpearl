@@ -1,0 +1,749 @@
+{
+  "crawled_at": "2026-06-04T10:29:47",
+  "source_url": "https://www.agoda.com/sojo-hotel-ga-ha-noi-h70071649/hotel/hanoi-vn.html?hotel=70071649&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 70071649,
+  "name": "Sojo Hotel Ga Ha Noi",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 4.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "115 Tran Hung Dao, Cua nam Ward, Hoan Kiem Dist., 129 19, 100000, Hanoi, Quận Hoàn Kiếm, Hà Nội, Việt Nam",
+  "area": "Quận Hoàn Kiếm",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "100000",
+  "latitude": 21.024187088012695,
+  "longitude": 105.84169006347656,
+  "description": "Property LocationWith a stay at Tru by Hilton Hanoi Station, you'll be centrally located in Hanoi, within a 5-minute drive of Hoan Kiem Lake and Hanoi Opera House. This hotel is 1.1 mi (1.7 km) from St. Joseph's Cathedral of Hanoi and 1.4 mi (2.2 km) from Ho Chi Minh Mausoleum.\n\nDistances are displayed to the nearest 0.1 mile and kilometer. \n \nUnited Nations Development Programme - 0.4 km / 0.2 mi \n Train Street - 0.4 km / 0.3 mi \n Center International Trade Fair Hanoi I.C.E - 0.4 km / 0.3 mi \n Hoa Lo Prison Museum - 0.7 km / 0.4 mi \n Food Street Tong Duy Tan - 0.7 km / 0.4 mi \n Embassy of Laos - 1 km / 0.6 mi \n Goethe-Institut Hanoi - 1 km / 0.6 mi \n Thong Nhat Park - 1 km / 0.6 mi \n Hanoi War Museum - 1 km / 0.6 mi \n Flag Tower of Hanoi - 1 km / 0.6 mi \n Vietnam Military History Museum - 1.1 km / 0.7 mi \n Hang Da Market - 1.1 km / 0.7 mi \n Embassy of China - 1.1 km / 0.7 mi \n Temple of Literature - 1.2 km / 0.8 mi \n Vietnam Women's Museum - 1.3 km / 0.8 mi \n \nThe nearest major airport is Noi Bai Intl. Airport (HAN) - 29 km / 18 mi\n\nRoomsMake yourself at home in one of the 129 air-conditioned rooms featuring heated floors and Smart televisions. Complimentary wireless internet access is available to keep you connected. Conveniences include desks and minibars, and housekeeping is provided daily.\n\nDining\nFor lunch or dinner, stop by JO247 Lounge, a restaurant that specializes in Fusion cuisine. You can also grab snacks at the coffee shop/cafe. Quench your thirst with your favorite drink at the bar/lounge. A complimentary buffet breakfast is served daily.\n\nBusiness, Other Amenities \nFeatured amenities include express check-in, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle is provided for a surcharge (available 24 hours).",
+  "check_in_from": null,
+  "check_out_until": null,
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {},
+  "highlights": [
+    "Cách phương tiện công cộng 100 mét"
+  ],
+  "location_tags": [
+    "Cách phương tiện công cộng 100 mét",
+    "Cách trung tâm TP. 500 m",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Old Quarter",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Cách phương tiện công cộng 100 mét"
+  ],
+  "amenities_count": 1,
+  "amenity_groups": {},
+  "amenities_general": [],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Ga Hà Nội",
+      "type": "Ga Tàu Hoả, Ga Tàu Điện Ngầm và Bến Xe Buýt",
+      "distance_km": 0.07
+    },
+    {
+      "name": "Livitrans",
+      "type": "Phương Tiện Vận Chuyển",
+      "distance_km": 0.09
+    },
+    {
+      "name": "Lotus Train",
+      "type": "Phương Tiện Vận Chuyển",
+      "distance_km": 0.09
+    },
+    {
+      "name": "Bệnh viện Tim Hà Nội",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.25
+    },
+    {
+      "name": "Vườn Bể Cảnh",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 0.26
+    },
+    {
+      "name": "Vinmart",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.28
+    },
+    {
+      "name": "Trung tâm Triển lãm Quốc tế Hà Nội",
+      "type": "Trung Tâm Hội Nghị và Triển Lãm",
+      "distance_km": 0.29
+    },
+    {
+      "name": "Cung văn hoá Hữu Nghị",
+      "type": "Đài Kỷ Niệm và Di Tích Lịch Sử",
+      "distance_km": 0.3
+    },
+    {
+      "name": "Nha khoa Thăng Long",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.33
+    },
+    {
+      "name": "Cung Văn hóa Lao động Hữu nghị Việt - Xô",
+      "type": "Đài Kỷ Niệm và Di Tích Lịch Sử",
+      "distance_km": 0.33
+    }
+  ],
+  "image_count": 42,
+  "image_urls": [
+    "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/9df42ff28be1d321dabead8b88558ebf.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/e81d586b03e17749302d017bf9fb9b4e.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/f60ec3458d3e5bf23d6734ea5a7bd60f.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/88c6a94da3bc33b25419954368897b64.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/0bb7188ac536923bd935bdec2805f2cb.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/bbb93772c492f40f6326ba9a31664006.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/5b20a92f5b5cf273b586498bfbdaf098.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/16de8886a85d7b2295365cd3a31ff8b9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/bc3f876f2333ef175805403f1d0f52df.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/8e63c455213071a9383d266d3d3a4a70.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/95243c55cc009e550a9e1011b36de3fb.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/b738a0a2445a2767dc841b457e2cd8b8.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/7e30eb7cd89aa712a624c2475d0c25dc.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/322024072619cf59d04e8b614e66fe38.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/5b4ac2df6b9f3d2696f51c289762efad.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/562afb4af7827509c81052beca2bdc91.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/b6bdee01f5848bff193500d123713245.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/aadf96012c9f5d448c9f4e4b976d2773.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/aac3210a29a4426ed9d5458e0e848bfa.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/5287c9dfdd22af75a6ae5f3b2c6bf6d3.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/d73b98d9c876a02caa2d50ddbd1314bb.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/89e9321c6f1f369ad0f74cf1257cfea2.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/bef6df9e09b9bbdb791be3ff66b82bc5.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/706fcac58372b6cb5938970d69574c2d.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/ed1cd03115cd20592b8773e497ffffca.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/90352ca42cee9fc37eef10488d6c27a5.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/c6816393ef231a8cba726e92d976dfa9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/59b01e5e3ff450c369ed9dd2f35d4626.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/331c2c2c7b869264ce51106e1cae1b09.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/a909fb494a657e3451affc577fa6bfb3.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/4a71b95157657549b58dd237b07e356a.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/30fb0cb8ff93fd521d79add4b41f0ff9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/e67fb707058b48439b94c343cb020e26.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/3794ff7ed2b68e58161b34504ad8e049.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/651d03c3afdc79c350f3646ce27ef7a9.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/property/70071649/0/b91b9da08a447e4671a15765d93e4225.jpeg?ce=2&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25426/2_25426.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/9df42ff28be1d321dabead8b88558ebf.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/e81d586b03e17749302d017bf9fb9b4e.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/f60ec3458d3e5bf23d6734ea5a7bd60f.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/88c6a94da3bc33b25419954368897b64.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/0bb7188ac536923bd935bdec2805f2cb.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/bbb93772c492f40f6326ba9a31664006.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/5b20a92f5b5cf273b586498bfbdaf098.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/16de8886a85d7b2295365cd3a31ff8b9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/bc3f876f2333ef175805403f1d0f52df.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/8e63c455213071a9383d266d3d3a4a70.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/95243c55cc009e550a9e1011b36de3fb.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/b738a0a2445a2767dc841b457e2cd8b8.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/7e30eb7cd89aa712a624c2475d0c25dc.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/322024072619cf59d04e8b614e66fe38.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/5b4ac2df6b9f3d2696f51c289762efad.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/562afb4af7827509c81052beca2bdc91.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/b6bdee01f5848bff193500d123713245.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/aadf96012c9f5d448c9f4e4b976d2773.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/aac3210a29a4426ed9d5458e0e848bfa.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/5287c9dfdd22af75a6ae5f3b2c6bf6d3.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/d73b98d9c876a02caa2d50ddbd1314bb.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/89e9321c6f1f369ad0f74cf1257cfea2.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/bef6df9e09b9bbdb791be3ff66b82bc5.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/706fcac58372b6cb5938970d69574c2d.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/ed1cd03115cd20592b8773e497ffffca.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/90352ca42cee9fc37eef10488d6c27a5.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/c6816393ef231a8cba726e92d976dfa9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/59b01e5e3ff450c369ed9dd2f35d4626.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/331c2c2c7b869264ce51106e1cae1b09.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/a909fb494a657e3451affc577fa6bfb3.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/4a71b95157657549b58dd237b07e356a.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/30fb0cb8ff93fd521d79add4b41f0ff9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/e67fb707058b48439b94c343cb020e26.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/3794ff7ed2b68e58161b34504ad8e049.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/651d03c3afdc79c350f3646ce27ef7a9.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/70071649/0/b91b9da08a447e4671a15765d93e4225.jpeg?ce=2&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25426/2_25426.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Nha Tu Hoa Lo - Cách nơi ở 470 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hồ Hoàn Kiếm - cách nơi ở 1.17 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Lăng Bác - cách nơi ở 1.55 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 2.45 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Tây Hồ - cách nơi ở 3.62 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Quận Hoàn Kiếm",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/sojo-hotel-ga-ha-noi-h70071649/hotel/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 2,
+    "rooms": [
+      {
+        "room_type_id": 1103061167,
+        "name": "Run of House (Run Of House)",
+        "name_en": "(Run Of House)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1680000,
+        "original_price": 2720000
+      },
+      {
+        "room_type_id": 1155653760,
+        "name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+        "name_en": "(Room Assigned on Arrival)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 1,
+        "images": [
+          "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1680000,
+        "original_price": 2740000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1103061167,
+      "name": "Run of House (Run Of House)",
+      "name_en": "(Run Of House)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1680000,
+      "original_price": 2720000
+    },
+    {
+      "room_type_id": 1155653760,
+      "name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+      "name_en": "(Room Assigned on Arrival)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 1,
+      "images": [
+        "https://pix8.agoda.net/property/70071649/0/87d1ed536a7b557d02afdb2e338ff3d4.jpeg?ce=2&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1680000,
+      "original_price": 2740000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": "Property LocationWith a stay at Tru by Hilton Hanoi Station, you'll be centrally located in Hanoi, within a 5-minute drive of Hoan Kiem Lake and Hanoi Opera House. This hotel is 1.1 mi (1.7 km) from St. Joseph's Cathedral of Hanoi and 1.4 mi (2.2 km) from Ho Chi Minh Mausoleum.\n\nDistances are displayed to the nearest 0.1 mile and kilometer. \n \nUnited Nations Development Programme - 0.4 km / 0.2 mi \n Train Street - 0.4 km / 0.3 mi \n Center International Trade Fair Hanoi I.C.E - 0.4 km / 0.3 mi \n Hoa Lo Prison Museum - 0.7 km / 0.4 mi \n Food Street Tong Duy Tan - 0.7 km / 0.4 mi \n Embassy of Laos - 1 km / 0.6 mi \n Goethe-Institut Hanoi - 1 km / 0.6 mi \n Thong Nhat Park - 1 km / 0.6 mi \n Hanoi War Museum - 1 km / 0.6 mi \n Flag Tower of Hanoi - 1 km / 0.6 mi \n Vietnam Military History Museum - 1.1 km / 0.7 mi \n Hang Da Market - 1.1 km / 0.7 mi \n Embassy of China - 1.1 km / 0.7 mi \n Temple of Literature - 1.2 km / 0.8 mi \n Vietnam Women's Museum - 1.3 km / 0.8 mi \n \nThe nearest major airport is Noi Bai Intl. Airport (HAN) - 29 km / 18 mi\n\nRoomsMake yourself at home in one of the 129 air-conditioned rooms featuring heated floors and Smart televisions. Complimentary wireless internet access is available to keep you connected. Conveniences include desks and minibars, and housekeeping is provided daily.\n\nDining\nFor lunch or dinner, stop by JO247 Lounge, a restaurant that specializes in Fusion cuisine. You can also grab snacks at the coffee shop/cafe. Quench your thirst with your favorite drink at the bar/lounge. A complimentary buffet breakfast is served daily.\n\nBusiness, Other Amenities \nFeatured amenities include express check-in, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle is provided for a surcharge (available 24 hours).",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 2,
+    "dateless_rooms": [
+      {
+        "room_id": 1103061167,
+        "name": "Run of House (Run Of House)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1155653760,
+        "name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": null
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Quận Hoàn Kiếm của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1609858,
+      "title": "Xe Limousine Ghế Ngồi Hà Nội - Sapa bởi HK Buslines",
+      "description": "Di chuyển từ Hà Nội đến Sapa bằng xe limousine ghế ngồi hiện đại, mang đến hành trình thoải mái cho chuyến đi của bạn.\n\n- Miễn phí đón và trả khách tại khu vực Phố Cổ Hà Nội và trung tâm Sapa\n- Xe đượ",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 363522.0,
+                "crossedOut": 458414.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541889,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium",
+      "description": "Khám phá thế giới đại dương kỳ thú tại Vinpearl Aquarium và trải nghiệm hoạt động giáo dục thú vị tại VinKE trong trung tâm thương mại Vincom Mega Mall Times City.\n\n- Trẻ em có cơ hội tìm hiểu và thử",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 181028.0,
+                "crossedOut": 181028.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1267404,
+      "title": "Vé xem Múa rối nước Lotus tại Hà Nội",
+      "description": "Khám phá nghệ thuật múa rối nước tại Hà Nội, một loại hình nghệ thuật truyền thống độc đáo ra đời và phát triển từ hơn một ngàn năm trước tại vùng đồng bằng sông Hồng.\n\n- Chiêm ngưỡng những màn trình",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 79733.0,
+                "crossedOut": 100545.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541704,
+      "title": "Vé xem Múa rối nước Thăng Long",
+      "description": "Khám phá nghệ thuật múa rối nước Thăng Long, một truyền thống độc đáo với lịch sử 1.000 năm được trình diễn trên sân khấu nước sống động ngay tại Hà Nội.\n\n- Theo dõi các câu chuyện dân gian, truyền th",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 150036.0,
+                "crossedOut": 150036.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681394,
+      "title": "內排國際機場(HAN) | Terminal 1 | Vietnam Airlines Lotus Lounge | 貴賓室服務",
+      "description": "位置：安檢後大堂C二樓，護照及安全檢查後前往大堂D，三樓右側\n設施亮點：提供WiFi、小食、茶水及飲料，還有電視和報刊雜誌\n營業時間：每日04:00-23:00，提供長達120分鐘的使用時間\n兒童政策：2歲以下兒童免費入內\n注意事項：預計於2025年5月12日重新開放，",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 444239.0,
+                "crossedOut": 601949.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1092992,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium Times City, Hà Nội",
+      "description": "Khám phá VinKE và Thủy cung Vinpearl tại Vincom Mega Mall Times City, điểm đến lý tưởng cho các gia đình và trẻ nhỏ tại Hà Nội.\n\n- Trải nghiệm thế giới nghề nghiệp mơ ước thông qua các trò chơi hướng",
+      "review_score": 4.3,
+      "review_count": 16,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 190200.0,
+                "crossedOut": 190200.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1089184,
+      "title": "Noi Bai Airport Transfer to Hanoi Hotel or Vice Versa",
+      "description": "Travel between Noi Bai Airport and your hotel in Hanoi with a professional driver and a clean, modern vehicle.\n\n- Fleet of newest generation, air-conditioned vehicles\n- English-speaking drivers availa",
+      "review_score": 5.0,
+      "review_count": 171,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 211538.0,
+                "crossedOut": 263435.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1486418,
+      "title": "Viettel Vietnam SIM/eSIM | 5GB/Day | 10 Days",
+      "description": "Stay connected throughout your journey with a Viettel SIM or eSIM for Vietnam, featuring 5GB of high-speed data per day for 10 days.\n\n- 4G/5G coverage available nationwide\n- Physical SIM pickup availa",
+      "review_score": 4.9,
+      "review_count": 60,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 161866.0,
+                "crossedOut": 209248.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1198574,
+      "title": "Halong Bay Day Cruise with Buffet Lunch - Diamond Era",
+      "description": "Explore the breathtaking beauty of Halong Bay aboard the Diamond Era, a cruise featuring an elegant, modern design. This 6-hour \"Route 2\" itinerary allows you to discover the wonders of this world her",
+      "review_score": 4.9,
+      "review_count": 1902,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 901581.0,
+                "crossedOut": 1264489.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681393,
+      "title": "內排國際機場(HAN) | Terminal 2 | ACV Lounge | 貴賓室服務",
+      "description": "位置：位於內排國際機場國際航站樓4樓，靠近31號登機口。\n設施亮點：提供淋浴間、熱食冷食自助吧、按摩椅及充電設備。\n營業時間：每天06:00至最晚航班。\n使用時間限制：每位客戶最多可享用180分鐘服務。\n家庭政策：2歲及以下兒童免費進入。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 855920.0,
+                "crossedOut": 1033720.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Cách phương tiện công cộng 100 mét",
+    "Cách trung tâm TP. 500 m",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Old Quarter",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Sojo Hotel Ga Ha Noi - khách sạn 4.0 sao tại Hà Nội.\nĐịa chỉ: 115 Tran Hung Dao, Cua nam Ward, Hoan Kiem Dist., 129 19, 100000, Hanoi, Quận Hoàn Kiếm, Hà Nội, Việt Nam.\nNằm ở vị trí trung tâm tại Quận Hoàn Kiếm của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Cách phương tiện công cộng 100 mét.\nCác loại phòng: Run of House (Run Of House); Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival).\nGần: Ga Hà Nội, Livitrans, Lotus Train, Bệnh viện Tim Hà Nội, Vườn Bể Cảnh, Vinmart.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

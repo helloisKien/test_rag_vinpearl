@@ -1,0 +1,75 @@
+# core/setting.yaml — facet: setting (HARD fact). Bối cảnh / vị trí tự nhiên của cơ sở.
+# Khác location.yaml (địa danh cụ thể). setting = kiểu khung cảnh chung.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  SETTING_COASTAL:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, tripadvisor]
+    label: {vi: Ven biển, en: Coastal}
+    surface_forms:
+      vi: [ven biển, thành phố biển, vùng biển, sát biển, ngay biển, gần biển, cạnh biển, ra biển, đi biển, nghỉ biển]
+      en: [coastal, seaside, by the sea]
+    description: {vi: Bối cảnh ven biển / thành phố biển, en: Coastal / seaside setting}
+    narrower: [AMEN_BEACHFRONT]
+
+  SETTING_NATURE:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, tripadvisor]
+    label: {vi: Thiên nhiên, en: Nature}
+    surface_forms:
+      vi: [thiên nhiên, khung cảnh thiên nhiên, gần gũi thiên nhiên, cây xanh, vườn, hướng vườn,
+           gần thiên nhiên, hòa mình thiên nhiên, nhiều cây xanh, không gian xanh, trong lành]
+      en: [nature, scenic, natural surroundings, garden view]
+    description: {vi: Bối cảnh thiên nhiên, nhiều cây xanh / cảnh đẹp, en: Natural, green, scenic surroundings}
+    related: [STYLE_QUIET]
+
+  SETTING_CITY_CENTER:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, google_hotels]
+    label: {vi: Trung tâm thành phố, en: City center}
+    surface_forms:
+      vi: [trung tâm thành phố, nội thành, trung tâm, gần trung tâm, trong nội thành,
+           ngay trung tâm, khu trung tâm, gần phố, trong phố, tiện đi lại, gần chợ đêm, gần phố đi bộ]
+      en: [city center, downtown, central]
+    description: {vi: Vị trí ở trung tâm / nội thành, en: Located in the city center / downtown}
+
+  SETTING_MOUNTAIN:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, tripadvisor]
+    label: {vi: Vùng núi, en: Mountain}
+    surface_forms:
+      vi: [vùng núi, trên núi, hướng núi, đồi núi, gần núi, view núi, nhìn ra núi, lên núi, vùng cao, cao nguyên]
+      en: [mountain, mountain view, hillside]
+    description: {vi: Bối cảnh vùng núi / đồi, en: Mountain / hillside setting}
+
+  SETTING_ISLAND:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Trên đảo, en: Island}
+    surface_forms:
+      vi: [trên đảo, đảo riêng, hòn đảo]
+      en: [island, private island]
+    description: {vi: Bối cảnh trên đảo, en: Island setting}
+    related: [SETTING_COASTAL]
+
+  SETTING_RIVERSIDE:
+    facet: setting
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda]
+    label: {vi: Ven sông hồ, en: Riverside / Lakeside}
+    surface_forms:
+      vi: [ven sông, bên sông, hướng sông, ven hồ, bên hồ, hướng hồ, cạnh sông, cạnh hồ]
+      en: [riverside, river view, lakeside, lake view, waterfront]
+    description: {vi: Bối cảnh ven sông / hồ (khác biển — nước ngọt), en: Riverside / lakeside setting (freshwater, distinct from coastal)}

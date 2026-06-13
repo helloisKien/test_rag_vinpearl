@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Models / caches
+.cache/
+*.bin
+
+# Artifacts
+logs/
+evaluation/metrics/
+evaluation/reports/*.md
+observability/reports/*.md
+chunks.jsonl
+*.backup.json
+
+# OS
+.DS_Store
+Thumbs.db

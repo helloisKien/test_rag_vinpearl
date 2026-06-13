@@ -1,0 +1,112 @@
+# ontology/facets.yaml — Taxonomy đa chiều (Faceted). Task 1.4 — Sprint 1.
+# Owner: Trương Anh Long (Knowledge Engineering).
+#
+# Ý tưởng: thay cây phẳng bằng nhiều TRỤC ĐỘC LẬP. Một resort ĐỒNG THỜI là
+# loại hình + vị trí + nhóm khách + tiện ích + giá + phong cách.
+#
+# 4 NGUYÊN TẮC (DA10):
+#   1. Trực giao: các facet độc lập nhau.
+#   2. Cardinality rõ: one (một giá trị) vs many (nhiều giá trị).
+#   3. Phân cấp chỉ ở nơi cần: location sâu (cây hành chính), amenity 2 tầng (nhóm), còn lại phẳng.
+#   4. value = concept_id (dùng chung vốn từ với ontology/core/*.yaml — KHÔNG đặt giá trị mới ở đây).
+#
+# ĐIỂM ĂN TIỀN: mỗi facet khớp với SLOT của DA09 -> query phân rã ra slot chuyển thẳng thành filter.
+#   - da09_slot     : tên slot LOGIC (trừu tượng, độc lập nguồn).
+#   - metadata_field: trỏ field/group THẬT trong docs/metadata.md (contract DA09 đã cấp).
+#
+# LƯU Ý attribute SỐ (star_rating, price, review_score, distance) KHÔNG phải facet concept ở đây —
+# chúng là filter cứng kiểu RANGE, định nghĩa ở metadata_schema (Task 1.8). Xem mục range_filters cuối file.
+
+version: "2.0.0"
+
+facets:
+
+  object_type:
+    cardinality: one
+    fact_type: hard
+    da09_slot: accommodation_type
+    metadata_field: core_metadata.accommodation_type   # + core_metadata.entity_type
+    description: Loại hình lưu trú.
+    values: [OBJ_HOTEL, OBJ_RESORT, OBJ_VILLA, OBJ_HOMESTAY, OBJ_APARTMENT, OBJ_GUESTHOUSE, OBJ_BNB, OBJ_BUNGALOW]
+
+  location:
+    cardinality: one          # một cơ sở ở một địa điểm chính (place); landmark gắn qua quan hệ near (Task 1.5)
+    fact_type: hard
+    da09_slot: destination
+    metadata_field: core_metadata.city               # + area, country (cây địa danh)
+    description: >
+      Địa danh hành chính (country>province>city>area) + landmark. PHẠM VI VIỆT NAM. TỰ SINH từ
+      data: xem ontology/core/location.generated.yaml (build_locations.py, Lớp A). Corpus VN:
+      1 country / 14 province (tách tự động) / 69 city / 126 area / 153 landmark (520 hotel).
+    hierarchy: [country, province, city, area]   # tỉnh tách tự động từ tên "City (Tỉnh)" trong data
+    # values KHÔNG liệt kê tay nữa (đã tự sinh, ~360 concept). Tra trực tiếp trong
+    # ontology/core/location.generated.yaml. Place (kind=country/place/area) -> FILTER destination;
+    # landmark (LMK_*, kind=landmark) -> quan hệ near (ontology.yaml + relations_near.generated.yaml).
+    values_source: ontology/core/location.generated.yaml
+
+  amenity:
+    cardinality: many
+    fact_type: hard
+    da09_slot: amenity
+    metadata_field: search_filter_metadata           # vd .pool, .spa, .kids_club, .private_beach...
+    description: Tiện ích (presence). Nhóm 2 tầng để query "có hồ bơi" match cả pool con.
+    values_groups:
+      water:   [AMEN_POOL, AMEN_INFINITY_POOL, AMEN_KIDS_POOL, AMEN_PRIVATE_POOL, AMEN_BEACHFRONT, AMEN_SEA_VIEW]
+      wellness: [AMEN_SPA, AMEN_GYM]
+      family:  [AMEN_KIDS_CLUB, AMEN_BABYSITTING]
+      dining:  [AMEN_BAR, AMEN_RESTAURANT, AMEN_CAFE]
+      service: [AMEN_AIRPORT_SHUTTLE, AMEN_WIFI, AMEN_PARKING, AMEN_ELEVATOR, AMEN_MEETING_ROOM]
+      sport:   [AMEN_GOLF, AMEN_BIKE]
+      room:    [AMEN_AC, AMEN_KITCHEN]
+      outdoor: [AMEN_GARDEN]
+      access:  [AMEN_WHEELCHAIR, AMEN_PET_FRIENDLY]
+
+  setting:
+    cardinality: many
+    fact_type: hard
+    da09_slot: location_type
+    metadata_field: semantic_metadata.location_type
+    description: Bối cảnh / vị trí tự nhiên của cơ sở (khác địa danh cụ thể).
+    values: [SETTING_COASTAL, SETTING_NATURE, SETTING_CITY_CENTER, SETTING_MOUNTAIN, SETTING_ISLAND, SETTING_RIVERSIDE]
+
+  price_tier:
+    cardinality: one
+    fact_type: hard
+    da09_slot: budget
+    metadata_field: semantic_metadata.travel_style    # budget/luxury; suy từ star_rating + giải thưởng
+    description: Phân khúc giá (ngữ nghĩa). Giá trị SỐ (star, giá) là range_filter, không ở đây.
+    values: [PRICE_BUDGET, PRICE_MID, PRICE_UPSCALE, PRICE_LUXURY]
+
+  purpose:
+    cardinality: many
+    fact_type: soft
+    da09_slot: audience
+    metadata_field: semantic_metadata.guest_type
+    description: Nhóm khách / mục đích chuyến đi.
+    values: [PURPOSE_FAMILY, PURPOSE_ROMANTIC, PURPOSE_SOLO, PURPOSE_GROUP, PURPOSE_BUSINESS, PURPOSE_WELLNESS]
+
+  style:
+    cardinality: many
+    fact_type: soft
+    da09_slot: style
+    metadata_field: semantic_metadata.atmosphere      # + semantic_metadata.travel_style
+    description: Phong cách / cảm nhận trải nghiệm (từ review). TRUNG TÍNH; polarity ở sentiment.
+    values: [STYLE_QUIET, STYLE_LIVELY, STYLE_RELAXING, STYLE_MODERN, STYLE_ROMANTIC, STYLE_LUXURY, STYLE_ECO]
+
+  aspect:
+    cardinality: many
+    fact_type: soft
+    da09_slot: null                                    # không phải slot filter; dùng cho ABSA + ranking boost
+    metadata_field: review_reputation_metadata.rating_breakdown
+    description: Khía cạnh đánh giá cho ABSA (Sprint 2). TRUNG TÍNH; sentiment riêng.
+    values: [ASPECT_CLEANLINESS, ASPECT_SERVICE, ASPECT_LOCATION, ASPECT_FOOD, ASPECT_ROOM, ASPECT_VALUE, ASPECT_FACILITIES]
+
+# -----------------------------------------------------------------------------
+# RANGE FILTERS — attribute SỐ, filter cứng kiểu khoảng. KHÔNG phải concept.
+# Chốt kiểu/đơn vị ở metadata_schema.yaml (Task 1.8). Liệt kê ở đây để thấy đủ trục filter.
+# -----------------------------------------------------------------------------
+range_filters:
+  star_rating:  {type: int,   range: [1, 5],   metadata_field: core_metadata.star_rating,         da09_slot: star_rating}
+  review_score: {type: float, range: [0, 10],  metadata_field: core_metadata.review_score,        da09_slot: review_score}
+  price:        {type: int,   unit: vnd,        metadata_field: room_metadata.cheapest_price,      da09_slot: budget_amount}
+  distance_km:  {type: float, unit: km,         metadata_field: nearby_geo_metadata.nearby_summary,da09_slot: distance}

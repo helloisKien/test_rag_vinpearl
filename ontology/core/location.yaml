@@ -1,0 +1,15 @@
+# core/location.yaml — facet: location (HARD fact).
+#
+# ⚠ FILE NÀY GIỜ TRỐNG (concepts: {}). Toàn bộ địa danh — country/city/area VÀ landmark (LMK_*) —
+# đã chuyển sang TỰ SINH ở ontology/core/location.generated.yaml bởi build_locations.py (Lớp A).
+#
+# Lý do: ở mốc 51 hotel mọi thứ gõ tay nên để chung 1 file. Ở 555 hotel / 39 nước, gõ tay không
+# còn khả thi; landmark cũng suy được từ field nearby_places (>=4 hotel, lọc theo type du lịch).
+# Giữ file rỗng (không xóa) để các comment/loader tham chiếu core/*.yaml không gãy.
+#
+# Khi cần ALIAS / quan hệ TINH CHỈNH TAY mà script không suy được (vd located_in mức xã/phường
+# chính xác), thêm concept vào ĐÂY — nó sẽ override/bổ sung cho bản generated (cùng prefix LOC_/LMK_,
+# cùng facet location). Hiện chưa có nhu cầu nào -> để trống.
+#
+# Schema 1 concept: xem ontology/_meta.yaml.
+concepts: {}

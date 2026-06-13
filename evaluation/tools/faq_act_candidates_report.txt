@@ -1,0 +1,510 @@
+##################### FAQ THEMES #####################
+==========================================================================================
+FAQ1_airport_shuttle | city~Đà Nẵng | cat~location_airport | kws=['dua don', 'don tien', 'xe dua'] | matched=0
+==========================================================================================
+
+==========================================================================================
+FAQ2_parking | city~Nha Trang | cat~facilities_parking | kws=[] | matched=10
+==========================================================================================
+[48363] Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) | Nha Trang | review=8.9
+    Q: Khách sạn Sunrise Nha Trang Beach Hotel & Spa (Sunrise Nha Trang Beach Hotel & Spa) có bãi đỗ xe không?
+    A: Khách sạn Sunrise Nha Trang Beach Hotel & Spa có bãi đỗ xe miễn phí cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú để biết thêm thông ti
+[5685860] Vinpearl Beachfront Nha Trang | Nha Trang | review=8.9
+    Q: Vinpearl Beachfront Nha Trang có bãi đỗ xe không?
+    A: Vinpearl Beachfront Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vui lòng li
+[6421211] Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) | Nha Trang | review=8.9
+    Q: Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú 
+[6906462] Khách Sạn Lucky Sun (Lucky Sun Hotel) | Nha Trang | review=8.9
+    Q: Khách Sạn Lucky Sun (Lucky Sun Hotel) có bãi đỗ xe không?
+    A: Khách Sạn Lucky Sun có bãi đỗ xe trong khuôn viên có áp dụng phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vui lòng liên h
+[869046] Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) | Nha Trang | review=8.9
+    Q: Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Liberty Central Nha Trang có bãi đỗ xe trong khuôn viên và lân cận để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vui
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | Nha Trang | review=8.7
+    Q: Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) có bãi đỗ xe không?
+    A: Khu nghỉ dưỡng Wyndham Garden Cam Ranh có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vu
+[766807] Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) | Nha Trang | review=8.7
+    Q: Khách sạn Mường Thanh Luxury Nha Trang (Muong Thanh Luxury Nha Trang Hotel) có bãi đỗ xe không?
+    A: Khách sạn Mường Thanh Luxury Nha Trang có bãi đỗ xe trong khuôn viên miễn phí để khách sử dụng phương tiện riêng có thể chọn khi nghỉ tại cơ sở lưu trú này. Trong trường hợp bãi đỗ
+[706033] Khách sạn Nha Trang Palace (Nha Trang Palace Hotel) | Nha Trang | review=8.6
+    Q: Khách sạn Nha Trang Palace (Nha Trang Palace Hotel) có bãi đỗ xe không?
+    A: Khách sạn Nha Trang Palace có bãi đỗ xe lân cận có áp dụng phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vui lòng liên hệ 
+[1158176] Khách sạn New Sun Nha Trang (New Sun Hotel Nha Trang) | Nha Trang | review=8.4
+    Q: Khách sạn New Sun Nha Trang (New Sun Hotel Nha Trang) có bãi đỗ xe không?
+    A: Khách sạn New Sun Nha Trang có bãi đỗ xe lân cận miễn phí để khách sử dụng phương tiện riêng có thể tận dụng cơ sở vật chất tại chỗ nghỉ khi lưu trú tại đây. Vui lòng liên hệ với c
+[5930920] Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) | Nha Trang | review=8.4
+    Q: Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) có bãi đỗ xe không?
+    A: Khách Sạn Anrizon Nha Trang có bãi đỗ xe thu phí cho mọi khách đến cơ sở lưu trú bằng phương tiện riêng. Vui lòng liên hệ với cơ sở lưu trú để biết thêm thông tin hoặc đăng nhập và
+
+==========================================================================================
+FAQ3_laundry | city~Hà Nội | cat~facilities_cleaning | kws=['giat'] | matched=17
+==========================================================================================
+[1122443] Novotel Suites Hà Nội (Novotel Suites Hanoi) | Hà Nội | review=8.7
+    Q: Novotel Suites Hà Nội (Novotel Suites Hanoi) có dịch vụ giặt là không?
+    A: Có! Novotel Suites Hà Nội cung cấp Giặt ga gối trải giường và quần áo bằng nước nóng và dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ 
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | Hà Nội | review=8.7
+    Q: Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 - 96 Hai bà Trưng cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với cơ sở l
+[6542427] Novotel Hà Nội Thái Hà (Novotel Hanoi Thai Ha) | Hà Nội | review=8.7
+    Q: Novotel Hà Nội Thái Hà (Novotel Hanoi Thai Ha) có dịch vụ giặt là không?
+    A: Có! Novotel Hà Nội Thái Hà cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với cơ sở lưu trú để
+[10665115] Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) | Hà Nội | review=8.6
+    Q: Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách Sạn Minasi HanoiOi LakeSide cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thích mình của mì
+[289726] Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) | Hà Nội | review=8.5
+    Q: Khách sạn A25 - 46 Châu Long (A25 Hotel - 46 Chau Long) có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 - 46 Châu Long cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với cơ sở lưu 
+[617191] A25 - Signature Hotel | Hà Nội | review=8.5
+    Q: A25 - Signature Hotel có dịch vụ giặt là không?
+    A: Có! Khách sạn A25 Premium cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với cơ sở lưu trú để 
+[161676] Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) | Hà Nội | review=8.4
+    Q: Khách sạn Mercure Hà Nội La Gare (Mercure Hanoi La Gare Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Mercure Hà Nội La Gare cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thích mình của mìn
+[729579] Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) | Hà Nội | review=8.4
+    Q: Khách sạn Hà Nội Gallant (Hanoi Gallant Hotel) có dịch vụ giặt là không?
+    A: Có! Khách sạn Hà Nội Gallant cung cấp dịch vụ giặt là để quý khách sử dụng bất cứ khi nào cần quần áo mới sạch thơm trong suốt kỳ nghỉ của mình. Vui lòng liên hệ với cơ sở lưu trú 
+[10962] Hilton Hanoi Opera (Hanoi Opera) | Hà Nội | review=8.2
+    Q: Hilton Hanoi Opera (Hanoi Opera) có dịch vụ giặt khô không?
+    A: Có! Hilton Hanoi Opera cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thích mình của mình. Vui lòng li
+[247372] Khách sạn Mường Thanh Grand Hà Nội (Muong Thanh Grand Hanoi Hotel) | Hà Nội | review=8.2
+    Q: Khách sạn Mường Thanh Grand Hà Nội (Muong Thanh Grand Hanoi Hotel) có dịch vụ giặt khô không?
+    A: Có! Khách sạn Mường Thanh Grand Hà Nội cung cấp dịch vụ giặt khô và có thể được yêu cầu trong suốt kỳ lưu trú để đảm bảo quý khách luôn được diện bộ trang phục yêu thích mình của m
+
+==========================================================================================
+FAQ4_family_child | city~Đà Lạt | cat~policies_family | kws=[] | matched=3
+==========================================================================================
+[23388080] Khách sạn A25 - 386 Hai Bà Trưng Đà Lạt (A25 Hotel - 386 Hai Ba Trung Da Lat) | Đà Lạt | review=9.0
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách sạn A25 - 386 Hai Bà Trưng Đà Lạt (A25 Hotel - 386 Hai Ba Trung Da Lat)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách sạn A25 - 386 Hai Bà Trưng Đà Lạt tính trẻ 5 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm
+[179080] Khách Sạn TTC Ngọc Lan (TTC Hotel Ngoc Lan) | Đà Lạt | review=8.3
+    Q: Chính sách về giường ngủ cho trẻ em tại Khách Sạn TTC Ngọc Lan (TTC Hotel Ngoc Lan)
+    A: Chính sách Giường ngủ cho trẻ em tại Khách Sạn TTC Ngọc Lan tính trẻ 6 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm thông tin về Chí
+[21978371] NGÔI LÀNG CỔ 77 HOÀNG DIỆU (NGOI LANG CO 77 HOANG DIEU) | Đà Lạt | review=8.2
+    Q: Chính sách về giường ngủ cho trẻ em tại NGÔI LÀNG CỔ 77 HOÀNG DIỆU (NGOI LANG CO 77 HOANG DIEU)
+    A: Chính sách Giường ngủ cho trẻ em tại NGÔI LÀNG CỔ 77 HOÀNG DIỆU tính trẻ 13 tuổi trở lên là người lớn và phải sử dụng giường phụ (có phụ phí). Quý khách có thể tìm thêm thông tin v
+
+==========================================================================================
+FAQ5_payment_cashless | city~Hồ Chí Minh | cat~info_payment | kws=[] | matched=9
+==========================================================================================
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | Hồ Chí Minh | review=9.1
+    Q: Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) chấp nhận các thẻ thanh toán nào?
+    A: Express by M Village Điện Biên Phủ (The Tropic) chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm Visa, Tiền mặt và MasterCard.
+[10976] Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) | Hồ Chí Minh | review=8.7
+    Q: Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn Sofitel Saigon Plaza chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm Visa, MasterCard, American Express và Tiền mặt.
+[1602693] Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) | Hồ Chí Minh | review=8.6
+    Q: Khách sạn ibis Sài Gòn sân bay (ibis Saigon Airport) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn ibis Sài Gòn sân bay chấp nhận đến 6 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard, Visa và Tiền mặt.
+[1189049] Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) | Hồ Chí Minh | review=8.5
+    Q: Khách sạn A25 - 307 Lý Tự Trọng (A25 Hotel - 307 Lý Tự Trọng) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 - 307 Lý Tự Trọng chấp nhận đến 3 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard và Visa.
+[159186] Khách sạn Cochin Zen (Cochin Zen Hotel) | Hồ Chí Minh | review=8.5
+    Q: Khách sạn Cochin Zen (Cochin Zen Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn Cochin Zen chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm American Express, MasterCard và Visa.
+[33815684] Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) | Hồ Chí Minh | review=8.4
+    Q: Khách sạn A25 - 255 Lê Thánh Tôn (A25 Hotel - 255 Le Thanh Ton) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 - 255 Lê Thánh Tôn chấp nhận đến 5 với các lựa chọn thẻ thanh toán bao gồm Visa, MasterCard, UnionPay và American Express.
+[317796] Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) | Hồ Chí Minh | review=8.0
+    Q: Khách sạn Ibis Saigon South (Ibis Saigon South Hotel) chấp nhận các thẻ thanh toán nào?
+    A: Tận hưởng sự tiện lợi của việc thanh toán dễ dàng khi Khách sạn Ibis Saigon South chấp nhận đến 7, với các lựa chọn thẻ thanh toán bao gồm UnionPay, American Express, Tiền mặt, Vis
+[1155111] TTC Hotel Deluxe Airport | Hồ Chí Minh | review=7.9
+    Q: TTC Hotel Deluxe Airport chấp nhận các thẻ thanh toán nào?
+    A: TTC Hotel Deluxe Airport chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm MasterCard, Visa và American Express.
+[523102] Khách sạn A25 14 Phó Đức Chính (A25 Hotel - 14 Pho Duc Chinh) | Hồ Chí Minh | review=7.7
+    Q: Khách sạn A25 14 Phó Đức Chính (A25 Hotel - 14 Pho Duc Chinh) chấp nhận các thẻ thanh toán nào?
+    A: Khách sạn A25 14 Phó Đức Chính chấp nhận đến 4 với các lựa chọn thẻ thanh toán bao gồm Visa, American Express và MasterCard.
+
+==========================================================================================
+FAQ6_spa | city~Phú Quốc | cat~things-to-do | kws=['spa'] | matched=4
+==========================================================================================
+[1624474] JW Marriott Phu Quoc Emerald Bay Resort & Spa | Đảo Phú Quốc | review=9.2
+    Q: JW Marriott Phu Quoc Emerald Bay Resort & Spa có bể bơi không?
+    A: Trong thời gian lưu trú tại JW Marriott Phu Quoc Emerald Bay Resort & Spa, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú hoặc 
+[2577124] Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) | Đảo Phú Quốc | review=9.1
+    Q: Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) có dịch vụ spa không?
+    A: Kỳ lưu trú của quý khách tại Khu nghỉ dưỡng & Spa Lahana Phú Quốc sẽ đáng nhớ hơn khi tự thưởng cho mình trải nghiệm các dịch vụ spa tại cơ sở lưu trú và có cho mình một khoảng thờ
+[1157572] Khu nghỉ dưỡng Novotel Phú Quốc (Novotel Phu Quoc Resort) | Đảo Phú Quốc | review=8.7
+    Q: Khu nghỉ dưỡng Novotel Phú Quốc (Novotel Phu Quoc Resort) có dịch vụ spa không?
+    A: Kỳ lưu trú của quý khách tại Khu nghỉ dưỡng Novotel Phú Quốc sẽ đáng nhớ hơn khi tự thưởng cho mình trải nghiệm các dịch vụ spa tại cơ sở lưu trú và có cho mình một khoảng thời gia
+[1985199] Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) | Đảo Phú Quốc | review=8.6
+    Q: Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) có dịch vụ spa không?
+    A: Kỳ lưu trú của quý khách tại Melia Vinpearl Phú Quốc sẽ đáng nhớ hơn khi tự thưởng cho mình trải nghiệm các dịch vụ spa tại cơ sở lưu trú và có cho mình một khoảng thời gian thư gi
+
+==========================================================================================
+FAQ7_bar | city~Hạ Long | cat~food and drink | kws=['bar', 'quay bar', 'do uong'] | matched=3
+==========================================================================================
+[1015998] Vinpearl Resort & Spa Hạ Long (Vinpearl Resort & Spa Ha Long) | Hạ Long | review=9.0
+    Q: Vinpearl Resort & Spa Hạ Long (Vinpearl Resort & Spa Ha Long) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với bar và bar cạnh hồ bơi ở Vinpearl Resort & Spa Hạ Long, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai ly nước bất cứ khi n
+[11081745] Mường Thanh Grand Bãi Cháy (Muong Thanh Grand Bai Chay) | Hạ Long | review=8.9
+    Q: Mường Thanh Grand Bãi Cháy (Muong Thanh Grand Bai Chay) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Mường Thanh Grand Bãi Cháy, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai ly nước bất cứ kh
+[10185656] Khách sạn Hạ Long Halios (Halios Halong Hotel) | Hạ Long | review=8.8
+    Q: Khách sạn Hạ Long Halios (Halios Halong Hotel) có quán bar trong khuôn viên không?
+    A: Tận hưởng kỳ nghỉ với ly đồ uống ngon lành tại bar ở Khách sạn Hạ Long Halios, chỉ cách quý khách một vài bước chân để quý khách có thể thưởng thức một hoặc hai ly nước bất cứ khi 
+
+==========================================================================================
+FAQ8_languages | city~Huế | cat~languages spoken | kws=[] | matched=1
+==========================================================================================
+[70624] Khách sạn TTC Imperial (TTC Imperial Hotel) | Huế | review=9.1
+    Q: Nhân viên của Khách sạn TTC Imperial (TTC Imperial Hotel) có thể giao tiếp bằng những ngôn ngữ nào?
+    A: Khách sạn TTC Imperial có thể sử dụng tối đa 2 ngôn ngữ, trong đó có Tiếng Anh dành cho khách nói ngôn ngữ này. Vui lòng tham khảo danh mục Ngôn ngữ sử dụng ở phần Tiện nghi và Cơ 
+
+==========================================================================================
+FAQ9_getting_around | city~Hội An | cat~getting around | kws=[] | matched=8
+==========================================================================================
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | Hội An | review=9.4
+    Q: Sunora Villa Hội An (Sunora Villa Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Sunora Villa Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 350000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô trống trong phiếu
+[1193207] Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) | Hội An | review=9.0
+    Q: Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Khách sạn Gia Huy Riverside Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 250000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô tr
+[1803429] Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) | Hội An | review=9.0
+    Q: Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) có dịch vụ đưa đón sân bay không?
+    A: Wyndham Garden Hội An Cửa Đại Beach cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 500000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô t
+[32713399] Nam An Mama Villa Hội An (Nam An Mama Villa Hoi An) | Hội An | review=8.9
+    Q: Nam An Mama Villa Hội An (Nam An Mama Villa Hoi An) có dịch vụ đưa đón sân bay không?
+    A: Nam An Mama Villa Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô trống trong 
+[3664358] Hoi An Dream City Hotel | Hội An | review=8.7
+    Q: Hoi An Dream City Hotel có dịch vụ đưa đón sân bay không?
+    A: Hoi An Dream City Hotel cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 400000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào ô trống trong p
+[860887] Khách Sạn & Spa Aurora Riverside Hội An (Hoi An Aurora Riverside Hotel & Spa) | Hội An | review=8.6
+    Q: Khách Sạn & Spa Aurora Riverside Hội An (Hoi An Aurora Riverside Hotel & Spa) có dịch vụ đưa đón sân bay không?
+    A: Khách Sạn & Spa Aurora Riverside Hội An cung cấp dịch vụ đưa đón sân bay theo yêu cầu với một khoản phụ thu cho 500000 VND theo tiền tệ địa phương. Để yêu cầu, chỉ cần đánh dấu vào
+[1233488] Sunrise Homestay | Hội An | review=8.3
+    Q: Sunrise Homestay có dịch vụ đưa đón sân bay không?
+    A: Sunrise Homestay cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ cần đánh dấu vào ô trống trong phiếu đặt phòng, 
+[1994212] Vinpearl Hoi An Villas | Hội An | review=7.8
+    Q: Vinpearl Hoi An Villas có dịch vụ đưa đón sân bay không?
+    A: Vinpearl Hoi An Villas cung cấp dịch vụ đưa đón sân bay theo yêu cầu! Quý khách có thể phải thanh toán một khoản phụ thu. Để yêu cầu, chỉ cần đánh dấu vào ô trống trong phiếu đặt p
+
+==========================================================================================
+FAQ10_pool | city~Vũng Tàu | cat~things-to-do | kws=['be boi', 'ho boi', 'boi'] | matched=2
+==========================================================================================
+[36643921] Căn hộ The Sóng Vũng Tàu - Green House (The Sóng Apartment Vũng Tàu - Green House) | Vũng Tàu | review=8.4
+    Q: Căn hộ The Sóng Vũng Tàu - Green House (The Sóng Apartment Vũng Tàu - Green House) có bể bơi không?
+    A: Trong thời gian lưu trú tại Căn hộ The Sóng Vũng Tàu - Green House, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú hoặc chỉ đơn
+[462837] Ho Tram Vietsovpetro Resort (Vietsovpetro Ho Tram Resort) | Vũng Tàu | review=7.9
+    Q: Ho Tram Vietsovpetro Resort (Vietsovpetro Ho Tram Resort) có bể bơi không?
+    A: Trong thời gian lưu trú tại Ho Tram Vietsovpetro Resort, quý khách có thể bắt đầu ngày mới bằng cách nhảy ùm xuống làn nước mát của bể bơi tại cơ sở lưu trú hoặc chỉ đơn giản là nằ
+
+
+##################### ACTIVITY THEMES #####################
+==========================================================================================
+ACT1_vinwonders_nhatrang | city~Nha Trang | kws=['vinwonders', 'vinpearl', 'vinke'] | matched=37
+==========================================================================================
+[6359030] Muong Thanh Luxury Khanh Hoa | Nha Trang | review=8.9 | n_act_hit=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+    - Vé VinWonders Nha Trang
+[869046] Khách sạn Liberty Central Nha Trang (Liberty Central Nha Trang Hotel) | Nha Trang | review=8.9 | n_act_hit=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+    - Vé VinWonders Nha Trang
+[239482] Khách Sạn TTC - Michelia (TTC Hotel - Michelia) | Nha Trang | review=8.7 | n_act_hit=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+    - Vé VinWonders Nha Trang
+[31039863] Khu nghỉ dưỡng Wyndham Garden Cam Ranh (Wyndham Garden Cam Ranh Resort) | Nha Trang | review=8.7 | n_act_hit=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+    - Vé VinWonders Nha Trang
+[463095] Muong Thanh Grand Nha Trang Hotel | Nha Trang | review=8.5 | n_act_hit=6
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng VinWonders Nha Trang
+    - Vé VinWonders Nha Trang
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | Nha Trang | review=9.1 | n_act_hit=5
+    - Vé Cáp Treo Vinpearl Harbour Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng Vinpearl Harbour Nha Trang
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | Nha Trang | review=8.9 | n_act_hit=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng Vinpearl Harbour Nha Trang
+[5685860] Vinpearl Beachfront Nha Trang | Nha Trang | review=8.9 | n_act_hit=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng Vinpearl Harbour Nha Trang
+[805030] Vinpearl Resort & Spa Nha Trang Bay | Nha Trang | review=8.8 | n_act_hit=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng Vinpearl Harbour Nha Trang
+[65153] Vinpearl Resort Nha Trang | Nha Trang | review=8.7 | n_act_hit=5
+    - Vé vào cổng Công viên Chủ đề VinWonders Nha Trang
+    - Vé vào cổng Công viên giải trí VinWonders Nha Trang
+    - Vé vào cổng Vinpearl Harbour Nha Trang
+
+==========================================================================================
+ACT2_cruise_halong | city~Hạ Long | kws=['du thuyen', 'cruise', 'vinh', 'kayak'] | matched=22
+==========================================================================================
+[1015998] Vinpearl Resort & Spa Hạ Long (Vinpearl Resort & Spa Ha Long) | Hạ Long | review=9.0 | n_act_hit=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Taliya - Tour Trong Ngày Vịnh Hạ Long & Vịnh Lan Hạ
+[11081745] Mường Thanh Grand Bãi Cháy (Muong Thanh Grand Bai Chay) | Hạ Long | review=8.9 | n_act_hit=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Taliya - Tour Trong Ngày Vịnh Hạ Long & Vịnh Lan Hạ
+[16360312] Mường Thanh Holiday Suối Mơ (Muong Thanh Holiday Suoi Mo) | Hạ Long | review=8.9 | n_act_hit=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Taliya - Tour Trong Ngày Vịnh Hạ Long & Vịnh Lan Hạ
+[32914376] Mường Thanh Luxury Hạ Long Centre II (Muong Thanh Luxury Ha Long Centre II) | Hạ Long | review=8.4 | n_act_hit=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Taliya - Tour Trong Ngày Vịnh Hạ Long & Vịnh Lan Hạ
+[247789] Khách sạn Mường Thanh Grand Hạ Long (Muong Thanh Grand Ha Long Hotel) | Hạ Long | review=8.0 | n_act_hit=9
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Taliya - Tour Trong Ngày Vịnh Hạ Long & Vịnh Lan Hạ
+[35444743] Khách sạn A25 Premium - Bãi Cháy Hạ Long (A25 Premium Hotel - Bãi Cháy Hạ Long) | Hạ Long | review=9.4 | n_act_hit=8
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Du thuyền Hercules Grand Luxury Vịnh Hạ Long - Khởi hành từ Hà Nội
+    - Du Thuyền Sang Trọng Diamond Era - Vịnh Hạ Long
+[38722254] Khách sạn Radisson Blu Vịnh Hạ Long (Radisson Blu Hotel, Ha Long Bay) | Hạ Long | review=9.2 | n_act_hit=8
+    - Vé vào cổng Sun World Ha Long
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Halong Bay 5-Star Day Cruise - Buffet, Wine, Jacuzzi, Kayak
+[58958232] Wyndham Garden Legend Hạ Long (Wyndham Garden Legend Halong) | Hạ Long | review=9.2 | n_act_hit=8
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Vé vào cổng Sun World Ha Long
+    - Halong Bay 5-Star Day Cruise - Buffet, Wine, Jacuzzi, Kayak
+[46741090] Căn hộ khách sạn 5 sao À LaCarte Hạ Long (5-Star Hotel Apartment À LaCarte Ha Long) | Hạ Long | review=9.0 | n_act_hit=8
+    - Vé vào cổng Sun World Ha Long
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Halong Bay 5-Star Day Cruise - Buffet, Wine, Jacuzzi, Kayak
+[6593570] Khách Sạn Hạ Long Boutique (Halong Boutique Hotel) | Hạ Long | review=9.0 | n_act_hit=8
+    - [MỚI RA MẮT] Du thuyền hạng sang Diamond Era - Vịnh Hạ Long, Hang Sửng Sốt & Đảo Ti Tốp
+    - Vé vào cổng Sun World Ha Long
+    - Halong Bay 5-Star Day Cruise - Buffet, Wine, Jacuzzi, Kayak
+
+==========================================================================================
+ACT3_bana_danang | city~Đà Nẵng | kws=['ba na', 'bana', 'sun world', 'cap treo'] | matched=43
+==========================================================================================
+[74957819] Wyndham Soleil Đà Nẵng - Dịch vụ đưa đón sân bay miễn phí (Wyndham Soleil Danang - Free Schedule Airport Shuttle) | Đà Nẵng | review=8.4 | n_act_hit=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[59714076] Khách sạn Ocean Star Đà Nẵng Bay (Ocean Star Da Nang Bay Hotel) | Đà Nẵng | review=7.9 | n_act_hit=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[31998515] Khách sạn Cherry Đà Nẵng (Cherry Hotel Da Nang ) | Đà Nẵng | review=7.8 | n_act_hit=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[517713] Khách sạn Orange Trung tâm Thành phố Đà Nẵng - Gần Chợ Hàn & Cầu Rồng (Orange City Center Hotel Da Nang - Near Han Market & Dragon Brigde) | Đà Nẵng | review=7.8 | n_act_hit=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[533079] Khách sạn Moonlight Đà Nẵng (Moonlight Hotel Da Nang) | Đà Nẵng | review=7.7 | n_act_hit=7
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[64242078] Khách sạn DS Đà Nẵng (DS HOTEL ĐÀ NẴNG) | Đà Nẵng | review=8.6 | n_act_hit=6
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[33100210] Khách sạn Liberty Đà Nẵng (Liberty Hotel Da Nang) | Đà Nẵng | review=8.3 | n_act_hit=6
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé vào cổng Sun World Ba Na Hills
+    - Công viên Suối khoáng nóng Núi Thần Tài
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | Đà Nẵng | review=10.0 | n_act_hit=4
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé Sun World Ba Na Hills | Đà Nẵng
+    - Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills
+[82014402] Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment) | Đà Nẵng | review=9.3 | n_act_hit=4
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé Sun World Ba Na Hills | Đà Nẵng
+    - Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | Đà Nẵng | review=9.1 | n_act_hit=4
+    - Sun World Ba Na Hills - Cáp treo & Buffet
+    - Vé Sun World Ba Na Hills | Đà Nẵng
+    - Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills
+
+==========================================================================================
+ACT4_basketboat_hoian | city~Hội An | kws=['thung', 'rung dua', 'coconut', 'bay mau'] | matched=22
+==========================================================================================
+[44777877] Grand Sunrise Palace Hội An (Grand Sunrise Palace Hoi An) | Hội An | review=9.7 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | Hội An | review=9.4 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[36975063] Biệt thự Sunkissed Paddy Hoi An (Sunkissed Paddy Hoi An Villa) | Hội An | review=8.9 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[31561179] ViVi An Bang Hotel (1 Stop ViVi An Bang Beach Hoi An Hotel) | Hội An | review=8.8 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[3664358] Hoi An Dream City Hotel | Hội An | review=8.7 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[4593719] Vinpearl Resort & Golf Nam Hội An (Vinpearl Resort & Golf Nam Hoi An ) | Hội An | review=8.7 | n_act_hit=3
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Vé Rừng Dừa Bảy Mẫu - Combo Show Ký Ức Hội An Tùy Chọn
+[1985188] Khu nghỉ dưỡng & spa Renaissance Đà Nẵng Hội An (Renaissance Danang Hoi An Resort & Spa) | Hội An | review=8.6 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[34054260] Nhà trọ & Pool Bar Bed Station Hội An " Trước đây là Sunflower" (Bed Station Hostel & Pool Bar Hoi An " Former Sunflower") | Hội An | review=8.6 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[1233488] Sunrise Homestay | Hội An | review=8.3 | n_act_hit=3
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Đi Thuyền Thúng Rừng Dừa Bảy Mẫu
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+[859981] Khách sạn Mường Thanh Holiday Hội An (Muong Thanh Holiday Hoi An Hotel) | Hội An | review=8.3 | n_act_hit=3
+    - Hoi An Basket Boat Tour - Water Coconut Forest, Crab Fishing
+    - Trải nghiệm Thuyền Thúng Rừng Dừa - Mrs An Coconut Boat
+    - Vé Rừng Dừa Bảy Mẫu - Combo Show Ký Ức Hội An Tùy Chọn
+
+==========================================================================================
+ACT5_coaster_dalat | city~Đà Lạt | kws=['alpine', 'coaster', 'mang truot', 'datanla', 'truot'] | matched=21
+==========================================================================================
+[168993] Khách Sạn Mường Thanh Đà Lạt (Muong Thanh Dalat Hotel) | Đà Lạt | review=8.0 | n_act_hit=3
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+    - Trải Nghiệm Zipline tại Datanla Đà Lạt
+[49851722] Khách sạn Golden Sun Đà Lạt (Golden Sun Hotel - Dalat) | Đà Lạt | review=9.3 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[32680041] Khách sạn Tala Đà Lạt (Tala Dalat Hotel) | Đà Lạt | review=9.2 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[41926154] Khách sạn Sunset Hill (Sunset Hill Hotel) | Đà Lạt | review=9.2 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[23388080] Khách sạn A25 - 386 Hai Bà Trưng Đà Lạt (A25 Hotel - 386 Hai Ba Trung Da Lat) | Đà Lạt | review=9.0 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[49385769] CALYSSA HOTELS & VILLAGE | Đà Lạt | review=9.0 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[42109640] Khách sạn MerPerle Đà Lạt (MerPerle Dalat Hotel) | Đà Lạt | review=8.9 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[50138938] Khách sạn Savio Triệu Việt Vương Đà Lạt (Savio Hotel Trieu Viet Vuong) | Đà Lạt | review=8.9 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[55256505] Khách sạn Greenview City (Greenview City Hotel) | Đà Lạt | review=8.9 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Trải nghiệm Xe trượt Alpine mới tại Datanla
+[10954459] Khách sạn Sài Gòn's Book Dalat ( Hồ Xuân Hương) (Saigon's Book Da Lat Hotel) | Đà Lạt | review=8.8 | n_act_hit=2
+    - Trải nghiệm Alpine Coaster mới tại Datanla, Đà Lạt
+    - Da Lat Full-Day Tour - Langbiang, Crazy House, Datanla Falls
+
+==========================================================================================
+ACT6_phuquoc_park | city~Phú Quốc | kws=['vinwonders', 'grand world', 'hon thom', 'cap treo', 'safari'] | matched=27
+==========================================================================================
+[35958304] Wyndham Garden Grandworld Phú Quốc (Wyndham Garden Grandworld Phu Quoc) | Đảo Phú Quốc | review=8.7 | n_act_hit=8
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé vào cổng Vinpearl Safari Phú Quốc
+    - Vé vào cổng Grand World Phú Quốc
+[6377313] Vinpearl Wonderworld Phú Quốc (Vinpearl Wonderworld Phu Quoc) | Đảo Phú Quốc | review=8.7 | n_act_hit=6
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Combo Sun World Hòn Thơm Phú Quốc
+    - Vé Sun World Hon Thom | Phú Quốc
+[1985199] Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) | Đảo Phú Quốc | review=8.6 | n_act_hit=6
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Combo Sun World Hòn Thơm Phú Quốc
+    - Vé Sun World Hon Thom | Phú Quốc
+[34118773] Robins Homestay Vinpearl Phu Quoc | Đảo Phú Quốc | review=8.8 | n_act_hit=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Sun World Hon Thom | Phú Quốc
+    - Vé vào cổng Sun World Hon Thom
+[58866380] Khách sạn ROVA - Positano Horse Phú Quốc (ROVA HOTEL - POSITANO HORSE PHU QUOC) | Đảo Phú Quốc | review=8.8 | n_act_hit=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+    - Vé vào cổng Grand World Phú Quốc
+[625168] Vinpearl Resort & Spa Phú Quốc | Đảo Phú Quốc | review=8.8 | n_act_hit=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Sun World Hon Thom | Phú Quốc
+    - Vé vào cổng Sun World Hon Thom
+[11081947] Khách sạn Paralia Bãi Khem Phú Quốc (Paralia Khem Beach Phu Quoc Hotel) | Đảo Phú Quốc | review=8.5 | n_act_hit=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+    - Vé vào cổng Grand World Phú Quốc
+[44314482] Khách sạn Mimosa Phú Quốc (Mimosa Hotel Phu Quoc) | Đảo Phú Quốc | review=8.5 | n_act_hit=5
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Vinpearl Safari Phú Quốc
+    - Vé vào cổng Grand World Phú Quốc
+[59790857] S79 PowerMia RiverFront Grand World Phú Quốc (S79 PowerMia RiverFront Grand World Phu Quoc) | Đảo Phú Quốc | review=9.7 | n_act_hit=4
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé Sun World Hon Thom | Phú Quốc
+    - Vé vào cổng Sun World Hon Thom
+[1624474] JW Marriott Phu Quoc Emerald Bay Resort & Spa | Đảo Phú Quốc | review=9.2 | n_act_hit=4
+    - Vé VinWonders Phú Quốc - Safari Phú Quốc (Tùy chọn Công viên Chủ đề)
+    - Vé vào cổng Sun World Hon Thom
+    - Vé Sun World Hon Thom | Phú Quốc
+
+==========================================================================================
+ACT7_show_hanoi | city~Hà Nội | kws=['roi nuoc', 'show', 'city tour', 'lang'] | matched=49
+==========================================================================================
+[37181026] Khách sạn Minasi Premium (Minasi Premium Hotel) | Hà Nội | review=8.8 | n_act_hit=4
+    - Vé xem Múa rối nước Thăng Long
+    - Thang Long Water Puppet Show - Vietnam
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+[86658383] Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ | Hà Nội | review=9.3 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | Hà Nội | review=9.2 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé Múa Rối Nước Thăng Long tại Hà Nội
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | Hà Nội | review=9.1 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | Hà Nội | review=9.1 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | Hà Nội | review=9.0 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé Múa Rối Nước Thăng Long tại Hà Nội
+[58686039] Khách sạn Hanoian (Hanoian Hotel) | Hà Nội | review=9.0 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | Hà Nội | review=8.8 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[1122443] Novotel Suites Hà Nội (Novotel Suites Hanoi) | Hà Nội | review=8.7 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+[5305073] Khách sạn A25 - 96 Hai bà Trưng (A25 Hotel- 96 Hai Ba Trung) | Hà Nội | review=8.7 | n_act_hit=2
+    - Vé xem Múa rối nước Lotus tại Hà Nội
+    - Vé xem Múa rối nước Thăng Long
+
+==========================================================================================
+ACT8_sapa_trek | city~Sa Pa | kws=['sapa', 'fansipan', 'trek', 'cap treo'] | matched=0
+==========================================================================================
+
+==========================================================================================
+ACT9_hue_tour | city~Huế | kws=['song huong', 'dai noi', 'lang', 'thuyen rong', 'city tour'] | matched=4
+==========================================================================================
+[70624] Khách sạn TTC Imperial (TTC Imperial Hotel) | Huế | review=9.1 | n_act_hit=3
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+    - Hue City Full-Day Tour - Imperial Citadel, Tombs, Pagoda
+    - Tour Thành Phố Huế Cả Ngày
+[16209810] KOBI Onsen Huế Resort, Liên Kết Bởi Melia (Kobi Onsen Resort Hue, Affiliated by Melia) | Huế | review=9.0 | n_act_hit=3
+    - Hue City Full-Day Tour - Imperial Citadel, Tombs, Pagoda
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+    - Tour Thành Phố Huế Cả Ngày
+[11002] Huong Giang Hotel Resort & Spa | Huế | review=8.5 | n_act_hit=3
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+    - Tour Thành Phố Huế Cả Ngày
+    - Cảng Chân May: Tour riêng đưa đón tham quan Cầu Vàng (Ba Na Hills) qua đèo Hải Vân | Việt Nam
+[5663891] Melia Vinpearl Huế (Melia Vinpearl Hue) | Huế | review=9.4 | n_act_hit=1
+    - Vé Biểu Diễn Ca Huế Truyền Thống Trên Sông Hương
+
+==========================================================================================
+ACT10_quynhon_kyco | city~Quy Nhơn | kws=['ky co', 'eo gio', 'cu lao', 'lan bien', 'cano'] | matched=1
+==========================================================================================
+[78112429] TMS Quy Nhon SeaView Condotel (TMS Quy Nhon SeaView Condotel ) | Quy Nhơn (Bình Định) | review=9.4 | n_act_hit=1
+    - Ky Co Island and Eo Gio Cape Tour - Quy Nhon

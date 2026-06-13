@@ -1,0 +1,1282 @@
+{
+  "crawled_at": "2026-06-06T14:33:19",
+  "source_url": "https://www.agoda.com/ta-xua-nha-cua-dau/hotel/all/cham-ta-lao-vn.html?hotel=86783770&currency=VND&checkIn=2026-06-16&checkOut=2026-06-17&rooms=1&adults=2&children=0",
+  "hotel_id": 86783770,
+  "name": "Nhà Của Đậu Tà Xùa (Nha Cua Đau Ta Xua)",
+  "property_type": "NonHotel",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 4.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 7.2,
+  "review_count": 1,
+  "address": "Tà Xùa nhà của Đậu Căn nhà gỗ nhỏ có 4 phòng, Cham Ta Lao, Cham Ta Lao, Việt Nam",
+  "area": "Cham Ta Lao",
+  "city": "Cham Ta Lao",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 21.260265350341797,
+  "longitude": 104.47256469726562,
+  "description": "Tọa lạc ở Bắc Yên, Nhà Của Đậu Tà Xùa cung cấp Wi-Fi miễn phí, nơi khách có thể trải nghiệm khu vườn, phòng chờ chung và sân hiên.\n\nNơi đây còn có phòng tắm riêng với vòi xịt/chậu rửa vệ sinh ở tất cả các căn, cùng đồ vệ sinh cá nhân miễn phí, máy sấy tóc và dép đi trong phòng.\n\nCăn hộ có phục vụ bữa sáng kiểu Á.\n\nSân bay Quốc tế Nội Bài cách 193 km.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "08:00",
+    "Nhận phòng đến": "18:00"
+  },
+  "highlights": [
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày",
+    "Nhân viên chăm sóc khách hàng",
+    "Vườn",
+    "Bếp chung"
+  ],
+  "location_tags": [
+    "Chất lượng và tiện nghi phòng tuyệt vời",
+    "Dọn phòng hằng ngày",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhận/trả phòng [riêng]",
+    "Wi-Fi miễn phí trong tất cả các phòng!"
+  ],
+  "amenities": [
+    "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+    "Bảo vệ 24 giờ",
+    "Bếp chung",
+    "CCTV bên ngoài chỗ nghỉ",
+    "CCTV trong khu vực chung",
+    "Dịch vụ khử trùng chuyên nghiệp",
+    "Dịch vụ thanh toán không sử dụng tiền mặt",
+    "Dịch vụ đưa đón",
+    "Dọn phòng hằng ngày",
+    "Giặt đồ vải lanh và quần áo bằng nước nóng",
+    "Giữ hành lý",
+    "Hoàn toàn không hút thuốc",
+    "Nhiệt kế cơ thể",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhân viên được đào tạo về giao thức an toàn",
+    "Nhận trả phòng không tiếp xúc",
+    "Nhận trả phòng riêng",
+    "Phòng chờ chung khu vực tv",
+    "Phòng gia đình",
+    "Phòng tắm đứng",
+    "Phòng được vệ sinh giữa các lần ở",
+    "Sàn gỗ miếng",
+    "Sân hiên",
+    "Thích hợp cho gia đình trẻ em",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tiện nghi nấu nướng ngoài trời",
+    "Tính năng an toàn bảo mật",
+    "Tính năng an toàn cho trẻ em",
+    "Tầng trệt",
+    "Vườn",
+    "WiFi miễn phí",
+    "Đi lên bằng cầu thang",
+    "Được phép đưa thú nuôi vào",
+    "Đồ dùng cho giấc ngủ thoải mái",
+    "Đồ gỗ ngoài trời",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 55,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Truy cập Internet": [
+      "WiFi miễn phí"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Vườn"
+    ],
+    "Độ sạch sẽ và an toàn": [
+      "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+      "Dịch vụ khử trùng chuyên nghiệp",
+      "Dịch vụ thanh toán không sử dụng tiền mặt",
+      "Giặt đồ vải lanh và quần áo bằng nước nóng",
+      "Nhiệt kế cơ thể",
+      "Nhân viên được đào tạo về giao thức an toàn",
+      "Phòng được vệ sinh giữa các lần ở"
+    ],
+    "Ăn uống": [
+      "Bếp chung",
+      "Tiện nghi nấu nướng ngoài trời"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Dọn phòng hằng ngày",
+      "Giữ hành lý",
+      "Hoàn toàn không hút thuốc",
+      "Nhân viên chăm sóc khách hàng",
+      "Nhận trả phòng không tiếp xúc",
+      "Phòng chờ chung khu vực tv",
+      "Sân hiên"
+    ],
+    "Dành cho trẻ em": [
+      "Phòng gia đình",
+      "Thích hợp cho gia đình trẻ em",
+      "Tính năng an toàn cho trẻ em"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ",
+      "CCTV bên ngoài chỗ nghỉ",
+      "CCTV trong khu vực chung",
+      "Nhận trả phòng riêng",
+      "Tính năng an toàn bảo mật",
+      "Được phép đưa thú nuôi vào"
+    ],
+    "Đi lại": [
+      "Dịch vụ đưa đón",
+      "Đỗ xe miễn phí"
+    ],
+    "Có trong tất cả phòng": [
+      "Phòng tắm đứng",
+      "Sàn gỗ miếng",
+      "Tính năng an toàn bảo mật",
+      "Tầng trệt",
+      "Đi lên bằng cầu thang",
+      "Đồ dùng cho giấc ngủ thoải mái",
+      "Đồ gỗ ngoài trời"
+    ]
+  },
+  "amenities_general": [
+    "Băng niêm phong phòng dành cho khách sau khi vệ sinh",
+    "Bảo vệ 24 giờ",
+    "CCTV bên ngoài chỗ nghỉ",
+    "CCTV trong khu vực chung",
+    "Dịch vụ khử trùng chuyên nghiệp",
+    "Dịch vụ thanh toán không sử dụng tiền mặt",
+    "Dịch vụ đưa đón",
+    "Dọn phòng hằng ngày",
+    "Giặt đồ vải lanh và quần áo bằng nước nóng",
+    "Giữ hành lý",
+    "Hoàn toàn không hút thuốc",
+    "Nhiệt kế cơ thể",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhân viên được đào tạo về giao thức an toàn",
+    "Nhận trả phòng không tiếp xúc",
+    "Nhận trả phòng riêng",
+    "Phòng chờ chung khu vực tv",
+    "Phòng gia đình",
+    "Phòng tắm đứng",
+    "Phòng được vệ sinh giữa các lần ở",
+    "Sàn gỗ miếng",
+    "Sân hiên",
+    "Thích hợp cho gia đình trẻ em",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tính năng an toàn bảo mật",
+    "Tính năng an toàn cho trẻ em",
+    "Tầng trệt",
+    "WiFi miễn phí",
+    "Đi lên bằng cầu thang",
+    "Được phép đưa thú nuôi vào",
+    "Đồ dùng cho giấc ngủ thoải mái",
+    "Đồ gỗ ngoài trời",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [
+    "Vườn"
+  ],
+  "amenities_dining": [
+    "Bếp chung",
+    "Tiện nghi nấu nướng ngoài trời"
+  ],
+  "nearby_places": [
+    {
+      "name": "Sân bay Sam Neua",
+      "type": "Sân Bay",
+      "distance_km": 102.59
+    },
+    {
+      "name": "Sân bay Quốc tế Nội Bài",
+      "type": "Sân Bay",
+      "distance_km": 138.13
+    },
+    {
+      "name": "Sân bay Điện Biên Phủ",
+      "type": "Sân Bay",
+      "distance_km": 152.72
+    },
+    {
+      "name": "Sân bay Thọ Xuân",
+      "type": "Sân Bay",
+      "distance_km": 184.49
+    }
+  ],
+  "image_count": 26,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011092.jpg?k=908b75d2ee823b25b21cb0b4ce67924c8e784f26d9f5116f48b822d9a7b1acf9&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011095.jpg?k=d7711ea6eb5def659dd578d2de9c6286c8fde0b8f9d6acd4045101c604266271&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011099.jpg?k=a6cd6936f403ddcfd7fea124a26e75cc3926fddd6c9f4a20ecb6adeb7c508b38&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012342.jpg?k=f53c5dda073e7e627b118f37f052b6480b6c7cf27645cdc608b2b80dc5ed4a0e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012363.jpg?k=c66578112139346138ca0b0ee37f7ee7f7d1bc1e880552e4953e8c6af4c93cca&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843877.jpg?k=bd13bb14e0a39769d88e153a4784a80f079bb85a0470f558c4f3a404159959d3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011094.jpg?k=f612fcbc790561e108e5f7da02014079a933ddcae35e8e9de58f47146ae7ce72&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012345.jpg?k=ed970cab67f5a70ca399284fd4b718f15fe2f721d9e3f93c243437f5be249acc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012341.jpg?k=1f4af584600c41586b57b1e8972fb4a57ac3cb95178e4ea34f14b2d698116861&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843880.jpg?k=4a2f85c317f5c2c88be5c9894b8049c30252cbb4ab224c43d4db6a0f33b5e65d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012350.jpg?k=d1f63553aa759836d3b207a7b4c69660b4383f46a622cf736b09b42daa1fcde7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011102.jpg?k=1659c7653e09729b393d595bd6ec524110b919fff5e71325a08bca8b3b644ca4&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011093.jpg?k=bc232112d5c1907c3ee73c4e9bd9a9b951deb5325f9e0ae3a2f34f2a615c319f&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011091.jpg?k=6ee07647429ed93ed5dd5de6f00af07e5e60c4107a000eaf4869ad837435ad37&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843879.jpg?k=f9213e5af21916810ca11286de6a285a3434446244350fd2cb52f2a37f17beb2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011090.jpg?k=18682205a271b678af05c15a6db5b78d33fd4a5a62565b631ca9b692f1d13fa6&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011098.jpg?k=6017c5ede45e6a76dc783a54adaea797aecc5af326a3decc8d1d3cb1dbd3c72d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012370.jpg?k=03cc12e8bfacb328616f00c7c9e70e354b0fb037ba482ee2610700906d279ef8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843891.jpg?k=89163158d94d650720ae9299fed11030011a271e4fef4f9500feda619759154c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843887.jpg?k=9ea7fd8b92c3e57284a52b62551a2e128042fa431f42bbd10b5b3b2fd76aec99&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684849.jpg?k=45c115129e03da4b392eee5bc7bcbb63be1fc4ae62a14cbad4f4eaebab7cc51a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847717071.jpg?k=1a66cf71162635a3a487580dd486b35c46bdd2839d55c4a26e6432a86c3c8ea0&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843890.jpg?k=94a225491bdcd2fe81de3ab63c00a7267a93014108f34f91744b95e38f7ef8b8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863844355.jpg?k=9f3f84dfd770fc31c9f9768234e6d9b2a8aa83fcb109881ad467ecbcb7480060&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684822.jpg?k=6579672da2fb26f340ad7a7d4219654ec275e5b8b080983b7aa0d46e3be318a2&o="
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011092.jpg?k=908b75d2ee823b25b21cb0b4ce67924c8e784f26d9f5116f48b822d9a7b1acf9&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011095.jpg?k=d7711ea6eb5def659dd578d2de9c6286c8fde0b8f9d6acd4045101c604266271&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011099.jpg?k=a6cd6936f403ddcfd7fea124a26e75cc3926fddd6c9f4a20ecb6adeb7c508b38&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012342.jpg?k=f53c5dda073e7e627b118f37f052b6480b6c7cf27645cdc608b2b80dc5ed4a0e&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012363.jpg?k=c66578112139346138ca0b0ee37f7ee7f7d1bc1e880552e4953e8c6af4c93cca&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843877.jpg?k=bd13bb14e0a39769d88e153a4784a80f079bb85a0470f558c4f3a404159959d3&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011094.jpg?k=f612fcbc790561e108e5f7da02014079a933ddcae35e8e9de58f47146ae7ce72&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012345.jpg?k=ed970cab67f5a70ca399284fd4b718f15fe2f721d9e3f93c243437f5be249acc&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012341.jpg?k=1f4af584600c41586b57b1e8972fb4a57ac3cb95178e4ea34f14b2d698116861&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843880.jpg?k=4a2f85c317f5c2c88be5c9894b8049c30252cbb4ab224c43d4db6a0f33b5e65d&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012350.jpg?k=d1f63553aa759836d3b207a7b4c69660b4383f46a622cf736b09b42daa1fcde7&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011102.jpg?k=1659c7653e09729b393d595bd6ec524110b919fff5e71325a08bca8b3b644ca4&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011093.jpg?k=bc232112d5c1907c3ee73c4e9bd9a9b951deb5325f9e0ae3a2f34f2a615c319f&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011091.jpg?k=6ee07647429ed93ed5dd5de6f00af07e5e60c4107a000eaf4869ad837435ad37&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843879.jpg?k=f9213e5af21916810ca11286de6a285a3434446244350fd2cb52f2a37f17beb2&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011090.jpg?k=18682205a271b678af05c15a6db5b78d33fd4a5a62565b631ca9b692f1d13fa6&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868011098.jpg?k=6017c5ede45e6a76dc783a54adaea797aecc5af326a3decc8d1d3cb1dbd3c72d&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/868012370.jpg?k=03cc12e8bfacb328616f00c7c9e70e354b0fb037ba482ee2610700906d279ef8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843891.jpg?k=89163158d94d650720ae9299fed11030011a271e4fef4f9500feda619759154c&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843887.jpg?k=9ea7fd8b92c3e57284a52b62551a2e128042fa431f42bbd10b5b3b2fd76aec99&o=",
+      "caption": "Đồ ăn và thức uống",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684849.jpg?k=45c115129e03da4b392eee5bc7bcbb63be1fc4ae62a14cbad4f4eaebab7cc51a&o=",
+      "caption": "Vườn",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847717071.jpg?k=1a66cf71162635a3a487580dd486b35c46bdd2839d55c4a26e6432a86c3c8ea0&o=",
+      "caption": "Vườn",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863843890.jpg?k=94a225491bdcd2fe81de3ab63c00a7267a93014108f34f91744b95e38f7ef8b8&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/863844355.jpg?k=9f3f84dfd770fc31c9f9768234e6d9b2a8aa83fcb109881ad467ecbcb7480060&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/847684822.jpg?k=6579672da2fb26f340ad7a7d4219654ec275e5b8b080983b7aa0d46e3be318a2&o=",
+      "caption": "Vườn",
+      "category": "Cơ sở vật chất"
+    }
+  ],
+  "district": "Cham Ta Lao",
+  "province": "Cham Ta Lao",
+  "city_id": 220186,
+  "property_page": "/ta-xua-nha-cua-dau/hotel/all/cham-ta-lao-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 5,
+    "rooms": [
+      {
+        "room_type_id": 1374535207,
+        "name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+        "name_en": "(Standard Double Room)",
+        "room_size": "12 m²",
+        "size_sqm": 12.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "12 m²",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1200000,
+        "original_price": 2100000
+      },
+      {
+        "room_type_id": 1374535194,
+        "name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+        "name_en": "(Deluxe Double Room)",
+        "room_size": "18 m²",
+        "size_sqm": 18.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "18 m²",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1310000,
+        "original_price": 1860000
+      },
+      {
+        "room_type_id": 1374864619,
+        "name": "Biệt Thự (Villa)",
+        "name_en": "(Villa)",
+        "room_size": "70 m²",
+        "size_sqm": 70.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa",
+        "bed_types": [
+          "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn 1 giường đôi lớn 1 giường đôi lớn 1 giường đôi lớn 1 giường sofa",
+          "70 m²",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/868011092.jpg?k=908b75d2ee823b25b21cb0b4ce67924c8e784f26d9f5116f48b822d9a7b1acf9&o="
+        ],
+        "review_score": null,
+        "price_per_night": 3000000,
+        "original_price": 3860000
+      },
+      {
+        "room_type_id": 1374535215,
+        "name": "Phòng Đôi (Double Room)",
+        "name_en": "(Double Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 1,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1680000,
+        "original_price": 2670000
+      },
+      {
+        "room_type_id": 1359403312,
+        "name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+        "name_en": "(Superior Double Room)",
+        "room_size": "18 m²",
+        "size_sqm": 18.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "18 m²",
+          "Bếp",
+          "Bố trí và nội thất phòng",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Phòng tắm đứng",
+          "Quần áo và giặt ủi",
+          "Sàn gỗ miếng",
+          "Tính năng an toàn bảo mật",
+          "Tính năng an toàn và an ninh",
+          "Tầng trệt",
+          "Ăn uống",
+          "Đi lên bằng cầu thang",
+          "Đồ dùng cho giấc ngủ thoải mái",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 6,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847746442.jpg?k=ef794457d7d157be8398a8c6b0c541c3a7ebad2a81918f38b43388c18ad46340&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684840.jpg?k=c803973e1e54b875d93a4d722aad03f2836ca75c87a4c8a76573b3405abf59e1&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684849.jpg?k=45c115129e03da4b392eee5bc7bcbb63be1fc4ae62a14cbad4f4eaebab7cc51a&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847717071.jpg?k=1a66cf71162635a3a487580dd486b35c46bdd2839d55c4a26e6432a86c3c8ea0&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1200000,
+        "original_price": 1740000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1374535207,
+      "name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+      "name_en": "(Standard Double Room)",
+      "room_size": "12 m²",
+      "size_sqm": 12.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "12 m²",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1200000,
+      "original_price": 2100000
+    },
+    {
+      "room_type_id": 1374535194,
+      "name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+      "name_en": "(Deluxe Double Room)",
+      "room_size": "18 m²",
+      "size_sqm": 18.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "18 m²",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1310000,
+      "original_price": 1860000
+    },
+    {
+      "room_type_id": 1374864619,
+      "name": "Biệt Thự (Villa)",
+      "name_en": "(Villa)",
+      "room_size": "70 m²",
+      "size_sqm": 70.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa",
+      "bed_types": [
+        "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn 1 giường đôi lớn 1 giường đôi lớn 1 giường đôi lớn 1 giường sofa",
+        "70 m²",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/868011092.jpg?k=908b75d2ee823b25b21cb0b4ce67924c8e784f26d9f5116f48b822d9a7b1acf9&o="
+      ],
+      "review_score": null,
+      "price_per_night": 3000000,
+      "original_price": 3860000
+    },
+    {
+      "room_type_id": 1374535215,
+      "name": "Phòng Đôi (Double Room)",
+      "name_en": "(Double Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 1,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1680000,
+      "original_price": 2670000
+    },
+    {
+      "room_type_id": 1359403312,
+      "name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+      "name_en": "(Superior Double Room)",
+      "room_size": "18 m²",
+      "size_sqm": 18.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "18 m²",
+        "Bếp",
+        "Bố trí và nội thất phòng",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Phòng tắm đứng",
+        "Quần áo và giặt ủi",
+        "Sàn gỗ miếng",
+        "Tính năng an toàn bảo mật",
+        "Tính năng an toàn và an ninh",
+        "Tầng trệt",
+        "Ăn uống",
+        "Đi lên bằng cầu thang",
+        "Đồ dùng cho giấc ngủ thoải mái",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 6,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684754.jpg?k=1d65f3144a930ee7508bc9153530c83d2ea75953b70a8a483fb4b4c005bc7b12&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847746442.jpg?k=ef794457d7d157be8398a8c6b0c541c3a7ebad2a81918f38b43388c18ad46340&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684840.jpg?k=c803973e1e54b875d93a4d722aad03f2836ca75c87a4c8a76573b3405abf59e1&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847684849.jpg?k=45c115129e03da4b392eee5bc7bcbb63be1fc4ae62a14cbad4f4eaebab7cc51a&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/847717071.jpg?k=1a66cf71162635a3a487580dd486b35c46bdd2839d55c4a26e6432a86c3c8ea0&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1200000,
+      "original_price": 1740000
+    }
+  ],
+  "reviews_detail": {
+    "score": 7.2,
+    "score_text": null,
+    "review_count": 1,
+    "comments_count": null,
+    "grades": [
+      {
+        "name": "Độ sạch sẽ",
+        "score": 5.0
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 5.0
+      },
+      {
+        "name": "Vị trí",
+        "score": 5.0
+      },
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 10.0
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 10.0
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 7.5
+      }
+    ],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Khách du lịch một mình",
+        "count": 1,
+        "score": 7.2
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 8.0,
+        "rating_text": "Tuyệt vời",
+        "date": "28 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Xa Trung tâm",
+        "positives": "Thoải mái",
+        "negatives": "Xa Trung tâm",
+        "response": null,
+        "reviewer_name": "tram",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1117622657,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "April 28, 2026",
+        "check_in": "",
+        "title": "Xa Trung tâm",
+        "text": null,
+        "positives": "Thoải mái",
+        "negatives": "Xa Trung tâm",
+        "response": null,
+        "reviewer_name": "tram",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 7.2,
+  "rating_count": 1,
+  "rating_breakdown": {
+    "Độ sạch sẽ": 5.0,
+    "Cơ sở vật chất": 5.0,
+    "Vị trí": 5.0,
+    "Sự thoải mái và chất lượng phòng": 10.0,
+    "Dịch vụ": 10.0,
+    "Đáng tiền": 7.5
+  },
+  "secondary": {
+    "description_full": "Tọa lạc ở Bắc Yên, Nhà Của Đậu Tà Xùa cung cấp Wi-Fi miễn phí, nơi khách có thể trải nghiệm khu vườn, phòng chờ chung và sân hiên.\n\nNơi đây còn có phòng tắm riêng với vòi xịt/chậu rửa vệ sinh ở tất cả các căn, cùng đồ vệ sinh cá nhân miễn phí, máy sấy tóc và dép đi trong phòng.\n\nCăn hộ có phục vụ bữa sáng kiểu Á.\n\nSân bay Quốc tế Nội Bài cách 193 km.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 0-5 tuổi [bao gồm cả bé 5 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 5,
+    "dateless_rooms": [
+      {
+        "room_id": 1359403312,
+        "name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+        "features": [],
+        "image_count": 6,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1374864619,
+        "name": "Biệt Thự (Villa)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn & 1 giường sofa",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1374535207,
+        "name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1374535194,
+        "name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1374535215,
+        "name": "Phòng Đôi (Double Room)",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Cham Ta Lao của Cham Ta Lao, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "activities": [
+    {
+      "activity_id": 1289739,
+      "title": "Vé vào cổng Công viên Chủ đề VinWonders Cửa Hội",
+      "description": "Khám phá VinWonders Cửa Hội, tổ hợp giải trí sôi động tại miền Trung Việt Nam với những trải nghiệm đa dạng từ vui chơi đến tâm linh.\n\n- Trải nghiệm hệ thống cáp treo vượt biển đầu tiên và duy nhất tạ",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 87446.0,
+                "crossedOut": 100053.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681589,
+      "title": "金蘭國際機場(CXR) | Domestic Terminal | SH Premium Lounge - Cam Ranh | 貴賓室服務",
+      "description": "位置：金蘭國際機場國內航站樓二樓，靠近5號或6號登機口\n設施亮點：電視、充電設備、冷熱餐食自助吧、獨立洗手間\n營業時間：每日05:00-22:00\n使用時間限制：最多180分鐘\n兒童政策：5歲以下兒童免費入場",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 497154.0,
+                "crossedOut": 686677.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1646346,
+      "title": "Dịch vụ VIP ưu tiên tại Việt Nam (Đến/Đi)",
+      "description": "Bỏ qua các hàng chờ kiểm tra nhập cảnh tại sân bay Tân Sơn Nhất (SGN), sân bay Nội Bài (HAN), sân bay Đà Nẵng (DAD), sân bay Cam Ranh (CXR) và sân bay Phú Quốc (PQC) với dịch vụ VIP Fast Track của",
+      "review_score": 5.0,
+      "review_count": 3,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 347171.0,
+                "crossedOut": 416272.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1585699,
+      "title": "The Mộc Spa - Quận 1, Thành phố Hồ Chí Minh",
+      "description": "Khám phá The Mộc Spa ở Quận 1, một không gian thư giãn tinh tế tại Hồ Chí Minh, lấy cảm hứng từ các yếu tố gỗ tự nhiên và kỹ thuật trị liệu truyền thống châu Á.\n- Thưởng thức các liệu pháp massage đa",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 227384.0,
+                "crossedOut": 254344.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1649522,
+      "title": "Dịch vụ Fast Track tại sân bay Tân Sơn Nhất",
+      "description": "Trải nghiệm dịch vụ Fast Track tại sân bay Tân Sơn Nhất để tối ưu hóa thời gian khi nhập cảnh vào Thành phố Hồ Chí Minh.\n\n- Nhân viên chuyên nghiệp đón tiếp trực tiếp ngay khi bạn vừa hạ cánh\n- Hỗ trợ",
+      "review_score": 4.3,
+      "review_count": 152,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 452649.0,
+                "crossedOut": 506319.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1670065,
+      "title": "Dịch Vụ Nhanh Cam Ranh - Nha Trang",
+      "description": "Chào đón chu đáo: Khi đến sân bay, bạn sẽ được đội ngũ nhân viên chuyên nghiệp và tận tâm của chúng tôi chào đón. Không còn phải tìm kiếm quầy hay cảm thấy lạc lõng giữa đám đông - đội ngũ của chún",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368145.0,
+                "crossedOut": 411796.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1560209,
+      "title": "Sân bay Quốc tế Đà Nẵng (DAD) - Dịch vụ Ưu tiên Đón Tiễn",
+      "description": "- Nhận hỗ trợ ưu tiên cho các thủ tục nhập cảnh và hải quan tại sân bay Đà Nẵng.\n- Trải nghiệm dịch vụ chào đón và hộ tống cá nhân bởi đội ngũ nhân viên tại sân bay quốc tế Đà Nẵng.\n- Lựa chọn linh ho",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368381.0,
+                "crossedOut": 412059.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1562177,
+      "title": "Du Thuyền Hạ Long - Lan Hạ, Cát Bà - Chèo Kayak - Hà Nội",
+      "description": "Bắt đầu chuyến đi trong ngày trên du thuyền khám phá Vịnh Hạ Long và Vịnh Lan Hạ, hòa mình vào vẻ đẹp thiên nhiên hùng vĩ của Việt Nam. Hành trình đưa bạn đến Đảo Cát Bà, nơi bạn có thể trải nghiệm xe",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 977555.0,
+                "crossedOut": 1118483.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1614446,
+      "title": "Ưu tiên làm thủ tục nhanh tại sân bay Việt Nam: Không cần xếp hàng khi đến nơi.",
+      "description": "Tận hưởng trải nghiệm nhập cảnh thoải mái tại các sân bay Việt Nam với làn ưu tiên làm thủ tục nhanh.\nĐón tiếp thân mật khi đến nơi với bảng tên cá nhân.\nHỗ trợ liền mạch từ",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 372423.0,
+                "crossedOut": 446551.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1496994,
+      "title": "Du Thuyền IRIS Trong Ngày - Vịnh Hạ Long, Hang Sửng Sốt",
+      "description": "* Du thuyền IRIS được thiết kế như một nhà hát nổi trên Vịnh Hạ Long di sản, với sân khấu trên boong tắm nắng cùng hệ thống âm thanh và ánh sáng ngoài trời hiện đại.\n* Khám phá Vịnh Hạ Long với nh",
+      "review_score": 5.0,
+      "review_count": 5,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 892616.0,
+                "crossedOut": 966035.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Khách du lịch một mình"
+  ],
+  "view_types": [
+    "Hướng Núi"
+  ],
+  "tags": [
+    "Bếp chung",
+    "Chất lượng và tiện nghi phòng tuyệt vời",
+    "Dọn phòng hằng ngày",
+    "Hướng Núi",
+    "Khách du lịch một mình",
+    "Nhân viên chăm sóc khách hàng",
+    "Nhận/trả phòng [riêng]",
+    "Vườn",
+    "Wi-Fi miễn phí trong tất cả các phòng!"
+  ],
+  "embedding_text": "Nhà Của Đậu Tà Xùa (Nha Cua Đau Ta Xua) - khách sạn 4.0 sao tại Cham Ta Lao.\nĐịa chỉ: Tà Xùa nhà của Đậu Căn nhà gỗ nhỏ có 4 phòng, Cham Ta Lao, Cham Ta Lao, Việt Nam.\nNằm ở vị trí trung tâm tại Cham Ta Lao của Cham Ta Lao, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nTiện ích: Bãi đỗ xe [miễn phí], Bình chữa cháy, Băng niêm phong phòng dành cho khách sau khi vệ sinh, Bảo vệ [24 giờ], Bếp chung, CCTV bên ngoài chỗ nghỉ, CCTV trong khu vực chung, Các loại khăn, Dép đi trong nhà, Dịch vụ Internet, Dịch vụ khử trùng chuyên nghiệp, Dịch vụ thanh toán không sử dụng tiền mặt, Dịch vụ đưa đón, Dọn phòng hằng ngày, Giá treo quần áo, Giặt đồ vải lanh và quần áo bằng nước nóng, Giữ hành lý, Internet, Máy sấy tóc, Nhân viên chăm sóc khách hàng, Nhân viên được đào tạo về giao thức an toàn, Nhận/trả phòng [riêng], Nhận/trả phòng không tiếp xúc, Nước đóng chai miễn phí, Phòng chờ chung/khu vực TV, Phòng gia đình, Phòng tắm đứng, Phòng được vệ sinh giữa các lần ở, Sàn gỗ/gỗ miếng, Sân hiên.\nĐiểm đánh giá 7.2/10 dựa trên 1 đánh giá.\nCác loại phòng: Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room); Phòng Đôi Loại Sang (Deluxe Double Room); Biệt Thự (Villa); Phòng Đôi (Double Room); Phòng Đôi Cao Cấp (Superior Double Room).\nGần: Sân bay Sam Neua, Sân bay Quốc tế Nội Bài, Sân bay Điện Biên Phủ, Sân bay Thọ Xuân.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

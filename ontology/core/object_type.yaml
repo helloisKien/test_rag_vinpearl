@@ -1,0 +1,94 @@
+# core/object_type.yaml — facet: object_type (HARD fact). Loại hình lưu trú.
+# tier: core. Provenance: domain_knowledge + Agoda accommodation_type.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  OBJ_HOTEL:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Khách sạn, en: Hotel}
+    surface_forms:
+      vi: [khách sạn, ks]
+      en: [hotel]
+    description: {vi: Cơ sở lưu trú dạng khách sạn, en: Hotel-type accommodation}
+
+  OBJ_RESORT:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Resort, en: Resort}
+    surface_forms:
+      vi: [resort, khu nghỉ dưỡng, khu resort, resort nghỉ dưỡng]
+      en: [resort]
+    description: {vi: Khu nghỉ dưỡng, thường nhiều tiện ích giải trí, en: Resort, typically with extensive leisure facilities}
+
+  OBJ_VILLA:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Biệt thự, en: Villa}
+    surface_forms:
+      vi: [biệt thự, biệt thự nghỉ dưỡng, biệt thự biển, villa nghỉ dưỡng]
+      en: [villa]
+    description: {vi: Biệt thự nghỉ dưỡng, không gian riêng tư, en: Villa-type accommodation, private space}
+    related: [AMEN_PRIVATE_POOL]
+
+  OBJ_HOMESTAY:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Homestay, en: Homestay}
+    surface_forms:
+      vi: [homestay, nhà nghỉ tại gia, nhà dân, ở nhà dân]   # "Nhà dân" (10 hotel) = lưu trú tại nhà dân = homestay
+      en: [homestay]
+    description: {vi: Lưu trú dạng homestay / nhà dân, en: Homestay accommodation}
+
+  OBJ_APARTMENT:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Căn hộ, en: Apartment}
+    surface_forms:
+      vi: [căn hộ, toàn bộ căn nhà, căn hộ dịch vụ, apartment]
+      en: [apartment, entire place, serviced apartment]
+    description: {vi: Căn hộ / toàn bộ căn nhà cho thuê, en: Apartment / entire place rental}
+
+  # ── Bổ sung từ corpus 520 VN (loại hình thật chưa có concept) ──────────────
+  OBJ_GUESTHOUSE:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Nhà nghỉ, en: Guesthouse}
+    surface_forms:
+      vi: [nhà nghỉ, nhà nghỉ ven đường, guesthouse]
+      en: [guesthouse, guest house, inn]
+    description: {vi: Nhà nghỉ / cơ sở lưu trú bình dân (4 hotel trong corpus), en: Guesthouse / budget lodging}
+
+  OBJ_BNB:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Nhà nghỉ B&B, en: Bed and Breakfast}
+    surface_forms:
+      vi: [nhà khách, nhà nghỉ b&b, "nhà khách / nhà nghỉ b&b", b&b, giường và bữa sáng]
+      en: [bed and breakfast, b&b, bnb, guest house with breakfast]
+    description: {vi: Nhà khách / B&B (giường và bữa sáng) (6 hotel trong corpus), en: Bed & Breakfast accommodation}
+
+  OBJ_BUNGALOW:
+    facet: object_type
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Bungalow, en: Bungalow}
+    surface_forms:
+      vi: [bungalow, nhà gỗ]
+      en: [bungalow]
+    description: {vi: Nhà nghỉ kiểu bungalow một tầng (2 hotel trong corpus), en: Single-storey bungalow lodging}

@@ -1,0 +1,83 @@
+# core/purpose.yaml — facet: purpose (SOFT fact). Nhóm khách / mục đích chuyến đi.
+# Core = traveller types chuẩn ngành (Agoda suitable_for, Booking traveller type,
+# Google Hotels "good for", Tripadvisor trip type). Cái chỉ thấy trong review/query log
+# (vd staycation, workation, birthday) -> candidate/candidate_queue.yaml.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  PURPOSE_FAMILY:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels, tripadvisor]
+    label: {vi: Gia đình, en: Family}
+    surface_forms:
+      vi: [gia đình, gia đình có trẻ nhỏ, gia đình có thanh thiếu niên, cho gia đình, trẻ em, con nhỏ,
+           có con, có con nhỏ, có em bé, có trẻ nhỏ, đi với con, đưa con đi, dắt con, dắt theo con,
+           cho bé, cho các bé, con cái, cả nhà, cả gia đình, đi cùng con, có con cái]
+      en: [family, family with kids, family-friendly]
+    description: {vi: Phù hợp cho khách đi cùng gia đình, có trẻ em, en: Suitable for families travelling with children}
+    related: [AMEN_KIDS_CLUB, AMEN_KIDS_POOL]
+
+  PURPOSE_ROMANTIC:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Cặp đôi, en: Couple}
+    surface_forms:
+      vi: [cặp đôi, trăng mật, tuần trăng mật, lãng mạn, đôi, hai người,
+           vợ chồng, hai vợ chồng, vợ chồng son, với người yêu, đi với người yêu,
+           với bạn gái, với bạn trai, hẹn hò, kỷ niệm ngày cưới, kỷ niệm cưới, đôi uyên ương]
+      en: [couple, honeymoon, romantic]
+    description: {vi: Phù hợp cho cặp đôi, kỳ nghỉ lãng mạn, en: Suitable for couples, romantic getaways}
+    related: [AMEN_SEA_VIEW, STYLE_ROMANTIC, AMEN_PRIVATE_POOL]
+
+  PURPOSE_SOLO:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Đi một mình, en: Solo}
+    surface_forms:
+      vi: [đi một mình, khách du lịch một mình, solo, một mình, đi du lịch một mình, tự đi, đi bụi một mình]
+      en: [solo, solo traveller]
+    description: {vi: Phù hợp cho khách du lịch một mình, en: Suitable for solo travellers}
+
+  PURPOSE_GROUP:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Nhóm, en: Group}
+    surface_forms:
+      vi: [nhóm, nhóm du khách, đi theo nhóm, đi đoàn, nhóm bạn, đám bạn, hội bạn,
+           với bạn bè, đi với bạn bè, đi với nhóm bạn, team building, đi phượt nhóm, cả hội, cả nhóm]
+      en: [group, group travel]
+    description: {vi: Phù hợp cho nhóm du khách, en: Suitable for groups of travellers}
+
+  PURPOSE_BUSINESS:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels, tripadvisor]
+    label: {vi: Công tác, en: Business}
+    surface_forms:
+      vi: [công tác, khách đi công tác, công vụ, đi công tác, đi làm việc, đi họp,
+           dự hội nghị, dự hội thảo, đi hội thảo, chuyến công tác, đi công chuyện]
+      en: [business, business travel]
+    description: {vi: Phù hợp cho khách đi công tác, en: Suitable for business travellers}
+    related: [AMEN_WIFI]
+
+  PURPOSE_WELLNESS:
+    facet: purpose
+    fact_type: soft
+    tier: core
+    provenance: [domain_knowledge, tripadvisor]
+    label: {vi: Nghỉ dưỡng, en: Wellness}
+    surface_forms:
+      vi: [nghỉ dưỡng, thư giãn, chăm sóc sức khỏe, retreat,
+           dưỡng sức, an dưỡng, nghỉ ngơi, tĩnh dưỡng, phục hồi sức khỏe, xả stress, xả hơi]
+      en: [wellness, relaxation, retreat]
+    description: {vi: Mục đích nghỉ dưỡng, phục hồi sức khỏe, en: Wellness and relaxation-focused stays}
+    related: [AMEN_SPA, STYLE_QUIET]

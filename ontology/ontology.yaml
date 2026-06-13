@@ -1,0 +1,37 @@
+# ontology/ontology.yaml — Quan hệ / Knowledge Graph nhẹ. Task 1.5 — Sprint 1.
+# Owner: Trương Anh Long (Knowledge Engineering).
+#
+# Mục đích: thêm QUAN HỆ giữa entity để trả lời query "gần X" bằng ĐỒ THỊ (không phải keyword).
+# concepts.* (mô tả + broader) đã nằm ở ontology/core/*.yaml — KHÔNG lặp lại ở đây.
+# File này tập trung phần KG: entities (landmark) + relations (located_in, near).
+#
+# CẤU TRÚC quan hệ:
+#   - located_in : landmark thuộc place nào (viết tay, ổn định). LMK_* -> LOC_* (place).
+#   - near       : hotel <-> landmark + distance_km. SINH TỰ ĐỘNG (Lớp A) từ nearby_places,
+#                  nằm ở ontology/relations_near.generated.yaml. Regenerate khi corpus đổi:
+#                  .venv/Scripts/python.exe -X utf8 -m knowledge_engineering.entity_extraction.build_relations
+#
+# LƯU Ý: hotel entity (acc_<hotel_id>) KHÔNG liệt kê tĩnh ở đây vì có 51 (sẽ 500-1000).
+# Hotel entity sống trong knowledge_objects.json (Sprint 3). near.from trỏ acc_<hotel_id>.
+
+version: "2.0.0"
+
+# -----------------------------------------------------------------------------
+# ENTITIES — landmark (điểm tham quan). GIỜ KHÔNG liệt kê tay ở đây nữa.
+# Toàn bộ landmark (153 cái, kind=landmark + landmark_type + located_in) đã TỰ SINH trong
+# ontology/core/location.generated.yaml (build_locations.py, từ nearby_places). Tra ở đó.
+# -----------------------------------------------------------------------------
+entities: {}
+
+# -----------------------------------------------------------------------------
+# RELATIONS — quan hệ KG.
+#
+# (1) located_in (cây hành chính place con -> cha): GIỜ KHÔNG khai tay ở đây nữa.
+#     Cây country > province > city > area đã nằm trong field `parent` của từng concept ở
+#     core/location.generated.yaml (tự sinh). Tỉnh tách tự động từ tên "City (Tỉnh)".
+#     (Nha Trang/Phú Quốc parent thẳng LOC_VIETNAM vì data Agoda không ghi tỉnh trong tên.)
+# -----------------------------------------------------------------------------
+relations: {}
+
+# (2) near: hotel <-> landmark + distance_km. SINH TỰ ĐỘNG, xem file:
+near_relations_file: relations_near.generated.yaml

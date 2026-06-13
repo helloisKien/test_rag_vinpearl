@@ -1,0 +1,1189 @@
+##################### POLICY: MATRIX (theme x city, count>=5) #####################
+
+### pol_child_free (kws=['0-3 tuoi', '0 - 3 tuoi', 'tre em duoi', 'o mien phi', 'mien phi neu o cung', 'tre em tu 0'])
+     47  Hà Nội
+     41  Hồ Chí Minh
+     38  Đà Nẵng
+     34  Nha Trang
+     27  Đảo Phú Quốc
+     22  Hội An
+     19  Hạ Long
+     18  Vũng Tàu
+
+### pol_extra_bed (kws=['giuong phu'])
+     60  Hà Nội
+     49  Hồ Chí Minh
+     48  Đà Nẵng
+     39  Nha Trang
+     28  Đảo Phú Quốc
+     25  Hội An
+     23  Đà Lạt
+     22  Hạ Long
+
+### pol_id_required (kws=['giay to tuy than', 'chung minh nhan dan', 'can cuoc', 'ho chieu'])
+      8  Vũng Tàu
+      6  Nha Trang
+      5  Đảo Phú Quốc
+
+### pol_deposit (kws=['dat coc', 'tien coc', 'the chap'])
+      6  Nha Trang
+
+### pol_holiday_gala (kws=['gala', 'giang sinh', 'nam moi'])
+
+### pol_smoking (kws=['hut thuoc'])
+
+### pol_min_age (kws=['do tuoi nhan phong', 'tuoi toi thieu', 'tu 18 tuoi', '18 tuoi tro len'])
+      5  Hồ Chí Minh
+
+### pol_pet (kws=['thu cung', 'vat nuoi'])
+      6  Vũng Tàu
+
+### pol_payment_cash (kws=['tien mat', 'the tin dung', 'thanh toan'])
+      6  Nha Trang
+
+### pol_checkin_doc (kws=['chinh sach', 'quy dinh'])
+      8  Đảo Phú Quốc
+      8  Vũng Tàu
+      6  Đà Nẵng
+
+##################### POLICY: DETAIL #####################
+==========================================================================================
+pol_child_free | city=Hà Nội | n=47
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[86658383] Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ | review=9.3
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Đối với các phòng có kèm bữa sáng, trẻ em 0-3 tuổi sẽ được nhận bữa sáng miễn phí.
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | review=9.1
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[58686039] Khách sạn Hanoian (Hanoian Hotel) | review=9.0
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+
+==========================================================================================
+pol_child_free | city=Hồ Chí Minh | n=41
+==========================================================================================
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[54795553] Khách sạn A25 Premium - 142 Bùi Thị Xuân (A25 Premium Hotel - 142 Bùi Thị Xuân) | review=8.9
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[64327220] Khách sạn Brown Dot Sân bay Sài Gòn (Brown Dot Hotel Saigon Airport) | review=8.8
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+
+==========================================================================================
+pol_child_free | city=Đà Nẵng | n=38
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[338256] Banyan Tree Lang Co | review=9.2
+    > <b>Chính sách cơ sở lưu trú:</b><br> Phụ phí cho người lớn/trẻ em sẽ được cộng vào giá phòng khi quý khách nhập số lượng khách và độ tuổi của trẻ em. Nếu số lượ
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Tối đa 2 người lớn & 2 trẻ em dưới 12 tuổi có thể ở trong 1 phòng miễn phí (sử dụng giường sẵn có, không bao gồm bữa sáng)<br> - Trẻ em từ 12 tuổi trở lên/ Ngườ
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+[6377853] Hilton Đà Nẵng (Hilton Da Nang) | review=8.9
+    > Trẻ em dưới 12 tuổi được ở miễn phí khi ngủ chung giường với bố mẹ. Khách từ 12 tuổi trở lên được coi là người lớn. Đối với trường hợp ở ba hoặc bốn người, sẽ á
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    > Ở miễn phí nếu sử dụng giường có sẵn.
+
+==========================================================================================
+pol_extra_bed | city=Hà Nội | n=60
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[86658383] Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ | review=9.3
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Trẻ em và giường phụ<br> Giường phụ tùy thuộc vào loại phòng quý khách chọn. Vui lòng kiểm tra sức chứa của từng phòng để biết thêm chi tiết.<br> Tất cả trẻ em
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | review=9.1
+    > Phải sử dụng giường phụ
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Khách sẽ bị tính phí 1.386.000 VND mỗi phòng mỗi đêm cho giường phụ. Mỗi phòng chỉ được kê thêm một giường phụ.
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | review=9.1
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+
+==========================================================================================
+pol_extra_bed | city=Hồ Chí Minh | n=49
+==========================================================================================
+[65513469] Khách sạn Tala Sài Gòn (TalaSaiGon Hotel) | review=9.2
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    > Chính sách trẻ em áp dụng cho Phòng có bữa sáng: <br> Tính phí bữa sáng một nửa giá người lớn mỗi trẻ mỗi đêm với trẻ từ 4 đến 11 tuổi khi sử dụng giường có sẵn
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    > Phải sử dụng giường phụ
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[54795553] Khách sạn A25 Premium - 142 Bùi Thị Xuân (A25 Premium Hotel - 142 Bùi Thị Xuân) | review=8.9
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+
+==========================================================================================
+pol_extra_bed | city=Đà Nẵng | n=48
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[82014402] Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment) | review=9.3
+    > Phải sử dụng giường phụ
+[338256] Banyan Tree Lang Co | review=9.2
+    > <b>Chính sách cơ sở lưu trú:</b><br> Phụ phí cho người lớn/trẻ em sẽ được cộng vào giá phòng khi quý khách nhập số lượng khách và độ tuổi của trẻ em. Nếu số lượ
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Tối đa 2 người lớn & 2 trẻ em dưới 12 tuổi có thể ở trong 1 phòng miễn phí (sử dụng giường sẵn có, không bao gồm bữa sáng)<br> - Trẻ em từ 12 tuổi trở lên/ Ngườ
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết.
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Giường phụ không có sẵn tại cơ sở lưu trú này.
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Số lượng giường phụ tối đa trong một phòng đối với tất cả các loại phòng là 1. Tùy theo số người ở trong phòng tối đa mặc định, bất kỳ người lớn hay trẻ em bổ s
+
+==========================================================================================
+pol_id_required | city=Vũng Tàu | n=8
+==========================================================================================
+[25773171] Khu nghỉ dưỡng Holiday Inn Hồ Tràm Beach By IHG (Holiday Inn Resort Ho Tram Beach By IHG) | review=9.1
+    > 1/ Phương tiện di chuyển <br>
+- Cơ sở lưu trú cung cấp dịch vụ xe buýt đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Bắt đầu từ chiều ngày 17 tháng 04, đ
+[6363024] Khu nghỉ dưỡng bãi biển Melia Hồ Tràm (Melia Ho Tram Beach Resort) | review=9.0
+    > *Phụ phí: <br>- Trẻ em từ 0 đến 1 tuổi được miễn phí nếu sử dụng giường có sẵn.<br>- Phụ phí cho trẻ em từ 2 - 11 tuổi nếu sử dụng giường có sẵn là 500.000 VND
+[11024791] ibis Styles Vũng Tàu (ibis Styles Vung Tau) | review=8.9
+    > <br>Quý khách vui lòng xuất trình các giấy tờ tùy thân theo quy định của pháp luật Việt Nam và quy định của khách sạn khi đến nhận phòng:<br><br>   Đối với khác
+[37244894] Dhawa Hồ Tràm (Dhawa Ho Tram) | review=8.9
+    > Khách phải cung cấp giấy tờ tùy thân còn giá trị do chính phủ quy định (như chứng minh thư Việt Nam, Thẻ Tạm Trú Việt Nam, hộ chiếu gốc, thị thực hợp lệ với ngư
+[39665334] IXORA Hồ Tràm by Fusion (IXORA Ho Tram by Fusion) | review=8.9
+    > 1/ Phương tiện di chuyển:<br>
+- Cơ sở lưu trú cung cấp dịch vụ xe đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Kể từ chiều ngày 17 tháng 04, điểm đón xe
+[161729] Khách sạn The Imperial Vũng Tàu (The IMPERIAL Vung Tau Hotel ) | review=8.8
+    > Trẻ em và giường phụ<br> Việc sử dụng giường phụ phụ thuộc vào từng loại phòng quý khách chọn. Vui lòng kiểm tra sức chứa của từng phòng để biết thêm chi tiết.<
+[178195] Mercure Vũng Tàu (Mercure Vung Tau) | review=8.8
+    > <br>Quý khách phải xuất trình các giấy tờ cần thiết sau đây khi đến theo quy định của pháp luật Việt Nam và quy định của khách sạn:<br><br>Đối với khách Việt Na
+[48561897] Khu nghỉ dưỡng Emerald Hồ Tràm (Emerald Ho Tram Resort) | review=8.8
+    > <br>Trẻ em từ 0-5 tuổi được miễn phí nếu sử dụng giường sẵn có.<br> • Phụ thu 250.000 VNĐ/trẻ/ngày đối với trẻ em từ 6 đến 11 tuổi (sử dụng giường sẵn có).<br>
+
+==========================================================================================
+pol_id_required | city=Nha Trang | n=6
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, khoản phí này sẽ được thu vào ngày nhận phòng
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, khoản phí này sẽ được thu vào ngày nhận phòng
+[805030] Vinpearl Resort & Spa Nha Trang Bay | review=8.8
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, sẽ được thu vào ngày nhận phòng.<br>  <br>• K
+[239482] Khách Sạn TTC - Michelia (TTC Hotel - Michelia) | review=8.7
+    > Khách phải cung cấp giấy tờ tùy thân hợp lệ theo quy định của chính phủ (ví dụ: hộ chiếu, chứng minh thư, bằng lái xe, v.v.) và trẻ em phải xuất trình căn cước
+[65153] Vinpearl Resort Nha Trang | review=8.7
+    > Trẻ em và giường phụ <br> <br> Giường phụ tùy thuộc vào loại phòng quý khách chọn. Vui lòng kiểm tra sức chứa của từng phòng để biết thêm chi tiết. <br> <br> Tấ
+[5930920] Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) | review=8.4
+    > Khách cần đặt cọc 1.000.000 VND khi nhận phòng và phải để lại hộ chiếu hoặc giấy tờ tùy thân nếu không muốn thanh toán tiền đặt cọc.
+
+==========================================================================================
+pol_id_required | city=Đảo Phú Quốc | n=5
+==========================================================================================
+[17242876] Vinholidays Fiesta Phú Quốc | review=8.9
+    > Chính sách của cơ sở lưu trú <br> • Giường phụ và phụ phí: Mỗi phòng chỉ được phép kê thêm một giường phụ (phụ thuộc vào tình trạng thực tế). Trẻ em dưới 4 tuổi
+[1032420] Khu nghỉ dưỡng Sheraton Phu Quoc Long Beach (Sheraton Phu Quoc Long Beach Resort) | review=8.8
+    > • Quý khách phải cung cấp giấy tờ tùy thân hợp lệ do chính phủ quy định (ví dụ: hộ chiếu, chứng minh nhân dân, bằng lái xe, v.v.) khi nhận phòng. Đối với trẻ em
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Sẽ có một khoản phí bắt buộc được áp dụng cho Tiệc Gala Giáng sinh và Năm mới (31/12) và không bao gồm giá phòng và phụ phí, khoản phí này sẽ được tính vào ngày
+[6377313] Vinpearl Wonderworld Phú Quốc (Vinpearl Wonderworld Phu Quoc) | review=8.7
+    > • Giường phụ và Phụ phí: <br>Phòng biệt thự không có giường phụ.<br>Trẻ em dưới 4 tuổi được miễn phí nếu ở cùng phòng với cha mẹ.<br>Phụ phí sẽ được áp dụng cho
+[1985199] Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) | review=8.6
+    > Khách phải cung cấp giấy tờ tùy thân còn giá trị do chính phủ quy định (như hộ chiếu, giấy CMND, bằng lái xe, v.v.) khi nhận phòng. Giấy khai sinh phải được xuấ
+
+==========================================================================================
+pol_deposit | city=Nha Trang | n=6
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, khoản phí này sẽ được thu vào ngày nhận phòng
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Chỗ nghỉ yêu cầu đặt cọc có hoàn trả khi nhận phòng. Chỉ nhận đặt cọc bằng Đồng Việt Nam (VNĐ).
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, khoản phí này sẽ được thu vào ngày nhận phòng
+[805030] Vinpearl Resort & Spa Nha Trang Bay | review=8.8
+    > • Sẽ áp dụng phụ phí bắt buộc cho Tiệc Gala Đón Năm Mới (31/12) và không bao gồm trong giá phòng cũng như phụ phí, sẽ được thu vào ngày nhận phòng.<br>  <br>• K
+[65153] Vinpearl Resort Nha Trang | review=8.7
+    > Cho phép thêm tối đa 1 giường phụ/ phòng. <br> <br> Chính sách phụ thu trẻ em theo thông tin chi tiết bên dưới. <br> <br> Chính sách phụ thu Trẻ em và Giường ph
+[5930920] Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) | review=8.4
+    > Khách cần đặt cọc 1.000.000 VND khi nhận phòng và phải để lại hộ chiếu hoặc giấy tờ tùy thân nếu không muốn thanh toán tiền đặt cọc.
+
+==========================================================================================
+pol_min_age | city=Hồ Chí Minh | n=5
+==========================================================================================
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Chỉ những khách từ 18 tuổi trở lên mới được phép lưu trú. Khách vị thành niên phải đi cùng cha mẹ hoặc người giám hộ hợp pháp và có giấy tờ chứng minh mối quan
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    > Độ tuổi tối thiểu để nhận phòng là 18 tuổi
+[45888608] Express by M Village Điện Biên Phủ Q3, a brand of Modern Village Lifestyle | review=8.7
+    > Chỉ những khách từ 18 tuổi trở lên mới được phép lưu trú. Khách vị thành niên phải đi cùng cha mẹ hoặc người giám hộ hợp pháp và có giấy tờ chứng minh mối quan
+[488444] Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel) | review=8.6
+    > Độ tuổi tối thiểu để nhận phòng là 18 tuổi
+[165247] Liberty Central Saigon Centre Hotel | review=8.4
+    > Độ tuổi tối thiểu để nhận phòng là 18 tuổi
+
+==========================================================================================
+pol_pet | city=Vũng Tàu | n=6
+==========================================================================================
+[25773171] Khu nghỉ dưỡng Holiday Inn Hồ Tràm Beach By IHG (Holiday Inn Resort Ho Tram Beach By IHG) | review=9.1
+    > 1/ Phương tiện di chuyển <br>
+- Cơ sở lưu trú cung cấp dịch vụ xe buýt đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Bắt đầu từ chiều ngày 17 tháng 04, đ
+[6363024] Khu nghỉ dưỡng bãi biển Melia Hồ Tràm (Melia Ho Tram Beach Resort) | review=9.0
+    > *Phụ phí: <br>- Trẻ em từ 0 đến 1 tuổi được miễn phí nếu sử dụng giường có sẵn.<br>- Phụ phí cho trẻ em từ 2 - 11 tuổi nếu sử dụng giường có sẵn là 500.000 VND
+[39665334] IXORA Hồ Tràm by Fusion (IXORA Ho Tram by Fusion) | review=8.9
+    > 1/ Phương tiện di chuyển:<br>
+- Cơ sở lưu trú cung cấp dịch vụ xe đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Kể từ chiều ngày 17 tháng 04, điểm đón xe
+[44184739] Căn hộ The Sóng - Mai Villa Vũng Tàu (The Song Apartment - Can Ho The Song - Mai Villa Vung Tau) | review=8.8
+    > Lưu ý:<br>Căn hộ hai phòng ngủ: Có máy lạnh trong một phòng ngủ, phòng ngủ còn lại chỉ có quạt (không có máy lạnh). Phòng khách có máy lạnh.<br>Căn hộ ba phòng
+[48561897] Khu nghỉ dưỡng Emerald Hồ Tràm (Emerald Ho Tram Resort) | review=8.8
+    > <br>Trẻ em từ 0-5 tuổi được miễn phí nếu sử dụng giường sẵn có.<br> • Phụ thu 250.000 VNĐ/trẻ/ngày đối với trẻ em từ 6 đến 11 tuổi (sử dụng giường sẵn có).<br>
+[36643921] Căn hộ The Sóng Vũng Tàu - Green House (The Sóng Apartment Vũng Tàu - Green House) | review=8.4
+    > - Căn hộ 2 phòng ngủ: Có máy lạnh trong một phòng ngủ, phòng ngủ còn lại sử dụng quạt và không có máy lạnh, phòng khách có máy lạnh.<br>- Căn hộ 3 phòng ngủ: Có
+
+==========================================================================================
+pol_payment_cash | city=Nha Trang | n=6
+==========================================================================================
+[6359030] Muong Thanh Luxury Khanh Hoa | review=8.9
+    > Trẻ em từ 6 - 11 tuổi sẽ phụ thu 150.000 VND mỗi trẻ mỗi đêm. Thanh toán trực tiếp tại khách sạn khi nhận phòng
+[6421211] Khách sạn Mường Thanh Luxury Viễn Triều Nha Trang (Muong Thanh Luxury Vien Trieu Nha Trang Hotel) | review=8.9
+    > Trẻ em từ 6-11 tuổi sẽ được tính phí 150.000 VND mỗi trẻ mỗi đêm cho bữa sáng (dựa trên năm sinh). Vui lòng thanh toán trực tiếp tại cơ sở lưu trú khi nhận phòn
+[239482] Khách Sạn TTC - Michelia (TTC Hotel - Michelia) | review=8.7
+    > Khách phải cung cấp giấy tờ tùy thân hợp lệ theo quy định của chính phủ (ví dụ: hộ chiếu, chứng minh thư, bằng lái xe, v.v.) và trẻ em phải xuất trình căn cước
+[6251087] Khu nghỉ dưỡng & Spa Marriott Nha Trang, đảo Hòn Tre (Nha Trang Marriott Resort & Spa, Hon Tre Island) | review=8.7
+    > Giá công khai chỉ bao gồm cho 2 người mỗi phòng hoặc mỗi biệt thự. Áp dụng phụ phí cho mọi khách bổ sung ở chung phòng hoặc biệt thự với mức giá 750.750 VNĐ (gi
+[463095] Muong Thanh Grand Nha Trang Hotel | review=8.5
+    > <br> Theo chính sách khách sạn và thiết lập hạn chế trên trang web của Agoda, 2 trẻ em dưới 12 tuổi phải ở cùng bố mẹ, với chi tiết như sau:</br> <br>- Trẻ em 0
+[5930920] Khách Sạn Anrizon Nha Trang (Anrizon Hotel Nha Trang) | review=8.4
+    > Khách cần đặt cọc 1.000.000 VND khi nhận phòng và phải để lại hộ chiếu hoặc giấy tờ tùy thân nếu không muốn thanh toán tiền đặt cọc.
+
+==========================================================================================
+pol_checkin_doc | city=Đảo Phú Quốc | n=8
+==========================================================================================
+[2577124] Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) | review=9.1
+    > Chính sách trẻ em (tối đa 1 trẻ em mỗi phòng):<br> • Trẻ em từ 0 – 2 tuổi: cung cấp cũi trẻ em miễn phí theo yêu cầu, phụ thuộc vào tình trạng thực tế.<br> • Tr
+[46992320] La Festa Phu Quoc, Curio Collection by Hilton | review=9.1
+    > Chính sách phụ thu khách ở thêm: áp dụng từ ngày 01 Tháng 4 2025<br> [Phụ thu người lớn] <br> 1.290.000 VND mỗi người mỗi đêm (giá chưa bao gồm thuế và phí dịch
+[17242876] Vinholidays Fiesta Phú Quốc | review=8.9
+    > Chính sách của cơ sở lưu trú <br> • Giường phụ và phụ phí: Mỗi phòng chỉ được phép kê thêm một giường phụ (phụ thuộc vào tình trạng thực tế). Trẻ em dưới 4 tuổi
+[1032420] Khu nghỉ dưỡng Sheraton Phu Quoc Long Beach (Sheraton Phu Quoc Long Beach Resort) | review=8.8
+    > Khi đặt hơn 5 phòng, các chính sách và phụ phí khác nhau có thể được áp dụng.
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Giường Phụ và Phụ Thu:<br>
+<br>
+Mỗi phòng chỉ được đặt thêm một giường phụ (Phòng villa không có giường phụ). Giường phụ tùy thuộc vào phòng quý khách chọn. Vui
+[6377313] Vinpearl Wonderworld Phú Quốc (Vinpearl Wonderworld Phu Quoc) | review=8.7
+    > • Giường phụ và Phụ phí: <br>Phòng biệt thự không có giường phụ.<br>Trẻ em dưới 4 tuổi được miễn phí nếu ở cùng phòng với cha mẹ.<br>Phụ phí sẽ được áp dụng cho
+[1985199] Melia Vinpearl Phú Quốc (Melia Vinpearl Phu Quoc) | review=8.6
+    > Khách phải cung cấp giấy tờ tùy thân còn giá trị do chính phủ quy định (như hộ chiếu, giấy CMND, bằng lái xe, v.v.) khi nhận phòng. Giấy khai sinh phải được xuấ
+[44314482] Khách sạn Mimosa Phú Quốc (Mimosa Hotel Phu Quoc) | review=8.5
+    > Theo chính sách của khách sạn và được quy định nghiêm ngặt trên trang web Agoda, 1 trẻ em dưới 12 tuổi được phép ở cùng cha mẹ, với chi tiết: <br> - Trẻ em từ 0
+
+==========================================================================================
+pol_checkin_doc | city=Vũng Tàu | n=8
+==========================================================================================
+[25773171] Khu nghỉ dưỡng Holiday Inn Hồ Tràm Beach By IHG (Holiday Inn Resort Ho Tram Beach By IHG) | review=9.1
+    > 1/ Phương tiện di chuyển <br>
+- Cơ sở lưu trú cung cấp dịch vụ xe buýt đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Bắt đầu từ chiều ngày 17 tháng 04, đ
+[6363024] Khu nghỉ dưỡng bãi biển Melia Hồ Tràm (Melia Ho Tram Beach Resort) | review=9.0
+    > *Phụ phí: <br>- Trẻ em từ 0 đến 1 tuổi được miễn phí nếu sử dụng giường có sẵn.<br>- Phụ phí cho trẻ em từ 2 - 11 tuổi nếu sử dụng giường có sẵn là 500.000 VND
+[11024791] ibis Styles Vũng Tàu (ibis Styles Vung Tau) | review=8.9
+    > <br>Quý khách vui lòng xuất trình các giấy tờ tùy thân theo quy định của pháp luật Việt Nam và quy định của khách sạn khi đến nhận phòng:<br><br>   Đối với khác
+[37244894] Dhawa Hồ Tràm (Dhawa Ho Tram) | review=8.9
+    > Khách phải cung cấp giấy tờ tùy thân còn giá trị do chính phủ quy định (như chứng minh thư Việt Nam, Thẻ Tạm Trú Việt Nam, hộ chiếu gốc, thị thực hợp lệ với ngư
+[39665334] IXORA Hồ Tràm by Fusion (IXORA Ho Tram by Fusion) | review=8.9
+    > 1/ Phương tiện di chuyển:<br>
+- Cơ sở lưu trú cung cấp dịch vụ xe đưa đón từ TP. Hồ Chí Minh đến Hồ Tràm và ngược lại. Kể từ chiều ngày 17 tháng 04, điểm đón xe
+[161729] Khách sạn The Imperial Vũng Tàu (The IMPERIAL Vung Tau Hotel ) | review=8.8
+    > Trẻ em và giường phụ<br> Việc sử dụng giường phụ phụ thuộc vào từng loại phòng quý khách chọn. Vui lòng kiểm tra sức chứa của từng phòng để biết thêm chi tiết.<
+[178195] Mercure Vũng Tàu (Mercure Vung Tau) | review=8.8
+    > <br>Quý khách phải xuất trình các giấy tờ cần thiết sau đây khi đến theo quy định của pháp luật Việt Nam và quy định của khách sạn:<br><br>Đối với khách Việt Na
+[22642078] Khách sạn Premier Pearl Vũng Tàu (Premier Pearl Hotel Vung Tau) | review=8.8
+    > <b>1. Chính sách phụ thu trẻ em:<b><br>  - Miễn phí phòng và ăn sáng cho tối đa 01 trẻ em dưới 6 tuổi ngủ chung giường. Trẻ thứ hai sẽ phải trả phụ phí.<br> - T
+
+==========================================================================================
+pol_checkin_doc | city=Đà Nẵng | n=6
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    > <b>Chính sách cơ sở lưu trú:</b><br> Phụ phí cho người lớn/trẻ em sẽ được cộng vào giá phòng khi quý khách nhập số lượng khách và độ tuổi của trẻ em. Nếu số lượ
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Theo quy định pháp luật địa phương, việc sử dụng thuốc lá điện tử và thuốc lá làm nóng bị nghiêm cấm hoàn toàn trong toàn bộ khuôn viên khu nghỉ dưỡng.
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Khách phải cung cấp giấy tờ tùy thân còn giá trị do chính phủ quy định (như hộ chiếu, giấy CMND, bằng lái xe, v.v.) khi nhận phòng. Đối với trẻ em, phải có giấy
+[338255] Angsana Lang Co | review=8.8
+    > <b>Chính sách cơ sở lưu trú:</b><br> Phụ phí cho người lớn/trẻ em sẽ được cộng vào giá phòng khi quý khách nhập số lượng khách và độ tuổi của trẻ em. Nếu số lượ
+[4974064] Four Points by Sheraton Đà Nẵng (Four Points by Sheraton Danang) | review=8.7
+    > Giường phụ sẽ phụ thuộc vào loại phòng quý khách chọn. Vui lòng kiểm tra sức chứa của từng phòng để biết thêm chi tiết.<br>Tất cả trẻ em đều được chào đón.<br><
+[502099] Khách sạn Mường Thanh Grand Đà Nẵng (Muong Thanh Grand Da Nang Hotel) | review=8.0
+    > Quy định nhận phòng <br> - Nhận phòng sớm trước 06:00 AM: thu phí 1 đêm <br> - Nhận phòng sớm từ 06:00 AM - 09:00 AM: thu phí bằng 50% giá phòng mỗi đêm (kèm bữ
+
+
+
+##################### AMENITY: MATRIX (theme x city, count>=5) #####################
+
+### amen_outdoor_pool (kws=['be boi ngoai troi'])
+     29  Nha Trang
+     23  Đà Nẵng
+     17  Hồ Chí Minh
+     17  Hội An
+     16  Đảo Phú Quốc
+     15  Vũng Tàu
+     14  Hạ Long
+     11  Hà Nội
+
+### amen_pool_bar (kws=['quan bar canh be boi', 'bar canh be boi'])
+     24  Nha Trang
+     19  Đà Nẵng
+     13  Đảo Phú Quốc
+     13  Hồ Chí Minh
+     12  Hội An
+     10  Hà Nội
+     10  Vũng Tàu
+      9  Quy Nhơn (Bình Định)
+
+### amen_kids_pool (kws=['be boi tre em'])
+     25  Nha Trang
+     23  Đà Nẵng
+     16  Vũng Tàu
+     15  Đảo Phú Quốc
+     10  Hạ Long
+      9  Hồ Chí Minh
+      8  Quy Nhơn (Bình Định)
+      8  Phan Thiết
+
+### amen_gym (kws=['phong tap'])
+     29  Nha Trang
+     28  Đà Nẵng
+     23  Hà Nội
+     22  Hồ Chí Minh
+     14  Hạ Long
+     14  Vũng Tàu
+     13  Đảo Phú Quốc
+     10  Hội An
+
+### amen_spa_massage (kws=['mat-xa', 'mat xa', 'spa xong'])
+     27  Nha Trang
+     24  Đà Nẵng
+     19  Hà Nội
+     17  Đảo Phú Quốc
+     17  Hồ Chí Minh
+     13  Hội An
+     12  Vũng Tàu
+     10  Quy Nhơn (Bình Định)
+
+### amen_garden (kws=['vuon'])
+     19  Hội An
+     16  Đảo Phú Quốc
+     16  Vũng Tàu
+     15  Đà Nẵng
+     15  Nha Trang
+     14  Hà Nội
+     14  Hồ Chí Minh
+     12  Hạ Long
+
+### amen_meeting (kws=['phong hop', 'co so vat chat cho hop'])
+     32  Nha Trang
+     30  Đà Nẵng
+     25  Hà Nội
+     24  Hồ Chí Minh
+     16  Đảo Phú Quốc
+     15  Hạ Long
+     13  Vũng Tàu
+     10  Hội An
+
+### amen_playground (kws=['san choi'])
+     17  Nha Trang
+     17  Đà Nẵng
+     14  Đảo Phú Quốc
+     14  Vũng Tàu
+      8  Hạ Long
+      8  Hội An
+      7  Hà Nội
+      6  Quy Nhơn (Bình Định)
+
+### amen_nonsmoking (kws=['khong hut thuoc', 'phong khong hut thuoc'])
+     49  Hà Nội
+     47  Hồ Chí Minh
+     43  Đà Nẵng
+     38  Nha Trang
+     27  Đảo Phú Quốc
+     22  Đà Lạt
+     21  Hạ Long
+     20  Vũng Tàu
+
+### amen_airport_shuttle (kws=['dua don san bay'])
+     48  Hà Nội
+     37  Hồ Chí Minh
+     37  Đà Nẵng
+     35  Nha Trang
+     23  Hội An
+     20  Đảo Phú Quốc
+     16  Quy Nhơn (Bình Định)
+     15  Hạ Long
+
+### amen_restaurant (kws=['nha hang'])
+     37  Đà Nẵng
+     36  Nha Trang
+     35  Hồ Chí Minh
+     34  Hà Nội
+     23  Đảo Phú Quốc
+     18  Hạ Long
+     18  Hội An
+     14  Vũng Tàu
+
+### amen_private_beach (kws=['bai bien rieng'])
+     16  Đảo Phú Quốc
+     15  Nha Trang
+     13  Đà Nẵng
+     10  Vũng Tàu
+      6  Quy Nhơn (Bình Định)
+      6  Hội An
+      5  Hạ Long
+      5  Thanh Hoá / Bãi biển Sầm Sơn
+
+##################### AMENITY: DETAIL #####################
+==========================================================================================
+amen_outdoor_pool | city=Nha Trang | n=29
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Bể bơi ngoài trời
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Bể bơi ngoài trời
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Bể bơi ngoài trời
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Bể bơi ngoài trời
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Bể bơi ngoài trời
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Bể bơi ngoài trời
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Bể bơi ngoài trời
+[4459783] Vinpearl Empire Nha Trang, Affiliated by Meliá | review=8.9
+    > Bể bơi ngoài trời
+
+==========================================================================================
+amen_outdoor_pool | city=Đà Nẵng | n=23
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Bể bơi ngoài trời
+[338256] Banyan Tree Lang Co | review=9.2
+    > Bể bơi ngoài trời
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Bể bơi ngoài trời
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Bể bơi ngoài trời
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Bể bơi ngoài trời
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Bể bơi ngoài trời
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Bể bơi ngoài trời
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Bể bơi ngoài trời
+
+==========================================================================================
+amen_outdoor_pool | city=Hồ Chí Minh | n=17
+==========================================================================================
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Bể bơi ngoài trời
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    > Bể bơi ngoài trời
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Bể bơi ngoài trời
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    > Bể bơi ngoài trời
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Bể bơi ngoài trời
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Bể bơi ngoài trời
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    > Bể bơi ngoài trời
+[10976] Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) | review=8.7
+    > Bể bơi ngoài trời
+
+==========================================================================================
+amen_pool_bar | city=Nha Trang | n=24
+==========================================================================================
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Quán bar cạnh bể bơi
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Quán bar cạnh bể bơi
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Quán bar cạnh bể bơi
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Quán bar cạnh bể bơi
+[83464707] Khách sạn Four Points by Sheraton Nha Trang (Four Points by Sheraton Nha Trang) | review=9.0
+    > Quán bar cạnh bể bơi
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Quán bar cạnh bể bơi
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Quán bar cạnh bể bơi
+[4459783] Vinpearl Empire Nha Trang, Affiliated by Meliá | review=8.9
+    > Quán bar cạnh bể bơi
+
+==========================================================================================
+amen_pool_bar | city=Đà Nẵng | n=19
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Quán bar cạnh bể bơi
+[338256] Banyan Tree Lang Co | review=9.2
+    > Quán bar cạnh bể bơi
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Quán bar cạnh bể bơi
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Quán bar cạnh bể bơi
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Quán bar cạnh bể bơi
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Quán bar cạnh bể bơi
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Quán bar cạnh bể bơi
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Quán bar cạnh bể bơi
+
+==========================================================================================
+amen_pool_bar | city=Đảo Phú Quốc | n=13
+==========================================================================================
+[2577124] Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) | review=9.1
+    > Quán bar cạnh bể bơi
+[4462454] Resort Thiên Thanh (Thien Thanh Phu Quoc Resort) | review=9.1
+    > Quán bar cạnh bể bơi
+[46992320] La Festa Phu Quoc, Curio Collection by Hilton | review=9.1
+    > Quán bar cạnh bể bơi
+[17242876] Vinholidays Fiesta Phú Quốc | review=8.9
+    > Quán bar cạnh bể bơi
+[39532985] Khách sạn Roma Phú Quốc - Đưa đón sân bay miễn phí & Tour Thị trấn Sunset (Roma Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour) | review=8.9
+    > Quán bar cạnh bể bơi
+[10247322] Vida Loca Resort & Sunset Beach (Vida Loca Phu Quoc Resort) | review=8.8
+    > Quán bar cạnh bể bơi
+[34118773] Robins Homestay Vinpearl Phu Quoc | review=8.8
+    > Quán bar cạnh bể bơi
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Quán bar cạnh bể bơi
+
+==========================================================================================
+amen_kids_pool | city=Nha Trang | n=25
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Bể bơi trẻ em
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Bể bơi trẻ em
+[75690457] Mercure Nha Trang Beach | review=9.1
+    > Bể bơi trẻ em
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Bể bơi trẻ em
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Bể bơi trẻ em
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Bể bơi trẻ em
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Bể bơi trẻ em
+[4459783] Vinpearl Empire Nha Trang, Affiliated by Meliá | review=8.9
+    > Bể bơi trẻ em
+
+==========================================================================================
+amen_kids_pool | city=Đà Nẵng | n=23
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Bể bơi trẻ em
+[338256] Banyan Tree Lang Co | review=9.2
+    > Bể bơi trẻ em
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Bể bơi trẻ em
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Bể bơi trẻ em
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Bể bơi trẻ em
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Bể bơi trẻ em
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Bể bơi trẻ em
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Bể bơi trẻ em
+
+==========================================================================================
+amen_kids_pool | city=Vũng Tàu | n=16
+==========================================================================================
+[25773171] Khu nghỉ dưỡng Holiday Inn Hồ Tràm Beach By IHG (Holiday Inn Resort Ho Tram Beach By IHG) | review=9.1
+    > Bể bơi trẻ em
+[6363024] Khu nghỉ dưỡng bãi biển Melia Hồ Tràm (Melia Ho Tram Beach Resort) | review=9.0
+    > Bể bơi trẻ em
+[11024791] ibis Styles Vũng Tàu (ibis Styles Vung Tau) | review=8.9
+    > Bể bơi trẻ em
+[2114938] Khách sạn Hải Long (Hai Long Hotel) | review=8.9
+    > Bể bơi trẻ em
+[37244894] Dhawa Hồ Tràm (Dhawa Ho Tram) | review=8.9
+    > Bể bơi trẻ em
+[39665334] IXORA Hồ Tràm by Fusion (IXORA Ho Tram by Fusion) | review=8.9
+    > Bể bơi trẻ em
+[161729] Khách sạn The Imperial Vũng Tàu (The IMPERIAL Vung Tau Hotel ) | review=8.8
+    > Bể bơi trẻ em
+[178195] Mercure Vũng Tàu (Mercure Vung Tau) | review=8.8
+    > Bể bơi trẻ em
+
+==========================================================================================
+amen_gym | city=Nha Trang | n=29
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Phòng tập
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Phòng tập
+[75690457] Mercure Nha Trang Beach | review=9.1
+    > Phòng tập
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Phòng tập
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Phòng tập
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Phòng tập
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Phòng tập
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Phòng tập
+
+==========================================================================================
+amen_gym | city=Đà Nẵng | n=28
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Phòng tập
+[338256] Banyan Tree Lang Co | review=9.2
+    > Phòng tập
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Phòng tập
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Phòng tập
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Phòng tập
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Phòng tập
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Phòng tập
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Phòng tập
+
+==========================================================================================
+amen_gym | city=Hà Nội | n=23
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Phòng tập
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Phòng tập
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    > Phòng tập
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | review=9.1
+    > Phòng tập
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Phòng tập
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Phòng tập
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    > Phòng tập
+[6868294] Wyndham Garden Hà Nội (Wyndham Garden Hanoi) | review=8.8
+    > Phòng tập
+
+==========================================================================================
+amen_spa_massage | city=Nha Trang | n=27
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Mát-xa
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Mát-xa
+[75690457] Mercure Nha Trang Beach | review=9.1
+    > Mát-xa
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Mát-xa
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Mát-xa
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Mát-xa
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Mát-xa
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Mát-xa
+
+==========================================================================================
+amen_spa_massage | city=Đà Nẵng | n=24
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    > Mát-xa
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Mát-xa
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Mát-xa
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Mát-xa
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Giường mát-xa
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Mát-xa
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    > Mát-xa
+[338255] Angsana Lang Co | review=8.8
+    > Mát-xa
+
+==========================================================================================
+amen_spa_massage | city=Hà Nội | n=19
+==========================================================================================
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Mát-xa
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | review=9.1
+    > Spa xông khô
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Mát-xa
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Mát-xa
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    > Ghế mát-xa
+[6868294] Wyndham Garden Hà Nội (Wyndham Garden Hanoi) | review=8.8
+    > Mát-xa
+[6542427] Novotel Hà Nội Thái Hà (Novotel Hanoi Thai Ha) | review=8.7
+    > Mát-xa
+[10665115] Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel) | review=8.6
+    > Mát-xa
+
+==========================================================================================
+amen_garden | city=Hội An | n=19
+==========================================================================================
+[44777877] Grand Sunrise Palace Hội An (Grand Sunrise Palace Hoi An) | review=9.7
+    > Vườn
+[1639502] Four Seasons Resort The Nam Hai Hoi An Vietnam | review=9.4
+    > Vườn
+[6255260] Sunora Villa Hội An (Sunora Villa Hoi An) | review=9.4
+    > Vườn
+[6945065] The Nam An Villa Hoi An | review=9.1
+    > Vườn
+[1193207] Khách sạn Gia Huy Riverside Hội An (Gia Huy Riverside Hotel Hoi An) | review=9.0
+    > Vườn
+[16375525] Khách sạn New World Hoiana (New World Hoiana Hotel) | review=9.0
+    > Vườn
+[1803429] Wyndham Garden Hội An Cửa Đại Beach (Wyndham Garden Hoi An Cua Dai Beach) | review=9.0
+    > Vườn
+[38692610] Khách sạn & Spa Happy Life Memories Hội An (Happy Life Memories Hoi An Hotel & Spa ) | review=9.0
+    > Vườn
+
+==========================================================================================
+amen_garden | city=Đảo Phú Quốc | n=16
+==========================================================================================
+[1624474] JW Marriott Phu Quoc Emerald Bay Resort & Spa | review=9.2
+    > Vườn
+[2577124] Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) | review=9.1
+    > Vườn
+[4462454] Resort Thiên Thanh (Thien Thanh Phu Quoc Resort) | review=9.1
+    > Vườn
+[17242876] Vinholidays Fiesta Phú Quốc | review=8.9
+    > Vườn
+[10247322] Vida Loca Resort & Sunset Beach (Vida Loca Phu Quoc Resort) | review=8.8
+    > Vườn
+[1032420] Khu nghỉ dưỡng Sheraton Phu Quoc Long Beach (Sheraton Phu Quoc Long Beach Resort) | review=8.8
+    > Vườn
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Vườn
+[9776735] Khu nghỉ dưỡng Pullman Phú Quốc (Pullman Phu Quoc Beach Resort) | review=8.8
+    > Vườn
+
+==========================================================================================
+amen_garden | city=Vũng Tàu | n=16
+==========================================================================================
+[25773171] Khu nghỉ dưỡng Holiday Inn Hồ Tràm Beach By IHG (Holiday Inn Resort Ho Tram Beach By IHG) | review=9.1
+    > Vườn
+[73004500] Khách sạn The Sim Vũng Tàu (The Sim Hotel Vung Tau) | review=9.1
+    > Vườn
+[6363024] Khu nghỉ dưỡng bãi biển Melia Hồ Tràm (Melia Ho Tram Beach Resort) | review=9.0
+    > Vườn
+[37244894] Dhawa Hồ Tràm (Dhawa Ho Tram) | review=8.9
+    > Vườn
+[39665334] IXORA Hồ Tràm by Fusion (IXORA Ho Tram by Fusion) | review=8.9
+    > Vườn
+[161729] Khách sạn The Imperial Vũng Tàu (The IMPERIAL Vung Tau Hotel ) | review=8.8
+    > Vườn
+[178195] Mercure Vũng Tàu (Mercure Vung Tau) | review=8.8
+    > Vườn
+[44184739] Căn hộ The Sóng - Mai Villa Vũng Tàu (The Song Apartment - Can Ho The Song - Mai Villa Vung Tau) | review=8.8
+    > Vườn
+
+==========================================================================================
+amen_meeting | city=Nha Trang | n=32
+==========================================================================================
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[75690457] Mercure Nha Trang Beach | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[83464707] Khách sạn Four Points by Sheraton Nha Trang (Four Points by Sheraton Nha Trang) | review=9.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+
+==========================================================================================
+amen_meeting | city=Đà Nẵng | n=30
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[338256] Banyan Tree Lang Co | review=9.2
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Phòng họp
+
+==========================================================================================
+amen_meeting | city=Hà Nội | n=25
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | review=9.1
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+[6868294] Wyndham Garden Hà Nội (Wyndham Garden Hanoi) | review=8.8
+    > Cơ sở vật chất cho họp mặt tiệc lớn
+
+==========================================================================================
+amen_playground | city=Nha Trang | n=17
+==========================================================================================
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Sân chơi
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Sân chơi
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Sân chơi
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Sân chơi
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Sân chơi
+[4459783] Vinpearl Empire Nha Trang, Affiliated by Meliá | review=8.9
+    > Sân chơi
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    > Sân chơi
+[6359030] Muong Thanh Luxury Khanh Hoa | review=8.9
+    > Sân chơi
+
+==========================================================================================
+amen_playground | city=Đà Nẵng | n=17
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    > Sân chơi
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Sân chơi
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Sân chơi
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Sân chơi
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Sân chơi
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Sân chơi
+[6377853] Hilton Đà Nẵng (Hilton Da Nang) | review=8.9
+    > Sân chơi
+[338255] Angsana Lang Co | review=8.8
+    > Sân chơi
+
+==========================================================================================
+amen_playground | city=Đảo Phú Quốc | n=14
+==========================================================================================
+[1624474] JW Marriott Phu Quoc Emerald Bay Resort & Spa | review=9.2
+    > Sân chơi
+[2577124] Khu nghỉ dưỡng & Spa Lahana Phú Quốc (Lahana Resort Phu Quoc & Spa) | review=9.1
+    > Sân chơi
+[4462454] Resort Thiên Thanh (Thien Thanh Phu Quoc Resort) | review=9.1
+    > Sân chơi
+[17242876] Vinholidays Fiesta Phú Quốc | review=8.9
+    > Sân chơi
+[39532985] Khách sạn Roma Phú Quốc - Đưa đón sân bay miễn phí & Tour Thị trấn Sunset (Roma Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour) | review=8.9
+    > Sân chơi
+[10247322] Vida Loca Resort & Sunset Beach (Vida Loca Phu Quoc Resort) | review=8.8
+    > Sân chơi
+[1032420] Khu nghỉ dưỡng Sheraton Phu Quoc Long Beach (Sheraton Phu Quoc Long Beach Resort) | review=8.8
+    > Sân chơi
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Sân chơi
+
+==========================================================================================
+amen_nonsmoking | city=Hà Nội | n=49
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Hoàn toàn không hút thuốc
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Hoàn toàn không hút thuốc
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    > Hoàn toàn không hút thuốc
+[38583105] L7 WEST LAKE HANOI by LOTTE HOTELS | review=9.1
+    > Hoàn toàn không hút thuốc
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Phòng không hút thuốc
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | review=9.1
+    > Hoàn toàn không hút thuốc
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Hoàn toàn không hút thuốc
+[58686039] Khách sạn Hanoian (Hanoian Hotel) | review=9.0
+    > Không hút thuốc
+
+==========================================================================================
+amen_nonsmoking | city=Hồ Chí Minh | n=47
+==========================================================================================
+[65513469] Khách sạn Tala Sài Gòn (TalaSaiGon Hotel) | review=9.2
+    > Hoàn toàn không hút thuốc
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Hoàn toàn không hút thuốc
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    > Hoàn toàn không hút thuốc
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Hoàn toàn không hút thuốc
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    > Hoàn toàn không hút thuốc
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Hoàn toàn không hút thuốc
+[54795553] Khách sạn A25 Premium - 142 Bùi Thị Xuân (A25 Premium Hotel - 142 Bùi Thị Xuân) | review=8.9
+    > Không hút thuốc
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Hoàn toàn không hút thuốc
+
+==========================================================================================
+amen_nonsmoking | city=Đà Nẵng | n=43
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Hoàn toàn không hút thuốc
+[82014402] Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment) | review=9.3
+    > Phòng không hút thuốc
+[338256] Banyan Tree Lang Co | review=9.2
+    > Hoàn toàn không hút thuốc
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Hoàn toàn không hút thuốc
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Hoàn toàn không hút thuốc
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Hoàn toàn không hút thuốc
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Hoàn toàn không hút thuốc
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Hoàn toàn không hút thuốc
+
+==========================================================================================
+amen_airport_shuttle | city=Hà Nội | n=48
+==========================================================================================
+[66680429] Khách sạn Hanoi Sail (Hanoi Sail Hotel) | review=9.5
+    > Đưa đón sân bay
+[10964] Khách sạn Sofitel Legend Metropole Hà Nội (Sofitel Legend Metropole Hanoi Hotel) | review=9.2
+    > Đưa đón sân bay
+[35354312] Khách sạn Minasi Grand (Minasi Grand Hotel) | review=9.1
+    > Đưa đón sân bay
+[529354] Khách sạn JW Marriott Hà Nội (JW Marriott Hotel Hanoi) | review=9.1
+    > Đưa đón sân bay
+[73179078] Khách sạn A25 Premium - 130 Bà Triệu (A25 Premium Hotel - 130 Bà Triệu) | review=9.1
+    > Đưa đón sân bay
+[16366479] Grand Mercure Hà Nội (Grand Mercure Hanoi) | review=9.0
+    > Đưa đón sân bay
+[237603] Sheraton Hà Nội West (Sheraton Hanoi West) | review=8.8
+    > Đưa đón sân bay
+[37181026] Khách sạn Minasi Premium (Minasi Premium Hotel) | review=8.8
+    > Đưa đón sân bay
+
+==========================================================================================
+amen_airport_shuttle | city=Hồ Chí Minh | n=37
+==========================================================================================
+[65513469] Khách sạn Tala Sài Gòn (TalaSaiGon Hotel) | review=9.2
+    > Đưa đón sân bay
+[33550196] Express by M Village Điện Biên Phủ (The Tropic) (Express by M Village Điện Biên Phủ (The Tropic), a brand of Modern Village Lifestyle) | review=9.1
+    > Đưa đón sân bay
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Đưa đón sân bay
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    > Đưa đón sân bay
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Đưa đón sân bay
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Đưa đón sân bay
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    > Đưa đón sân bay
+[10976] Khách sạn Sofitel Saigon Plaza (Sofitel Saigon Plaza Hotel) | review=8.7
+    > Đưa đón sân bay
+
+==========================================================================================
+amen_airport_shuttle | city=Đà Nẵng | n=37
+==========================================================================================
+[338256] Banyan Tree Lang Co | review=9.2
+    > Đưa đón sân bay
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Đưa đón sân bay
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Đưa đón sân bay
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Đưa đón sân bay
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Đưa đón sân bay
+[4947690] Melia Vinpearl Riverfront Đà Nẵng (Melia Vinpearl Danang Riverfront) | review=8.9
+    > Đưa đón sân bay
+[1062253] Mercure Đà Nẵng French Village Bà Nà Hills (Mercure Danang French Village Bana Hills) | review=8.8
+    > Đưa đón sân bay
+[338255] Angsana Lang Co | review=8.8
+    > Đưa đón sân bay
+
+==========================================================================================
+amen_restaurant | city=Đà Nẵng | n=37
+==========================================================================================
+[83464709] Căn hộ dịch vụ Marriott Executive Đà Nẵng, Sông Hàn (Marriott Executive Apartments Danang, Han River) | review=10.0
+    > Nhà hàng bữa sáng
+[338256] Banyan Tree Lang Co | review=9.2
+    > Nhà hàng bữa sáng
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Nhà hàng phòng chờ phù hợp cho người khuyết tật tại chỗ nghỉ
+[73809693] Courtyard by Marriott Đà Nẵng Han River (Courtyard by Marriott Danang Han River) | review=9.1
+    > Nhà hàng bữa sáng
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Nhà hàng bữa sáng
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Nhà hàng
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Nhà hàng
+[399935] Novotel Đà Nẵng Premier Han River (Novotel Danang Premier Han River) | review=8.9
+    > Nhà hàng bữa sáng
+
+==========================================================================================
+amen_restaurant | city=Nha Trang | n=36
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Nhà hàng
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Nhà hàng bữa sáng
+[75690457] Mercure Nha Trang Beach | review=9.1
+    > Nhà hàng
+[210187] Khách sạn & Spa Sheraton Nha Trang (Sheraton Nha Trang Hotel & Spa) | review=9.0
+    > Nhà hàng
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Nhà hàng
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Nhà hàng
+[83464707] Khách sạn Four Points by Sheraton Nha Trang (Four Points by Sheraton Nha Trang) | review=9.0
+    > Nhà hàng phòng chờ phù hợp cho người khuyết tật tại chỗ nghỉ
+[109119] Khách sạn Novotel Nha Trang (Novotel Nha Trang Hotel) | review=8.9
+    > Nhà hàng bữa sáng
+
+==========================================================================================
+amen_restaurant | city=Hồ Chí Minh | n=35
+==========================================================================================
+[6428322] Vinpearl Landmark 81, Autograph Collection | review=9.1
+    > Nhà hàng
+[47843559] Hilton Sài Gòn (Hilton Saigon) | review=9.0
+    > Nhà hàng phục vụ bữa trưa
+[12132] Khách sạn Sheraton Sài Gòn Grand Opera (Sheraton Saigon Grand Opera Hotel) | review=8.9
+    > Nhà hàng bữa sáng
+[165511] Khách sạn & Căn hộ JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon) | review=8.9
+    > Nhà hàng
+[54795553] Khách sạn A25 Premium - 142 Bùi Thị Xuân (A25 Premium Hotel - 142 Bùi Thị Xuân) | review=8.9
+    > Nhà hàng
+[75824399] Khách sạn & Căn hộ JW Marriott Sài Gòn, The Apartments (JW Marriott Hotel & Suites Saigon, The Apartments) | review=8.9
+    > Nhà hàng phòng chờ phù hợp cho người khuyết tật tại chỗ nghỉ
+[64327220] Khách sạn Brown Dot Sân bay Sài Gòn (Brown Dot Hotel Saigon Airport) | review=8.8
+    > Nhà hàng
+[666232] Liberty Central Saigon Citypoint Hotel | review=8.8
+    > Nhà hàng bữa sáng
+
+==========================================================================================
+amen_private_beach | city=Đảo Phú Quốc | n=16
+==========================================================================================
+[1624474] JW Marriott Phu Quoc Emerald Bay Resort & Spa | review=9.2
+    > Bãi biển riêng
+[4462454] Resort Thiên Thanh (Thien Thanh Phu Quoc Resort) | review=9.1
+    > Bãi biển riêng
+[39532985] Khách sạn Roma Phú Quốc - Đưa đón sân bay miễn phí & Tour Thị trấn Sunset (Roma Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour) | review=8.9
+    > Bãi biển riêng
+[10247322] Vida Loca Resort & Sunset Beach (Vida Loca Phu Quoc Resort) | review=8.8
+    > Bãi biển riêng
+[1032420] Khu nghỉ dưỡng Sheraton Phu Quoc Long Beach (Sheraton Phu Quoc Long Beach Resort) | review=8.8
+    > Bãi biển riêng
+[34118773] Robins Homestay Vinpearl Phu Quoc | review=8.8
+    > Bãi biển riêng
+[625168] Vinpearl Resort & Spa Phú Quốc | review=8.8
+    > Bãi biển riêng
+[9776735] Khu nghỉ dưỡng Pullman Phú Quốc (Pullman Phu Quoc Beach Resort) | review=8.8
+    > Bãi biển riêng
+
+==========================================================================================
+amen_private_beach | city=Nha Trang | n=15
+==========================================================================================
+[263516] Vinpearl Luxury Nha Trang | review=9.3
+    > Bãi biển riêng
+[38775535] Khu nghỉ dưỡng TTC Vịnh Vân Phong - Himalaya Sauna & Steam Retreat Included (TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included) | review=9.1
+    > Bãi biển riêng
+[33589745] Khu nghỉ dưỡng & Spa The Westin Cam Ranh (The Westin Resort & Spa Cam Ranh) | review=9.0
+    > Bãi biển riêng
+[78340310] Khu nghỉ dưỡng & spa JW Marriott Cam Ranh Bay (JW Marriott Cam Ranh Bay Resort & Spa) | review=9.0
+    > Bãi biển riêng
+[1986410] Khu nghỉ dưỡng bãi biển Meliá Vinpearl Cam Ranh (Meliá Vinpearl Cam Ranh Beach Resort) | review=8.9
+    > Bãi biển riêng
+[5685860] Vinpearl Beachfront Nha Trang | review=8.9
+    > Bãi biển riêng
+[805030] Vinpearl Resort & Spa Nha Trang Bay | review=8.8
+    > Bãi biển riêng
+[239482] Khách Sạn TTC - Michelia (TTC Hotel - Michelia) | review=8.7
+    > Bãi biển riêng
+
+==========================================================================================
+amen_private_beach | city=Đà Nẵng | n=13
+==========================================================================================
+[82014402] Căn hộ cao cấp Hampton Đà Nẵng (Hampton Danang Luxury Apartment) | review=9.3
+    > Bãi biển riêng
+[338256] Banyan Tree Lang Co | review=9.2
+    > Bãi biển riêng
+[73359010] Căn hộ cao cấp trong tòa nhà Sheraton - mặt biển (Luxury Apartment in Sheraton Building- Beach Front) | review=9.2
+    > Bãi biển riêng
+[182167] Khu nghỉ dưỡng Pullman Đà Nẵng (Pullman Danang Beach Resort) | review=8.9
+    > Bãi biển riêng
+[1985160] Khu nghỉ dưỡng & spa Marriott Đà Nẵng, Biệt thự Bãi biển Non Nước (Danang Marriott Resort & Spa, Non Nuoc Beach Villas) | review=8.9
+    > Bãi biển riêng
+[271561] Khu nghỉ dưỡng & Spa Marriott Đà Nẵng (Danang Marriott Resort & Spa) | review=8.9
+    > Bãi biển riêng
+[338255] Angsana Lang Co | review=8.8
+    > Bãi biển riêng
+[55270044] Lang Cô Bay Retreat (LANGCO BAY RETREAT) | review=8.8
+    > Bãi biển riêng

@@ -1,0 +1,985 @@
+{
+  "crawled_at": "2026-06-04T10:52:06",
+  "source_url": "https://www.agoda.com/studio-c-nh-sheraton-may-chi-u-b-n-t-m-b-p-tay-h/hotel/hanoi-vn.html?hotel=86658383&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 86658383,
+  "name": "Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Toàn bộ căn nhà",
+  "star_rating": 4.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 9.3,
+  "review_count": 11,
+  "address": "22 Ng. 8 P. Từ Hoa, Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam",
+  "area": "Quận Tây Hồ",
+  "city": "Hà Nội",
+  "country": "Việt Nam",
+  "postal_code": "100000",
+  "latitude": 21.0599761,
+  "longitude": 105.8328676,
+  "description": "Enjoy a modern and tranquil living space in the heart of West Lake, just steps from the Sheraton Hanoi Hotel and Intercontinental Hanoi.\nThis exquisitely designed studio apartment features a spacious private balcony. The cozy space includes a 1.8m x 2m bed with a comfortable mattress.\n- Highlights:\nLocated on the first floor of a 4-bedroom apartment\nLarge bathtub\nNext to a cool and peaceful lotus pond\nPrime location, near West Lake, with many cafes and restaurants\nPrivate balcony\nShared kitchen and shared washer and dryer.\nSuitable for couples.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "10:00",
+    "Phí giữ xe hàng ngày": "0 VND"
+  },
+  "highlights": [
+    "Điều hòa",
+    "Bãi để xe",
+    "Vải trải giường"
+  ],
+  "location_tags": [
+    "Bar và hoạt động giải trí về đêm",
+    "Ho Chi Minh Mausoleum",
+    "Nhà hàng",
+    "Nhận phòng [24 giờ]",
+    "Old Quarter",
+    "Sạch bóng",
+    "Temple of Literature & National University",
+    "cách trung tâm thành phố 2,35 km",
+    "Đáng tiền nhất"
+  ],
+  "amenities": [
+    "Ban công hoặc sân hiên",
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bát đĩa cho trẻ",
+    "Bát đĩa và dụng cụ ăn uống",
+    "Bãi để xe",
+    "Bếp",
+    "Cà phê hoặc trà",
+    "Dịch vụ truyền hình trực tuyến",
+    "Khu bờ sông",
+    "Khóa điện tử",
+    "Lò vi sóng",
+    "Lối vào hồ",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "Nhận/trả phòng trả phòng không tiếp xúc",
+    "Nước rửa tay và xà phòng được cung cấp",
+    "Quạt trần hoặc đứng",
+    "Sữa tắm",
+    "TV",
+    "Truyền hình cáp",
+    "Tủ lạnh",
+    "WiFi",
+    "Điều hòa",
+    "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 36,
+  "amenity_groups": {
+    "Giải trí": [
+      "Dịch vụ truyền hình trực tuyến"
+    ],
+    "Bếp": [
+      "Bát đĩa và dụng cụ ăn uống",
+      "Bếp",
+      "Lò vi sóng",
+      "Tủ lạnh",
+      "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt"
+    ],
+    "Phòng tắm": [
+      "Sữa tắm"
+    ],
+    "Gia đình": [
+      "Bát đĩa cho trẻ"
+    ],
+    "Ngoài trời": [
+      "Ban công hoặc sân hiên",
+      "Khu bờ sông",
+      "Lối vào hồ"
+    ],
+    "Tiêu chuẩn": [
+      "Quạt trần hoặc đứng"
+    ],
+    "Độ an toàn và sạch sẽ": [
+      "Nhận/trả phòng trả phòng không tiếp xúc",
+      "Nước rửa tay và xà phòng được cung cấp"
+    ],
+    "Giải trí ": [
+      "TV",
+      "Truyền hình cáp",
+      "WiFi"
+    ],
+    "Tiện nghi": [
+      "Lối đi riêng",
+      "Điều hòa"
+    ],
+    "Ăn uống": [
+      "Bếp",
+      "Cà phê hoặc trà"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Bố trí và nội thất phòng": [
+      "Bàn không gian làm việc"
+    ],
+    "Quần áo và Giặt ủi": [
+      "Bàn là",
+      "Máy giặt",
+      "Máy sấy"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Khóa điện tử"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ],
+    "Tính năng an toàn và an ninh": []
+  },
+  "amenities_general": [
+    "Ban công hoặc sân hiên",
+    "Bàn không gian làm việc",
+    "Bàn là",
+    "Bát đĩa cho trẻ",
+    "Bát đĩa và dụng cụ ăn uống",
+    "Bếp",
+    "Dịch vụ truyền hình trực tuyến",
+    "Khu bờ sông",
+    "Khóa điện tử",
+    "Lò vi sóng",
+    "Lối vào hồ",
+    "Lối đi riêng",
+    "Máy giặt",
+    "Máy sấy",
+    "Nhận/trả phòng trả phòng không tiếp xúc",
+    "Nước rửa tay và xà phòng được cung cấp",
+    "Quạt trần hoặc đứng",
+    "Sữa tắm",
+    "TV",
+    "Truyền hình cáp",
+    "Tủ lạnh",
+    "WiFi",
+    "Điều hòa",
+    "Đồ dùng cơ bản trong nhà bếp dụng cụ nấu ăn, dầu, nước sốt",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [
+    "Bếp",
+    "Cà phê hoặc trà"
+  ],
+  "nearby_places": [
+    {
+      "name": "Vietfighter",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.09
+    },
+    {
+      "name": "Hoa Fashion",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.15
+    },
+    {
+      "name": "Cửa hàng tạp hóa và cửa hàng chuyên về thực phẩm Oasis",
+      "type": "Siêu Thị",
+      "distance_km": 0.15
+    },
+    {
+      "name": "Hanoi Design Centre",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.23
+    },
+    {
+      "name": "YNOT",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.26
+    },
+    {
+      "name": "Wood Plus Vietnam",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.31
+    },
+    {
+      "name": "Lacquer and more",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.31
+    },
+    {
+      "name": "Bamboo Village Shop",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.35
+    },
+    {
+      "name": "Module 7",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.36
+    },
+    {
+      "name": "L'Atelier",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.55
+    }
+  ],
+  "image_count": 41,
+  "image_urls": [
+    "https://pix8.agoda.net/hotelImages/86658383/0/fe32a9a77f7cbc7b3c813943e1b5d763.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/0e23b203ede860219aa937ce18b86b1b.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/7ec2d457c5475ac7af9d7522cbbee7bf.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/ca0505c1fbbfc85985c68f9d0dac1fec.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/d5f694797cb1c55e5f9fd0d9ddba4786.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/ced75fb917e2c603311f40e3710bf312.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/5ca148cb7bc3297db073231a2cd74a85.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/efe176270d6ba7c725990af4c3b66182.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/afd39958bd3a9b35dfada38c63022a1a.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/9cf8c077500381230cb5741b75ab5564.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/db32ddf1e2acefcbff83f5e1fd386249.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/dfa31fe5160cd475295c3390518191f2.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/4983b9bbcf752ff26589d17355f0410c.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/e0afb5ab447e7b55ede224f9c25caac1.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/738023150f18bf2550e8c89cbb8fdf77.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/bf3efe8e98fc1ef4ae90f95fd5be7ce7.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/11d4ad368d3f1e89be77a99527ad793f.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/a18d8cf23a3bc5924b0c2e5aa9f991eb.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/399ed63633fc75f11ff0997cd266ec65.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/5607acefe1e7c5e4cf518131666805a5.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/c71bb959f2746bfb6656ee31bbd4efe8.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/1b145a54c20c6dc17e1d50dd8dac8074.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/e4f9efe62f398d89f6571dd950ccb906.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/14bdf16f9284383e60aff3583b315ae4.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/b189d38e2cc843498f66263db08fedbe.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/3fa864f626298b9abcda9879c2250371.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/49de411bf869ffddc84563182c12b015.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/686d7d6690466e49e237e2b2364a9ba5.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/c231555dc1115724a9101f27a4b791b2.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/9600a56ec8f61474703c5ec359629ee1.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/55efdf20421b645b74a8ecf1ea4f7ee9.png?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/4bcea837e43e357367e33a871f36c3a0.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/d4764ed88df15f189a5f61c4a14c2c67.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/ef1c514a45cd96587e518caef2da2211.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/65296d69cf4d5c86084a5c0ed0916625.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/86658383/0/af5dd872229feb3f008433acc5169fcb.jpg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/fe32a9a77f7cbc7b3c813943e1b5d763.jpg?ce=3&s=1024x768",
+      "caption": "Giường",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/0e23b203ede860219aa937ce18b86b1b.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/7ec2d457c5475ac7af9d7522cbbee7bf.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/ca0505c1fbbfc85985c68f9d0dac1fec.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/d5f694797cb1c55e5f9fd0d9ddba4786.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/ced75fb917e2c603311f40e3710bf312.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/5ca148cb7bc3297db073231a2cd74a85.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/efe176270d6ba7c725990af4c3b66182.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/afd39958bd3a9b35dfada38c63022a1a.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/9cf8c077500381230cb5741b75ab5564.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/db32ddf1e2acefcbff83f5e1fd386249.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/dfa31fe5160cd475295c3390518191f2.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/4983b9bbcf752ff26589d17355f0410c.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/e0afb5ab447e7b55ede224f9c25caac1.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/738023150f18bf2550e8c89cbb8fdf77.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/bf3efe8e98fc1ef4ae90f95fd5be7ce7.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/11d4ad368d3f1e89be77a99527ad793f.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/a18d8cf23a3bc5924b0c2e5aa9f991eb.jpg?ce=3&s=1024x768",
+      "caption": "Bếp chung",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/399ed63633fc75f11ff0997cd266ec65.jpg?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/5607acefe1e7c5e4cf518131666805a5.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/c71bb959f2746bfb6656ee31bbd4efe8.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/1b145a54c20c6dc17e1d50dd8dac8074.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/e4f9efe62f398d89f6571dd950ccb906.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/14bdf16f9284383e60aff3583b315ae4.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/b189d38e2cc843498f66263db08fedbe.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/3fa864f626298b9abcda9879c2250371.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/49de411bf869ffddc84563182c12b015.jpg?ce=3&s=1024x768",
+      "caption": "Khu vực công cộng",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/686d7d6690466e49e237e2b2364a9ba5.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/c231555dc1115724a9101f27a4b791b2.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/9600a56ec8f61474703c5ec359629ee1.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/55efdf20421b645b74a8ecf1ea4f7ee9.png?ce=3&s=1024x768",
+      "caption": "Phòng ngủ",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/4bcea837e43e357367e33a871f36c3a0.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/d4764ed88df15f189a5f61c4a14c2c67.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/ef1c514a45cd96587e518caef2da2211.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/65296d69cf4d5c86084a5c0ed0916625.jpg?ce=3&s=1024x768",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/86658383/0/af5dd872229feb3f008433acc5169fcb.jpg?ce=3&s=1024x768",
+      "caption": "Bồn tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22342/2_22342.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Tây Hồ - cách nơi ở 1.04 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/277365/2_277365.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 1.43 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/25387/2_25387_03.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Chùa Trấn Quốc - cách nơi ở 1.63 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22334/2_22334_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Lăng Bác - cách nơi ở 2.62 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/22341/2_22341.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Hồ Hoàn Kiếm - cách nơi ở 4 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Quận Tây Hồ",
+  "province": "Hà Nội",
+  "city_id": 2758,
+  "property_page": "/studio-c-nh-sheraton-may-chi-u-b-n-t-m-b-p-tay-h/hotel/hanoi-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 1357530043,
+        "name": "Nhà riêng (home)",
+        "name_en": "(home)",
+        "room_size": "25 m²",
+        "size_sqm": 25.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi lớn",
+        "bed_types": [
+          "1 giường đôi lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [
+          "1 giường đôi lớn",
+          "25 m²",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Giải trí",
+          "Lối đi riêng",
+          "Máy giặt",
+          "Máy sấy quần áo",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV",
+          "Truyền hình cáp vệ tinh",
+          "Tính năng an toàn và an ninh",
+          "WiFi miễn phí",
+          "WiFi mạng lan trong phòng miễn phí",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 41,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/86658383/0/fe32a9a77f7cbc7b3c813943e1b5d763.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/86658383/0/0e23b203ede860219aa937ce18b86b1b.png?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/86658383/0/7ec2d457c5475ac7af9d7522cbbee7bf.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/86658383/0/ca0505c1fbbfc85985c68f9d0dac1fec.jpg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/86658383/0/d5f694797cb1c55e5f9fd0d9ddba4786.jpg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1400000,
+        "original_price": 2130000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1357530043,
+      "name": "Nhà riêng (home)",
+      "name_en": "(home)",
+      "room_size": "25 m²",
+      "size_sqm": 25.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi lớn",
+      "bed_types": [
+        "1 giường đôi lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [
+        "1 giường đôi lớn",
+        "25 m²",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Giải trí",
+        "Lối đi riêng",
+        "Máy giặt",
+        "Máy sấy quần áo",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV",
+        "Truyền hình cáp vệ tinh",
+        "Tính năng an toàn và an ninh",
+        "WiFi miễn phí",
+        "WiFi mạng lan trong phòng miễn phí",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 41,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/86658383/0/fe32a9a77f7cbc7b3c813943e1b5d763.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/86658383/0/0e23b203ede860219aa937ce18b86b1b.png?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/86658383/0/7ec2d457c5475ac7af9d7522cbbee7bf.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/86658383/0/ca0505c1fbbfc85985c68f9d0dac1fec.jpg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/86658383/0/d5f694797cb1c55e5f9fd0d9ddba4786.jpg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1400000,
+      "original_price": 2130000
+    }
+  ],
+  "reviews_detail": {
+    "score": 9.3,
+    "score_text": "Trên cả tuyệt vời",
+    "review_count": 11,
+    "comments_count": 8,
+    "grades": [
+      {
+        "name": "Độ sạch sẽ",
+        "score": 9.6
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 9.6
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 9.6
+      },
+      {
+        "name": "",
+        "score": 9.3
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 9.0
+      },
+      {
+        "name": "Vị trí",
+        "score": 8.7
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Độ sạch sẽ",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Chủ nhà",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Tiện nghi trong phòng",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      }
+    ],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Cặp đôi",
+        "count": 2,
+        "score": 9.6
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 2,
+        "score": 10.0
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "27 tháng 4 2026",
+        "check_in": "Tháng 4 năm 2026",
+        "text": "Bạn chủ nhà rất nhiệt tình, lúc đầu có hiểu lầm giờ thuê giữa tôi và chủ nhà, nhưng bạn ấy đã linh boạt giải quyết phù hợp. Chỗ ở sạch sẽ, đầy đủ tiện nghi",
+        "title": "Trên cả tuyệt vời",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "Việt Nam",
+        "room_type": "Nhà riêng"
+      },
+      {
+        "review_id": 1111523121,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 27, 2026",
+        "check_in": "April 2026",
+        "title": "Exceptional",
+        "text": "The host was very friendly; at first, there was a misunderstanding about the rental duration between me and the host, but they were flexible in resolving it appropriately. The place was clean and fully equipped.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lê",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "Vietnam",
+        "room_type": "home "
+      }
+    ]
+  },
+  "rating_overall": 9.3,
+  "rating_count": 11,
+  "rating_breakdown": {
+    "Độ sạch sẽ": 9.6,
+    "Dịch vụ": 9.6,
+    "Đáng tiền": 9.6,
+    "Cơ sở vật chất": 9.0,
+    "Vị trí": 8.7
+  },
+  "secondary": {
+    "description_full": "Enjoy a modern and tranquil living space in the heart of West Lake, just steps from the Sheraton Hanoi Hotel and Intercontinental Hanoi.\nThis exquisitely designed studio apartment features a spacious private balcony. The cozy space includes a 1.8m x 2m bed with a comfortable mattress.\n- Highlights:\nLocated on the first floor of a 4-bedroom apartment\nLarge bathtub\nNext to a cool and peaceful lotus pond\nPrime location, near West Lake, with many cafes and restaurants\nPrivate balcony\nShared kitchen and shared washer and dryer.\nSuitable for couples.",
+    "hotel_policy": {
+      "childPolicies": [
+        {
+          "isInfant": true,
+          "policy": "Trẻ sơ sinh 0-1 tuổi [bao gồm cả bé 1 tuổi]",
+          "description": "Lưu trú miễn phí khi sử dụng giường có sẵn. Lưu ý, nếu quý khách cần cũi em bé, việc này có thể phát sinh thêm phụ phí và phụ thuộc vào tình trạng thực tế."
+        },
+        {
+          "isInfant": false,
+          "policy": "Trẻ em 2-7 tuổi [bao gồm cả bé 7 tuổi]",
+          "description": "Ở miễn phí nếu sử dụng giường có sẵn."
+        }
+      ],
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 1357530043,
+        "name": "Nhà riêng (home )",
+        "features": [],
+        "image_count": 1,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Hãy để chuyến đi của quý khách có một khởi đầu tuyệt vời khi ở lại khách sạn này, nơi có bãi đỗ xe miễn phí. Nằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Đừng rời đi trước khi ghé thăm Phố Cổ nổi tiếng.",
+  "activities": [
+    {
+      "activity_id": 1609858,
+      "title": "Xe Limousine Ghế Ngồi Hà Nội - Sapa bởi HK Buslines",
+      "description": "Di chuyển từ Hà Nội đến Sapa bằng xe limousine ghế ngồi hiện đại, mang đến hành trình thoải mái cho chuyến đi của bạn.\n\n- Miễn phí đón và trả khách tại khu vực Phố Cổ Hà Nội và trung tâm Sapa\n- Xe đượ",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 367648.0,
+                "crossedOut": 458414.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541889,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium",
+      "description": "Khám phá thế giới đại dương kỳ thú tại Vinpearl Aquarium và trải nghiệm hoạt động giáo dục thú vị tại VinKE trong trung tâm thương mại Vincom Mega Mall Times City.\n\n- Trẻ em có cơ hội tìm hiểu và thử",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 181028.0,
+                "crossedOut": 181028.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1267404,
+      "title": "Vé xem Múa rối nước Lotus tại Hà Nội",
+      "description": "Khám phá nghệ thuật múa rối nước tại Hà Nội, một loại hình nghệ thuật truyền thống độc đáo ra đời và phát triển từ hơn một ngàn năm trước tại vùng đồng bằng sông Hồng.\n\n- Chiêm ngưỡng những màn trình",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 85564.0,
+                "crossedOut": 100545.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541704,
+      "title": "Vé xem Múa rối nước Thăng Long",
+      "description": "Khám phá nghệ thuật múa rối nước Thăng Long, một truyền thống độc đáo với lịch sử 1.000 năm được trình diễn trên sân khấu nước sống động ngay tại Hà Nội.\n\n- Theo dõi các câu chuyện dân gian, truyền th",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 150036.0,
+                "crossedOut": 150036.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681394,
+      "title": "內排國際機場(HAN) | Terminal 1 | Vietnam Airlines Lotus Lounge | 貴賓室服務",
+      "description": "位置：安檢後大堂C二樓，護照及安全檢查後前往大堂D，三樓右側\n設施亮點：提供WiFi、小食、茶水及飲料，還有電視和報刊雜誌\n營業時間：每日04:00-23:00，提供長達120分鐘的使用時間\n兒童政策：2歲以下兒童免費入內\n注意事項：預計於2025年5月12日重新開放，",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 464705.0,
+                "crossedOut": 601949.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1092992,
+      "title": "Vé vào cổng VinKE & Vinpearl Aquarium Times City, Hà Nội",
+      "description": "Khám phá VinKE và Thủy cung Vinpearl tại Vincom Mega Mall Times City, điểm đến lý tưởng cho các gia đình và trẻ nhỏ tại Hà Nội.\n\n- Trải nghiệm thế giới nghề nghiệp mơ ước thông qua các trò chơi hướng",
+      "review_score": 4.3,
+      "review_count": 16,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 190200.0,
+                "crossedOut": 190200.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1089184,
+      "title": "Noi Bai Airport Transfer to Hanoi Hotel or Vice Versa",
+      "description": "Travel between Noi Bai Airport and your hotel in Hanoi with a professional driver and a clean, modern vehicle.\n\n- Fleet of newest generation, air-conditioned vehicles\n- English-speaking drivers availa",
+      "review_score": 5.0,
+      "review_count": 171,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 215227.0,
+                "crossedOut": 263435.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1486418,
+      "title": "Viettel Vietnam SIM/eSIM | 5GB/Day | 10 Days",
+      "description": "Stay connected throughout your journey with a Viettel SIM or eSIM for Vietnam, featuring 5GB of high-speed data per day for 10 days.\n\n- 4G/5G coverage available nationwide\n- Physical SIM pickup availa",
+      "review_score": 4.9,
+      "review_count": 60,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 177651.0,
+                "crossedOut": 209248.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1198574,
+      "title": "Halong Bay Day Cruise with Buffet Lunch - Diamond Era",
+      "description": "Explore the breathtaking beauty of Halong Bay aboard the Diamond Era, a cruise featuring an elegant, modern design. This 6-hour \"Route 2\" itinerary allows you to discover the wonders of this world her",
+      "review_score": 4.9,
+      "review_count": 1902,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 997682.0,
+                "crossedOut": 1264489.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681393,
+      "title": "內排國際機場(HAN) | Terminal 2 | ACV Lounge | 貴賓室服務",
+      "description": "位置：位於內排國際機場國際航站樓4樓，靠近31號登機口。\n設施亮點：提供淋浴間、熱食冷食自助吧、按摩椅及充電設備。\n營業時間：每天06:00至最晚航班。\n使用時間限制：每位客戶最多可享用180分鐘服務。\n家庭政策：2歲及以下兒童免費進入。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 891066.0,
+                "crossedOut": 1033720.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Cặp đôi",
+    "Khách du lịch một mình"
+  ],
+  "view_types": [],
+  "tags": [
+    "Bar và hoạt động giải trí về đêm",
+    "Bãi để xe",
+    "Cặp đôi",
+    "Ho Chi Minh Mausoleum",
+    "Khách du lịch một mình",
+    "Nhà hàng",
+    "Nhận phòng [24 giờ]",
+    "Old Quarter",
+    "Sạch bóng",
+    "Temple of Literature & National University",
+    "Vải trải giường",
+    "cách trung tâm thành phố 2,35 km",
+    "Điều hòa",
+    "Đáng tiền nhất"
+  ],
+  "embedding_text": "Studio cạnh Sheraton/Ban Công/Bồn Tắm/Bếp/Tây Hồ - khách sạn 4.0 sao tại Hà Nội.\nĐịa chỉ: 22 Ng. 8 P. Từ Hoa, Tây Hồ, Quận Tây Hồ, Hà Nội, Việt Nam.\nHãy để chuyến đi của quý khách có một khởi đầu tuyệt vời khi ở lại khách sạn này, nơi có bãi đỗ xe miễn phí. Nằm ở vị trí trung tâm tại Quận Tây Hồ của Hà Nội, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Đừng rời đi trước khi ghé thăm Phố Cổ nổi tiếng.\nTiện ích: Ban công hoặc sân hiên, Bàn là, Bàn/không gian làm việc, Bát đĩa cho trẻ, Bát đĩa và dụng cụ ăn uống, Bãi để xe, Bình chữa cháy, Bếp, Bồn tắm, Bộ dụng cụ sơ cứu, Cà phê hoặc trà, Các loại khăn, Dịch vụ truyền hình trực tuyến, Internet, Khu bờ sông, Khóa điện tử, Lò vi sóng, Lối vào hồ, Lối đi riêng, Máy giặt, Máy sấy, Máy sấy tóc, Nhận phòng/trả phòng không tiếp xúc, Nước rửa tay và xà phòng được cung cấp, Quạt (trần hoặc đứng), Sữa tắm, TV, Truyền hình cáp, Tủ lạnh, Tủ quần áo.\nĐiểm đánh giá 9.3/10 dựa trên 11 đánh giá.\nKhách hay nhắc đến: Độ sạch sẽ, Chủ nhà, Tiện nghi trong phòng.\nCác loại phòng: Nhà riêng (home).\nGần: Vietfighter, Hoa Fashion, Cửa hàng tạp hóa và cửa hàng chuyên về thực phẩm Oasis, Hanoi Design Centre, YNOT, Wood Plus Vietnam.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

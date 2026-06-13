@@ -1,0 +1,793 @@
+{
+  "crawled_at": "2026-06-04T11:50:19",
+  "source_url": "https://www.agoda.com/tapestry-hoi-an-tbc-h85303708/hotel/hoi-an-vn.html?hotel=85303708&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 85303708,
+  "name": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 0.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "Vong Nhi Village, Cẩm Thanh, Hội An, Việt Nam",
+  "area": "Cẩm Thanh",
+  "city": "Hội An",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 15.886252403259277,
+  "longitude": 108.36907958984375,
+  "description": "Nằm ở vị trí trung tâm tại Cẩm Thanh của Hội An, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "check_in_from": null,
+  "check_out_until": null,
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {},
+  "highlights": [],
+  "location_tags": [
+    "Hoi An Ancient Town",
+    "Japanese Covered Bridge",
+    "Thiên nhiên và công viên",
+    "Văn hóa bản địa",
+    "cách trung tâm thành phố 2,75 km",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [],
+  "amenities_count": 0,
+  "amenity_groups": {},
+  "amenities_general": [],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Sân chơi Cẩm Thanh",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 0.6
+    },
+    {
+      "name": "Gạo lứt Cẩm Thanh",
+      "type": "Siêu Thị",
+      "distance_km": 0.86
+    },
+    {
+      "name": "Nhà may Alibaba",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.0
+    },
+    {
+      "name": "Bãi biển Cửa Đại",
+      "type": "Bãi Biển",
+      "distance_km": 1.01
+    },
+    {
+      "name": "Lớp học nấu ăn Thuận Tính",
+      "type": "Địa điểm giải trí",
+      "distance_km": 1.03
+    },
+    {
+      "name": "Tiệm vải Thu Thủy",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.24
+    },
+    {
+      "name": "Nhà may Bảo Ni",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.28
+    },
+    {
+      "name": "Trạm y tế Xã Cam Thanh",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 1.29
+    },
+    {
+      "name": "Tiệm vải Dịu Dàng",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.3
+    },
+    {
+      "name": "Nhà may Đức Minh",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 1.33
+    }
+  ],
+  "image_count": 10,
+  "image_urls": [
+    "https://pix8.agoda.net/hotelImages/85303708/0/9961db89bd8cd089637457e9032d5d04.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85303708/0/e9cdc824a0678c1af08e47021a17c8c1.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85303708/0/1ee6700e0264a37f64e81df91f0b8bed.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85303708/0/692b128e09c88bf5d0e019eb6ec9b984.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/hotelImages/85303708/0/e30eb1b92e5d67e62e2a37db00c78a65.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24367/2_24367.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24380/1ddd61430880cb1160b47359902832a6.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/1519079/6348b83d296b479f9e9a3fa3e62b00c8.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/52252/2_52252.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/88362/2_88362_04.jpg?ca=7&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85303708/0/9961db89bd8cd089637457e9032d5d04.jpeg?ce=3&s=1024x768",
+      "caption": "Hành lang",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85303708/0/e9cdc824a0678c1af08e47021a17c8c1.jpeg?ce=3&s=1024x768",
+      "caption": "Tiện nghi giải trí",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85303708/0/1ee6700e0264a37f64e81df91f0b8bed.jpeg?ce=3&s=1024x768",
+      "caption": "Nhà hàng",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85303708/0/692b128e09c88bf5d0e019eb6ec9b984.jpeg?ce=3&s=1024x768",
+      "caption": "Nhà hàng",
+      "category": "Ăn uống"
+    },
+    {
+      "url": "https://pix8.agoda.net/hotelImages/85303708/0/e30eb1b92e5d67e62e2a37db00c78a65.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24367/2_24367.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Bãi biển Cửa Đại - cách nơi ở 1.01 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24380/1ddd61430880cb1160b47359902832a6.jpg?ce=0&s=1024x768",
+      "caption": "Làng rau Trà Quế - cách nơi ở 3.62 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/1519079/6348b83d296b479f9e9a3fa3e62b00c8.jpg?ce=0&s=1024x768",
+      "caption": "Chợ trung tâm - cách nơi ở 4.17 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/52252/2_52252.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Đền Quan Công - cách nơi ở 4.17 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/88362/2_88362_04.jpg?ca=7&ce=1&s=1024x768",
+      "caption": "Hội quán Quảng Đông - cách nơi ở 4.68 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Cẩm Thanh",
+  "province": "Hội An",
+  "city_id": 16552,
+  "property_page": "/tapestry-hoi-an-tbc-h85303708/hotel/hoi-an-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 10,
+    "rooms": [
+      {
+        "room_type_id": 1384673541,
+        "name": "NHAAN PRESIDENTIAL SUITE",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 7,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673541/e4c0365ea92a5ffdf64959007a252fb3.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673541/d130b09bac29a5ebc88ce715a22068fb.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673541/126a4024cfd9b06d903c6560761324ed.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673541/a1ff682b3808cfeffd681aab9f3d2266.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673541/b11b18eb0aba370e9065b75661d95fa5.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2500000
+      },
+      {
+        "room_type_id": 1384673539,
+        "name": "K PREMIUM SUITE RIVERSIDE",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 7,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673539/6fd240d03ed8845ddedd7012c63de40a.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673539/7512c21c85ce04465ce5c9ca61237e1c.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673539/c4e63285485b2c657bb29f5a00d0e2ae.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673539/2057a550888410b35a42475da5cd65c0.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673539/bf16a83c4c655a7aad3bbd64d73b78c0.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2660000
+      },
+      {
+        "room_type_id": 1384673542,
+        "name": "Phòng 2 Giường đơn (TWIN GUEST ROOM)",
+        "name_en": "(TWIN GUEST ROOM)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 5,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673542/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673542/5d5f8912eb610c074a4a124ffcf6efcf.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673542/97e0d6a8b090c0e85b8a89935a2661bd.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673542/7266c500dc090098582b8c425cd4acd0.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673542/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1450000
+      },
+      {
+        "room_type_id": 1384673534,
+        "name": "Phòng có Giường cỡ King (King Guest Room)",
+        "name_en": "(King Guest Room)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 4,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673534/5713123bf1e6322c9ce56ec0ec658336.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673534/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673534/ce0ed82ed4f3a47e92c6ce0e8339b98b.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673534/88fd2a4e45bc25ae55ec66a106273ebb.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1250000
+      },
+      {
+        "room_type_id": 1384673535,
+        "name": "KING DELUXE RM POOL ACCESS",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 4,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673535/0c788df0c58a1655cd0113aef5dd0f5b.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673535/261c23f2473c82fb9823a5dfd29d354e.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673535/0d80616d4fef66b24f364a035d074678.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673535/c85104d0a8f3b529da9715d6ddef0df8.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1200000,
+        "original_price": 1880000
+      },
+      {
+        "room_type_id": 1384673540,
+        "name": "KING GUEST RM RIVERSIDE VW",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 3,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673540/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673540/e0e1f9c29eeb88c1fca58e048f053756.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673540/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1290000
+      },
+      {
+        "room_type_id": 1384673537,
+        "name": "King Accessible Room",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 3,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673537/e1b6eb40dbf19399f23f55d2aa6d2728.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673537/2aa25b951d9846f77c92d6d27fa19fb8.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673537/ad33f21ccbf85732e734435f3a5ac589.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1590000
+      },
+      {
+        "room_type_id": 1384673538,
+        "name": "KING GUEST RM GARDEN VIEW (King Guest Rm Garden View)",
+        "name_en": "(King Guest Rm Garden View)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 3,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673538/5713123bf1e6322c9ce56ec0ec658336.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673538/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673538/88fd2a4e45bc25ae55ec66a106273ebb.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1640000
+      },
+      {
+        "room_type_id": 1384673536,
+        "name": "King Guest Room Balcony",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 3,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673536/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673536/e0e1f9c29eeb88c1fca58e048f053756.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673536/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1520000
+      },
+      {
+        "room_type_id": 1384673545,
+        "name": "TWIN GUEST RM RIVERSIDE",
+        "name_en": null,
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": null,
+        "bed_types": [],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [],
+        "room_amenities": [],
+        "image_count": 3,
+        "images": [
+          "https://pix8.agoda.net/hotelImages/85303708/1384673545/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673545/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/hotelImages/85303708/1384673545/7266c500dc090098582b8c425cd4acd0.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 920000,
+        "original_price": 1410000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1384673541,
+      "name": "NHAAN PRESIDENTIAL SUITE",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 7,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673541/e4c0365ea92a5ffdf64959007a252fb3.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673541/d130b09bac29a5ebc88ce715a22068fb.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673541/126a4024cfd9b06d903c6560761324ed.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673541/a1ff682b3808cfeffd681aab9f3d2266.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673541/b11b18eb0aba370e9065b75661d95fa5.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2500000
+    },
+    {
+      "room_type_id": 1384673539,
+      "name": "K PREMIUM SUITE RIVERSIDE",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 7,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673539/6fd240d03ed8845ddedd7012c63de40a.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673539/7512c21c85ce04465ce5c9ca61237e1c.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673539/c4e63285485b2c657bb29f5a00d0e2ae.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673539/2057a550888410b35a42475da5cd65c0.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673539/bf16a83c4c655a7aad3bbd64d73b78c0.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2660000
+    },
+    {
+      "room_type_id": 1384673542,
+      "name": "Phòng 2 Giường đơn (TWIN GUEST ROOM)",
+      "name_en": "(TWIN GUEST ROOM)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 5,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673542/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673542/5d5f8912eb610c074a4a124ffcf6efcf.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673542/97e0d6a8b090c0e85b8a89935a2661bd.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673542/7266c500dc090098582b8c425cd4acd0.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673542/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1450000
+    },
+    {
+      "room_type_id": 1384673534,
+      "name": "Phòng có Giường cỡ King (King Guest Room)",
+      "name_en": "(King Guest Room)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 4,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673534/5713123bf1e6322c9ce56ec0ec658336.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673534/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673534/ce0ed82ed4f3a47e92c6ce0e8339b98b.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673534/88fd2a4e45bc25ae55ec66a106273ebb.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1250000
+    },
+    {
+      "room_type_id": 1384673535,
+      "name": "KING DELUXE RM POOL ACCESS",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 4,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673535/0c788df0c58a1655cd0113aef5dd0f5b.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673535/261c23f2473c82fb9823a5dfd29d354e.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673535/0d80616d4fef66b24f364a035d074678.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673535/c85104d0a8f3b529da9715d6ddef0df8.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1200000,
+      "original_price": 1880000
+    },
+    {
+      "room_type_id": 1384673540,
+      "name": "KING GUEST RM RIVERSIDE VW",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 3,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673540/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673540/e0e1f9c29eeb88c1fca58e048f053756.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673540/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1290000
+    },
+    {
+      "room_type_id": 1384673537,
+      "name": "King Accessible Room",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 3,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673537/e1b6eb40dbf19399f23f55d2aa6d2728.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673537/2aa25b951d9846f77c92d6d27fa19fb8.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673537/ad33f21ccbf85732e734435f3a5ac589.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1590000
+    },
+    {
+      "room_type_id": 1384673538,
+      "name": "KING GUEST RM GARDEN VIEW (King Guest Rm Garden View)",
+      "name_en": "(King Guest Rm Garden View)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 3,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673538/5713123bf1e6322c9ce56ec0ec658336.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673538/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673538/88fd2a4e45bc25ae55ec66a106273ebb.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1640000
+    },
+    {
+      "room_type_id": 1384673536,
+      "name": "King Guest Room Balcony",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 3,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673536/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673536/e0e1f9c29eeb88c1fca58e048f053756.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673536/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1520000
+    },
+    {
+      "room_type_id": 1384673545,
+      "name": "TWIN GUEST RM RIVERSIDE",
+      "name_en": null,
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": null,
+      "bed_types": [],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [],
+      "room_amenities": [],
+      "image_count": 3,
+      "images": [
+        "https://pix8.agoda.net/hotelImages/85303708/1384673545/1348f7f98309b77d19ab6c53539a4f16.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673545/1740134565ddf31118ace212bb523dfd.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/hotelImages/85303708/1384673545/7266c500dc090098582b8c425cd4acd0.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 920000,
+      "original_price": 1410000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": null,
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 10,
+    "dateless_rooms": [
+      {
+        "room_id": 1384673541,
+        "name": "NHAAN PRESIDENTIAL SUITE",
+        "features": [],
+        "image_count": 7,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673539,
+        "name": "K PREMIUM SUITE RIVERSIDE",
+        "features": [],
+        "image_count": 7,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673542,
+        "name": "Phòng 2 Giường đơn (TWIN GUEST ROOM)",
+        "features": [],
+        "image_count": 5,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673534,
+        "name": "Phòng có Giường cỡ King (King Guest Room)",
+        "features": [],
+        "image_count": 4,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673535,
+        "name": "KING DELUXE RM POOL ACCESS",
+        "features": [],
+        "image_count": 4,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673540,
+        "name": "KING GUEST RM RIVERSIDE VW",
+        "features": [],
+        "image_count": 3,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673537,
+        "name": "King Accessible Room ",
+        "features": [],
+        "image_count": 3,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673538,
+        "name": "KING GUEST RM GARDEN VIEW (King Guest Rm Garden View)",
+        "features": [],
+        "image_count": 3,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673536,
+        "name": "King Guest Room Balcony",
+        "features": [],
+        "image_count": 3,
+        "bed_summary": null
+      },
+      {
+        "room_id": 1384673545,
+        "name": "TWIN GUEST RM RIVERSIDE",
+        "features": [],
+        "image_count": 3,
+        "bed_summary": null
+      }
+    ]
+  },
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Hoi An Ancient Town",
+    "Japanese Covered Bridge",
+    "Thiên nhiên và công viên",
+    "Văn hóa bản địa",
+    "cách trung tâm thành phố 2,75 km",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton tại Hội An.\nĐịa chỉ: Vong Nhi Village, Cẩm Thanh, Hội An, Việt Nam.\nNằm ở vị trí trung tâm tại Cẩm Thanh của Hội An, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nCác loại phòng: NHAAN PRESIDENTIAL SUITE; K PREMIUM SUITE RIVERSIDE; Phòng 2 Giường đơn (TWIN GUEST ROOM); Phòng có Giường cỡ King (King Guest Room); KING DELUXE RM POOL ACCESS; KING GUEST RM RIVERSIDE VW; King Accessible Room; KING GUEST RM GARDEN VIEW (King Guest Rm Garden View).\nGần: Sân chơi Cẩm Thanh, Gạo lứt Cẩm Thanh, Nhà may Alibaba, Bãi biển Cửa Đại, Lớp học nấu ăn Thuận Tính, Tiệm vải Thu Thủy.",
+  "_sources_captured": [
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}

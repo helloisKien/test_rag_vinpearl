@@ -1,0 +1,7 @@
+# ontology/candidate/location_candidates.yaml — AUTO-GENERATED bởi build_locations.py.
+# MỨC 3 (production-safe): country MỚI chưa có trong COUNTRY_SLUG được auto-slug để hotel
+# vào ontology NGAY (không chặn luồng nạp dữ liệu). Mục dưới CHỜ NGƯỜI duyệt: xác nhận/đổi
+# slug ID đẹp + label EN, rồi thêm vào COUNTRY_SLUG trong build_locations.py và chạy lại.
+# Đây KHÁC candidate_queue.yaml (concept ngữ nghĩa từ review). Location = data-driven, auto-OK.
+# status: pending | approved.
+location_candidates: []

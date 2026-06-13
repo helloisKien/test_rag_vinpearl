@@ -1,0 +1,52 @@
+# core/price_tier.yaml — facet: price_tier (HARD fact, suy từ star/giá/giải thưởng).
+# LƯU Ý: giá trị SỐ (giá, star_rating, review_score) KHÔNG ở đây — chúng là attribute
+# filter cứng, để ở metadata_schema.yaml (Task 1.8). Đây chỉ là phân KHÚC ngữ nghĩa.
+# Schema: xem ontology/_meta.yaml
+concepts:
+
+  PRICE_BUDGET:
+    facet: price_tier
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels]
+    label: {vi: Bình dân, en: Budget}
+    surface_forms:
+      vi: [giá rẻ, bình dân, tiết kiệm, giá tốt, rẻ, giá mềm, phải chăng, giá sinh viên,
+           vừa túi tiền, hợp túi tiền, không quá đắt, giá hạt dẻ, ít tiền, giá bình dân, tiết kiệm chi phí]
+      en: [budget, cheap, affordable]
+    description: {vi: Phân khúc giá rẻ / bình dân, en: Budget / affordable price tier}
+
+  PRICE_MID:
+    facet: price_tier
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking]
+    label: {vi: Tầm trung, en: Mid-range}
+    surface_forms:
+      vi: [tầm trung, hạng trung, giá vừa phải, vừa tiền, giá vừa, giá hợp lý, tầm trung khá]
+      en: [mid-range, midscale]
+    description: {vi: Phân khúc giá tầm trung, en: Mid-range price tier}
+
+  PRICE_UPSCALE:
+    facet: price_tier
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, tripadvisor]
+    label: {vi: Cao cấp, en: Upscale}
+    surface_forms:
+      vi: [cao cấp, hạng sang, premium, khá sang]
+      en: [upscale, premium, high-end]
+    description: {vi: Phân khúc cao cấp (trên tầm trung, dưới luxury), en: Upscale price tier}
+    narrower: [PRICE_LUXURY]
+
+  PRICE_LUXURY:
+    facet: price_tier
+    fact_type: hard
+    tier: core
+    provenance: [domain_knowledge, agoda, booking, google_hotels, tripadvisor]
+    label: {vi: Sang trọng, en: Luxury}
+    surface_forms:
+      vi: [sang trọng, đẳng cấp, xa hoa, sang chảnh, xịn, sang, siêu sang, vip, xa xỉ, đẳng cấp quốc tế]
+      en: [luxury, ultra luxury, five star]
+    description: {vi: Phân khúc sang trọng / xa hoa, en: Luxury / ultra-luxury price tier}
+    broader: PRICE_UPSCALE

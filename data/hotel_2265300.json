@@ -1,0 +1,1086 @@
+{
+  "crawled_at": "2026-06-03T22:14:13",
+  "source_url": "https://www.agoda.com/kail-s-house-flc-sam-son-resort/hotel/all/thanh-hoa-s-m-son-beach-vn.html?hotel=2265300&currency=VND&checkIn=2026-06-13&checkOut=2026-06-14&rooms=1&adults=2&children=0",
+  "hotel_id": 2265300,
+  "name": "Kail's House - FLC Sam Son Resort",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Biệt thự",
+  "star_rating": 4.5,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 8.8,
+  "review_count": 8,
+  "address": "Villa 87-88, FLC Sam Son Resort, Quang Cu, Quang Xuong, Sam Son, Bãi biển Sầm Sơn, Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam",
+  "area": "Bãi biển Sầm Sơn",
+  "city": "Thanh Hoá / Bãi biển Sầm Sơn",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 19.76558494567871,
+  "longitude": 105.91905212402344,
+  "description": "Với xe đạp miễn phí, khu vườn, cùng phòng chờ chung, Kail's House - FLC Sam Son Resort cung cấp chỗ nghỉ ở Sầm Sơn có Wi-Fi miễn phí và nhìn ra biển. Tọa lạc cách Bãi biển Sầm Sơn 4 phút đi bộ, chỗ nghỉ cung cấp nhà hàng và chỗ đậu xe riêng miễn phí.\n\nCó sân hiên nhìn ra thành phố, biệt thự có 7 phòng ngủ, phòng khách, TV màn hình phẳng truyền hình cáp, bếp đầy đủ tiện nghi, 7 phòng tắm với vòi xịt/chậu rửa vệ sinh và vòi sen. Khăn tắm và ga trải giường có sẵn ở biệt thự.\n\nKhách có thể sử dụng sân chơi trẻ em tại biệt thự.\n\nSân bay Thọ Xuân cách 54 km.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "07:00",
+    "Nhận phòng đến": "20:00"
+  },
+  "highlights": [
+    "Bãi biển riêng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày",
+    "Điều hòa",
+    "Nhận/trả phòng [nhanh]"
+  ],
+  "location_tags": [
+    "Chất lượng và tiện nghi phòng tuyệt vời",
+    "Nhận/trả phòng [nhanh]",
+    "Sạch bóng",
+    "Thích hợp cho các hoạt động"
+  ],
+  "amenities": [
+    "Bàn là",
+    "Bãi biển riêng",
+    "Bảo vệ 24 giờ",
+    "Bếp",
+    "Bể bơi",
+    "Dọn phòng hằng ngày",
+    "Máy giặt",
+    "Nhận trả phòng nhanh",
+    "Phòng tập",
+    "TV",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Truyền hình cáp",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Được phép đưa thú nuôi vào",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 23,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Giải trí ": [
+      "TV",
+      "Truyền hình cáp"
+    ],
+    "Tiện nghi": [
+      "Điều hòa"
+    ],
+    "Thư giãn & Vui chơi giải trí": [
+      "Bể bơi",
+      "Phòng tập"
+    ],
+    "Ăn uống": [
+      "Bếp"
+    ],
+    "Phòng tắm và vật dụng vệ sinh": [],
+    "Quần áo và Giặt ủi": [
+      "Bàn là",
+      "Máy giặt"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ",
+      "Được phép đưa thú nuôi vào"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ]
+  },
+  "amenities_general": [
+    "Bàn là",
+    "Bảo vệ 24 giờ",
+    "Máy giặt",
+    "TV",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Truyền hình cáp",
+    "Điều hòa",
+    "Được phép đưa thú nuôi vào",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [
+    "Bể bơi",
+    "Phòng tập"
+  ],
+  "amenities_dining": [
+    "Bếp"
+  ],
+  "nearby_places": [
+    {
+      "name": "FLC Golf Links Sầm Sơn",
+      "type": "Sân Gôn",
+      "distance_km": 0.75
+    },
+    {
+      "name": "Sân golf",
+      "type": "Sân Gôn",
+      "distance_km": 0.98
+    },
+    {
+      "name": "Công viên Trung tâm Sầm Sơn",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 3.82
+    },
+    {
+      "name": "Nhà thi đấu thành phố Sầm Sơn",
+      "type": "Các Sân Thể Thao",
+      "distance_km": 3.97
+    },
+    {
+      "name": "Bệnh viện B",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 4.31
+    },
+    {
+      "name": "Đền Độc Cước",
+      "type": "Đài Kỷ Niệm và Di Tích Lịch Sử",
+      "distance_km": 4.55
+    },
+    {
+      "name": "Công viên Hòn Trống Mái",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 5.17
+    },
+    {
+      "name": "Bãi đậu xe Hòn Trống Mái",
+      "type": "Bãi đỗ xe",
+      "distance_km": 5.25
+    },
+    {
+      "name": "Núi Trường Lệ",
+      "type": "Núi, đồi và hang động",
+      "distance_km": 5.36
+    },
+    {
+      "name": "Bãi đền Cô Tiên",
+      "type": "Bãi đỗ xe",
+      "distance_km": 5.38
+    }
+  ],
+  "image_count": 64,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/94810367.jpg?k=d59463ff35463878831a320de7768d054c2a0042af70378323e336f452d10cb5&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518794.jpg?k=f49768a9821e49e70fa28919667db88319d6fe53b959ec93fb7bc46df2be6d11&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/566361985.jpg?k=227613239dbb13576b22402f44b51074bfc4241dbf05e1ab4ac24947c5f0e59c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323921.jpg?k=6043c21c2dabaab5689d9bbc38ded9a992633fcb97757b2601f8fcc8dd46a68c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449864.jpg?k=57ac67803e6776c8174b1f808b579a3a19d1f6fcb75677b67e2d7076d17126f4&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131833.jpg?k=f502a6cec473fcc06a500629bf0364d4ac2e2a09f58a0c6993cdbc8fc779e9af&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295515981.jpg?k=4b6e93fba5cfbcf25f506141b9ded74b99635921b2d9871cbdba3c0e7763e879&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131723.jpg?k=cb4b66bcc355891d09d197e61383f25774962483362a0951703ea2beeb708889&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131613.jpg?k=31aa52f7111f8d83d662f697c732dff6a0d2822e1d0762564430c5b3c59a52e2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283605.jpg?k=4b0f8fc2c7dfd55fcf196dc3121246ef8b17380f5a79230bd9c54d2c22a47960&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413956.jpg?k=1631cdcec1c1aec5f042f36a3862c8eacd51e989b59df4b6aacd04af99da30f9&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/95337653.jpg?k=6445e60ac3458b7f495274b4a903e39167a09ea464d5c86afb2ac3a99c4d9871&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283716.jpg?k=6b7179bb25416ccad283832a7cb02c7cd8e83109c5009fb44470b18e6ed6b2c1&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449610.jpg?k=49991f3cd833e1329fe7e48feafe08084efe53abdba60c2be931695ca8f142be&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675105.jpg?k=34324dd090d04bf4c074df0bfd82809a59b13c88228679b72facf94ae5e42d5e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283654.jpg?k=d6705078b391ed89e02f20cc751d60d07c4f5e3710bbb618e60fb6779675f82e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/307908554.jpg?k=0e229a1e46fa46b7cc5db424b83d7d29318f09b450f8d6e429b34868c70acb64&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283612.jpg?k=0b02b5d52bddc20b671d76d2e87e94409c9ce182e445c14555adc084a3f6f284&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/307908520.jpg?k=ff9cfaf96b6d8755a704237d51ee92d95adfd9840e74c760cbef362b6a863e18&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283586.jpg?k=0f46a4d4f244de214484f755ad94f38707c722b7421481110471248b77e63f06&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323943.jpg?k=095edbf33b6aa1f6a20c070a9df79a974eb9c837b21ab8315bd0af4662b71255&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518850.jpg?k=32b153816569d3a556e4d6a87edd5fd77a748a935ff190a0bbdb87d9f8501ecf&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385535.jpg?k=af5e67f93ea38850a1abee938d5bb4d88e3d68fdde0d6be8a34a37951aea4a4d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323931.jpg?k=869f3ac54fa1faabedbf2822ab60fdbf821acd065545440c5c6ee15473f83d29&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449814.jpg?k=edcf253efce4a166c8aa5d39b64e7e57bd31ee5267afa458cd3980c4a22c1dfd&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/566361724.jpg?k=e40f825e614eb7560360a7574f1f393e3404c87a1ac6cda9d07571400dbbcf60&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272904.jpg?k=d15d27e715af600d4058cdf259545b85bbbd6dd4df8d1e234ed3c40ca5639fc5&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131998.jpg?k=08916cda8c66c72a0d3fc55099f0f933385ba34f1141ecee314d54cc3c68c72f&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283574.jpg?k=ecb8159dc6c0bbccdbc3f217d5a1500cbebc550bdc43ba993416c2486bebd5b2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020160.jpg?k=8a438c31606c3ffae00c865d696fc4125c6c20d23d463ce4838efd6af4a72355&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295516008.jpg?k=71db68b1756702107e36baea65d62104896cc0af79e3cda15bfa3ba6246d753d&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272537.jpg?k=f418cb415caeac8defa8de6664ecd02856dd450b0ce4fe60f47af64fd77e8772&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259414096.jpg?k=70461f1a2058046d7cc28b070a3bc492aae883bbe14b38211d45bdd75bb1c6ee&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283630.jpg?k=b02b2058bdd5c3c264dca8d0e6df6eaf7d7dff3e04638424a1017a085889caff&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518288.jpg?k=ac6297f102afff3f0285a220a5c599bfd79db6d34859ba08fecac48d648a5994&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172353.jpg?k=ad7ffce94f123a7b38c0d90996b9a72103c4395b7c48fc8cfcce8a7af629ac17&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272577.jpg?k=d22813884c8817d4c7c0f2cb7d01688b6bae56f6c1b631f14bd9d5457899616a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020158.jpg?k=447ead9ffe1acf5d1015564d665e7a5b455dd64ead23a4d75f142029d44af9c2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/99017722.jpg?k=b0c3f4354a190fe34eace648329f2fb12fdc64262f710713782354d9884d547b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675002.jpg?k=63c44c81e005652d0918682d15d318f7b2be191211716106a6ef9f28b5b2457c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385533.jpg?k=ae5782a5f40b2ddc5f2a303f1079617b41c6694517bfcd9479793c0acf993f9f&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020294.jpg?k=ab727aa23862e62969ffd95fa938af100471a4f94d8a3a0286b99a90e8f0e037&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674840.jpg?k=52263dcbc4fd6b2ad63da2e4a381306ff3a66ad3b5d650be97ee285f49e42f24&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020290.jpg?k=99af451365134f4ac9af7eb09b3ca29163d7cb8c0d4cc2a68c40d5f1520f1dc8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/95337650.jpg?k=76bc85096daf815299f8f585372a99f4e1d53b1fbe195dce37ed3d879c6c1399&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674853.jpg?k=5e4fb978922e8ffc95300fb2dd21a4195f9770f8f5b56f0ed0230e12ba717f5f&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253604025.jpg?k=2586843df436989a9c6278d86f9054ecdddaa0d9e9ecfdef2f0a1dc80fbec733&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172092.jpg?k=ea580a01077f21973dd02168ac40954b29454cb3d3a146305b8a45d7679381ca&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323952.jpg?k=07e2a1675b4fc6500b0095f56486894d9a1d02a1dbb09223d43ed94c02bc5425&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020229.jpg?k=12d724e2b4dbe4aaad218c6b997ba7cec838e5fd8cc551ec17e0165bbc9cb932&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413598.jpg?k=68736de13d387ab07c3645bfa0e95075c8a67c5dfab65d38e64765f1a2fb4c20&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020223.jpg?k=8a2e13e30d9c0df459a8bb4f815566b5c0ae2b4b044bf776604379621cebf58c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413533.jpg?k=74ee27e6152085af83c7b131277feaabef95af7cabebbe0356a1434aedb05ff2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385534.jpg?k=a961952e81142fb3d87f21dd15d323c10dc21ffc4f5616a97f7a718088ef41fb&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020288.jpg?k=70a3a190bda05dd1420914f74d700fd4ac075e3e8d257849f9aef9c78128ba68&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172075.jpg?k=4d1b2953b20e72b88f9bf992830a16b3a36875ce499213e0d87261b49233b0af&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675126.jpg?k=23a8f1795b657ef3eadcc756e1bb833d9291730d493064982949e17123c9bb2a&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020261.jpg?k=f5694b3286782d45915e5e4d80d401777cd88dfe519aaac4b39dd9a3b03c6136&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272891.jpg?k=e9013068a4aa032922bd6dd5b2d976bb0915c2119ece062a93bf49986cf6d756&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172247.jpg?k=643bc65c7a4b9bada6d751d5c44a1b8e5e45bda0bd6597933b6bb699f97e3ecc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413833.jpg?k=e3969b15ebdc2998587ecaf8bfdd5937909ffd2dcf2484d3821d5762114cafe4&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211519027.jpg?k=f4ceab7bfa0c96667307d1a190a82a85f2d3db9c3cdc902631645430554cfe04&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674743.jpg?k=a00d2a03b9629723aa65d908a6b5a234893d8e15fb43c5412e83b61bac963b39&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413469.jpg?k=b534f05770ff93a3434e368e98cbff468bda31838b818a00afaf8d42ffd215b8&o="
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/94810367.jpg?k=d59463ff35463878831a320de7768d054c2a0042af70378323e336f452d10cb5&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518794.jpg?k=f49768a9821e49e70fa28919667db88319d6fe53b959ec93fb7bc46df2be6d11&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/566361985.jpg?k=227613239dbb13576b22402f44b51074bfc4241dbf05e1ab4ac24947c5f0e59c&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323921.jpg?k=6043c21c2dabaab5689d9bbc38ded9a992633fcb97757b2601f8fcc8dd46a68c&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449864.jpg?k=57ac67803e6776c8174b1f808b579a3a19d1f6fcb75677b67e2d7076d17126f4&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131833.jpg?k=f502a6cec473fcc06a500629bf0364d4ac2e2a09f58a0c6993cdbc8fc779e9af&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295515981.jpg?k=4b6e93fba5cfbcf25f506141b9ded74b99635921b2d9871cbdba3c0e7763e879&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131723.jpg?k=cb4b66bcc355891d09d197e61383f25774962483362a0951703ea2beeb708889&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131613.jpg?k=31aa52f7111f8d83d662f697c732dff6a0d2822e1d0762564430c5b3c59a52e2&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283605.jpg?k=4b0f8fc2c7dfd55fcf196dc3121246ef8b17380f5a79230bd9c54d2c22a47960&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413956.jpg?k=1631cdcec1c1aec5f042f36a3862c8eacd51e989b59df4b6aacd04af99da30f9&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/95337653.jpg?k=6445e60ac3458b7f495274b4a903e39167a09ea464d5c86afb2ac3a99c4d9871&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283716.jpg?k=6b7179bb25416ccad283832a7cb02c7cd8e83109c5009fb44470b18e6ed6b2c1&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449610.jpg?k=49991f3cd833e1329fe7e48feafe08084efe53abdba60c2be931695ca8f142be&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675105.jpg?k=34324dd090d04bf4c074df0bfd82809a59b13c88228679b72facf94ae5e42d5e&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283654.jpg?k=d6705078b391ed89e02f20cc751d60d07c4f5e3710bbb618e60fb6779675f82e&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/307908554.jpg?k=0e229a1e46fa46b7cc5db424b83d7d29318f09b450f8d6e429b34868c70acb64&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283612.jpg?k=0b02b5d52bddc20b671d76d2e87e94409c9ce182e445c14555adc084a3f6f284&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/307908520.jpg?k=ff9cfaf96b6d8755a704237d51ee92d95adfd9840e74c760cbef362b6a863e18&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283586.jpg?k=0f46a4d4f244de214484f755ad94f38707c722b7421481110471248b77e63f06&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323943.jpg?k=095edbf33b6aa1f6a20c070a9df79a974eb9c837b21ab8315bd0af4662b71255&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518850.jpg?k=32b153816569d3a556e4d6a87edd5fd77a748a935ff190a0bbdb87d9f8501ecf&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385535.jpg?k=af5e67f93ea38850a1abee938d5bb4d88e3d68fdde0d6be8a34a37951aea4a4d&o=",
+      "caption": "Nơi tham quan gần đây",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323931.jpg?k=869f3ac54fa1faabedbf2822ab60fdbf821acd065545440c5c6ee15473f83d29&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295449814.jpg?k=edcf253efce4a166c8aa5d39b64e7e57bd31ee5267afa458cd3980c4a22c1dfd&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/566361724.jpg?k=e40f825e614eb7560360a7574f1f393e3404c87a1ac6cda9d07571400dbbcf60&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272904.jpg?k=d15d27e715af600d4058cdf259545b85bbbd6dd4df8d1e234ed3c40ca5639fc5&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/565131998.jpg?k=08916cda8c66c72a0d3fc55099f0f933385ba34f1141ecee314d54cc3c68c72f&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283574.jpg?k=ecb8159dc6c0bbccdbc3f217d5a1500cbebc550bdc43ba993416c2486bebd5b2&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020160.jpg?k=8a438c31606c3ffae00c865d696fc4125c6c20d23d463ce4838efd6af4a72355&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/295516008.jpg?k=71db68b1756702107e36baea65d62104896cc0af79e3cda15bfa3ba6246d753d&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272537.jpg?k=f418cb415caeac8defa8de6664ecd02856dd450b0ce4fe60f47af64fd77e8772&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259414096.jpg?k=70461f1a2058046d7cc28b070a3bc492aae883bbe14b38211d45bdd75bb1c6ee&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253283630.jpg?k=b02b2058bdd5c3c264dca8d0e6df6eaf7d7dff3e04638424a1017a085889caff&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211518288.jpg?k=ac6297f102afff3f0285a220a5c599bfd79db6d34859ba08fecac48d648a5994&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172353.jpg?k=ad7ffce94f123a7b38c0d90996b9a72103c4395b7c48fc8cfcce8a7af629ac17&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272577.jpg?k=d22813884c8817d4c7c0f2cb7d01688b6bae56f6c1b631f14bd9d5457899616a&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020158.jpg?k=447ead9ffe1acf5d1015564d665e7a5b455dd64ead23a4d75f142029d44af9c2&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/99017722.jpg?k=b0c3f4354a190fe34eace648329f2fb12fdc64262f710713782354d9884d547b&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675002.jpg?k=63c44c81e005652d0918682d15d318f7b2be191211716106a6ef9f28b5b2457c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385533.jpg?k=ae5782a5f40b2ddc5f2a303f1079617b41c6694517bfcd9479793c0acf993f9f&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020294.jpg?k=ab727aa23862e62969ffd95fa938af100471a4f94d8a3a0286b99a90e8f0e037&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674840.jpg?k=52263dcbc4fd6b2ad63da2e4a381306ff3a66ad3b5d650be97ee285f49e42f24&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020290.jpg?k=99af451365134f4ac9af7eb09b3ca29163d7cb8c0d4cc2a68c40d5f1520f1dc8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/95337650.jpg?k=76bc85096daf815299f8f585372a99f4e1d53b1fbe195dce37ed3d879c6c1399&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674853.jpg?k=5e4fb978922e8ffc95300fb2dd21a4195f9770f8f5b56f0ed0230e12ba717f5f&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253604025.jpg?k=2586843df436989a9c6278d86f9054ecdddaa0d9e9ecfdef2f0a1dc80fbec733&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172092.jpg?k=ea580a01077f21973dd02168ac40954b29454cb3d3a146305b8a45d7679381ca&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/255323952.jpg?k=07e2a1675b4fc6500b0095f56486894d9a1d02a1dbb09223d43ed94c02bc5425&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020229.jpg?k=12d724e2b4dbe4aaad218c6b997ba7cec838e5fd8cc551ec17e0165bbc9cb932&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413598.jpg?k=68736de13d387ab07c3645bfa0e95075c8a67c5dfab65d38e64765f1a2fb4c20&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020223.jpg?k=8a2e13e30d9c0df459a8bb4f815566b5c0ae2b4b044bf776604379621cebf58c&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413533.jpg?k=74ee27e6152085af83c7b131277feaabef95af7cabebbe0356a1434aedb05ff2&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/96385534.jpg?k=a961952e81142fb3d87f21dd15d323c10dc21ffc4f5616a97f7a718088ef41fb&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020288.jpg?k=70a3a190bda05dd1420914f74d700fd4ac075e3e8d257849f9aef9c78128ba68&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172075.jpg?k=4d1b2953b20e72b88f9bf992830a16b3a36875ce499213e0d87261b49233b0af&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252675126.jpg?k=23a8f1795b657ef3eadcc756e1bb833d9291730d493064982949e17123c9bb2a&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253020261.jpg?k=f5694b3286782d45915e5e4d80d401777cd88dfe519aaac4b39dd9a3b03c6136&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/253272891.jpg?k=e9013068a4aa032922bd6dd5b2d976bb0915c2119ece062a93bf49986cf6d756&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197172247.jpg?k=643bc65c7a4b9bada6d751d5c44a1b8e5e45bda0bd6597933b6bb699f97e3ecc&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413833.jpg?k=e3969b15ebdc2998587ecaf8bfdd5937909ffd2dcf2484d3821d5762114cafe4&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/211519027.jpg?k=f4ceab7bfa0c96667307d1a190a82a85f2d3db9c3cdc902631645430554cfe04&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/252674743.jpg?k=a00d2a03b9629723aa65d908a6b5a234893d8e15fb43c5412e83b61bac963b39&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/259413469.jpg?k=b534f05770ff93a3434e368e98cbff468bda31838b818a00afaf8d42ffd215b8&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    }
+  ],
+  "district": "Bãi biển Sầm Sơn",
+  "province": "Thanh Hoá / Bãi biển Sầm Sơn",
+  "city_id": 105661,
+  "property_page": "/kail-s-house-flc-sam-son-resort/hotel/all/thanh-hoa-s-m-son-beach-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 13094779,
+        "name": "Biệt Thự (Villa)",
+        "name_en": "(Villa)",
+        "room_size": "230 m²",
+        "size_sqm": 230.0,
+        "max_occupancy": 4,
+        "max_occupancy_text": null,
+        "bed_type": "2 giường lớn / 1 giường sofa và 1 giường đôi lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường đôi lớn / 1 giường lớn / 1 giường sofa",
+        "bed_types": [
+          "2 giường lớn / 1 giường sofa và 1 giường đôi lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường đôi lớn / 1 giường lớn / 1 giường sofa"
+        ],
+        "room_view": "Hướng Biển",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Biển",
+          "Bồn tắm"
+        ],
+        "room_amenities": [
+          "2 giường lớn 1 giường sofa và 1 giường đôi lớn 1 giường lớn 1 giường lớn 1 giường lớn 1 giường đôi lớn 1 giường lớn 1 giường sofa",
+          "230 m²",
+          "Ban công sân hiên",
+          "Bàn ăn",
+          "Bếp",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Bồn tắm tạo sóng",
+          "Cách âm",
+          "Giường cực dài",
+          "Giải trí",
+          "Hướng biển",
+          "Khu vực tiếp khách",
+          "Khu vực ăn uống riêng",
+          "Lò vi sóng",
+          "Máy giặt",
+          "Nhà vệ sinh phụ",
+          "Phòng tắm phụ",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "Sản phẩm vệ sinh",
+          "TV màn hình phẳng",
+          "Truyền hình cáp vệ tinh",
+          "Tủ lạnh",
+          "Ăn uống",
+          "Điều hòa",
+          "Đồ gỗ ngoài trời"
+        ],
+        "image_count": 64,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/94810367.jpg?k=d59463ff35463878831a320de7768d054c2a0042af70378323e336f452d10cb5&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/211518794.jpg?k=f49768a9821e49e70fa28919667db88319d6fe53b959ec93fb7bc46df2be6d11&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/566361985.jpg?k=227613239dbb13576b22402f44b51074bfc4241dbf05e1ab4ac24947c5f0e59c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/255323921.jpg?k=6043c21c2dabaab5689d9bbc38ded9a992633fcb97757b2601f8fcc8dd46a68c&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/295449864.jpg?k=57ac67803e6776c8174b1f808b579a3a19d1f6fcb75677b67e2d7076d17126f4&o="
+        ],
+        "review_score": null,
+        "price_per_night": 3000000,
+        "original_price": 5230000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 13094779,
+      "name": "Biệt Thự (Villa)",
+      "name_en": "(Villa)",
+      "room_size": "230 m²",
+      "size_sqm": 230.0,
+      "max_occupancy": 4,
+      "max_occupancy_text": null,
+      "bed_type": "2 giường lớn / 1 giường sofa và 1 giường đôi lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường đôi lớn / 1 giường lớn / 1 giường sofa",
+      "bed_types": [
+        "2 giường lớn / 1 giường sofa và 1 giường đôi lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường đôi lớn / 1 giường lớn / 1 giường sofa"
+      ],
+      "room_view": "Hướng Biển",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Biển",
+        "Bồn tắm"
+      ],
+      "room_amenities": [
+        "2 giường lớn 1 giường sofa và 1 giường đôi lớn 1 giường lớn 1 giường lớn 1 giường lớn 1 giường đôi lớn 1 giường lớn 1 giường sofa",
+        "230 m²",
+        "Ban công sân hiên",
+        "Bàn ăn",
+        "Bếp",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Bồn tắm tạo sóng",
+        "Cách âm",
+        "Giường cực dài",
+        "Giải trí",
+        "Hướng biển",
+        "Khu vực tiếp khách",
+        "Khu vực ăn uống riêng",
+        "Lò vi sóng",
+        "Máy giặt",
+        "Nhà vệ sinh phụ",
+        "Phòng tắm phụ",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "Sản phẩm vệ sinh",
+        "TV màn hình phẳng",
+        "Truyền hình cáp vệ tinh",
+        "Tủ lạnh",
+        "Ăn uống",
+        "Điều hòa",
+        "Đồ gỗ ngoài trời"
+      ],
+      "image_count": 64,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/94810367.jpg?k=d59463ff35463878831a320de7768d054c2a0042af70378323e336f452d10cb5&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/211518794.jpg?k=f49768a9821e49e70fa28919667db88319d6fe53b959ec93fb7bc46df2be6d11&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/566361985.jpg?k=227613239dbb13576b22402f44b51074bfc4241dbf05e1ab4ac24947c5f0e59c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/255323921.jpg?k=6043c21c2dabaab5689d9bbc38ded9a992633fcb97757b2601f8fcc8dd46a68c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/295449864.jpg?k=57ac67803e6776c8174b1f808b579a3a19d1f6fcb75677b67e2d7076d17126f4&o="
+      ],
+      "review_score": null,
+      "price_per_night": 3000000,
+      "original_price": 5230000
+    }
+  ],
+  "reviews_detail": {
+    "score": 8.8,
+    "score_text": "Tuyệt vời",
+    "review_count": 8,
+    "comments_count": 5,
+    "grades": [
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 10.0
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 9.4
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 9.1
+      },
+      {
+        "name": "",
+        "score": 8.9
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 8.8
+      },
+      {
+        "name": "Vị trí",
+        "score": 8.8
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 8.5
+      }
+    ],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Cặp đôi",
+        "count": 1,
+        "score": 9.2
+      },
+      {
+        "name": "Gia đình có trẻ nhỏ",
+        "count": 2,
+        "score": 8.2
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 3,
+        "score": 9.1
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 1,
+        "score": 10.0
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 9.2,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "05 tháng 1 2023",
+        "check_in": "Tháng 9 năm 2022",
+        "text": "8/10",
+        "title": "Trên cả tuyệt vời",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lưu",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Việt Nam",
+        "room_type": "Biệt Thự"
+      },
+      {
+        "review_id": 579465960,
+        "rating": 9.2,
+        "rating_text": "Exceptional",
+        "date": "January 05, 2023",
+        "check_in": "September 2022",
+        "title": "Exceptional",
+        "text": "8/10",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Lưu",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Vietnam",
+        "room_type": "Villa"
+      }
+    ]
+  },
+  "rating_overall": 8.8,
+  "rating_count": 8,
+  "rating_breakdown": {
+    "Sự thoải mái và chất lượng phòng": 10.0,
+    "Độ sạch sẽ": 9.4,
+    "Dịch vụ": 9.1,
+    "Cơ sở vật chất": 8.8,
+    "Vị trí": 8.8,
+    "Đáng tiền": 8.5
+  },
+  "secondary": {
+    "description_full": "Với xe đạp miễn phí, khu vườn, cùng phòng chờ chung, Kail's House - FLC Sam Son Resort cung cấp chỗ nghỉ ở Sầm Sơn có Wi-Fi miễn phí và nhìn ra biển. Tọa lạc cách Bãi biển Sầm Sơn 4 phút đi bộ, chỗ nghỉ cung cấp nhà hàng và chỗ đậu xe riêng miễn phí.\n\nCó sân hiên nhìn ra thành phố, biệt thự có 7 phòng ngủ, phòng khách, TV màn hình phẳng truyền hình cáp, bếp đầy đủ tiện nghi, 7 phòng tắm với vòi xịt/chậu rửa vệ sinh và vòi sen. Khăn tắm và ga trải giường có sẵn ở biệt thự.\n\nKhách có thể sử dụng sân chơi trẻ em tại biệt thự.\n\nSân bay Thọ Xuân cách 54 km.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 13094779,
+        "name": "Biệt Thự (Villa)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "2 giường lớn & 1 giường sofa và 1 giường đôi lớn & 1 giường lớn & 1 giường lớn & 1 giường lớn & 1 giường đôi lớn & 1 giường lớn & 1 giường sofa",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Bãi biển Sầm Sơn của Thanh Hoá / Bãi biển Sầm Sơn, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1465004,
+      "title": "Hon Bay Canh 2-Day Camping and Turtle Release Tour",
+      "description": "Spend two days on Hon Bay Canh, a highlight of the Con Dao archipelago, where you can snorkel, camp overnight, and participate in a unique turtle release experience. Enjoy guided activities that immer",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 3908246.0,
+                "crossedOut": 4549763.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 767677,
+      "title": "Phu My Shore Excursion - Cu Chi Tunnels and Ho Chi Minh City Tour",
+      "description": "Discover the history of the Cu Chi Tunnels and the vibrant energy of Ho Chi Minh City on this Phu My Shore Excursion. Explore the underground tunnel system that played a crucial role during the war, a",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 3464850.0,
+                "crossedOut": 4081095.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1430539,
+      "title": "Con Dao Airport Business Lounge - Wi-Fi, Food, Drinks",
+      "description": "Escape the noise and chaos of Con Dao Airport by unwinding in the Business Lounge, your personal sanctuary before your next flight. Enjoy a comfortable environment where you can relax, catch up on wor",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 648262.0,
+                "crossedOut": 763560.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 827881,
+      "title": "Private Ho Chi Minh City Shore Excursion - Phu My Port Tour",
+      "description": "Ho Chi Minh City is a vibrant destination filled with unique cultural features, iconic sights, and a lively urban atmosphere. This private shore excursion from Phu My Port lets you explore the city's",
+      "review_score": 4.9,
+      "review_count": 379,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 2449579.0,
+                "crossedOut": 3027909.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1334795,
+      "title": "Private Ho Chi Minh City Shore Excursion from Phu My Port - Guided Tour",
+      "description": "Discover the vibrant culture and deep history of Ho Chi Minh City on this private shore excursion from Phu My Port. Enjoy a full-day tour that includes convenient pickup, a guided visit to key landmar",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 7997762.0,
+                "crossedOut": 10400211.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 904972,
+      "title": "Ho Chi Minh City Private Shore Excursion from Phu My Port - Guided Tour",
+      "description": "Discover Ho Chi Minh City on a private shore excursion from Phu My Port with an English-speaking guide. Explore French colonial architecture, learn about the city's war history at the Independence Pal",
+      "review_score": 4.8,
+      "review_count": 50,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1316087.0,
+                "crossedOut": 1711427.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1219605,
+      "title": "Private Ho Chi Minh City Shore Excursion - Water Bus Tour",
+      "description": "Discover Ho Chi Minh City with a private shore excursion that starts with a scenic Saigon Water Bus ride, offering unique river views of the city's vibrant skyline and landmarks. After the cruise, exp",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 2827146.0,
+                "crossedOut": 3291206.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1328325,
+      "title": "Phu My Port to Ho Chi Minh City Private Full-Day Tour",
+      "description": "Discover the vibrant culture and history of Ho Chi Minh City with a full-day private tour starting from Phu My Port. After a convenient pickup, travel by air-conditioned minivan to explore iconic land",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 9046867.0,
+                "crossedOut": 10531859.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 519725,
+      "title": "Countryside Biking Experience - Phu My Port, Vietnam",
+      "description": "Start your journey at the seaside and cycle into the renowned rubber tree forests of Southeastern Vietnam. This special route is designed to maximize your time ashore, letting you slow down, immerse y",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 4229410.0,
+                "crossedOut": 4923644.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1219711,
+      "title": "Private Mekong Delta Tour - My Tho and Ben Tre from Cruise Port",
+      "description": "Discover the vibrant culture and natural beauty of southern Vietnam on a private Mekong Delta tour, traveling from your cruise port to My Tho and Ben Tre. The region, known as Cuu Long or Nine Dragons",
+      "review_score": 4.8,
+      "review_count": 8,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 2982227.0,
+                "crossedOut": 3554502.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Cặp đôi",
+    "Gia đình có trẻ nhỏ",
+    "Nhóm du khách"
+  ],
+  "view_types": [
+    "Hướng Biển"
+  ],
+  "tags": [
+    "Bãi biển riêng",
+    "Chất lượng và tiện nghi phòng tuyệt vời",
+    "Cặp đôi",
+    "Dọn phòng hằng ngày",
+    "Gia đình có trẻ nhỏ",
+    "Hướng Biển",
+    "Nhóm du khách",
+    "Nhận/trả phòng [nhanh]",
+    "Sạch bóng",
+    "Thích hợp cho các hoạt động",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Điều hòa"
+  ],
+  "embedding_text": "Kail's House - FLC Sam Son Resort - khách sạn 4.5 sao tại Thanh Hoá / Bãi biển Sầm Sơn.\nĐịa chỉ: Villa 87-88, FLC Sam Son Resort, Quang Cu, Quang Xuong, Sam Son, Bãi biển Sầm Sơn, Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam.\nNằm ở vị trí trung tâm tại Bãi biển Sầm Sơn của Thanh Hoá / Bãi biển Sầm Sơn, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 4 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Bàn là, Bãi biển riêng, Bảo vệ [24 giờ], Bếp, Bể bơi, Bồn tắm, Các loại khăn, Dọn phòng hằng ngày, Máy giặt, Máy sấy tóc, Nhận/trả phòng [nhanh], Phòng tập, Quạt, TV, Tiếng Anh, Truyền hình cáp, Vải trải giường, Vật dụng tắm rửa, Wi-Fi miễn phí trong tất cả các phòng!, tiếng Việt, Điều hòa, Được phép đưa thú nuôi vào, Đỗ xe miễn phí.\nĐiểm đánh giá 8.8/10 dựa trên 8 đánh giá.\nCác loại phòng: Biệt Thự (Villa).\nGần: FLC Golf Links Sầm Sơn, Sân golf, Công viên Trung tâm Sầm Sơn, Nhà thi đấu thành phố Sầm Sơn, Bệnh viện B, Đền Độc Cước.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

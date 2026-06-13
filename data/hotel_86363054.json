@@ -1,0 +1,976 @@
+{
+  "crawled_at": "2026-06-06T14:33:10",
+  "source_url": "https://www.agoda.com/homestay-mai-truong-cu-lao-cham/hotel/all/tan-hiep-vn.html?hotel=86363054&currency=VND&checkIn=2026-06-16&checkOut=2026-06-17&rooms=1&adults=2&children=0",
+  "hotel_id": 86363054,
+  "name": "Homestay Mai Trường Cù Lao Chàm (Homestay Mai Truong Cu Lao Cham)",
+  "property_type": "Hotel",
+  "accommodation_type": "Nhà khách / Nhà nghỉ B&B",
+  "star_rating": 3.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 9.6,
+  "review_count": 9,
+  "address": "Bãi Ông, Tam Hiệp, Tân Hiệp, Việt Nam",
+  "area": "Tam Hiệp",
+  "city": "Tân Hiệp",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 15.959373474121094,
+  "longitude": 108.50550079345703,
+  "description": "Homestay Mai Trường Cù Lao Chàm cung cấp chỗ nghỉ nằm ở Tân Hiệp, cách Bãi Làng 4 phút đi bộ và Cù Lao Chàm 2.8 km. Wi-Fi miễn phí được cung cấp ở toàn bộ chỗ nghỉ.\n\nĐược thiết kế với sân hiên, các căn có điều hòa, TV màn hình phẳng, cùng phòng tắm riêng gồm vòi sen và đồ vệ sinh cá nhân miễn phí. Tất cả các căn đều được thiết kế có ban công nhìn ra núi.",
+  "check_in_from": "09:00",
+  "check_out_until": "08:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "09:00",
+    "Trả phòng đến": "08:00",
+    "Trả phòng từ": "07:00",
+    "Nhận phòng đến": "14:00"
+  },
+  "highlights": [
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Điều hòa",
+    "Ban công/sân hiên",
+    "Bãi biển",
+    "Vải trải giường"
+  ],
+  "location_tags": [
+    "Sạch bóng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Điều hòa",
+    "Đáng tiền nhất"
+  ],
+  "amenities": [
+    "Ban công sân hiên",
+    "Bãi biển",
+    "Hoàn toàn không hút thuốc",
+    "Sàn lát gạch sàn đá cẩm thạch",
+    "Sân hiên",
+    "TV màn hình phẳng",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Điều hòa cá nhân",
+    "Điều hòa ở khu vực chung",
+    "Đồ dùng cho giấc ngủ thoải mái"
+  ],
+  "amenities_count": 25,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Truy cập Internet": [
+      "WiFi miễn phí"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Hoàn toàn không hút thuốc",
+      "Sân hiên",
+      "Điều hòa ở khu vực chung"
+    ],
+    "Có trong tất cả phòng": [
+      "Ban công sân hiên",
+      "Sàn lát gạch sàn đá cẩm thạch",
+      "TV màn hình phẳng",
+      "Điều hòa",
+      "Điều hòa cá nhân",
+      "Đồ dùng cho giấc ngủ thoải mái"
+    ]
+  },
+  "amenities_general": [
+    "Ban công sân hiên",
+    "Hoàn toàn không hút thuốc",
+    "Sàn lát gạch sàn đá cẩm thạch",
+    "Sân hiên",
+    "TV màn hình phẳng",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Điều hòa cá nhân",
+    "Điều hòa ở khu vực chung",
+    "Đồ dùng cho giấc ngủ thoải mái"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Cù Lao Chàm",
+      "type": "Đảo",
+      "distance_km": 0.7
+    },
+    {
+      "name": "Cù Lao Chàm",
+      "type": "Đảo",
+      "distance_km": 1.29
+    },
+    {
+      "name": "Hòn Tai",
+      "type": "Đảo",
+      "distance_km": 6.67
+    },
+    {
+      "name": "Sân bay Quốc tế Đà Nẵng",
+      "type": "Sân Bay",
+      "distance_km": 34.31
+    },
+    {
+      "name": "Sân bay Chu Lai",
+      "type": "Sân Bay",
+      "distance_km": 64.24
+    },
+    {
+      "name": "Sân bay Quốc tế Phú Bài",
+      "type": "Sân Bay",
+      "distance_km": 98.88
+    }
+  ],
+  "image_count": 8,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558721.jpg?k=c06bf6abbc46100a02efe3fc05b1360fad926fd5bbdfddd6758762c18567d7da&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558698.jpg?k=0ac2ad06c6365aba51de7bea50b62429208111c5aaee8fc7787b1a3fd584e201&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558686.jpg?k=1833a54a62653dd665b474219e7a436c475876b1561bd598c6533abb9ea63029&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558715.jpg?k=1561d3a67fab3e353476a9d10a2acdb31e61c08dc358d3ead0da12f56dfbe511&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558704.jpg?k=d793468614648a651b786ab6d920360a811221f7587cd80ce38c5c145beba9dd&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558694.jpg?k=16fd32ac74c8d3d8cbee52fba5920308bdc8b3bbed47c9e9fc9f0f645e1a32ac&o="
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558721.jpg?k=c06bf6abbc46100a02efe3fc05b1360fad926fd5bbdfddd6758762c18567d7da&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558698.jpg?k=0ac2ad06c6365aba51de7bea50b62429208111c5aaee8fc7787b1a3fd584e201&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558686.jpg?k=1833a54a62653dd665b474219e7a436c475876b1561bd598c6533abb9ea63029&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558715.jpg?k=1561d3a67fab3e353476a9d10a2acdb31e61c08dc358d3ead0da12f56dfbe511&o=",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558704.jpg?k=d793468614648a651b786ab6d920360a811221f7587cd80ce38c5c145beba9dd&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/838558694.jpg?k=16fd32ac74c8d3d8cbee52fba5920308bdc8b3bbed47c9e9fc9f0f645e1a32ac&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    }
+  ],
+  "district": "Tam Hiệp",
+  "province": "Tân Hiệp",
+  "city_id": 215135,
+  "property_page": "/homestay-mai-truong-cu-lao-cham/hotel/all/tan-hiep-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 2,
+    "rooms": [
+      {
+        "room_type_id": 1350625085,
+        "name": "Phòng Đôi (Double Room)",
+        "name_en": "(Double Room)",
+        "room_size": "20 m²",
+        "size_sqm": 20.0,
+        "max_occupancy": 4,
+        "max_occupancy_text": null,
+        "bed_type": "2 giường đôi",
+        "bed_types": [
+          "2 giường đôi"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "2 giường đôi",
+          "20 m²",
+          "Ban công sân hiên",
+          "Bố trí và nội thất phòng",
+          "Giải trí",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "TV màn hình phẳng",
+          "Tính năng an toàn và an ninh",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái"
+        ],
+        "image_count": 5,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558721.jpg?k=c06bf6abbc46100a02efe3fc05b1360fad926fd5bbdfddd6758762c18567d7da&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558698.jpg?k=0ac2ad06c6365aba51de7bea50b62429208111c5aaee8fc7787b1a3fd584e201&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558686.jpg?k=1833a54a62653dd665b474219e7a436c475876b1561bd598c6533abb9ea63029&o="
+        ],
+        "review_score": null,
+        "price_per_night": 600000,
+        "original_price": 970000
+      },
+      {
+        "room_type_id": 1350625065,
+        "name": "Phòng Gia Đình (Family Room)",
+        "name_en": "(Family Room)",
+        "room_size": "10 m²",
+        "size_sqm": 10.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi",
+        "bed_types": [
+          "1 giường đôi"
+        ],
+        "room_view": "Hướng Núi",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Núi",
+          "Vòi sen"
+        ],
+        "room_amenities": [
+          "1 giường đôi",
+          "10 m²",
+          "Ban công sân hiên",
+          "Bố trí và nội thất phòng",
+          "Giải trí",
+          "Hướng núi",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "Sàn lát gạch sàn đá cẩm thạch",
+          "TV màn hình phẳng",
+          "Tính năng an toàn và an ninh",
+          "Điều hòa",
+          "Điều hòa cá nhân",
+          "Đồ dùng cho giấc ngủ thoải mái"
+        ],
+        "image_count": 5,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558704.jpg?k=d793468614648a651b786ab6d920360a811221f7587cd80ce38c5c145beba9dd&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558724.jpg?k=f07f713585b9a2f1310a3d9665dcc5dc8e8f89b26978a9f9f747b4bbedb44343&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558694.jpg?k=16fd32ac74c8d3d8cbee52fba5920308bdc8b3bbed47c9e9fc9f0f645e1a32ac&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o="
+        ],
+        "review_score": 10.0,
+        "price_per_night": 600000,
+        "original_price": 860000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1350625085,
+      "name": "Phòng Đôi (Double Room)",
+      "name_en": "(Double Room)",
+      "room_size": "20 m²",
+      "size_sqm": 20.0,
+      "max_occupancy": 4,
+      "max_occupancy_text": null,
+      "bed_type": "2 giường đôi",
+      "bed_types": [
+        "2 giường đôi"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "2 giường đôi",
+        "20 m²",
+        "Ban công sân hiên",
+        "Bố trí và nội thất phòng",
+        "Giải trí",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "TV màn hình phẳng",
+        "Tính năng an toàn và an ninh",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái"
+      ],
+      "image_count": 5,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558721.jpg?k=c06bf6abbc46100a02efe3fc05b1360fad926fd5bbdfddd6758762c18567d7da&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558698.jpg?k=0ac2ad06c6365aba51de7bea50b62429208111c5aaee8fc7787b1a3fd584e201&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558686.jpg?k=1833a54a62653dd665b474219e7a436c475876b1561bd598c6533abb9ea63029&o="
+      ],
+      "review_score": null,
+      "price_per_night": 600000,
+      "original_price": 970000
+    },
+    {
+      "room_type_id": 1350625065,
+      "name": "Phòng Gia Đình (Family Room)",
+      "name_en": "(Family Room)",
+      "room_size": "10 m²",
+      "size_sqm": 10.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi",
+      "bed_types": [
+        "1 giường đôi"
+      ],
+      "room_view": "Hướng Núi",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Núi",
+        "Vòi sen"
+      ],
+      "room_amenities": [
+        "1 giường đôi",
+        "10 m²",
+        "Ban công sân hiên",
+        "Bố trí và nội thất phòng",
+        "Giải trí",
+        "Hướng núi",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "Sàn lát gạch sàn đá cẩm thạch",
+        "TV màn hình phẳng",
+        "Tính năng an toàn và an ninh",
+        "Điều hòa",
+        "Điều hòa cá nhân",
+        "Đồ dùng cho giấc ngủ thoải mái"
+      ],
+      "image_count": 5,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558704.jpg?k=d793468614648a651b786ab6d920360a811221f7587cd80ce38c5c145beba9dd&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558701.jpg?k=bc666b068f895b31fb5e23164783138e636392d4c932784a926bdafd39f28de1&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558724.jpg?k=f07f713585b9a2f1310a3d9665dcc5dc8e8f89b26978a9f9f747b4bbedb44343&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558694.jpg?k=16fd32ac74c8d3d8cbee52fba5920308bdc8b3bbed47c9e9fc9f0f645e1a32ac&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/838558582.jpg?k=08d68ac7f1b1cd3d0edf839666493a73ef99c9082ecfeef298acd6d4d9482d18&o="
+      ],
+      "review_score": 10.0,
+      "price_per_night": 600000,
+      "original_price": 860000
+    }
+  ],
+  "reviews_detail": {
+    "score": 9.6,
+    "score_text": "Trên cả tuyệt vời",
+    "review_count": 9,
+    "comments_count": 1,
+    "grades": [
+      {
+        "name": "Vị trí",
+        "score": 10.0
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 10.0
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 10.0
+      },
+      {
+        "name": "",
+        "score": 9.6
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 9.4
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 9.1
+      },
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 8.9
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Độ sạch sẽ",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Chủ nhà",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Dịch vụ",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      },
+      {
+        "tag": "Đáng tiền",
+        "mentioned": 1,
+        "positive_pct": 100.0
+      }
+    ],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Cặp đôi",
+        "count": 1,
+        "score": 10.0
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 1,
+        "score": 10.0
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 3,
+        "score": 9.5
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 2,
+        "score": 10.0
+      },
+      {
+        "name": "Nhóm du khách",
+        "count": 2,
+        "score": 9.1
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "14 tháng 4 2026",
+        "check_in": "Tháng 4 năm 2026",
+        "text": "We had an incredible stay and couldn't have asked for a better experience. If you are looking for a place on the island, this is hands down the best value for money you will find.\nThe Accommodation:\nThe apartment is in very good condition and was sparkling clean when we arrived. It's simple but comfortable, providing everything you need for a relaxing island getaway.\nThe Host:\nThe highlight of our trip was definitely the hostess. She is incredibly welcoming, polite, and attentive. She truly goes above and beyond to make sure her guests are happy.\nAbove and Beyond Service:\nWe experienced a bit of a crisis when our planned transport failed to pick us up from the island. We were worried about being stranded, but the hostess stepped in immediately. Thanks to her quick thinking and help, she arranged alternative transport and ensured we were successfully delivered back to the mainland.\nSummary: Amazing host, clean rooms, and total peace of mind. We highly recommend this place to anyone visiting Cham Island!",
+        "title": "An Absolute Gem on Cham Island!",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Maksym",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Ukraine",
+        "room_type": "Phòng Gia Đình"
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "22 tháng 3 2026",
+        "check_in": "",
+        "text": null,
+        "title": "We want to back here",
+        "positives": "The owners are super friendly. They meet us near the boat, it was so cute! Rooms are clean and comfortable. We drink tea together and communicate.",
+        "negatives": "The bed is not soft, if it's important for you, be attentive.",
+        "response": null,
+        "reviewer_name": "Iuliana",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "22 tháng 3 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Trên cả tuyệt vời",
+        "positives": "A very hospitable hostess who treated us to tea and sweets and told us her story. It was warm and cosy",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Pavlo",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "05 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Ik had een fijne tijd op Cham Islands in deze Homestay.",
+        "positives": "Een fijne plek op een goede locatie.\nEen mooie, schone marmeren kamer.\nDe familie is heel aardig en behulpzaam.\nDe locatie is dichtbij een heel fijn strand.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Frederike",
+        "reviewer_type": "Du lịch một mình",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "27 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Location and staff were the highlights!",
+        "positives": "Well located right next to the port (2 minutes walk) and less than 10 minutes from a beautiful beach equipped with a beach bar and plenty of deck chairs which are free to use. Perfect for our beachy holiday stay. 10 mins walk from some lovely restaurants as well. Aircon worked well in the rooms and the showers were hot. The owners were so lovely and attentive, gave us snacks to take down to the beach and also helped carry our bags to the port when we were leaving they spoke little English but google translate got everything across perfectly! Highlights were the location and staff for sure :)",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ruby",
+        "reviewer_type": "Nhóm",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 9.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "06 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Tuyệt vời",
+        "positives": "Friendly and helpfull hosts. Perfect location on the island.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Cees",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1105123889,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 14, 2026",
+        "check_in": "April 2026",
+        "title": "An Absolute Gem on Cham Island!",
+        "text": "We had an incredible stay and couldn't have asked for a better experience. If you are looking for a place on the island, this is hands down the best value for money you will find.\nThe Accommodation:\nThe apartment is in very good condition and was sparkling clean when we arrived. It's simple but comfortable, providing everything you need for a relaxing island getaway.\nThe Host:\nThe highlight of our trip was definitely the hostess. She is incredibly welcoming, polite, and attentive. She truly goes above and beyond to make sure her guests are happy.\nAbove and Beyond Service:\nWe experienced a bit of a crisis when our planned transport failed to pick us up from the island. We were worried about being stranded, but the hostess stepped in immediately. Thanks to her quick thinking and help, she arranged alternative transport and ensured we were successfully delivered back to the mainland.\nSummary: Amazing host, clean rooms, and total peace of mind. We highly recommend this place to anyone visiting Cham Island!",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Maksym",
+        "reviewer_type": "Couple",
+        "reviewer_country": "Ukraine",
+        "room_type": "Family Room"
+      },
+      {
+        "review_id": 1099871301,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 22, 2026",
+        "check_in": "",
+        "title": "We want to back here",
+        "text": null,
+        "positives": "The owners are super friendly. They meet us near the boat, it was so cute! Rooms are clean and comfortable. We drink tea together and communicate.",
+        "negatives": "The bed is not soft, if it's important for you, be attentive.",
+        "response": null,
+        "reviewer_name": "Iuliana",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1099871303,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "March 22, 2026",
+        "check_in": "",
+        "title": "Exceptional",
+        "text": null,
+        "positives": "A very hospitable hostess who treated us to tea and sweets and told us her story. It was warm and cosy",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Pavlo",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1105011944,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 05, 2026",
+        "check_in": "",
+        "title": "Ik had een fijne tijd op Cham Islands in deze Homestay.",
+        "text": null,
+        "positives": "Een fijne plek op een goede locatie.\nEen mooie, schone marmeren kamer.\nDe familie is heel aardig en behulpzaam.\nDe locatie is dichtbij een heel fijn strand.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Frederike",
+        "reviewer_type": "Solo traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1105011936,
+        "rating": 9.0,
+        "rating_text": "Exceptional",
+        "date": "April 06, 2026",
+        "check_in": "",
+        "title": "Excellent",
+        "text": null,
+        "positives": "Friendly and helpfull hosts. Perfect location on the island.",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Cees",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1117626031,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "April 27, 2026",
+        "check_in": "",
+        "title": "Location and staff were the highlights!",
+        "text": null,
+        "positives": "Well located right next to the port (2 minutes walk) and less than 10 minutes from a beautiful beach equipped with a beach bar and plenty of deck chairs which are free to use. Perfect for our beachy holiday stay. 10 mins walk from some lovely restaurants as well. Aircon worked well in the rooms and the showers were hot. The owners were so lovely and attentive, gave us snacks to take down to the beach and also helped carry our bags to the port when we were leaving they spoke little English but google translate got everything across perfectly! Highlights were the location and staff for sure :)",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Ruby",
+        "reviewer_type": "Group",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 9.6,
+  "rating_count": 9,
+  "rating_breakdown": {
+    "Vị trí": 10.0,
+    "Dịch vụ": 10.0,
+    "Đáng tiền": 10.0,
+    "Cơ sở vật chất": 9.4,
+    "Độ sạch sẽ": 9.1,
+    "Sự thoải mái và chất lượng phòng": 8.9
+  },
+  "secondary": {
+    "description_full": "Homestay Mai Trường Cù Lao Chàm cung cấp chỗ nghỉ nằm ở Tân Hiệp, cách Bãi Làng 4 phút đi bộ và Cù Lao Chàm 2.8 km. Wi-Fi miễn phí được cung cấp ở toàn bộ chỗ nghỉ.\n\nĐược thiết kế với sân hiên, các căn có điều hòa, TV màn hình phẳng, cùng phòng tắm riêng gồm vòi sen và đồ vệ sinh cá nhân miễn phí. Tất cả các căn đều được thiết kế có ban công nhìn ra núi.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 2,
+    "dateless_rooms": [
+      {
+        "room_id": 1350625085,
+        "name": "Phòng Đôi (Double Room)",
+        "features": [],
+        "image_count": 5,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "2 giường đôi",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      },
+      {
+        "room_id": 1350625065,
+        "name": "Phòng Gia Đình (Family Room)",
+        "features": [],
+        "image_count": 5,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Tam Hiệp của Tân Hiệp, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "activities": [
+    {
+      "activity_id": 1289739,
+      "title": "Vé vào cổng Công viên Chủ đề VinWonders Cửa Hội",
+      "description": "Khám phá VinWonders Cửa Hội, tổ hợp giải trí sôi động tại miền Trung Việt Nam với những trải nghiệm đa dạng từ vui chơi đến tâm linh.\n\n- Trải nghiệm hệ thống cáp treo vượt biển đầu tiên và duy nhất tạ",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 87446.0,
+                "crossedOut": 100053.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681589,
+      "title": "金蘭國際機場(CXR) | Domestic Terminal | SH Premium Lounge - Cam Ranh | 貴賓室服務",
+      "description": "位置：金蘭國際機場國內航站樓二樓，靠近5號或6號登機口\n設施亮點：電視、充電設備、冷熱餐食自助吧、獨立洗手間\n營業時間：每日05:00-22:00\n使用時間限制：最多180分鐘\n兒童政策：5歲以下兒童免費入場",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 497154.0,
+                "crossedOut": 686677.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1585699,
+      "title": "The Mộc Spa - Quận 1, Thành phố Hồ Chí Minh",
+      "description": "Khám phá The Mộc Spa ở Quận 1, một không gian thư giãn tinh tế tại Hồ Chí Minh, lấy cảm hứng từ các yếu tố gỗ tự nhiên và kỹ thuật trị liệu truyền thống châu Á.\n- Thưởng thức các liệu pháp massage đa",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 227384.0,
+                "crossedOut": 254344.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1646346,
+      "title": "Dịch vụ VIP ưu tiên tại Việt Nam (Đến/Đi)",
+      "description": "Bỏ qua các hàng chờ kiểm tra nhập cảnh tại sân bay Tân Sơn Nhất (SGN), sân bay Nội Bài (HAN), sân bay Đà Nẵng (DAD), sân bay Cam Ranh (CXR) và sân bay Phú Quốc (PQC) với dịch vụ VIP Fast Track của",
+      "review_score": 5.0,
+      "review_count": 3,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 347171.0,
+                "crossedOut": 416272.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1649522,
+      "title": "Dịch vụ Fast Track tại sân bay Tân Sơn Nhất",
+      "description": "Trải nghiệm dịch vụ Fast Track tại sân bay Tân Sơn Nhất để tối ưu hóa thời gian khi nhập cảnh vào Thành phố Hồ Chí Minh.\n\n- Nhân viên chuyên nghiệp đón tiếp trực tiếp ngay khi bạn vừa hạ cánh\n- Hỗ trợ",
+      "review_score": 4.3,
+      "review_count": 152,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 452649.0,
+                "crossedOut": 506319.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1670065,
+      "title": "Dịch Vụ Nhanh Cam Ranh - Nha Trang",
+      "description": "Chào đón chu đáo: Khi đến sân bay, bạn sẽ được đội ngũ nhân viên chuyên nghiệp và tận tâm của chúng tôi chào đón. Không còn phải tìm kiếm quầy hay cảm thấy lạc lõng giữa đám đông - đội ngũ của chún",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368145.0,
+                "crossedOut": 411796.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1560209,
+      "title": "Sân bay Quốc tế Đà Nẵng (DAD) - Dịch vụ Ưu tiên Đón Tiễn",
+      "description": "- Nhận hỗ trợ ưu tiên cho các thủ tục nhập cảnh và hải quan tại sân bay Đà Nẵng.\n- Trải nghiệm dịch vụ chào đón và hộ tống cá nhân bởi đội ngũ nhân viên tại sân bay quốc tế Đà Nẵng.\n- Lựa chọn linh ho",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 368381.0,
+                "crossedOut": 412059.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1562177,
+      "title": "Du Thuyền Hạ Long - Lan Hạ, Cát Bà - Chèo Kayak - Hà Nội",
+      "description": "Bắt đầu chuyến đi trong ngày trên du thuyền khám phá Vịnh Hạ Long và Vịnh Lan Hạ, hòa mình vào vẻ đẹp thiên nhiên hùng vĩ của Việt Nam. Hành trình đưa bạn đến Đảo Cát Bà, nơi bạn có thể trải nghiệm xe",
+      "review_score": 5.0,
+      "review_count": 1,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 977555.0,
+                "crossedOut": 1118483.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1496994,
+      "title": "Du Thuyền IRIS Trong Ngày - Vịnh Hạ Long, Hang Sửng Sốt",
+      "description": "* Du thuyền IRIS được thiết kế như một nhà hát nổi trên Vịnh Hạ Long di sản, với sân khấu trên boong tắm nắng cùng hệ thống âm thanh và ánh sáng ngoài trời hiện đại.\n* Khám phá Vịnh Hạ Long với nh",
+      "review_score": 5.0,
+      "review_count": 5,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 892616.0,
+                "crossedOut": 966035.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1562703,
+      "title": "Trải Nghiệm Mát Xa Spa Hà Nội",
+      "description": "* Đắm mình vào trải nghiệm spa và massage tại Hà Nội, nơi bạn có thể khám phá các liệu pháp chăm sóc sức khỏe đa dạng.\n* Từ liệu trình thư giãn cơ bản đến các phương pháp trị liệu chuyên sâu, trun",
+      "review_score": 4.9,
+      "review_count": 136,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 105218.0,
+                "crossedOut": 117694.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Cặp đôi",
+    "Nhóm du khách",
+    "Khách du lịch một mình"
+  ],
+  "view_types": [
+    "Hướng Núi"
+  ],
+  "tags": [
+    "Ban công/sân hiên",
+    "Bãi biển",
+    "Cặp đôi",
+    "Hướng Núi",
+    "Khách du lịch một mình",
+    "Nhóm du khách",
+    "Sạch bóng",
+    "Vải trải giường",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Điều hòa",
+    "Đáng tiền nhất"
+  ],
+  "embedding_text": "Homestay Mai Trường Cù Lao Chàm (Homestay Mai Truong Cu Lao Cham) - khách sạn 3.0 sao tại Tân Hiệp.\nĐịa chỉ: Bãi Ông, Tam Hiệp, Tân Hiệp, Việt Nam.\nNằm ở vị trí trung tâm tại Tam Hiệp của Tân Hiệp, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Ban công/sân hiên, Bãi biển, Các loại khăn, Dịch vụ Internet, Internet, Máy điều hòa ở khu vực chung, Nước rửa tay, Quạt, Sàn lát gạch/Sàn đá cẩm thạch, Sân hiên, TV [màn hình phẳng], Tiếng Anh, Tủ quần áo, Vòi sen, Vải trải giường, Vật dụng tắm rửa, Wi-Fi miễn phí trong tất cả các phòng!, Wi-Fi ở nơi công cộng, hoàn toàn không hút thuốc, phòng tắm riêng, tiếng Việt, Điều hòa, Điều hòa cá nhân, Đồ dùng cho giấc ngủ thoải mái, Ổ cắm điện gần giường.\nĐiểm đánh giá 9.6/10 dựa trên 9 đánh giá.\nKhách hay nhắc đến: Độ sạch sẽ, Chủ nhà, Dịch vụ, Đáng tiền.\nCác loại phòng: Phòng Đôi (Double Room); Phòng Gia Đình (Family Room).\nGần: Cù Lao Chàm, Cù Lao Chàm, Hòn Tai, Sân bay Quốc tế Đà Nẵng, Sân bay Chu Lai, Sân bay Quốc tế Phú Bài.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

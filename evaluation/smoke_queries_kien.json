@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "description": "5 query smoke subset từ golden_set_kien_v1 — dùng cho PR smoke eval",
+    "source": "evaluation/relevance_labels/golden_set_kien_v1.json",
+    "total_queries": 5
+  },
+  "queries": [
+    {
+      "query_id": "GK-001",
+      "query": "Tìm resort Nha Trang có CLB trẻ em và hồ bơi cho trẻ",
+      "intent_type": "hotel_search",
+      "hard_filters": {
+        "city": "Nha Trang",
+        "accommodation_type": ["Resort"]
+      },
+      "soft_signals": ["CLB trẻ em", "hồ bơi trẻ em", "AMEN_KIDS_CLUB", "AMEN_POOL"],
+      "relevant_hotel_ids": [],
+      "relevant_chunk_ids": [],
+      "labeler": "Kiên",
+      "notes": "Smoke: FAQ family + resort filter"
+    },
+    {
+      "query_id": "GK-003",
+      "query": "Tim khach san Nha Trang co bai do xe mien phi",
+      "intent_type": "hotel_search",
+      "hard_filters": {
+        "city": "Nha Trang"
+      },
+      "soft_signals": ["bãi đỗ xe miễn phí", "đỗ xe", "AMEN_FREE_PARKING"],
+      "relevant_hotel_ids": [],
+      "relevant_chunk_ids": [],
+      "labeler": "Kiên",
+      "notes": "Smoke: không dấu + FAQ parking"
+    },
+    {
+      "query_id": "GK-010",
+      "query": "Khách sạn Nha Trang cho phép trẻ em ở miễn phí",
+      "intent_type": "hotel_search",
+      "hard_filters": {
+        "city": "Nha Trang",
+        "suitable_for": ["Gia đình có trẻ nhỏ"]
+      },
+      "soft_signals": ["trẻ em miễn phí", "chính sách trẻ em", "POLICY_CHILD_FREE"],
+      "relevant_hotel_ids": [],
+      "relevant_chunk_ids": [],
+      "labeler": "Kiên",
+      "notes": "Smoke: policy child + suitable_for"
+    },
+    {
+      "query_id": "GK-013",
+      "query": "Khách sạn Nha Trang nhân viên thân thiện đánh giá cao",
+      "intent_type": "hotel_search",
+      "hard_filters": {
+        "city": "Nha Trang",
+        "review_score": { "min": 8.5 }
+      },
+      "soft_signals": ["nhân viên thân thiện", "dịch vụ tốt", "ASPECT_STAFF", "STYLE_FRIENDLY"],
+      "relevant_hotel_ids": [],
+      "relevant_chunk_ids": [],
+      "labeler": "Kiên",
+      "notes": "Smoke: review staff + review_score filter"
+    },
+    {
+      "query_id": "GK-019",
+      "query": "Tim resort 5 sao Nha Trang gan bien view bien",
+      "intent_type": "hotel_search",
+      "hard_filters": {
+        "city": "Nha Trang",
+        "star_rating": { "min": 5 },
+        "accommodation_type": ["Resort"]
+      },
+      "soft_signals": ["view biển", "gần biển", "AMEN_SEA_VIEW", "AMEN_BEACHFRONT"],
+      "relevant_hotel_ids": [],
+      "relevant_chunk_ids": [],
+      "labeler": "Kiên",
+      "notes": "Smoke: không dấu + star + view + resort"
+    }
+  ]
+}

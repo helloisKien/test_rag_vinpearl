@@ -1,0 +1,4110 @@
+# ontology/core/location.generated.yaml — TỰ SINH bởi build_locations.py (Lớp A).
+# KHÔNG sửa tay. Nguồn: data/cleaned/*.json (field country/city/area). PHẠM VI: Việt Nam.
+# Cây: country > province > city > area. Landmark (LMK_*) cũng sinh ở đây.
+# Thống kê: 520 hotel / 1 country / 69 city / 126 area.
+
+concepts:
+
+  # ===== COUNTRY (kind: country) =====
+  LOC_VIETNAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: country
+    label: {vi: "Việt Nam", en: "Vietnam"}
+    surface_forms:
+      vi: ["viet nam", "việt nam"]
+    description: {vi: "Việt Nam (520 hotel trong corpus)", en: "Việt Nam (520 hotel trong corpus)"}
+
+  # ===== PROVINCE (kind: place) — TÁCH tự động từ 'City (Tỉnh)' trong data =====
+  LOC_BINH_DINH_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bình Định", en: "Bình Định"}
+    surface_forms:
+      vi: ["binh dinh", "bình định"]
+    description: {vi: "Tỉnh Bình Định, Việt Nam", en: "Tỉnh Bình Định, Việt Nam"}
+
+  LOC_DONG_NAI_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Đồng Nai", en: "Đồng Nai"}
+    surface_forms:
+      vi: ["dong nai", "đồng nai"]
+    description: {vi: "Tỉnh Đồng Nai, Việt Nam", en: "Tỉnh Đồng Nai, Việt Nam"}
+
+  LOC_GIA_LAI_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Gia Lai", en: "Gia Lai"}
+    surface_forms:
+      vi: ["gia lai"]
+    description: {vi: "Tỉnh Gia Lai, Việt Nam", en: "Tỉnh Gia Lai, Việt Nam"}
+
+  LOC_HA_NAM_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hà Nam", en: "Hà Nam"}
+    surface_forms:
+      vi: ["ha nam", "hà nam"]
+    description: {vi: "Tỉnh Hà Nam, Việt Nam", en: "Tỉnh Hà Nam, Việt Nam"}
+
+  LOC_KIEN_GIANG_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Kiên Giang", en: "Kiên Giang"}
+    surface_forms:
+      vi: ["kien giang", "kiên giang"]
+    description: {vi: "Tỉnh Kiên Giang, Việt Nam", en: "Tỉnh Kiên Giang, Việt Nam"}
+
+  LOC_NINH_THUAN_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Ninh Thuận", en: "Ninh Thuận"}
+    surface_forms:
+      vi: ["ninh thuan", "ninh thuận"]
+    description: {vi: "Tỉnh Ninh Thuận, Việt Nam", en: "Tỉnh Ninh Thuận, Việt Nam"}
+
+  LOC_PHU_THO_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Phú Thọ", en: "Phú Thọ"}
+    surface_forms:
+      vi: ["phu tho", "phú thọ"]
+    description: {vi: "Tỉnh Phú Thọ, Việt Nam", en: "Tỉnh Phú Thọ, Việt Nam"}
+
+  LOC_PHU_YEN_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Phú Yên", en: "Phú Yên"}
+    surface_forms:
+      vi: ["phu yen", "phú yên"]
+    description: {vi: "Tỉnh Phú Yên, Việt Nam", en: "Tỉnh Phú Yên, Việt Nam"}
+
+  LOC_QUANG_BINH_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Quảng Bình", en: "Quảng Bình"}
+    surface_forms:
+      vi: ["quang binh", "quảng bình"]
+    description: {vi: "Tỉnh Quảng Bình, Việt Nam", en: "Tỉnh Quảng Bình, Việt Nam"}
+
+  LOC_QUANG_NAM_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Quảng Nam", en: "Quảng Nam"}
+    surface_forms:
+      vi: ["quang nam", "quảng nam"]
+    description: {vi: "Tỉnh Quảng Nam, Việt Nam", en: "Tỉnh Quảng Nam, Việt Nam"}
+
+  LOC_THANH_HOA_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Thanh Hoá", en: "Thanh Hoá"}
+    surface_forms:
+      vi: ["thanh hoa", "thanh hoá"]
+    description: {vi: "Tỉnh Thanh Hoá, Việt Nam", en: "Tỉnh Thanh Hoá, Việt Nam"}
+
+  LOC_TIEN_GIANG_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Tiền Giang", en: "Tiền Giang"}
+    surface_forms:
+      vi: ["tien giang", "tiền giang"]
+    description: {vi: "Tỉnh Tiền Giang, Việt Nam", en: "Tỉnh Tiền Giang, Việt Nam"}
+
+  LOC_VINH_PHUC_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Vĩnh Phúc", en: "Vĩnh Phúc"}
+    surface_forms:
+      vi: ["vinh phuc", "vĩnh phúc"]
+    description: {vi: "Tỉnh Vĩnh Phúc, Việt Nam", en: "Tỉnh Vĩnh Phúc, Việt Nam"}
+
+  # ===== CITY (kind: place) =====
+  # (ID/related vài nơi ép theo CITY_OVERRIDE để khớp ID quen: Phú Quốc, Cửa Lò...)
+  LOC_HA_NOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hà Nội", en: "Hà Nội"}
+    surface_forms:
+      vi: ["ha noi", "hà nội"]
+    description: {vi: "Hà Nội, Việt Nam (60 hotel)", en: "Hà Nội, Việt Nam (60 hotel)"}
+
+  LOC_HO_CHI_MINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hồ Chí Minh", en: "Hồ Chí Minh"}
+    surface_forms:
+      vi: ["ho chi minh", "hồ chí minh"]
+    description: {vi: "Hồ Chí Minh, Việt Nam (49 hotel)", en: "Hồ Chí Minh, Việt Nam (49 hotel)"}
+
+  LOC_DA_NANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Đà Nẵng", en: "Đà Nẵng"}
+    surface_forms:
+      vi: ["da nang", "đà nẵng"]
+    description: {vi: "Đà Nẵng, Việt Nam (48 hotel)", en: "Đà Nẵng, Việt Nam (48 hotel)"}
+
+  LOC_NHA_TRANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Nha Trang", en: "Nha Trang"}
+    surface_forms:
+      vi: ["nha trang"]
+    description: {vi: "Nha Trang, Việt Nam (39 hotel)", en: "Nha Trang, Việt Nam (39 hotel)"}
+
+  LOC_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    related: [SETTING_ISLAND]
+    label: {vi: "Đảo Phú Quốc", en: "Đảo Phú Quốc"}
+    surface_forms:
+      vi: ["dao phu quoc", "đảo phú quốc", "phu quoc", "phú quốc"]
+    description: {vi: "Đảo Phú Quốc, Việt Nam (28 hotel)", en: "Đảo Phú Quốc, Việt Nam (28 hotel)"}
+
+  LOC_HOI_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hội An", en: "Hội An"}
+    surface_forms:
+      vi: ["hoi an", "hội an"]
+    description: {vi: "Hội An, Việt Nam (25 hotel)", en: "Hội An, Việt Nam (25 hotel)"}
+
+  LOC_DA_LAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Đà Lạt", en: "Đà Lạt"}
+    surface_forms:
+      vi: ["da lat", "đà lạt"]
+    description: {vi: "Đà Lạt, Việt Nam (23 hotel)", en: "Đà Lạt, Việt Nam (23 hotel)"}
+
+  LOC_HA_LONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hạ Long", en: "Hạ Long"}
+    surface_forms:
+      vi: ["ha long", "hạ long"]
+    description: {vi: "Hạ Long, Việt Nam (22 hotel)", en: "Hạ Long, Việt Nam (22 hotel)"}
+
+  LOC_VUNG_TAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Vũng Tàu", en: "Vũng Tàu"}
+    surface_forms:
+      vi: ["vung tau", "vũng tàu"]
+    description: {vi: "Vũng Tàu, Việt Nam (20 hotel)", en: "Vũng Tàu, Việt Nam (20 hotel)"}
+
+  LOC_QUY_NHON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_BINH_DINH_TINH
+    label: {vi: "Quy Nhơn", en: "Quy Nhơn"}
+    surface_forms:
+      vi: ["quy nhon", "quy nhơn"]
+    description: {vi: "Quy Nhơn, Việt Nam (18 hotel)", en: "Quy Nhơn, Việt Nam (18 hotel)"}
+
+  LOC_PHAN_THIET:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Phan Thiết", en: "Phan Thiết"}
+    surface_forms:
+      vi: ["phan thiet", "phan thiết"]
+    description: {vi: "Phan Thiết, Việt Nam (12 hotel)", en: "Phan Thiết, Việt Nam (12 hotel)"}
+
+  LOC_PHAN_RANG_THAP_CHAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_NINH_THUAN_TINH
+    label: {vi: "Phan Rang - Tháp Chàm", en: "Phan Rang - Tháp Chàm"}
+    surface_forms:
+      vi: ["phan rang - thap cham", "phan rang - tháp chàm"]
+    description: {vi: "Phan Rang - Tháp Chàm, Việt Nam (9 hotel)", en: "Phan Rang - Tháp Chàm, Việt Nam (9 hotel)"}
+
+  LOC_RACH_GIA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_KIEN_GIANG_TINH
+    label: {vi: "Rạch Giá", en: "Rạch Giá"}
+    surface_forms:
+      vi: ["rach gia", "rạch giá"]
+    description: {vi: "Rạch Giá, Việt Nam (9 hotel)", en: "Rạch Giá, Việt Nam (9 hotel)"}
+
+  LOC_BAI_BIEN_SAM_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_THANH_HOA_TINH
+    related: [SETTING_COASTAL]
+    label: {vi: "Bãi biển Sầm Sơn", en: "Bãi biển Sầm Sơn"}
+    surface_forms:
+      vi: ["bai bien sam son", "bãi biển sầm sơn", "sam son", "sầm sơn"]
+    description: {vi: "Bãi biển Sầm Sơn, Việt Nam (9 hotel)", en: "Bãi biển Sầm Sơn, Việt Nam (9 hotel)"}
+
+  LOC_BAC_LIEU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bạc Liêu", en: "Bạc Liêu"}
+    surface_forms:
+      vi: ["bac lieu", "bạc liêu"]
+    description: {vi: "Bạc Liêu, Việt Nam (7 hotel)", en: "Bạc Liêu, Việt Nam (7 hotel)"}
+
+  LOC_LONG_XUYEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Long Xuyên", en: "Long Xuyên"}
+    surface_forms:
+      vi: ["long xuyen", "long xuyên"]
+    description: {vi: "Long Xuyên, Việt Nam (7 hotel)", en: "Long Xuyên, Việt Nam (7 hotel)"}
+
+  LOC_TUY_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_PHU_YEN_TINH
+    label: {vi: "Tuy Hòa", en: "Tuy Hòa"}
+    surface_forms:
+      vi: ["tuy hoa", "tuy hòa"]
+    description: {vi: "Tuy Hòa, Việt Nam (7 hotel)", en: "Tuy Hòa, Việt Nam (7 hotel)"}
+
+  LOC_BINH_DUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bình Dương", en: "Bình Dương"}
+    surface_forms:
+      vi: ["binh duong", "bình dương"]
+    description: {vi: "Bình Dương, Việt Nam (6 hotel)", en: "Bình Dương, Việt Nam (6 hotel)"}
+
+  LOC_BEN_TRE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bến Tre", en: "Bến Tre"}
+    surface_forms:
+      vi: ["ben tre", "bến tre"]
+    description: {vi: "Bến Tre, Việt Nam (6 hotel)", en: "Bến Tre, Việt Nam (6 hotel)"}
+
+  LOC_CHAU_DOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Châu Đốc", en: "Châu Đốc"}
+    surface_forms:
+      vi: ["chau doc", "châu đốc"]
+    description: {vi: "Châu Đốc, Việt Nam (6 hotel)", en: "Châu Đốc, Việt Nam (6 hotel)"}
+
+  LOC_HUE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Huế", en: "Huế"}
+    surface_forms:
+      vi: ["hue", "huế"]
+    description: {vi: "Huế, Việt Nam (6 hotel)", en: "Huế, Việt Nam (6 hotel)"}
+
+  LOC_NINH_BINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Ninh Bình", en: "Ninh Bình"}
+    surface_forms:
+      vi: ["ninh binh", "ninh bình"]
+    description: {vi: "Ninh Bình, Việt Nam (6 hotel)", en: "Ninh Bình, Việt Nam (6 hotel)"}
+
+  LOC_DONG_HOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_QUANG_BINH_TINH
+    label: {vi: "Đồng Hới", en: "Đồng Hới"}
+    surface_forms:
+      vi: ["dong hoi", "đồng hới"]
+    description: {vi: "Đồng Hới, Việt Nam (6 hotel)", en: "Đồng Hới, Việt Nam (6 hotel)"}
+
+  LOC_CON_DAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Côn Đảo", en: "Côn Đảo"}
+    surface_forms:
+      vi: ["con dao", "côn đảo"]
+    description: {vi: "Côn Đảo, Việt Nam (5 hotel)", en: "Côn Đảo, Việt Nam (5 hotel)"}
+
+  LOC_CAN_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Cần Thơ", en: "Cần Thơ"}
+    surface_forms:
+      vi: ["can tho", "cần thơ"]
+    description: {vi: "Cần Thơ, Việt Nam (5 hotel)", en: "Cần Thơ, Việt Nam (5 hotel)"}
+
+  LOC_SOC_TRANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Sóc Trăng", en: "Sóc Trăng"}
+    surface_forms:
+      vi: ["soc trang", "sóc trăng"]
+    description: {vi: "Sóc Trăng, Việt Nam (5 hotel)", en: "Sóc Trăng, Việt Nam (5 hotel)"}
+
+  LOC_TAN_HIEP:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Tân Hiệp", en: "Tân Hiệp"}
+    surface_forms:
+      vi: ["tan hiep", "tân hiệp"]
+    description: {vi: "Tân Hiệp, Việt Nam (5 hotel)", en: "Tân Hiệp, Việt Nam (5 hotel)"}
+
+  LOC_BUON_MA_THUOT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Buôn Ma Thuột", en: "Buôn Ma Thuột"}
+    surface_forms:
+      vi: ["buon ma thuot", "buôn ma thuột"]
+    description: {vi: "Buôn Ma Thuột, Việt Nam (4 hotel)", en: "Buôn Ma Thuột, Việt Nam (4 hotel)"}
+
+  LOC_HA_TIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_KIEN_GIANG_TINH
+    label: {vi: "Hà Tiên", en: "Hà Tiên"}
+    surface_forms:
+      vi: ["ha tien", "hà tiên"]
+    description: {vi: "Hà Tiên, Việt Nam (4 hotel)", en: "Hà Tiên, Việt Nam (4 hotel)"}
+
+  LOC_HAI_PHONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hải Phòng", en: "Hải Phòng"}
+    surface_forms:
+      vi: ["hai phong", "hải phòng"]
+    description: {vi: "Hải Phòng, Việt Nam (4 hotel)", en: "Hải Phòng, Việt Nam (4 hotel)"}
+
+  LOC_CA_MAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Cà Mau", en: "Cà Mau"}
+    surface_forms:
+      vi: ["ca mau", "cà mau"]
+    description: {vi: "Cà Mau, Việt Nam (3 hotel)", en: "Cà Mau, Việt Nam (3 hotel)"}
+
+  LOC_LY_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Ly Son", en: "Ly Son"}
+    surface_forms:
+      vi: ["ly son"]
+    description: {vi: "Ly Son, Việt Nam (3 hotel)", en: "Ly Son, Việt Nam (3 hotel)"}
+
+  LOC_LAO_CAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Lào Cai", en: "Lào Cai"}
+    surface_forms:
+      vi: ["lao cai", "lào cai"]
+    description: {vi: "Lào Cai, Việt Nam (3 hotel)", en: "Lào Cai, Việt Nam (3 hotel)"}
+
+  LOC_MOC_CHAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Mộc Châu", en: "Mộc Châu"}
+    surface_forms:
+      vi: ["moc chau", "mộc châu"]
+    description: {vi: "Mộc Châu, Việt Nam (3 hotel)", en: "Mộc Châu, Việt Nam (3 hotel)"}
+
+  LOC_MY_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_TIEN_GIANG_TINH
+    label: {vi: "Mỹ Tho", en: "Mỹ Tho"}
+    surface_forms:
+      vi: ["my tho", "mỹ tho"]
+    description: {vi: "Mỹ Tho, Việt Nam (3 hotel)", en: "Mỹ Tho, Việt Nam (3 hotel)"}
+
+  LOC_TAM_KY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_QUANG_NAM_TINH
+    label: {vi: "Tam Kỳ", en: "Tam Kỳ"}
+    surface_forms:
+      vi: ["tam ky", "tam kỳ"]
+    description: {vi: "Tam Kỳ, Việt Nam (3 hotel)", en: "Tam Kỳ, Việt Nam (3 hotel)"}
+
+  LOC_TAM_DAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VINH_PHUC_TINH
+    label: {vi: "Tam Đảo", en: "Tam Đảo"}
+    surface_forms:
+      vi: ["tam dao", "tam đảo"]
+    description: {vi: "Tam Đảo, Việt Nam (3 hotel)", en: "Tam Đảo, Việt Nam (3 hotel)"}
+
+  LOC_VINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Vinh", en: "Vinh"}
+    surface_forms:
+      vi: ["vinh"]
+    description: {vi: "Vinh, Việt Nam (3 hotel)", en: "Vinh, Việt Nam (3 hotel)"}
+
+  LOC_HA_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hà Tĩnh", en: "Hà Tĩnh"}
+    surface_forms:
+      vi: ["ha tinh", "hà tĩnh"]
+    description: {vi: "Hà Tĩnh, Việt Nam (2 hotel)", en: "Hà Tĩnh, Việt Nam (2 hotel)"}
+
+  LOC_TRA_VINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Trà Vinh", en: "Trà Vinh"}
+    surface_forms:
+      vi: ["tra vinh", "trà vinh"]
+    description: {vi: "Trà Vinh, Việt Nam (2 hotel)", en: "Trà Vinh, Việt Nam (2 hotel)"}
+
+  LOC_TUYEN_QUANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Tuyên Quang", en: "Tuyên Quang"}
+    surface_forms:
+      vi: ["tuyen quang", "tuyên quang"]
+    description: {vi: "Tuyên Quang, Việt Nam (2 hotel)", en: "Tuyên Quang, Việt Nam (2 hotel)"}
+
+  LOC_TAY_NINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Tây Ninh", en: "Tây Ninh"}
+    surface_forms:
+      vi: ["tay ninh", "tây ninh"]
+    description: {vi: "Tây Ninh, Việt Nam (2 hotel)", en: "Tây Ninh, Việt Nam (2 hotel)"}
+
+  LOC_VINH_LONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Vĩnh Long", en: "Vĩnh Long"}
+    surface_forms:
+      vi: ["vinh long", "vĩnh long"]
+    description: {vi: "Vĩnh Long, Việt Nam (2 hotel)", en: "Vĩnh Long, Việt Nam (2 hotel)"}
+
+  LOC_BIEN_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_DONG_NAI_TINH
+    label: {vi: "Biên Hòa", en: "Biên Hòa"}
+    surface_forms:
+      vi: ["bien hoa", "biên hòa"]
+    description: {vi: "Biên Hòa, Việt Nam (1 hotel)", en: "Biên Hòa, Việt Nam (1 hotel)"}
+
+  LOC_CUA_LO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    related: [SETTING_COASTAL]
+    label: {vi: "Biển Cửa Lò", en: "Biển Cửa Lò"}
+    surface_forms:
+      vi: ["bien cua lo", "biển cửa lò", "cua lo", "cửa lò"]
+    description: {vi: "Biển Cửa Lò, Việt Nam (1 hotel)", en: "Biển Cửa Lò, Việt Nam (1 hotel)"}
+
+  LOC_BAI_BIEN_CA_NA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_NINH_THUAN_TINH
+    label: {vi: "Bãi Biển Cà Ná", en: "Bãi Biển Cà Ná"}
+    surface_forms:
+      vi: ["bai bien ca na", "bãi biển cà ná"]
+    description: {vi: "Bãi Biển Cà Ná, Việt Nam (1 hotel)", en: "Bãi Biển Cà Ná, Việt Nam (1 hotel)"}
+
+  LOC_BAC_GIANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bắc Giang", en: "Bắc Giang"}
+    surface_forms:
+      vi: ["bac giang", "bắc giang"]
+    description: {vi: "Bắc Giang, Việt Nam (1 hotel)", en: "Bắc Giang, Việt Nam (1 hotel)"}
+
+  LOC_BAC_KAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bắc Kạn", en: "Bắc Kạn"}
+    surface_forms:
+      vi: ["bac kan", "bắc kạn"]
+    description: {vi: "Bắc Kạn, Việt Nam (1 hotel)", en: "Bắc Kạn, Việt Nam (1 hotel)"}
+
+  LOC_BAC_NINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Bắc Ninh", en: "Bắc Ninh"}
+    surface_forms:
+      vi: ["bac ninh", "bắc ninh"]
+    description: {vi: "Bắc Ninh, Việt Nam (1 hotel)", en: "Bắc Ninh, Việt Nam (1 hotel)"}
+
+  LOC_CAO_BANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Cao Bằng", en: "Cao Bằng"}
+    surface_forms:
+      vi: ["cao bang", "cao bằng"]
+    description: {vi: "Cao Bằng, Việt Nam (1 hotel)", en: "Cao Bằng, Việt Nam (1 hotel)"}
+
+  LOC_CHAM_TA_LAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Cham Ta Lao", en: "Cham Ta Lao"}
+    surface_forms:
+      vi: ["cham ta lao"]
+    description: {vi: "Cham Ta Lao, Việt Nam (1 hotel)", en: "Cham Ta Lao, Việt Nam (1 hotel)"}
+
+  LOC_GIA_LAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Gia Lâm", en: "Gia Lâm"}
+    surface_forms:
+      vi: ["gia lam", "gia lâm"]
+    description: {vi: "Gia Lâm, Việt Nam (1 hotel)", en: "Gia Lâm, Việt Nam (1 hotel)"}
+
+  LOC_HA_GIANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hà Giang", en: "Hà Giang"}
+    surface_forms:
+      vi: ["ha giang", "hà giang"]
+    description: {vi: "Hà Giang, Việt Nam (1 hotel)", en: "Hà Giang, Việt Nam (1 hotel)"}
+
+  LOC_HOA_BINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Hòa Bình", en: "Hòa Bình"}
+    surface_forms:
+      vi: ["hoa binh", "hòa bình"]
+    description: {vi: "Hòa Bình, Việt Nam (1 hotel)", en: "Hòa Bình, Việt Nam (1 hotel)"}
+
+  LOC_LANG_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Lạng Sơn", en: "Lạng Sơn"}
+    surface_forms:
+      vi: ["lang son", "lạng sơn"]
+    description: {vi: "Lạng Sơn, Việt Nam (1 hotel)", en: "Lạng Sơn, Việt Nam (1 hotel)"}
+
+  LOC_NAM_INH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Nam Ðịnh", en: "Nam Ðịnh"}
+    surface_forms:
+      vi: ["nam ðinh", "nam ðịnh"]
+    description: {vi: "Nam Ðịnh, Việt Nam (1 hotel)", en: "Nam Ðịnh, Việt Nam (1 hotel)"}
+
+  LOC_PHUC_YEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Phúc Yên", en: "Phúc Yên"}
+    surface_forms:
+      vi: ["phuc yen", "phúc yên"]
+    description: {vi: "Phúc Yên, Việt Nam (1 hotel)", en: "Phúc Yên, Việt Nam (1 hotel)"}
+
+  LOC_PHU_LY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_HA_NAM_TINH
+    label: {vi: "Phủ Lý", en: "Phủ Lý"}
+    surface_forms:
+      vi: ["phu ly", "phủ lý"]
+    description: {vi: "Phủ Lý, Việt Nam (1 hotel)", en: "Phủ Lý, Việt Nam (1 hotel)"}
+
+  LOC_PLEIKU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_GIA_LAI_TINH
+    label: {vi: "Pleiku", en: "Pleiku"}
+    surface_forms:
+      vi: ["pleiku"]
+    description: {vi: "Pleiku, Việt Nam (1 hotel)", en: "Pleiku, Việt Nam (1 hotel)"}
+
+  LOC_QUAN_DAO_CAT_BA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Quần Đảo Cát Bà", en: "Quần Đảo Cát Bà"}
+    surface_forms:
+      vi: ["quan dao cat ba", "quần đảo cát bà"]
+    description: {vi: "Quần Đảo Cát Bà, Việt Nam (1 hotel)", en: "Quần Đảo Cát Bà, Việt Nam (1 hotel)"}
+
+  LOC_SAPA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Sapa", en: "Sapa"}
+    surface_forms:
+      vi: ["sapa"]
+    description: {vi: "Sapa, Việt Nam (1 hotel)", en: "Sapa, Việt Nam (1 hotel)"}
+
+  LOC_THUAN_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Thuận An", en: "Thuận An"}
+    surface_forms:
+      vi: ["thuan an", "thuận an"]
+    description: {vi: "Thuận An, Việt Nam (1 hotel)", en: "Thuận An, Việt Nam (1 hotel)"}
+
+  LOC_THAI_NGUYEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Thái Nguyên", en: "Thái Nguyên"}
+    surface_forms:
+      vi: ["thai nguyen", "thái nguyên"]
+    description: {vi: "Thái Nguyên, Việt Nam (1 hotel)", en: "Thái Nguyên, Việt Nam (1 hotel)"}
+
+  LOC_TUY_PHONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Tuy Phong", en: "Tuy Phong"}
+    surface_forms:
+      vi: ["tuy phong"]
+    description: {vi: "Tuy Phong, Việt Nam (1 hotel)", en: "Tuy Phong, Việt Nam (1 hotel)"}
+
+  LOC_VIET_TRI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_PHU_THO_TINH
+    label: {vi: "Việt Trì", en: "Việt Trì"}
+    surface_forms:
+      vi: ["viet tri", "việt trì"]
+    description: {vi: "Việt Trì, Việt Nam (1 hotel)", en: "Việt Trì, Việt Nam (1 hotel)"}
+
+  LOC_DIEN_BIEN_PHU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: place
+    parent: LOC_VIETNAM
+    label: {vi: "Điện Biên Phủ", en: "Điện Biên Phủ"}
+    surface_forms:
+      vi: ["dien bien phu", "điện biên phủ"]
+    description: {vi: "Điện Biên Phủ, Việt Nam (1 hotel)", en: "Điện Biên Phủ, Việt Nam (1 hotel)"}
+
+  # ===== AREA (kind: area) — gộp district (area==district trong data) =====
+  # (ID vài sub-area ép theo AREA_OVERRIDE để khớp ID quen: Hòn Tre, Gành Dầu, Cửa Đại)
+  LOC_HO_CHI_MINH__QUAN_1:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 1", en: "Quận 1"}
+    surface_forms:
+      vi: ["quan 1", "quận 1"]
+    description: {vi: "Quận 1 (thuộc Hồ Chí Minh, Việt Nam; 20 hotel)", en: "Quận 1 (thuộc Hồ Chí Minh, Việt Nam; 20 hotel)"}
+
+  LOC_DA_NANG__PHUOC_MY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Phước Mỹ", en: "Phước Mỹ"}
+    surface_forms:
+      vi: ["phuoc my", "phước mỹ"]
+    description: {vi: "Phước Mỹ (thuộc Đà Nẵng, Việt Nam; 19 hotel)", en: "Phước Mỹ (thuộc Đà Nẵng, Việt Nam; 19 hotel)"}
+
+  LOC_NHA_TRANG__LOC_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Lộc Thọ", en: "Lộc Thọ"}
+    surface_forms:
+      vi: ["loc tho", "lộc thọ"]
+    description: {vi: "Lộc Thọ (thuộc Nha Trang, Việt Nam; 18 hotel)", en: "Lộc Thọ (thuộc Nha Trang, Việt Nam; 18 hotel)"}
+
+  LOC_HA_NOI__QUAN_HOAN_KIEM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Quận Hoàn Kiếm", en: "Quận Hoàn Kiếm"}
+    surface_forms:
+      vi: ["quan hoan kiem", "quận hoàn kiếm"]
+    description: {vi: "Quận Hoàn Kiếm (thuộc Hà Nội, Việt Nam; 15 hotel)", en: "Quận Hoàn Kiếm (thuộc Hà Nội, Việt Nam; 15 hotel)"}
+
+  LOC_QUY_NHON__THANH_PHO_BIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_QUY_NHON
+    label: {vi: "Thành phố biển", en: "Thành phố biển"}
+    surface_forms:
+      vi: ["thanh pho bien", "thành phố biển"]
+    description: {vi: "Thành phố biển (thuộc Quy Nhơn (Bình Định), Việt Nam; 14 hotel)", en: "Thành phố biển (thuộc Quy Nhơn (Bình Định), Việt Nam; 14 hotel)"}
+
+  LOC_DA_NANG__HAI_CHAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Hải Châu", en: "Hải Châu"}
+    surface_forms:
+      vi: ["hai chau", "hải châu"]
+    description: {vi: "Hải Châu (thuộc Đà Nẵng, Việt Nam; 13 hotel)", en: "Hải Châu (thuộc Đà Nẵng, Việt Nam; 13 hotel)"}
+
+  LOC_DA_LAT__TRUNG_TAM_THANH_PHO_DA_LAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_LAT
+    label: {vi: "Trung tâm Thành phố Đà Lạt", en: "Trung tâm Thành phố Đà Lạt"}
+    surface_forms:
+      vi: ["trung tam thanh pho da lat", "trung tâm thành phố đà lạt"]
+    description: {vi: "Trung tâm Thành phố Đà Lạt (thuộc Đà Lạt, Việt Nam; 12 hotel)", en: "Trung tâm Thành phố Đà Lạt (thuộc Đà Lạt, Việt Nam; 12 hotel)"}
+
+  LOC_RACH_GIA__RACH_GIA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_RACH_GIA
+    label: {vi: "Rạch Giá", en: "Rạch Giá"}
+    surface_forms:
+      vi: ["rach gia", "rạch giá"]
+    description: {vi: "Rạch Giá (thuộc Rạch Giá (Kiên Giang), Việt Nam; 9 hotel)", en: "Rạch Giá (thuộc Rạch Giá (Kiên Giang), Việt Nam; 9 hotel)"}
+
+  LOC_PHU_QUOC__DUONG_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "Dương Đông", en: "Dương Đông"}
+    surface_forms:
+      vi: ["duong dong", "dương đông"]
+    description: {vi: "Dương Đông (thuộc Đảo Phú Quốc, Việt Nam; 9 hotel)", en: "Dương Đông (thuộc Đảo Phú Quốc, Việt Nam; 9 hotel)"}
+
+  LOC_HA_NOI__QUAN_HAI_BA_TRUNG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Quận Hai Bà Trưng", en: "Quận Hai Bà Trưng"}
+    surface_forms:
+      vi: ["quan hai ba trung", "quận hai bà trưng"]
+    description: {vi: "Quận Hai Bà Trưng (thuộc Hà Nội, Việt Nam; 8 hotel)", en: "Quận Hai Bà Trưng (thuộc Hà Nội, Việt Nam; 8 hotel)"}
+
+  LOC_HO_CHI_MINH__TAN_BINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Tân Bình", en: "Tân Bình"}
+    surface_forms:
+      vi: ["tan binh", "tân bình"]
+    description: {vi: "Tân Bình (thuộc Hồ Chí Minh, Việt Nam; 8 hotel)", en: "Tân Bình (thuộc Hồ Chí Minh, Việt Nam; 8 hotel)"}
+
+  LOC_PHAN_RANG_THAP_CHAM__PHAN_RANG_THAP_CHAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Phan Rang - Tháp Chàm", en: "Phan Rang - Tháp Chàm"}
+    surface_forms:
+      vi: ["phan rang - thap cham", "phan rang - tháp chàm"]
+    description: {vi: "Phan Rang - Tháp Chàm (thuộc Phan Rang - Tháp Chàm (Ninh Thuận), Việt Nam; 8 hotel)", en: "Phan Rang - Tháp Chàm (thuộc Phan Rang - Tháp Chàm (Ninh Thuận), Việt Nam; 8 hotel)"}
+
+  LOC_PHAN_THIET__MUI_NE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHAN_THIET
+    label: {vi: "Mũi Né", en: "Mũi Né"}
+    surface_forms:
+      vi: ["mui ne", "mũi né"]
+    description: {vi: "Mũi Né (thuộc Phan Thiết, Việt Nam; 8 hotel)", en: "Mũi Né (thuộc Phan Thiết, Việt Nam; 8 hotel)"}
+
+  LOC_GANH_DAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "Gành Dầu", en: "Gành Dầu"}
+    surface_forms:
+      vi: ["ganh dau", "gành dầu"]
+    description: {vi: "Gành Dầu (thuộc Đảo Phú Quốc, Việt Nam; 8 hotel)", en: "Gành Dầu (thuộc Đảo Phú Quốc, Việt Nam; 8 hotel)"}
+
+  LOC_HA_NOI__QUAN_TAY_HO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Quận Tây Hồ", en: "Quận Tây Hồ"}
+    surface_forms:
+      vi: ["quan tay ho", "quận tây hồ"]
+    description: {vi: "Quận Tây Hồ (thuộc Hà Nội, Việt Nam; 7 hotel)", en: "Quận Tây Hồ (thuộc Hà Nội, Việt Nam; 7 hotel)"}
+
+  LOC_HO_CHI_MINH__QUAN_3:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 3", en: "Quận 3"}
+    surface_forms:
+      vi: ["quan 3", "quận 3"]
+    description: {vi: "Quận 3 (thuộc Hồ Chí Minh, Việt Nam; 7 hotel)", en: "Quận 3 (thuộc Hồ Chí Minh, Việt Nam; 7 hotel)"}
+
+  LOC_HOI_AN__CAM_CHAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Cẩm Châu", en: "Cẩm Châu"}
+    surface_forms:
+      vi: ["cam chau", "cẩm châu"]
+    description: {vi: "Cẩm Châu (thuộc Hội An, Việt Nam; 7 hotel)", en: "Cẩm Châu (thuộc Hội An, Việt Nam; 7 hotel)"}
+
+  LOC_TUY_HOA__BIEN_TUY_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_TUY_HOA
+    label: {vi: "Biển Tuy Hòa", en: "Biển Tuy Hòa"}
+    surface_forms:
+      vi: ["bien tuy hoa", "biển tuy hòa"]
+    description: {vi: "Biển Tuy Hòa (thuộc Tuy Hòa (Phú Yên), Việt Nam; 7 hotel)", en: "Biển Tuy Hòa (thuộc Tuy Hòa (Phú Yên), Việt Nam; 7 hotel)"}
+
+  LOC_VUNG_TAU__THANG_TAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Thắng Tam", en: "Thắng Tam"}
+    surface_forms:
+      vi: ["thang tam", "thắng tam"]
+    description: {vi: "Thắng Tam (thuộc Vũng Tàu, Việt Nam; 7 hotel)", en: "Thắng Tam (thuộc Vũng Tàu, Việt Nam; 7 hotel)"}
+
+  LOC_HA_NOI__BA_DINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Ba Đình", en: "Ba Đình"}
+    surface_forms:
+      vi: ["ba dinh", "ba đình"]
+    description: {vi: "Ba Đình (thuộc Hà Nội, Việt Nam; 6 hotel)", en: "Ba Đình (thuộc Hà Nội, Việt Nam; 6 hotel)"}
+
+  LOC_HA_NOI__MY_DINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Mỹ Đình", en: "Mỹ Đình"}
+    surface_forms:
+      vi: ["my dinh", "mỹ đình"]
+    description: {vi: "Mỹ Đình (thuộc Hà Nội, Việt Nam; 6 hotel)", en: "Mỹ Đình (thuộc Hà Nội, Việt Nam; 6 hotel)"}
+
+  LOC_BAI_BIEN_SAM_SON__BAI_BIEN_SAM_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Bãi biển Sầm Sơn", en: "Bãi biển Sầm Sơn"}
+    surface_forms:
+      vi: ["bai bien sam son", "bãi biển sầm sơn"]
+    description: {vi: "Bãi biển Sầm Sơn (thuộc Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam; 6 hotel)", en: "Bãi biển Sầm Sơn (thuộc Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam; 6 hotel)"}
+
+  LOC_VUNG_TAU__BAI_BIEN_HO_TRAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Bãi biển Hồ Tràm", en: "Bãi biển Hồ Tràm"}
+    surface_forms:
+      vi: ["bai bien ho tram", "bãi biển hồ tràm"]
+    description: {vi: "Bãi biển Hồ Tràm (thuộc Vũng Tàu, Việt Nam; 6 hotel)", en: "Bãi biển Hồ Tràm (thuộc Vũng Tàu, Việt Nam; 6 hotel)"}
+
+  LOC_DA_NANG__AN_HAI_BAC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "An Hải Bắc", en: "An Hải Bắc"}
+    surface_forms:
+      vi: ["an hai bac", "an hải bắc"]
+    description: {vi: "An Hải Bắc (thuộc Đà Nẵng, Việt Nam; 6 hotel)", en: "An Hải Bắc (thuộc Đà Nẵng, Việt Nam; 6 hotel)"}
+
+  LOC_PHU_QUOC__AN_THOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "An Thới", en: "An Thới"}
+    surface_forms:
+      vi: ["an thoi", "an thới"]
+    description: {vi: "An Thới (thuộc Đảo Phú Quốc, Việt Nam; 6 hotel)", en: "An Thới (thuộc Đảo Phú Quốc, Việt Nam; 6 hotel)"}
+
+  LOC_DONG_HOI__DONG_HOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DONG_HOI
+    label: {vi: "Đồng Hới", en: "Đồng Hới"}
+    surface_forms:
+      vi: ["dong hoi", "đồng hới"]
+    description: {vi: "Đồng Hới (thuộc Đồng Hới (Quảng Bình), Việt Nam; 6 hotel)", en: "Đồng Hới (thuộc Đồng Hới (Quảng Bình), Việt Nam; 6 hotel)"}
+
+  LOC_BINH_DUONG__THUAN_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BINH_DUONG
+    label: {vi: "Thuận An", en: "Thuận An"}
+    surface_forms:
+      vi: ["thuan an", "thuận an"]
+    description: {vi: "Thuận An (thuộc Bình Dương, Việt Nam; 5 hotel)", en: "Thuận An (thuộc Bình Dương, Việt Nam; 5 hotel)"}
+
+  LOC_CHAU_DOC__TRUNG_TAM_THANH_PHO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CHAU_DOC
+    label: {vi: "Trung tâm thành phố", en: "Trung tâm thành phố"}
+    surface_forms:
+      vi: ["trung tam thanh pho", "trung tâm thành phố"]
+    description: {vi: "Trung tâm thành phố (thuộc Châu Đốc, Việt Nam; 5 hotel)", en: "Trung tâm thành phố (thuộc Châu Đốc, Việt Nam; 5 hotel)"}
+
+  LOC_HUE__THANH_PHO_HUE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HUE
+    label: {vi: "Thành phố Huế", en: "Thành phố Huế"}
+    surface_forms:
+      vi: ["thanh pho hue", "thành phố huế"]
+    description: {vi: "Thành phố Huế (thuộc Huế, Việt Nam; 5 hotel)", en: "Thành phố Huế (thuộc Huế, Việt Nam; 5 hotel)"}
+
+  LOC_HA_NOI__PHO_CO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Phố Cổ", en: "Phố Cổ"}
+    surface_forms:
+      vi: ["pho co", "phố cổ"]
+    description: {vi: "Phố Cổ (thuộc Hà Nội, Việt Nam; 5 hotel)", en: "Phố Cổ (thuộc Hà Nội, Việt Nam; 5 hotel)"}
+
+  LOC_HA_NOI__DONG_DA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Đống Đa", en: "Đống Đa"}
+    surface_forms:
+      vi: ["dong da", "đống đa"]
+    description: {vi: "Đống Đa (thuộc Hà Nội, Việt Nam; 5 hotel)", en: "Đống Đa (thuộc Hà Nội, Việt Nam; 5 hotel)"}
+
+  LOC_HA_LONG__CANG_HON_GAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_LONG
+    label: {vi: "Cảng Hòn Gai", en: "Cảng Hòn Gai"}
+    surface_forms:
+      vi: ["cang hon gai", "cảng hòn gai"]
+    description: {vi: "Cảng Hòn Gai (thuộc Hạ Long, Việt Nam; 5 hotel)", en: "Cảng Hòn Gai (thuộc Hạ Long, Việt Nam; 5 hotel)"}
+
+  LOC_TAN_HIEP__TAM_HIEP:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_TAN_HIEP
+    label: {vi: "Tam Hiệp", en: "Tam Hiệp"}
+    surface_forms:
+      vi: ["tam hiep", "tam hiệp"]
+    description: {vi: "Tam Hiệp (thuộc Tân Hiệp, Việt Nam; 5 hotel)", en: "Tam Hiệp (thuộc Tân Hiệp, Việt Nam; 5 hotel)"}
+
+  LOC_DA_LAT__GA_DA_LAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_LAT
+    label: {vi: "Ga Đà Lạt", en: "Ga Đà Lạt"}
+    surface_forms:
+      vi: ["ga da lat", "ga đà lạt"]
+    description: {vi: "Ga Đà Lạt (thuộc Đà Lạt, Việt Nam; 5 hotel)", en: "Ga Đà Lạt (thuộc Đà Lạt, Việt Nam; 5 hotel)"}
+
+  LOC_BUON_MA_THUOT__TRUNG_TAM_THANH_PHO_BUON_MA_THUOT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BUON_MA_THUOT
+    label: {vi: "Trung tâm thành phố Buôn Ma Thuột", en: "Trung tâm thành phố Buôn Ma Thuột"}
+    surface_forms:
+      vi: ["trung tam thanh pho buon ma thuot", "trung tâm thành phố buôn ma thuột"]
+    description: {vi: "Trung tâm thành phố Buôn Ma Thuột (thuộc Buôn Ma Thuột, Việt Nam; 4 hotel)", en: "Trung tâm thành phố Buôn Ma Thuột (thuộc Buôn Ma Thuột, Việt Nam; 4 hotel)"}
+
+  LOC_HA_TIEN__PHAO_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_TIEN
+    label: {vi: "Pháo Đài", en: "Pháo Đài"}
+    surface_forms:
+      vi: ["phao dai", "pháo đài"]
+    description: {vi: "Pháo Đài (thuộc Hà Tiên (Kiên Giang), Việt Nam; 4 hotel)", en: "Pháo Đài (thuộc Hà Tiên (Kiên Giang), Việt Nam; 4 hotel)"}
+
+  LOC_CUA_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    related: [SETTING_COASTAL]
+    label: {vi: "Cửa Đại", en: "Cửa Đại"}
+    surface_forms:
+      vi: ["cua dai", "cửa đại"]
+    description: {vi: "Cửa Đại (thuộc Hội An, Việt Nam; 4 hotel)", en: "Cửa Đại (thuộc Hội An, Việt Nam; 4 hotel)"}
+
+  LOC_NHA_TRANG__CAM_HAI_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Cam Hải Đông", en: "Cam Hải Đông"}
+    surface_forms:
+      vi: ["cam hai dong", "cam hải đông"]
+    description: {vi: "Cam Hải Đông (thuộc Nha Trang, Việt Nam; 4 hotel)", en: "Cam Hải Đông (thuộc Nha Trang, Việt Nam; 4 hotel)"}
+
+  LOC_HON_TRE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    related: [SETTING_ISLAND]
+    label: {vi: "Hòn Tre", en: "Hòn Tre"}
+    surface_forms:
+      vi: ["hon tre", "hòn tre"]
+    description: {vi: "Hòn Tre (thuộc Nha Trang, Việt Nam; 4 hotel)", en: "Hòn Tre (thuộc Nha Trang, Việt Nam; 4 hotel)"}
+
+  LOC_NHA_TRANG__VINH_PHUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Vĩnh Phước", en: "Vĩnh Phước"}
+    surface_forms:
+      vi: ["vinh phuoc", "vĩnh phước"]
+    description: {vi: "Vĩnh Phước (thuộc Nha Trang, Việt Nam; 4 hotel)", en: "Vĩnh Phước (thuộc Nha Trang, Việt Nam; 4 hotel)"}
+
+  LOC_NINH_BINH__THANH_PHO_NINH_BINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NINH_BINH
+    label: {vi: "Thành phố Ninh Bình", en: "Thành phố Ninh Bình"}
+    surface_forms:
+      vi: ["thanh pho ninh binh", "thành phố ninh bình"]
+    description: {vi: "Thành phố Ninh Bình (thuộc Ninh Bình, Việt Nam; 4 hotel)", en: "Thành phố Ninh Bình (thuộc Ninh Bình, Việt Nam; 4 hotel)"}
+
+  LOC_VUNG_TAU__PHUONG_2:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Phường 2", en: "Phường 2"}
+    surface_forms:
+      vi: ["phuong 2", "phường 2"]
+    description: {vi: "Phường 2 (thuộc Vũng Tàu, Việt Nam; 4 hotel)", en: "Phường 2 (thuộc Vũng Tàu, Việt Nam; 4 hotel)"}
+
+  LOC_DA_NANG__HOA_HAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Hòa Hải", en: "Hòa Hải"}
+    surface_forms:
+      vi: ["hoa hai", "hòa hải"]
+    description: {vi: "Hòa Hải (thuộc Đà Nẵng, Việt Nam; 4 hotel)", en: "Hòa Hải (thuộc Đà Nẵng, Việt Nam; 4 hotel)"}
+
+  LOC_CON_DAO__BIEN_AN_HAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CON_DAO
+    label: {vi: "Biển An Hải", en: "Biển An Hải"}
+    surface_forms:
+      vi: ["bien an hai", "biển an hải"]
+    description: {vi: "Biển An Hải (thuộc Côn Đảo, Việt Nam; 3 hotel)", en: "Biển An Hải (thuộc Côn Đảo, Việt Nam; 3 hotel)"}
+
+  LOC_HA_NOI__CAU_GIAY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Cầu Giấy", en: "Cầu Giấy"}
+    surface_forms:
+      vi: ["cau giay", "cầu giấy"]
+    description: {vi: "Cầu Giấy (thuộc Hà Nội, Việt Nam; 3 hotel)", en: "Cầu Giấy (thuộc Hà Nội, Việt Nam; 3 hotel)"}
+
+  LOC_HO_CHI_MINH__PHU_NHUAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Phú Nhuận", en: "Phú Nhuận"}
+    surface_forms:
+      vi: ["phu nhuan", "phú nhuận"]
+    description: {vi: "Phú Nhuận (thuộc Hồ Chí Minh, Việt Nam; 3 hotel)", en: "Phú Nhuận (thuộc Hồ Chí Minh, Việt Nam; 3 hotel)"}
+
+  LOC_HOI_AN__SON_PHONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Sơn Phong", en: "Sơn Phong"}
+    surface_forms:
+      vi: ["son phong", "sơn phong"]
+    description: {vi: "Sơn Phong (thuộc Hội An, Việt Nam; 3 hotel)", en: "Sơn Phong (thuộc Hội An, Việt Nam; 3 hotel)"}
+
+  LOC_HOI_AN__THANG_BINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Thăng Bình", en: "Thăng Bình"}
+    surface_forms:
+      vi: ["thang binh", "thăng bình"]
+    description: {vi: "Thăng Bình (thuộc Hội An, Việt Nam; 3 hotel)", en: "Thăng Bình (thuộc Hội An, Việt Nam; 3 hotel)"}
+
+  LOC_LY_SON__AN_VINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_LY_SON
+    label: {vi: "An Vĩnh", en: "An Vĩnh"}
+    surface_forms:
+      vi: ["an vinh", "an vĩnh"]
+    description: {vi: "An Vĩnh (thuộc Ly Son, Việt Nam; 3 hotel)", en: "An Vĩnh (thuộc Ly Son, Việt Nam; 3 hotel)"}
+
+  LOC_MY_THO__MY_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_MY_THO
+    label: {vi: "Mỹ Tho", en: "Mỹ Tho"}
+    surface_forms:
+      vi: ["my tho", "mỹ tho"]
+    description: {vi: "Mỹ Tho (thuộc Mỹ Tho (Tiền Giang), Việt Nam; 3 hotel)", en: "Mỹ Tho (thuộc Mỹ Tho (Tiền Giang), Việt Nam; 3 hotel)"}
+
+  LOC_NHA_TRANG__VINH_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Vĩnh Hòa", en: "Vĩnh Hòa"}
+    surface_forms:
+      vi: ["vinh hoa", "vĩnh hòa"]
+    description: {vi: "Vĩnh Hòa (thuộc Nha Trang, Việt Nam; 3 hotel)", en: "Vĩnh Hòa (thuộc Nha Trang, Việt Nam; 3 hotel)"}
+
+  LOC_NHA_TRANG__XUONG_HUAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Xương Huân", en: "Xương Huân"}
+    surface_forms:
+      vi: ["xuong huan", "xương huân"]
+    description: {vi: "Xương Huân (thuộc Nha Trang, Việt Nam; 3 hotel)", en: "Xương Huân (thuộc Nha Trang, Việt Nam; 3 hotel)"}
+
+  LOC_TAM_KY__TAM_KY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_TAM_KY
+    label: {vi: "Tam Kỳ", en: "Tam Kỳ"}
+    surface_forms:
+      vi: ["tam ky", "tam kỳ"]
+    description: {vi: "Tam Kỳ (thuộc Tam Kỳ (Quảng Nam), Việt Nam; 3 hotel)", en: "Tam Kỳ (thuộc Tam Kỳ (Quảng Nam), Việt Nam; 3 hotel)"}
+
+  LOC_TAM_DAO__TAM_DAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_TAM_DAO
+    label: {vi: "Tam Đảo", en: "Tam Đảo"}
+    surface_forms:
+      vi: ["tam dao", "tam đảo"]
+    description: {vi: "Tam Đảo (thuộc Tam Đảo (Vĩnh Phúc), Việt Nam; 3 hotel)", en: "Tam Đảo (thuộc Tam Đảo (Vĩnh Phúc), Việt Nam; 3 hotel)"}
+
+  LOC_BAI_BIEN_SAM_SON__TRUNG_TAM_TP_THANH_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Trung tâm Tp.Thanh Hóa", en: "Trung tâm Tp.Thanh Hóa"}
+    surface_forms:
+      vi: ["trung tam tp.thanh hoa", "trung tâm tp.thanh hóa"]
+    description: {vi: "Trung tâm Tp.Thanh Hóa (thuộc Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam; 3 hotel)", en: "Trung tâm Tp.Thanh Hóa (thuộc Thanh Hoá / Bãi biển Sầm Sơn, Việt Nam; 3 hotel)"}
+
+  LOC_VINH__THANH_PHO_VINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VINH
+    label: {vi: "Thành phố Vinh", en: "Thành phố Vinh"}
+    surface_forms:
+      vi: ["thanh pho vinh", "thành phố vinh"]
+    description: {vi: "Thành phố Vinh (thuộc Vinh, Việt Nam; 3 hotel)", en: "Thành phố Vinh (thuộc Vinh, Việt Nam; 3 hotel)"}
+
+  LOC_DA_LAT__THUNG_LUNG_TINH_YEU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_LAT
+    label: {vi: "Thung lũng Tình yêu", en: "Thung lũng Tình yêu"}
+    surface_forms:
+      vi: ["thung lung tinh yeu", "thung lũng tình yêu"]
+    description: {vi: "Thung lũng Tình yêu (thuộc Đà Lạt, Việt Nam; 3 hotel)", en: "Thung lũng Tình yêu (thuộc Đà Lạt, Việt Nam; 3 hotel)"}
+
+  LOC_DA_NANG__LANG_CO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Lăng Cô", en: "Lăng Cô"}
+    surface_forms:
+      vi: ["lang co", "lăng cô"]
+    description: {vi: "Lăng Cô (thuộc Đà Nẵng, Việt Nam; 3 hotel)", en: "Lăng Cô (thuộc Đà Nẵng, Việt Nam; 3 hotel)"}
+
+  LOC_BEN_TRE__PHUONG_3:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BEN_TRE
+    label: {vi: "Phường 3", en: "Phường 3"}
+    surface_forms:
+      vi: ["phuong 3", "phường 3"]
+    description: {vi: "Phường 3 (thuộc Bến Tre, Việt Nam; 2 hotel)", en: "Phường 3 (thuộc Bến Tre, Việt Nam; 2 hotel)"}
+
+  LOC_CON_DAO__BIEN_LO_VOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CON_DAO
+    label: {vi: "Biển Lò Vôi", en: "Biển Lò Vôi"}
+    surface_forms:
+      vi: ["bien lo voi", "biển lò vôi"]
+    description: {vi: "Biển Lò Vôi (thuộc Côn Đảo, Việt Nam; 2 hotel)", en: "Biển Lò Vôi (thuộc Côn Đảo, Việt Nam; 2 hotel)"}
+
+  LOC_CAN_THO__BEN_NINH_KIEU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CAN_THO
+    label: {vi: "Bến Ninh Kiều", en: "Bến Ninh Kiều"}
+    surface_forms:
+      vi: ["ben ninh kieu", "bến ninh kiều"]
+    description: {vi: "Bến Ninh Kiều (thuộc Cần Thơ, Việt Nam; 2 hotel)", en: "Bến Ninh Kiều (thuộc Cần Thơ, Việt Nam; 2 hotel)"}
+
+  LOC_CAN_THO__CAI_KHE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CAN_THO
+    label: {vi: "Cái Khế", en: "Cái Khế"}
+    surface_forms:
+      vi: ["cai khe", "cái khế"]
+    description: {vi: "Cái Khế (thuộc Cần Thơ, Việt Nam; 2 hotel)", en: "Cái Khế (thuộc Cần Thơ, Việt Nam; 2 hotel)"}
+
+  LOC_HA_NOI__HA_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Hà Đông", en: "Hà Đông"}
+    surface_forms:
+      vi: ["ha dong", "hà đông"]
+    description: {vi: "Hà Đông (thuộc Hà Nội, Việt Nam; 2 hotel)", en: "Hà Đông (thuộc Hà Nội, Việt Nam; 2 hotel)"}
+
+  LOC_HA_NOI__TRUNG_HOA_NHAN_CHINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Trung Hòa Nhân Chính", en: "Trung Hòa Nhân Chính"}
+    surface_forms:
+      vi: ["trung hoa nhan chinh", "trung hòa nhân chính"]
+    description: {vi: "Trung Hòa Nhân Chính (thuộc Hà Nội, Việt Nam; 2 hotel)", en: "Trung Hòa Nhân Chính (thuộc Hà Nội, Việt Nam; 2 hotel)"}
+
+  LOC_HAI_PHONG__TRUNG_TAM_THANH_PHO_CHO_SAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HAI_PHONG
+    label: {vi: "Trung tâm thành phố/chợ Sắt", en: "Trung tâm thành phố/chợ Sắt"}
+    surface_forms:
+      vi: ["cho sat", "chợ sắt", "trung tam thanh pho", "trung tam thanh pho/cho sat", "trung tâm thành phố", "trung tâm thành phố/chợ sắt"]
+    description: {vi: "Trung tâm thành phố/chợ Sắt (thuộc Hải Phòng, Việt Nam; 2 hotel)", en: "Trung tâm thành phố/chợ Sắt (thuộc Hải Phòng, Việt Nam; 2 hotel)"}
+
+  LOC_HO_CHI_MINH__BINH_THANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Bình Thạnh", en: "Bình Thạnh"}
+    surface_forms:
+      vi: ["binh thanh", "bình thạnh"]
+    description: {vi: "Bình Thạnh (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)", en: "Bình Thạnh (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)"}
+
+  LOC_HO_CHI_MINH__QUAN_4:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 4", en: "Quận 4"}
+    surface_forms:
+      vi: ["quan 4", "quận 4"]
+    description: {vi: "Quận 4 (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)", en: "Quận 4 (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)"}
+
+  LOC_HO_CHI_MINH__QUAN_7:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 7", en: "Quận 7"}
+    surface_forms:
+      vi: ["quan 7", "quận 7"]
+    description: {vi: "Quận 7 (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)", en: "Quận 7 (thuộc Hồ Chí Minh, Việt Nam; 2 hotel)"}
+
+  LOC_HOI_AN__CAM_HA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Cẩm Hà", en: "Cẩm Hà"}
+    surface_forms:
+      vi: ["cam ha", "cẩm hà"]
+    description: {vi: "Cẩm Hà (thuộc Hội An, Việt Nam; 2 hotel)", en: "Cẩm Hà (thuộc Hội An, Việt Nam; 2 hotel)"}
+
+  LOC_NINH_BINH__DONG_TAM_COC_BICH_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NINH_BINH
+    label: {vi: "Động Tam Cốc - Bích Động", en: "Động Tam Cốc - Bích Động"}
+    surface_forms:
+      vi: ["dong tam coc - bich dong", "động tam cốc - bích động"]
+    description: {vi: "Động Tam Cốc - Bích Động (thuộc Ninh Bình, Việt Nam; 2 hotel)", en: "Động Tam Cốc - Bích Động (thuộc Ninh Bình, Việt Nam; 2 hotel)"}
+
+  LOC_PHAN_THIET__PHU_THUY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHAN_THIET
+    label: {vi: "Phú Thủy", en: "Phú Thủy"}
+    surface_forms:
+      vi: ["phu thuy", "phú thủy"]
+    description: {vi: "Phú Thủy (thuộc Phan Thiết, Việt Nam; 2 hotel)", en: "Phú Thủy (thuộc Phan Thiết, Việt Nam; 2 hotel)"}
+
+  LOC_PHAN_THIET__TIEN_THANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHAN_THIET
+    label: {vi: "Tiến Thành", en: "Tiến Thành"}
+    surface_forms:
+      vi: ["tien thanh", "tiến thành"]
+    description: {vi: "Tiến Thành (thuộc Phan Thiết, Việt Nam; 2 hotel)", en: "Tiến Thành (thuộc Phan Thiết, Việt Nam; 2 hotel)"}
+
+  LOC_QUY_NHON__NHON_LY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_QUY_NHON
+    label: {vi: "Nhơn Lý", en: "Nhơn Lý"}
+    surface_forms:
+      vi: ["nhon ly", "nhơn lý"]
+    description: {vi: "Nhơn Lý (thuộc Quy Nhơn (Bình Định), Việt Nam; 2 hotel)", en: "Nhơn Lý (thuộc Quy Nhơn (Bình Định), Việt Nam; 2 hotel)"}
+
+  LOC_QUY_NHON__TRUNG_TAM_THANH_PHO_QUY_NHON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_QUY_NHON
+    label: {vi: "Trung tâm thành phố Quy Nhơn", en: "Trung tâm thành phố Quy Nhơn"}
+    surface_forms:
+      vi: ["trung tam thanh pho quy nhon", "trung tâm thành phố quy nhơn"]
+    description: {vi: "Trung tâm thành phố Quy Nhơn (thuộc Quy Nhơn (Bình Định), Việt Nam; 2 hotel)", en: "Trung tâm thành phố Quy Nhơn (thuộc Quy Nhơn (Bình Định), Việt Nam; 2 hotel)"}
+
+  LOC_TAY_NINH__TRUNG_TAM_THANH_PHO_TAY_NINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_TAY_NINH
+    label: {vi: "Trung tâm thành phố Tây Ninh", en: "Trung tâm thành phố Tây Ninh"}
+    surface_forms:
+      vi: ["trung tam thanh pho tay ninh", "trung tâm thành phố tây ninh"]
+    description: {vi: "Trung tâm thành phố Tây Ninh (thuộc Tây Ninh, Việt Nam; 2 hotel)", en: "Trung tâm thành phố Tây Ninh (thuộc Tây Ninh, Việt Nam; 2 hotel)"}
+
+  LOC_DA_LAT__HO_XUAN_HUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_LAT
+    label: {vi: "Hồ Xuân Hương", en: "Hồ Xuân Hương"}
+    surface_forms:
+      vi: ["ho xuan huong", "hồ xuân hương"]
+    description: {vi: "Hồ Xuân Hương (thuộc Đà Lạt, Việt Nam; 2 hotel)", en: "Hồ Xuân Hương (thuộc Đà Lạt, Việt Nam; 2 hotel)"}
+
+  LOC_DA_NANG__XUAN_HA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Xuân Hà", en: "Xuân Hà"}
+    surface_forms:
+      vi: ["xuan ha", "xuân hà"]
+    description: {vi: "Xuân Hà (thuộc Đà Nẵng, Việt Nam; 2 hotel)", en: "Xuân Hà (thuộc Đà Nẵng, Việt Nam; 2 hotel)"}
+
+  LOC_PHU_QUOC__BAI_KHEM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "Bãi Khem", en: "Bãi Khem"}
+    surface_forms:
+      vi: ["bai khem", "bãi khem"]
+    description: {vi: "Bãi Khem (thuộc Đảo Phú Quốc, Việt Nam; 2 hotel)", en: "Bãi Khem (thuộc Đảo Phú Quốc, Việt Nam; 2 hotel)"}
+
+  LOC_PHU_QUOC__DUONG_TO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "Dương Tơ", en: "Dương Tơ"}
+    surface_forms:
+      vi: ["duong to", "dương tơ"]
+    description: {vi: "Dương Tơ (thuộc Đảo Phú Quốc, Việt Nam; 2 hotel)", en: "Dương Tơ (thuộc Đảo Phú Quốc, Việt Nam; 2 hotel)"}
+
+  LOC_BIEN_HOA__THONG_NHAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BIEN_HOA
+    label: {vi: "Thống Nhất", en: "Thống Nhất"}
+    surface_forms:
+      vi: ["thong nhat", "thống nhất"]
+    description: {vi: "Thống Nhất (thuộc Biên Hòa (Đồng Nai), Việt Nam; 1 hotel)", en: "Thống Nhất (thuộc Biên Hòa (Đồng Nai), Việt Nam; 1 hotel)"}
+
+  LOC_CUA_LO__BAI_BIEN_CUA_LO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CUA_LO
+    label: {vi: "Bãi biển Cửa Lò", en: "Bãi biển Cửa Lò"}
+    surface_forms:
+      vi: ["bai bien cua lo", "bãi biển cửa lò"]
+    description: {vi: "Bãi biển Cửa Lò (thuộc Biển Cửa Lò, Việt Nam; 1 hotel)", en: "Bãi biển Cửa Lò (thuộc Biển Cửa Lò, Việt Nam; 1 hotel)"}
+
+  LOC_BINH_DUONG__THU_DAU_MOT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BINH_DUONG
+    label: {vi: "Thủ Dầu Một", en: "Thủ Dầu Một"}
+    surface_forms:
+      vi: ["thu dau mot", "thủ dầu một"]
+    description: {vi: "Thủ Dầu Một (thuộc Bình Dương, Việt Nam; 1 hotel)", en: "Thủ Dầu Một (thuộc Bình Dương, Việt Nam; 1 hotel)"}
+
+  LOC_BAC_NINH__TRUNG_TAM_THANH_PHO_BAC_NINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BAC_NINH
+    label: {vi: "Trung tâm Thành phố Bắc Ninh", en: "Trung tâm Thành phố Bắc Ninh"}
+    surface_forms:
+      vi: ["trung tam thanh pho bac ninh", "trung tâm thành phố bắc ninh"]
+    description: {vi: "Trung tâm Thành phố Bắc Ninh (thuộc Bắc Ninh, Việt Nam; 1 hotel)", en: "Trung tâm Thành phố Bắc Ninh (thuộc Bắc Ninh, Việt Nam; 1 hotel)"}
+
+  LOC_BEN_TRE__PHU_KHUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BEN_TRE
+    label: {vi: "Phú Khương", en: "Phú Khương"}
+    surface_forms:
+      vi: ["phu khuong", "phú khương"]
+    description: {vi: "Phú Khương (thuộc Bến Tre, Việt Nam; 1 hotel)", en: "Phú Khương (thuộc Bến Tre, Việt Nam; 1 hotel)"}
+
+  LOC_BEN_TRE__PHUONG_6:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BEN_TRE
+    label: {vi: "Phường 6", en: "Phường 6"}
+    surface_forms:
+      vi: ["phuong 6", "phường 6"]
+    description: {vi: "Phường 6 (thuộc Bến Tre, Việt Nam; 1 hotel)", en: "Phường 6 (thuộc Bến Tre, Việt Nam; 1 hotel)"}
+
+  LOC_BEN_TRE__PHUONG_7:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BEN_TRE
+    label: {vi: "Phường 7", en: "Phường 7"}
+    surface_forms:
+      vi: ["phuong 7", "phường 7"]
+    description: {vi: "Phường 7 (thuộc Bến Tre, Việt Nam; 1 hotel)", en: "Phường 7 (thuộc Bến Tre, Việt Nam; 1 hotel)"}
+
+  LOC_BEN_TRE__TAN_THACH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_BEN_TRE
+    label: {vi: "Tân Thạch", en: "Tân Thạch"}
+    surface_forms:
+      vi: ["tan thach", "tân thạch"]
+    description: {vi: "Tân Thạch (thuộc Bến Tre, Việt Nam; 1 hotel)", en: "Tân Thạch (thuộc Bến Tre, Việt Nam; 1 hotel)"}
+
+  LOC_CHAU_DOC__NUI_SAM_DEN_BA_CHUA_XU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CHAU_DOC
+    label: {vi: "Núi Sam/ Đền bà Chúa Xứ", en: "Núi Sam/ Đền bà Chúa Xứ"}
+    surface_forms:
+      vi: ["den ba chua xu", "nui sam", "nui sam/ den ba chua xu", "núi sam", "núi sam/ đền bà chúa xứ", "đền bà chúa xứ"]
+    description: {vi: "Núi Sam/ Đền bà Chúa Xứ (thuộc Châu Đốc, Việt Nam; 1 hotel)", en: "Núi Sam/ Đền bà Chúa Xứ (thuộc Châu Đốc, Việt Nam; 1 hotel)"}
+
+  LOC_CAN_THO__TRUNG_TAM_THANH_PHO_CAN_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_CAN_THO
+    label: {vi: "Trung tâm thành phố Cần Thơ", en: "Trung tâm thành phố Cần Thơ"}
+    surface_forms:
+      vi: ["trung tam thanh pho can tho", "trung tâm thành phố cần thơ"]
+    description: {vi: "Trung tâm thành phố Cần Thơ (thuộc Cần Thơ, Việt Nam; 1 hotel)", en: "Trung tâm thành phố Cần Thơ (thuộc Cần Thơ, Việt Nam; 1 hotel)"}
+
+  LOC_GIA_LAM__DA_TON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_GIA_LAM
+    label: {vi: "Đa Tốn", en: "Đa Tốn"}
+    surface_forms:
+      vi: ["da ton", "đa tốn"]
+    description: {vi: "Đa Tốn (thuộc Gia Lâm, Việt Nam; 1 hotel)", en: "Đa Tốn (thuộc Gia Lâm, Việt Nam; 1 hotel)"}
+
+  LOC_HUE__SONG_HUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HUE
+    label: {vi: "Sông Hương", en: "Sông Hương"}
+    surface_forms:
+      vi: ["song huong", "sông hương"]
+    description: {vi: "Sông Hương (thuộc Huế, Việt Nam; 1 hotel)", en: "Sông Hương (thuộc Huế, Việt Nam; 1 hotel)"}
+
+  LOC_HA_NOI__QUAN_HOANG_MAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_NOI
+    label: {vi: "Quận Hoàng Mai", en: "Quận Hoàng Mai"}
+    surface_forms:
+      vi: ["quan hoang mai", "quận hoàng mai"]
+    description: {vi: "Quận Hoàng Mai (thuộc Hà Nội, Việt Nam; 1 hotel)", en: "Quận Hoàng Mai (thuộc Hà Nội, Việt Nam; 1 hotel)"}
+
+  LOC_HA_LONG__VAN_DON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HA_LONG
+    label: {vi: "Vân Đồn", en: "Vân Đồn"}
+    surface_forms:
+      vi: ["van don", "vân đồn"]
+    description: {vi: "Vân Đồn (thuộc Hạ Long, Việt Nam; 1 hotel)", en: "Vân Đồn (thuộc Hạ Long, Việt Nam; 1 hotel)"}
+
+  LOC_HAI_PHONG__THUONG_LY_QUAN_TOAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HAI_PHONG
+    label: {vi: "Thượng Lý/Quán Toan", en: "Thượng Lý/Quán Toan"}
+    surface_forms:
+      vi: ["quan toan", "quán toan", "thuong ly", "thuong ly/quan toan", "thượng lý", "thượng lý/quán toan"]
+    description: {vi: "Thượng Lý/Quán Toan (thuộc Hải Phòng, Việt Nam; 1 hotel)", en: "Thượng Lý/Quán Toan (thuộc Hải Phòng, Việt Nam; 1 hotel)"}
+
+  LOC_HAI_PHONG__VEN_SONG_SONG_CAM_CANG_CU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HAI_PHONG
+    label: {vi: "Ven sông - Sông Cấm/Cảng cũ", en: "Ven sông - Sông Cấm/Cảng cũ"}
+    surface_forms:
+      vi: ["cang cu", "cảng cũ", "ven song - song cam", "ven song - song cam/cang cu", "ven sông - sông cấm", "ven sông - sông cấm/cảng cũ"]
+    description: {vi: "Ven sông - Sông Cấm/Cảng cũ (thuộc Hải Phòng, Việt Nam; 1 hotel)", en: "Ven sông - Sông Cấm/Cảng cũ (thuộc Hải Phòng, Việt Nam; 1 hotel)"}
+
+  LOC_HO_CHI_MINH__GO_VAP:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Gò Vấp", en: "Gò Vấp"}
+    surface_forms:
+      vi: ["go vap", "gò vấp"]
+    description: {vi: "Gò Vấp (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)", en: "Gò Vấp (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)"}
+
+  LOC_HO_CHI_MINH__HUYEN_CU_CHI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Huyện Củ Chi", en: "Huyện Củ Chi"}
+    surface_forms:
+      vi: ["huyen cu chi", "huyện củ chi"]
+    description: {vi: "Huyện Củ Chi (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)", en: "Huyện Củ Chi (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)"}
+
+  LOC_HO_CHI_MINH__QUAN_10:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 10", en: "Quận 10"}
+    surface_forms:
+      vi: ["quan 10", "quận 10"]
+    description: {vi: "Quận 10 (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)", en: "Quận 10 (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)"}
+
+  LOC_HO_CHI_MINH__QUAN_2:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Quận 2", en: "Quận 2"}
+    surface_forms:
+      vi: ["quan 2", "quận 2"]
+    description: {vi: "Quận 2 (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)", en: "Quận 2 (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)"}
+
+  LOC_HO_CHI_MINH__THU_DUC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HO_CHI_MINH
+    label: {vi: "Thủ Đức", en: "Thủ Đức"}
+    surface_forms:
+      vi: ["thu duc", "thủ đức"]
+    description: {vi: "Thủ Đức (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)", en: "Thủ Đức (thuộc Hồ Chí Minh, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__CAM_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Cẩm An", en: "Cẩm An"}
+    surface_forms:
+      vi: ["cam an", "cẩm an"]
+    description: {vi: "Cẩm An (thuộc Hội An, Việt Nam; 1 hotel)", en: "Cẩm An (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__CAM_PHO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Cẩm Phô", en: "Cẩm Phô"}
+    surface_forms:
+      vi: ["cam pho", "cẩm phô"]
+    description: {vi: "Cẩm Phô (thuộc Hội An, Việt Nam; 1 hotel)", en: "Cẩm Phô (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__CAM_THANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Cẩm Thanh", en: "Cẩm Thanh"}
+    surface_forms:
+      vi: ["cam thanh", "cẩm thanh"]
+    description: {vi: "Cẩm Thanh (thuộc Hội An, Việt Nam; 1 hotel)", en: "Cẩm Thanh (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__MINH_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Minh An", en: "Minh An"}
+    surface_forms:
+      vi: ["minh an"]
+    description: {vi: "Minh An (thuộc Hội An, Việt Nam; 1 hotel)", en: "Minh An (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__THANH_HA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Thanh Hà", en: "Thanh Hà"}
+    surface_forms:
+      vi: ["thanh ha", "thanh hà"]
+    description: {vi: "Thanh Hà (thuộc Hội An, Việt Nam; 1 hotel)", en: "Thanh Hà (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_HOI_AN__DIEN_DUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_HOI_AN
+    label: {vi: "Điện Dương", en: "Điện Dương"}
+    surface_forms:
+      vi: ["dien duong", "điện dương"]
+    description: {vi: "Điện Dương (thuộc Hội An, Việt Nam; 1 hotel)", en: "Điện Dương (thuộc Hội An, Việt Nam; 1 hotel)"}
+
+  LOC_NAM_INH__NAM_DINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NAM_INH
+    label: {vi: "Nam Định", en: "Nam Định"}
+    surface_forms:
+      vi: ["nam dinh", "nam định"]
+    description: {vi: "Nam Định (thuộc Nam Ðịnh, Việt Nam; 1 hotel)", en: "Nam Định (thuộc Nam Ðịnh, Việt Nam; 1 hotel)"}
+
+  LOC_NHA_TRANG__DOC_LET:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Dốc Lết", en: "Dốc Lết"}
+    surface_forms:
+      vi: ["doc let", "dốc lết"]
+    description: {vi: "Dốc Lết (thuộc Nha Trang, Việt Nam; 1 hotel)", en: "Dốc Lết (thuộc Nha Trang, Việt Nam; 1 hotel)"}
+
+  LOC_NHA_TRANG__PHUOC_LONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Phước Long", en: "Phước Long"}
+    surface_forms:
+      vi: ["phuoc long", "phước long"]
+    description: {vi: "Phước Long (thuộc Nha Trang, Việt Nam; 1 hotel)", en: "Phước Long (thuộc Nha Trang, Việt Nam; 1 hotel)"}
+
+  LOC_NHA_TRANG__VINH_TRUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_NHA_TRANG
+    label: {vi: "Vĩnh Trường", en: "Vĩnh Trường"}
+    surface_forms:
+      vi: ["vinh truong", "vĩnh trường"]
+    description: {vi: "Vĩnh Trường (thuộc Nha Trang, Việt Nam; 1 hotel)", en: "Vĩnh Trường (thuộc Nha Trang, Việt Nam; 1 hotel)"}
+
+  LOC_PHAN_RANG_THAP_CHAM__VINH_HAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Vĩnh Hải", en: "Vĩnh Hải"}
+    surface_forms:
+      vi: ["vinh hai", "vĩnh hải"]
+    description: {vi: "Vĩnh Hải (thuộc Phan Rang - Tháp Chàm (Ninh Thuận), Việt Nam; 1 hotel)", en: "Vĩnh Hải (thuộc Phan Rang - Tháp Chàm (Ninh Thuận), Việt Nam; 1 hotel)"}
+
+  LOC_PHU_THO_TINH__THANH_THUY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_THO_TINH
+    label: {vi: "Thanh Thủy", en: "Thanh Thủy"}
+    surface_forms:
+      vi: ["thanh thuy", "thanh thủy"]
+    description: {vi: "Thanh Thủy (thuộc Phú Thọ, Việt Nam; 1 hotel)", en: "Thanh Thủy (thuộc Phú Thọ, Việt Nam; 1 hotel)"}
+
+  LOC_PHUC_YEN__NGOC_THANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHUC_YEN
+    label: {vi: "Ngọc Thanh", en: "Ngọc Thanh"}
+    surface_forms:
+      vi: ["ngoc thanh", "ngọc thanh"]
+    description: {vi: "Ngọc Thanh (thuộc Phúc Yên, Việt Nam; 1 hotel)", en: "Ngọc Thanh (thuộc Phúc Yên, Việt Nam; 1 hotel)"}
+
+  LOC_PHU_LY__MINH_KHAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_LY
+    label: {vi: "Minh Khai", en: "Minh Khai"}
+    surface_forms:
+      vi: ["minh khai"]
+    description: {vi: "Minh Khai (thuộc Phủ Lý (Hà Nam), Việt Nam; 1 hotel)", en: "Minh Khai (thuộc Phủ Lý (Hà Nam), Việt Nam; 1 hotel)"}
+
+  LOC_PLEIKU__PLEIKU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PLEIKU
+    label: {vi: "Pleiku", en: "Pleiku"}
+    surface_forms:
+      vi: ["pleiku"]
+    description: {vi: "Pleiku (thuộc Pleiku (Gia Lai), Việt Nam; 1 hotel)", en: "Pleiku (thuộc Pleiku (Gia Lai), Việt Nam; 1 hotel)"}
+
+  LOC_QUAN_DAO_CAT_BA__CAT_BA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_QUAN_DAO_CAT_BA
+    label: {vi: "Cát Bà", en: "Cát Bà"}
+    surface_forms:
+      vi: ["cat ba", "cát bà"]
+    description: {vi: "Cát Bà (thuộc Quần Đảo Cát Bà, Việt Nam; 1 hotel)", en: "Cát Bà (thuộc Quần Đảo Cát Bà, Việt Nam; 1 hotel)"}
+
+  LOC_SAPA__TRUNG_TAM_SAPA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_SAPA
+    label: {vi: "Trung tâm Sapa", en: "Trung tâm Sapa"}
+    surface_forms:
+      vi: ["trung tam sapa", "trung tâm sapa"]
+    description: {vi: "Trung tâm Sapa (thuộc Sapa, Việt Nam; 1 hotel)", en: "Trung tâm Sapa (thuộc Sapa, Việt Nam; 1 hotel)"}
+
+  LOC_THANH_HOA_TINH__TRUNG_TAM_TP_THANH_HOA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_THANH_HOA_TINH
+    label: {vi: "Trung tâm Tp.Thanh Hóa", en: "Trung tâm Tp.Thanh Hóa"}
+    surface_forms:
+      vi: ["trung tam tp.thanh hoa", "trung tâm tp.thanh hóa"]
+    description: {vi: "Trung tâm Tp.Thanh Hóa (thuộc Thanh Hóa, Việt Nam; 1 hotel)", en: "Trung tâm Tp.Thanh Hóa (thuộc Thanh Hóa, Việt Nam; 1 hotel)"}
+
+  LOC_THUAN_AN__VINH_PHU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_THUAN_AN
+    label: {vi: "Vinh Phú", en: "Vinh Phú"}
+    surface_forms:
+      vi: ["vinh phu", "vinh phú"]
+    description: {vi: "Vinh Phú (thuộc Thuận An, Việt Nam; 1 hotel)", en: "Vinh Phú (thuộc Thuận An, Việt Nam; 1 hotel)"}
+
+  LOC_VIET_TRI__VIET_TRI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VIET_TRI
+    label: {vi: "Việt Trì", en: "Việt Trì"}
+    surface_forms:
+      vi: ["viet tri", "việt trì"]
+    description: {vi: "Việt Trì (thuộc Việt Trì (Phú Thọ), Việt Nam; 1 hotel)", en: "Việt Trì (thuộc Việt Trì (Phú Thọ), Việt Nam; 1 hotel)"}
+
+  LOC_VUNG_TAU__PHUONG_1:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Phường 1", en: "Phường 1"}
+    surface_forms:
+      vi: ["phuong 1", "phường 1"]
+    description: {vi: "Phường 1 (thuộc Vũng Tàu, Việt Nam; 1 hotel)", en: "Phường 1 (thuộc Vũng Tàu, Việt Nam; 1 hotel)"}
+
+  LOC_VUNG_TAU__PHUONG_5:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Phường 5", en: "Phường 5"}
+    surface_forms:
+      vi: ["phuong 5", "phường 5"]
+    description: {vi: "Phường 5 (thuộc Vũng Tàu, Việt Nam; 1 hotel)", en: "Phường 5 (thuộc Vũng Tàu, Việt Nam; 1 hotel)"}
+
+  LOC_VUNG_TAU__PHUONG_8:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_VUNG_TAU
+    label: {vi: "Phường 8", en: "Phường 8"}
+    surface_forms:
+      vi: ["phuong 8", "phường 8"]
+    description: {vi: "Phường 8 (thuộc Vũng Tàu, Việt Nam; 1 hotel)", en: "Phường 8 (thuộc Vũng Tàu, Việt Nam; 1 hotel)"}
+
+  LOC_DA_LAT__PHUONG_11:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_LAT
+    label: {vi: "Phường 11", en: "Phường 11"}
+    surface_forms:
+      vi: ["phuong 11", "phường 11"]
+    description: {vi: "Phường 11 (thuộc Đà Lạt, Việt Nam; 1 hotel)", en: "Phường 11 (thuộc Đà Lạt, Việt Nam; 1 hotel)"}
+
+  LOC_DA_NANG__HOA_NINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_DA_NANG
+    label: {vi: "Hòa Ninh", en: "Hòa Ninh"}
+    surface_forms:
+      vi: ["hoa ninh", "hòa ninh"]
+    description: {vi: "Hòa Ninh (thuộc Đà Nẵng, Việt Nam; 1 hotel)", en: "Hòa Ninh (thuộc Đà Nẵng, Việt Nam; 1 hotel)"}
+
+  LOC_PHU_QUOC__CUA_DUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: area
+    parent: LOC_PHU_QUOC
+    label: {vi: "Cửa Dương", en: "Cửa Dương"}
+    surface_forms:
+      vi: ["cua duong", "cửa dương"]
+    description: {vi: "Cửa Dương (thuộc Đảo Phú Quốc, Việt Nam; 1 hotel)", en: "Cửa Dương (thuộc Đảo Phú Quốc, Việt Nam; 1 hotel)"}
+
+  # ===== LANDMARK (kind: landmark) — TỰ SINH từ nearby_places (>=4 hotel) =====
+  # located_in = city xuất hiện nhiều nhất; landmark_type map từ `type` Agoda.
+  # ID vài landmark ép theo LMK_ID_OVERRIDE để khớp ID quen (VinWonders, Bãi Dài...).
+  LMK_SAN_BAY_RACH_GIA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Rạch Giá", en: "Sân bay Rạch Giá"}
+    surface_forms:
+      vi: ["san bay rach gia", "sân bay rạch giá"]
+    description: {vi: "Sân bay Rạch Giá (34 hotel có trong nearby)", en: "Sân bay Rạch Giá (34 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_CA_MAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Cà Mau", en: "Sân bay Cà Mau"}
+    surface_forms:
+      vi: ["san bay ca mau", "sân bay cà mau"]
+    description: {vi: "Sân bay Cà Mau (30 hotel có trong nearby)", en: "Sân bay Cà Mau (30 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_CAN_THO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Cần Thơ", en: "Sân bay Quốc tế Cần Thơ"}
+    surface_forms:
+      vi: ["san bay quoc te can tho", "sân bay quốc tế cần thơ"]
+    description: {vi: "Sân bay Quốc tế Cần Thơ (30 hotel có trong nearby)", en: "Sân bay Quốc tế Cần Thơ (30 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_TAN_SON_NHAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Tân Sơn Nhất", en: "Sân bay Quốc tế Tân Sơn Nhất"}
+    surface_forms:
+      vi: ["san bay quoc te tan son nhat", "sân bay quốc tế tân sơn nhất"]
+    description: {vi: "Sân bay Quốc tế Tân Sơn Nhất (27 hotel có trong nearby)", en: "Sân bay Quốc tế Tân Sơn Nhất (27 hotel có trong nearby)"}
+
+  LMK_TECHO_INTERNATIONAL_AIRPORT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Techo International Airport", en: "Techo International Airport"}
+    surface_forms:
+      vi: ["techo international airport"]
+    description: {vi: "Techo International Airport (24 hotel có trong nearby)", en: "Techo International Airport (24 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc Tế Phú Quốc", en: "Sân bay Quốc Tế Phú Quốc"}
+    surface_forms:
+      vi: ["san bay quoc te phu quoc", "sân bay quốc tế phú quốc"]
+    description: {vi: "Sân bay Quốc Tế Phú Quốc (23 hotel có trong nearby)", en: "Sân bay Quốc Tế Phú Quốc (23 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_NOI_BAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Nội Bài", en: "Sân bay Quốc tế Nội Bài"}
+    surface_forms:
+      vi: ["san bay quoc te noi bai", "sân bay quốc tế nội bài"]
+    description: {vi: "Sân bay Quốc tế Nội Bài (23 hotel có trong nearby)", en: "Sân bay Quốc tế Nội Bài (23 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_CO_ONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Cỏ Ống", en: "Sân bay Cỏ Ống"}
+    surface_forms:
+      vi: ["san bay co ong", "sân bay cỏ ống"]
+    description: {vi: "Sân bay Cỏ Ống (22 hotel có trong nearby)", en: "Sân bay Cỏ Ống (22 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_SAM_NEUA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Sam Neua", en: "Sân bay Sam Neua"}
+    surface_forms:
+      vi: ["san bay sam neua", "sân bay sam neua"]
+    description: {vi: "Sân bay Sam Neua (20 hotel có trong nearby)", en: "Sân bay Sam Neua (20 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_THO_XUAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Thọ Xuân", en: "Sân bay Thọ Xuân"}
+    surface_forms:
+      vi: ["san bay tho xuan", "sân bay thọ xuân"]
+    description: {vi: "Sân bay Thọ Xuân (19 hotel có trong nearby)", en: "Sân bay Thọ Xuân (19 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_CAT_BI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Cát Bi", en: "Sân bay Quốc tế Cát Bi"}
+    surface_forms:
+      vi: ["san bay quoc te cat bi", "sân bay quốc tế cát bi"]
+    description: {vi: "Sân bay Quốc tế Cát Bi (18 hotel có trong nearby)", en: "Sân bay Quốc tế Cát Bi (18 hotel có trong nearby)"}
+
+  LMK_BAI_BIEN_QUY_NHON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Bãi biển Quy Nhơn", en: "Bãi biển Quy Nhơn"}
+    surface_forms:
+      vi: ["bai bien quy nhon", "bãi biển quy nhơn"]
+    description: {vi: "Bãi biển Quy Nhơn (15 hotel có trong nearby)", en: "Bãi biển Quy Nhơn (15 hotel có trong nearby)"}
+
+  LMK_LONG_BEACH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Long Beach", en: "Long Beach"}
+    surface_forms:
+      vi: ["long beach"]
+    description: {vi: "Long Beach (14 hotel có trong nearby)", en: "Long Beach (14 hotel có trong nearby)"}
+
+  LMK_VAN_DON_INTERNATIONAL_AIRPORT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Van Don International Airport", en: "Van Don International Airport"}
+    surface_forms:
+      vi: ["van don international airport"]
+    description: {vi: "Van Don International Airport (14 hotel có trong nearby)", en: "Van Don International Airport (14 hotel có trong nearby)"}
+
+  LMK_BIEN_MY_KHE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Biển Mỹ Khê", en: "Biển Mỹ Khê"}
+    surface_forms:
+      vi: ["bien my khe", "biển mỹ khê"]
+    description: {vi: "Biển Mỹ Khê (13 hotel có trong nearby)", en: "Biển Mỹ Khê (13 hotel có trong nearby)"}
+
+  LMK_BAI_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Bãi Dài", en: "Bãi Dài"}
+    surface_forms:
+      vi: ["bai dai", "bãi dài"]
+    description: {vi: "Bãi Dài (12 hotel có trong nearby)", en: "Bãi Dài (12 hotel có trong nearby)"}
+
+  LMK_BAI_SAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Bãi sau", en: "Bãi sau"}
+    surface_forms:
+      vi: ["bai sau", "bãi sau"]
+    description: {vi: "Bãi sau (12 hotel có trong nearby)", en: "Bãi sau (12 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_BIEN_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Công viên Biển Đông", en: "Công viên Biển Đông"}
+    surface_forms:
+      vi: ["cong vien bien dong", "công viên biển đông"]
+    description: {vi: "Công viên Biển Đông (12 hotel có trong nearby)", en: "Công viên Biển Đông (12 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_PHU_BAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Phú Bài", en: "Sân bay Quốc tế Phú Bài"}
+    surface_forms:
+      vi: ["san bay quoc te phu bai", "sân bay quốc tế phú bài"]
+    description: {vi: "Sân bay Quốc tế Phú Bài (12 hotel có trong nearby)", en: "Sân bay Quốc tế Phú Bài (12 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_DA_NANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Đà Nẵng", en: "Sân bay Quốc tế Đà Nẵng"}
+    surface_forms:
+      vi: ["san bay quoc te da nang", "sân bay quốc tế đà nẵng"]
+    description: {vi: "Sân bay Quốc tế Đà Nẵng (12 hotel có trong nearby)", en: "Sân bay Quốc tế Đà Nẵng (12 hotel có trong nearby)"}
+
+  LMK_BAI_CHAY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Bãi Cháy", en: "Bãi Cháy"}
+    surface_forms:
+      vi: ["bai chay", "bãi cháy"]
+    description: {vi: "Bãi Cháy (11 hotel có trong nearby)", en: "Bãi Cháy (11 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_CHU_LAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Chu Lai", en: "Sân bay Chu Lai"}
+    surface_forms:
+      vi: ["san bay chu lai", "sân bay chu lai"]
+    description: {vi: "Sân bay Chu Lai (11 hotel có trong nearby)", en: "Sân bay Chu Lai (11 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_SIHANOUK:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Sihanouk", en: "Sân bay Quốc tế Sihanouk"}
+    surface_forms:
+      vi: ["san bay quoc te sihanouk", "sân bay quốc tế sihanouk"]
+    description: {vi: "Sân bay Quốc tế Sihanouk (11 hotel có trong nearby)", en: "Sân bay Quốc tế Sihanouk (11 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_RONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Công viên Rồng", en: "Công viên Rồng"}
+    surface_forms:
+      vi: ["cong vien rong", "công viên rồng"]
+    description: {vi: "Công viên Rồng (10 hotel có trong nearby)", en: "Công viên Rồng (10 hotel có trong nearby)"}
+
+  LMK_KHU_VUI_CHOI_GIAI_TRI_SUN_WORLD_HA_LONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Khu vui chơi giải trí Sun World Hạ Long", en: "Khu vui chơi giải trí Sun World Hạ Long"}
+    surface_forms:
+      vi: ["khu vui choi giai tri sun world ha long", "khu vui chơi giải trí sun world hạ long"]
+    description: {vi: "Khu vui chơi giải trí Sun World Hạ Long (10 hotel có trong nearby)", en: "Khu vui chơi giải trí Sun World Hạ Long (10 hotel có trong nearby)"}
+
+  LMK_BIEN_NHA_TRANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Biển Nha Trang", en: "Biển Nha Trang"}
+    surface_forms:
+      vi: ["bien nha trang", "biển nha trang"]
+    description: {vi: "Biển Nha Trang (9 hotel có trong nearby)", en: "Biển Nha Trang (9 hotel có trong nearby)"}
+
+  LMK_BAI_TAM_HOANG_HAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Bãi tắm Hoàng Hậu", en: "Bãi tắm Hoàng Hậu"}
+    surface_forms:
+      vi: ["bai tam hoang hau", "bãi tắm hoàng hậu"]
+    description: {vi: "Bãi tắm Hoàng Hậu (9 hotel có trong nearby)", en: "Bãi tắm Hoàng Hậu (9 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_THIEU_NHI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Công viên Thiếu Nhi", en: "Công viên Thiếu Nhi"}
+    surface_forms:
+      vi: ["cong vien thieu nhi", "công viên thiếu nhi"]
+    description: {vi: "Công viên Thiếu Nhi (9 hotel có trong nearby)", en: "Công viên Thiếu Nhi (9 hotel có trong nearby)"}
+
+  LMK_SUN_WORLD_HA_LONG_COMPLEX:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Sun World Ha Long Complex", en: "Sun World Ha Long Complex"}
+    surface_forms:
+      vi: ["sun world ha long complex"]
+    description: {vi: "Sun World Ha Long Complex (9 hotel có trong nearby)", en: "Sun World Ha Long Complex (9 hotel có trong nearby)"}
+
+  LMK_BAI_SAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Bãi Sao", en: "Bãi Sao"}
+    surface_forms:
+      vi: ["bai sao", "bãi sao"]
+    description: {vi: "Bãi Sao (8 hotel có trong nearby)", en: "Bãi Sao (8 hotel có trong nearby)"}
+
+  LMK_BAI_BIEN_PHAM_VAN_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Bãi biển Phạm Văn Đồng", en: "Bãi biển Phạm Văn Đồng"}
+    surface_forms:
+      vi: ["bai bien pham van dong", "bãi biển phạm văn đồng"]
+    description: {vi: "Bãi biển Phạm Văn Đồng (8 hotel có trong nearby)", en: "Bãi biển Phạm Văn Đồng (8 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_NINH_THUAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Bảo tàng Ninh Thuận", en: "Bảo tàng Ninh Thuận"}
+    surface_forms:
+      vi: ["bao tang ninh thuan", "bảo tàng ninh thuận"]
+    description: {vi: "Bảo tàng Ninh Thuận (8 hotel có trong nearby)", en: "Bảo tàng Ninh Thuận (8 hotel có trong nearby)"}
+
+  LMK_CHUA_SUNG_DUC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Chùa Sùng Đức", en: "Chùa Sùng Đức"}
+    surface_forms:
+      vi: ["chua sung duc", "chùa sùng đức"]
+    description: {vi: "Chùa Sùng Đức (8 hotel có trong nearby)", en: "Chùa Sùng Đức (8 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_16_4:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Công Viên 16/4", en: "Công Viên 16/4"}
+    surface_forms:
+      vi: ["4", "cong vien 16", "cong vien 16/4", "công viên 16", "công viên 16/4"]
+    description: {vi: "Công Viên 16/4 (8 hotel có trong nearby)", en: "Công Viên 16/4 (8 hotel có trong nearby)"}
+
+  LMK_CANG_AN_THOI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: harbor
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Cảng An Thới", en: "Cảng An Thới"}
+    surface_forms:
+      vi: ["cang an thoi", "cảng an thới"]
+    description: {vi: "Cảng An Thới (8 hotel có trong nearby)", en: "Cảng An Thới (8 hotel có trong nearby)"}
+
+  LMK_HON_MONG_TAY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: lake
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Hòn Móng Tay", en: "Hòn Móng Tay"}
+    surface_forms:
+      vi: ["hon mong tay", "hòn móng tay"]
+    description: {vi: "Hòn Móng Tay (8 hotel có trong nearby)", en: "Hòn Móng Tay (8 hotel có trong nearby)"}
+
+  LMK_LOP_HOC_NAU_AN_THUAN_TINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_HOI_AN
+    label: {vi: "Lớp học nấu ăn Thuận Tính", en: "Lớp học nấu ăn Thuận Tính"}
+    surface_forms:
+      vi: ["lop hoc nau an thuan tinh", "lớp học nấu ăn thuận tính"]
+    description: {vi: "Lớp học nấu ăn Thuận Tính (8 hotel có trong nearby)", en: "Lớp học nấu ăn Thuận Tính (8 hotel có trong nearby)"}
+
+  LMK_MUI_GANH_DAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Mũi Gành Dầu", en: "Mũi Gành Dầu"}
+    surface_forms:
+      vi: ["mui ganh dau", "mũi gành dầu"]
+    description: {vi: "Mũi Gành Dầu (8 hotel có trong nearby)", en: "Mũi Gành Dầu (8 hotel có trong nearby)"}
+
+  LMK_NHA_TU_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Nhà tù Phú Quốc", en: "Nhà tù Phú Quốc"}
+    surface_forms:
+      vi: ["nha tu phu quoc", "nhà tù phú quốc"]
+    description: {vi: "Nhà tù Phú Quốc (8 hotel có trong nearby)", en: "Nhà tù Phú Quốc (8 hotel có trong nearby)"}
+
+  LMK_SONG_BAI_CORONA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: casino
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Sòng bài Corona", en: "Sòng bài Corona"}
+    surface_forms:
+      vi: ["song bai corona", "sòng bài corona"]
+    description: {vi: "Sòng bài Corona (8 hotel có trong nearby)", en: "Sòng bài Corona (8 hotel có trong nearby)"}
+
+  LMK_VINWONDERS_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "VinWonders Phú Quốc", en: "VinWonders Phú Quốc"}
+    surface_forms:
+      vi: ["vinwonders phu quoc", "vinwonders phú quốc"]
+    description: {vi: "VinWonders Phú Quốc (8 hotel có trong nearby)", en: "VinWonders Phú Quốc (8 hotel có trong nearby)"}
+
+  LMK_GRAND_WORLD_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Vinpearl Grand World Phú Quốc", en: "Vinpearl Grand World Phú Quốc"}
+    surface_forms:
+      vi: ["vinpearl grand world phu quoc", "vinpearl grand world phú quốc"]
+    description: {vi: "Vinpearl Grand World Phú Quốc (8 hotel có trong nearby)", en: "Vinpearl Grand World Phú Quốc (8 hotel có trong nearby)"}
+
+  LMK_VINPEARL_SAFARI_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: zoo
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Vinpearl Safari Phú Quốc", en: "Vinpearl Safari Phú Quốc"}
+    surface_forms:
+      vi: ["vinpearl safari phu quoc", "vinpearl safari phú quốc"]
+    description: {vi: "Vinpearl Safari Phú Quốc (8 hotel có trong nearby)", en: "Vinpearl Safari Phú Quốc (8 hotel có trong nearby)"}
+
+  LMK_DINH_THAN_NGUYEN_TRUNG_TRUC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Đình Thần Nguyễn Trung Trực", en: "Đình Thần Nguyễn Trung Trực"}
+    surface_forms:
+      vi: ["dinh than nguyen trung truc", "đình thần nguyễn trung trực"]
+    description: {vi: "Đình Thần Nguyễn Trung Trực (8 hotel có trong nearby)", en: "Đình Thần Nguyễn Trung Trực (8 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_PHU_YEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_TUY_HOA
+    label: {vi: "Bảo Tàng Phú Yên", en: "Bảo Tàng Phú Yên"}
+    surface_forms:
+      vi: ["bao tang phu yen", "bảo tàng phú yên"]
+    description: {vi: "Bảo Tàng Phú Yên (7 hotel có trong nearby)", en: "Bảo Tàng Phú Yên (7 hotel có trong nearby)"}
+
+  LMK_NHA_CONG_TU_BAC_LIEU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_BAC_LIEU
+    label: {vi: "Nhà Công Tử Bạc Liêu", en: "Nhà Công Tử Bạc Liêu"}
+    surface_forms:
+      vi: ["nha cong tu bac lieu", "nhà công tử bạc liêu"]
+    description: {vi: "Nhà Công Tử Bạc Liêu (7 hotel có trong nearby)", en: "Nhà Công Tử Bạc Liêu (7 hotel có trong nearby)"}
+
+  LMK_NHA_THO_CHINH_TOA_LONG_XUYEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_LONG_XUYEN
+    label: {vi: "Nhà thờ chính tòa Long Xuyên", en: "Nhà thờ chính tòa Long Xuyên"}
+    surface_forms:
+      vi: ["nha tho chinh toa long xuyen", "nhà thờ chính tòa long xuyên"]
+    description: {vi: "Nhà thờ chính tòa Long Xuyên (7 hotel có trong nearby)", en: "Nhà thờ chính tòa Long Xuyên (7 hotel có trong nearby)"}
+
+  LMK_NUI_BAI_CHAY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Núi Bãi Cháy", en: "Núi Bãi Cháy"}
+    surface_forms:
+      vi: ["nui bai chay", "núi bãi cháy"]
+    description: {vi: "Núi Bãi Cháy (7 hotel có trong nearby)", en: "Núi Bãi Cháy (7 hotel có trong nearby)"}
+
+  LMK_SUNWORLD_HON_THOM_PHU_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Sunworld Hon Thom Phu Quoc", en: "Sunworld Hon Thom Phu Quoc"}
+    surface_forms:
+      vi: ["sunworld hon thom phu quoc"]
+    description: {vi: "Sunworld Hon Thom Phu Quoc (7 hotel có trong nearby)", en: "Sunworld Hon Thom Phu Quoc (7 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_QUOC_TE_CAM_RANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Quốc tế Cam Ranh", en: "Sân bay Quốc tế Cam Ranh"}
+    surface_forms:
+      vi: ["san bay quoc te cam ranh", "sân bay quốc tế cam ranh"]
+    description: {vi: "Sân bay Quốc tế Cam Ranh (7 hotel có trong nearby)", en: "Sân bay Quốc tế Cam Ranh (7 hotel có trong nearby)"}
+
+  LMK_TT_MUA_SAM_IMPERIAL_PLAZA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: landmark_building
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "TT mua sắm Imperial Plaza", en: "TT mua sắm Imperial Plaza"}
+    surface_forms:
+      vi: ["tt mua sam imperial plaza", "tt mua sắm imperial plaza"]
+    description: {vi: "TT mua sắm Imperial Plaza (7 hotel có trong nearby)", en: "TT mua sắm Imperial Plaza (7 hotel có trong nearby)"}
+
+  LMK_TRAI_CA_SAU_BLUE_SKY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: zoo
+    provenance: [agoda]
+    located_in: LOC_LONG_XUYEN
+    label: {vi: "Trại cá sấu Blue Sky", en: "Trại cá sấu Blue Sky"}
+    surface_forms:
+      vi: ["trai ca sau blue sky", "trại cá sấu blue sky"]
+    description: {vi: "Trại cá sấu Blue Sky (7 hotel có trong nearby)", en: "Trại cá sấu Blue Sky (7 hotel có trong nearby)"}
+
+  LMK_TUONG_TON_DUC_THANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_LONG_XUYEN
+    label: {vi: "Tượng Tôn Đức Thắng", en: "Tượng Tôn Đức Thắng"}
+    surface_forms:
+      vi: ["tuong ton duc thang", "tượng tôn đức thắng"]
+    description: {vi: "Tượng Tôn Đức Thắng (7 hotel có trong nearby)", en: "Tượng Tôn Đức Thắng (7 hotel có trong nearby)"}
+
+  LMK_DINH_HO_SON_CO_TU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: attraction
+    provenance: [agoda]
+    located_in: LOC_TUY_HOA
+    label: {vi: "Đình Hồ Sơn Cổ Tự", en: "Đình Hồ Sơn Cổ Tự"}
+    surface_forms:
+      vi: ["dinh ho son co tu", "đình hồ sơn cổ tự"]
+    description: {vi: "Đình Hồ Sơn Cổ Tự (7 hotel có trong nearby)", en: "Đình Hồ Sơn Cổ Tự (7 hotel có trong nearby)"}
+
+  LMK_DAO_CASTAWAY_ISLAND:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: island
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Đảo Castaway Island", en: "Đảo Castaway Island"}
+    surface_forms:
+      vi: ["dao castaway island", "đảo castaway island"]
+    description: {vi: "Đảo Castaway Island (7 hotel có trong nearby)", en: "Đảo Castaway Island (7 hotel có trong nearby)"}
+
+  LMK_BEACH_HOTEL_PARK:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Beach Hotel Park", en: "Beach Hotel Park"}
+    surface_forms:
+      vi: ["beach hotel park"]
+    description: {vi: "Beach Hotel Park (6 hotel có trong nearby)", en: "Beach Hotel Park (6 hotel có trong nearby)"}
+
+  LMK_BAI_BIEN_CUA_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_HOI_AN
+    label: {vi: "Bãi biển Cửa Đại", en: "Bãi biển Cửa Đại"}
+    surface_forms:
+      vi: ["bai bien cua dai", "bãi biển cửa đại"]
+    description: {vi: "Bãi biển Cửa Đại (6 hotel có trong nearby)", en: "Bãi biển Cửa Đại (6 hotel có trong nearby)"}
+
+  LMK_BAI_BIEN_HAM_TIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_PHAN_THIET
+    label: {vi: "Bãi biển Hàm Tiến", en: "Bãi biển Hàm Tiến"}
+    surface_forms:
+      vi: ["bai bien ham tien", "bãi biển hàm tiến"]
+    description: {vi: "Bãi biển Hàm Tiến (6 hotel có trong nearby)", en: "Bãi biển Hàm Tiến (6 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_LAM_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Bảo tàng Lâm Đồng", en: "Bảo tàng Lâm Đồng"}
+    surface_forms:
+      vi: ["bao tang lam dong", "bảo tàng lâm đồng"]
+    description: {vi: "Bảo tàng Lâm Đồng (6 hotel có trong nearby)", en: "Bảo tàng Lâm Đồng (6 hotel có trong nearby)"}
+
+  LMK_BEN_TAU_DU_LICH_BAI_CHAY:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: harbor
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Bến tàu du lịch Bãi Cháy", en: "Bến tàu du lịch Bãi Cháy"}
+    surface_forms:
+      vi: ["ben tau du lich bai chay", "bến tàu du lịch bãi cháy"]
+    description: {vi: "Bến tàu du lịch Bãi Cháy (6 hotel có trong nearby)", en: "Bến tàu du lịch Bãi Cháy (6 hotel có trong nearby)"}
+
+  LMK_CHUA_LONG_KHANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Chùa Long Khánh", en: "Chùa Long Khánh"}
+    surface_forms:
+      vi: ["chua long khanh", "chùa long khánh"]
+    description: {vi: "Chùa Long Khánh (6 hotel có trong nearby)", en: "Chùa Long Khánh (6 hotel có trong nearby)"}
+
+  LMK_CONG_TY_DU_LICH_MEKONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_CHAU_DOC
+    label: {vi: "Công ty du lịch Mekong", en: "Công ty du lịch Mekong"}
+    surface_forms:
+      vi: ["cong ty du lich mekong", "công ty du lịch mekong"]
+    description: {vi: "Công ty du lịch Mekong (6 hotel có trong nearby)", en: "Công ty du lịch Mekong (6 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_HON_TRONG_MAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Công viên Hòn Trống Mái", en: "Công viên Hòn Trống Mái"}
+    surface_forms:
+      vi: ["cong vien hon trong mai", "công viên hòn trống mái"]
+    description: {vi: "Công viên Hòn Trống Mái (6 hotel có trong nearby)", en: "Công viên Hòn Trống Mái (6 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_THO_TRANG_VUNG_TAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Công viên Thỏ Trắng Vũng Tàu", en: "Công viên Thỏ Trắng Vũng Tàu"}
+    surface_forms:
+      vi: ["cong vien tho trang vung tau", "công viên thỏ trắng vũng tàu"]
+    description: {vi: "Công viên Thỏ Trắng Vũng Tàu (6 hotel có trong nearby)", en: "Công viên Thỏ Trắng Vũng Tàu (6 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_TRUNG_TAM_SAM_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Công viên Trung tâm Sầm Sơn", en: "Công viên Trung tâm Sầm Sơn"}
+    surface_forms:
+      vi: ["cong vien trung tam sam son", "công viên trung tâm sầm sơn"]
+    description: {vi: "Công viên Trung tâm Sầm Sơn (6 hotel có trong nearby)", en: "Công viên Trung tâm Sầm Sơn (6 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_VEN_SONG_KHU_16_HECTA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_RACH_GIA
+    label: {vi: "Công viên ven sông khu 16 hecta", en: "Công viên ven sông khu 16 hecta"}
+    surface_forms:
+      vi: ["cong vien ven song khu 16 hecta", "công viên ven sông khu 16 hecta"]
+    description: {vi: "Công viên ven sông khu 16 hecta (6 hotel có trong nearby)", en: "Công viên ven sông khu 16 hecta (6 hotel có trong nearby)"}
+
+  LMK_FLC_GOLF_LINKS_SAM_SON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: golf
+    provenance: [agoda]
+    located_in: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "FLC Golf Links Sầm Sơn", en: "FLC Golf Links Sầm Sơn"}
+    surface_forms:
+      vi: ["flc golf links sam son", "flc golf links sầm sơn"]
+    description: {vi: "FLC Golf Links Sầm Sơn (6 hotel có trong nearby)", en: "FLC Golf Links Sầm Sơn (6 hotel có trong nearby)"}
+
+  LMK_HO_HUNG_THANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: lake
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Hồ Hùng Thắng", en: "Hồ Hùng Thắng"}
+    surface_forms:
+      vi: ["ho hung thang", "hồ hùng thắng"]
+    description: {vi: "Hồ Hùng Thắng (6 hotel có trong nearby)", en: "Hồ Hùng Thắng (6 hotel có trong nearby)"}
+
+  LMK_KHU_DU_LICH_GIO_BIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Khu du lịch Gió Biển", en: "Khu du lịch Gió Biển"}
+    surface_forms:
+      vi: ["khu du lich gio bien", "khu du lịch gió biển"]
+    description: {vi: "Khu du lịch Gió Biển (6 hotel có trong nearby)", en: "Khu du lịch Gió Biển (6 hotel có trong nearby)"}
+
+  LMK_NUI_TRUONG_LE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Núi Trường Lệ", en: "Núi Trường Lệ"}
+    surface_forms:
+      vi: ["nui truong le", "núi trường lệ"]
+    description: {vi: "Núi Trường Lệ (6 hotel có trong nearby)", en: "Núi Trường Lệ (6 hotel có trong nearby)"}
+
+  LMK_QUANG_TRUONG_2_4:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: landmark_building
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Quảng trường 2/4", en: "Quảng trường 2/4"}
+    surface_forms:
+      vi: ["4", "quang truong 2", "quang truong 2/4", "quảng trường 2", "quảng trường 2/4"]
+    description: {vi: "Quảng trường 2/4 (6 hotel có trong nearby)", en: "Quảng trường 2/4 (6 hotel có trong nearby)"}
+
+  LMK_RUNG_DUA_NUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_HOI_AN
+    label: {vi: "Rừng dừa nước", en: "Rừng dừa nước"}
+    surface_forms:
+      vi: ["rung dua nuoc", "rừng dừa nước"]
+    description: {vi: "Rừng dừa nước (6 hotel có trong nearby)", en: "Rừng dừa nước (6 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_PHU_CAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Phù Cát", en: "Sân bay Phù Cát"}
+    surface_forms:
+      vi: ["san bay phu cat", "sân bay phù cát"]
+    description: {vi: "Sân bay Phù Cát (6 hotel có trong nearby)", en: "Sân bay Phù Cát (6 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_PLEIKU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Pleiku", en: "Sân bay Pleiku"}
+    surface_forms:
+      vi: ["san bay pleiku", "sân bay pleiku"]
+    description: {vi: "Sân bay Pleiku (6 hotel có trong nearby)", en: "Sân bay Pleiku (6 hotel có trong nearby)"}
+
+  LMK_SAN_CHOI_CAM_THANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_HOI_AN
+    label: {vi: "Sân chơi Cẩm Thanh", en: "Sân chơi Cẩm Thanh"}
+    surface_forms:
+      vi: ["san choi cam thanh", "sân chơi cẩm thanh"]
+    description: {vi: "Sân chơi Cẩm Thanh (6 hotel có trong nearby)", en: "Sân chơi Cẩm Thanh (6 hotel có trong nearby)"}
+
+  LMK_DAI_TUONG_NIEM_LIET_SI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Đài Tưởng niệm Liệt sĩ", en: "Đài Tưởng niệm Liệt sĩ"}
+    surface_forms:
+      vi: ["dai tuong niem liet si", "đài tưởng niệm liệt sĩ"]
+    description: {vi: "Đài Tưởng niệm Liệt sĩ (6 hotel có trong nearby)", en: "Đài Tưởng niệm Liệt sĩ (6 hotel có trong nearby)"}
+
+  LMK_DINH_CHAU_PHU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_CHAU_DOC
+    label: {vi: "Đình Châu Phú", en: "Đình Châu Phú"}
+    surface_forms:
+      vi: ["dinh chau phu", "đình châu phú"]
+    description: {vi: "Đình Châu Phú (6 hotel có trong nearby)", en: "Đình Châu Phú (6 hotel có trong nearby)"}
+
+  LMK_DEN_DOC_CUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_BAI_BIEN_SAM_SON
+    label: {vi: "Đền Độc Cước", en: "Đền Độc Cước"}
+    surface_forms:
+      vi: ["den doc cuoc", "đền độc cước"]
+    description: {vi: "Đền Độc Cước (6 hotel có trong nearby)", en: "Đền Độc Cước (6 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_BINH_DINH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Bảo tàng Bình Định", en: "Bảo tàng Bình Định"}
+    surface_forms:
+      vi: ["bao tang binh dinh", "bảo tàng bình định"]
+    description: {vi: "Bảo tàng Bình Định (5 hotel có trong nearby)", en: "Bảo tàng Bình Định (5 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_CON_DAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_CON_DAO
+    label: {vi: "Bảo tàng Côn Đảo", en: "Bảo tàng Côn Đảo"}
+    surface_forms:
+      vi: ["bao tang con dao", "bảo tàng côn đảo"]
+    description: {vi: "Bảo tàng Côn Đảo (5 hotel có trong nearby)", en: "Bảo tàng Côn Đảo (5 hotel có trong nearby)"}
+
+  LMK_BEN_CANG_RACH_GIA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: harbor
+    provenance: [agoda]
+    located_in: LOC_RACH_GIA
+    label: {vi: "Bến cảng Rạch Giá", en: "Bến cảng Rạch Giá"}
+    surface_forms:
+      vi: ["ben cang rach gia", "bến cảng rạch giá"]
+    description: {vi: "Bến cảng Rạch Giá (5 hotel có trong nearby)", en: "Bến cảng Rạch Giá (5 hotel có trong nearby)"}
+
+  LMK_CENTRAL_PARK:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Central Park", en: "Central Park"}
+    surface_forms:
+      vi: ["central park"]
+    description: {vi: "Central Park (5 hotel có trong nearby)", en: "Central Park (5 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_31_THANG_3:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: attraction
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Công Viên 31 Tháng 3", en: "Công Viên 31 Tháng 3"}
+    surface_forms:
+      vi: ["cong vien 31 thang 3", "công viên 31 tháng 3"]
+    description: {vi: "Công Viên 31 Tháng 3 (5 hotel có trong nearby)", en: "Công Viên 31 Tháng 3 (5 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_NGUYEN_TRUNG_TRUC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_RACH_GIA
+    label: {vi: "Công viên Nguyễn Trung Trực", en: "Công viên Nguyễn Trung Trực"}
+    surface_forms:
+      vi: ["cong vien nguyen trung truc", "công viên nguyễn trung trực"]
+    description: {vi: "Công viên Nguyễn Trung Trực (5 hotel có trong nearby)", en: "Công viên Nguyễn Trung Trực (5 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_NUOC_PHU_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Công viên nước Phù Đổng", en: "Công viên nước Phù Đổng"}
+    surface_forms:
+      vi: ["cong vien nuoc phu dong", "công viên nước phù đổng"]
+    description: {vi: "Công viên nước Phù Đổng (5 hotel có trong nearby)", en: "Công viên nước Phù Đổng (5 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_TUONG_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_BEN_TRE
+    label: {vi: "Công viên tượng đài", en: "Công viên tượng đài"}
+    surface_forms:
+      vi: ["cong vien tuong dai", "công viên tượng đài"]
+    description: {vi: "Công viên tượng đài (5 hotel có trong nearby)", en: "Công viên tượng đài (5 hotel có trong nearby)"}
+
+  LMK_CU_LAO_CHAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: island
+    provenance: [agoda]
+    located_in: LOC_TAN_HIEP
+    label: {vi: "Cù Lao Chàm", en: "Cù Lao Chàm"}
+    surface_forms:
+      vi: ["cu lao cham", "cù lao chàm"]
+    description: {vi: "Cù Lao Chàm (5 hotel có trong nearby)", en: "Cù Lao Chàm (5 hotel có trong nearby)"}
+
+  LMK_GA_DA_LAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: landmark_building
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Ga Đà Lạt", en: "Ga Đà Lạt"}
+    surface_forms:
+      vi: ["ga da lat", "ga đà lạt"]
+    description: {vi: "Ga Đà Lạt (5 hotel có trong nearby)", en: "Ga Đà Lạt (5 hotel có trong nearby)"}
+
+  LMK_HON_TAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: island
+    provenance: [agoda]
+    located_in: LOC_TAN_HIEP
+    label: {vi: "Hòn Tai", en: "Hòn Tai"}
+    surface_forms:
+      vi: ["hon tai", "hòn tai"]
+    description: {vi: "Hòn Tai (5 hotel có trong nearby)", en: "Hòn Tai (5 hotel có trong nearby)"}
+
+  LMK_HON_THOM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: island
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Hòn Thơm", en: "Hòn Thơm"}
+    surface_forms:
+      vi: ["hon thom", "hòn thơm"]
+    description: {vi: "Hòn Thơm (5 hotel có trong nearby)", en: "Hòn Thơm (5 hotel có trong nearby)"}
+
+  LMK_HO_CAI_DAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: lake
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Hồ Cái Dăm", en: "Hồ Cái Dăm"}
+    surface_forms:
+      vi: ["ho cai dam", "hồ cái dăm"]
+    description: {vi: "Hồ Cái Dăm (5 hotel có trong nearby)", en: "Hồ Cái Dăm (5 hotel có trong nearby)"}
+
+  LMK_KHU_DU_LICH_BIEN_DONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Khu du lịch Biển Đông", en: "Khu du lịch Biển Đông"}
+    surface_forms:
+      vi: ["khu du lich bien dong", "khu du lịch biển đông"]
+    description: {vi: "Khu du lịch Biển Đông (5 hotel có trong nearby)", en: "Khu du lịch Biển Đông (5 hotel có trong nearby)"}
+
+  LMK_KHU_NGHI_DUONG_HOAN_CAU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Khu nghỉ dưỡng Hoàn Cầu", en: "Khu nghỉ dưỡng Hoàn Cầu"}
+    surface_forms:
+      vi: ["khu nghi duong hoan cau", "khu nghỉ dưỡng hoàn cầu"]
+    description: {vi: "Khu nghỉ dưỡng Hoàn Cầu (5 hotel có trong nearby)", en: "Khu nghỉ dưỡng Hoàn Cầu (5 hotel có trong nearby)"}
+
+  LMK_NHA_THO_CON_GA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Nhà thờ Con Gà", en: "Nhà thờ Con Gà"}
+    surface_forms:
+      vi: ["nha tho con ga", "nhà thờ con gà"]
+    description: {vi: "Nhà thờ Con Gà (5 hotel có trong nearby)", en: "Nhà thờ Con Gà (5 hotel có trong nearby)"}
+
+  LMK_NHA_THO_NHON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Nhà thờ Nhọn", en: "Nhà thờ Nhọn"}
+    surface_forms:
+      vi: ["nha tho nhon", "nhà thờ nhọn"]
+    description: {vi: "Nhà thờ Nhọn (5 hotel có trong nearby)", en: "Nhà thờ Nhọn (5 hotel có trong nearby)"}
+
+  LMK_NHA_THO_TIN_LANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_PHAN_RANG_THAP_CHAM
+    label: {vi: "Nhà thờ Tin Lành", en: "Nhà thờ Tin Lành"}
+    surface_forms:
+      vi: ["nha tho tin lanh", "nhà thờ tin lành"]
+    description: {vi: "Nhà thờ Tin Lành (5 hotel có trong nearby)", en: "Nhà thờ Tin Lành (5 hotel có trong nearby)"}
+
+  LMK_QUANG_TRUONG_MAT_TROI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_HA_LONG
+    label: {vi: "Quảng trường Mặt Trời", en: "Quảng trường Mặt Trời"}
+    surface_forms:
+      vi: ["quang truong mat troi", "quảng trường mặt trời"]
+    description: {vi: "Quảng trường Mặt Trời (5 hotel có trong nearby)", en: "Quảng trường Mặt Trời (5 hotel có trong nearby)"}
+
+  LMK_STORY_BEACH_POOL:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Story Beach & Pool", en: "Story Beach & Pool"}
+    surface_forms:
+      vi: ["story beach & pool"]
+    description: {vi: "Story Beach & Pool (5 hotel có trong nearby)", en: "Story Beach & Pool (5 hotel có trong nearby)"}
+
+  LMK_SUOI_TIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: national_park
+    provenance: [agoda]
+    located_in: LOC_PHAN_THIET
+    label: {vi: "Suối Tiên", en: "Suối Tiên"}
+    surface_forms:
+      vi: ["suoi tien", "suối tiên"]
+    description: {vi: "Suối Tiên (5 hotel có trong nearby)", en: "Suối Tiên (5 hotel có trong nearby)"}
+
+  LMK_SAN_BAY_DIEN_BIEN_PHU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Sân bay Điện Biên Phủ", en: "Sân bay Điện Biên Phủ"}
+    surface_forms:
+      vi: ["san bay dien bien phu", "sân bay điện biên phủ"]
+    description: {vi: "Sân bay Điện Biên Phủ (5 hotel có trong nearby)", en: "Sân bay Điện Biên Phủ (5 hotel có trong nearby)"}
+
+  LMK_TOUR_DU_LICH_LE_KHANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_DONG_HOI
+    label: {vi: "Tour du lịch Lê Khang", en: "Tour du lịch Lê Khang"}
+    surface_forms:
+      vi: ["tour du lich le khang", "tour du lịch lê khang"]
+    description: {vi: "Tour du lịch Lê Khang (5 hotel có trong nearby)", en: "Tour du lịch Lê Khang (5 hotel có trong nearby)"}
+
+  LMK_TRUNG_TAM_LAN_BIEN_VIETNAM_EXPLORE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Trung tâm lặn biển Vietnam Explore", en: "Trung tâm lặn biển Vietnam Explore"}
+    surface_forms:
+      vi: ["trung tam lan bien vietnam explore", "trung tâm lặn biển vietnam explore"]
+    description: {vi: "Trung tâm lặn biển Vietnam Explore (5 hotel có trong nearby)", en: "Trung tâm lặn biển Vietnam Explore (5 hotel có trong nearby)"}
+
+  LMK_TUONG_DAI_CHIEN_THANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: attraction
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Tượng Đài Chiến Thắng", en: "Tượng Đài Chiến Thắng"}
+    surface_forms:
+      vi: ["tuong dai chien thang", "tượng đài chiến thắng"]
+    description: {vi: "Tượng Đài Chiến Thắng (5 hotel có trong nearby)", en: "Tượng Đài Chiến Thắng (5 hotel có trong nearby)"}
+
+  LMK_WENSHAN_PUZHEHEI_AIRPORT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: airport
+    provenance: [agoda]
+    label: {vi: "Wenshan Puzhehei Airport", en: "Wenshan Puzhehei Airport"}
+    surface_forms:
+      vi: ["wenshan puzhehei airport"]
+    description: {vi: "Wenshan Puzhehei Airport (5 hotel có trong nearby)", en: "Wenshan Puzhehei Airport (5 hotel có trong nearby)"}
+
+  LMK_DINH_THANG_TAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Đình Thắng Tam", en: "Đình Thắng Tam"}
+    surface_forms:
+      vi: ["dinh thang tam", "đình thắng tam"]
+    description: {vi: "Đình Thắng Tam (5 hotel có trong nearby)", en: "Đình Thắng Tam (5 hotel có trong nearby)"}
+
+  LMK_112M:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_HA_TIEN
+    label: {vi: "112m", en: "112m"}
+    surface_forms:
+      vi: ["112m"]
+    description: {vi: "112m (4 hotel có trong nearby)", en: "112m (4 hotel có trong nearby)"}
+
+  LMK_151M:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_HA_TIEN
+    label: {vi: "151m", en: "151m"}
+    surface_forms:
+      vi: ["151m"]
+    description: {vi: "151m (4 hotel có trong nearby)", en: "151m (4 hotel có trong nearby)"}
+
+  LMK_153M:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_HA_TIEN
+    label: {vi: "153m", en: "153m"}
+    surface_forms:
+      vi: ["153m"]
+    description: {vi: "153m (4 hotel có trong nearby)", en: "153m (4 hotel có trong nearby)"}
+
+  LMK_89M:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_HA_TIEN
+    label: {vi: "89m", en: "89m"}
+    surface_forms:
+      vi: ["89m"]
+    description: {vi: "89m (4 hotel có trong nearby)", en: "89m (4 hotel có trong nearby)"}
+
+  LMK_BAI_BIEN_BAC_MY_AN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: beach
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Bãi biển Bắc Mỹ An", en: "Bãi biển Bắc Mỹ An"}
+    surface_forms:
+      vi: ["bai bien bac my an", "bãi biển bắc mỹ an"]
+    description: {vi: "Bãi biển Bắc Mỹ An (4 hotel có trong nearby)", en: "Bãi biển Bắc Mỹ An (4 hotel có trong nearby)"}
+
+  LMK_BAO_TANG_HAI_DUONG_HOC_QUOC_GIA_VIET_NAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Bảo tàng Hải dương học quốc gia Việt Nam", en: "Bảo tàng Hải dương học quốc gia Việt Nam"}
+    surface_forms:
+      vi: ["bao tang hai duong hoc quoc gia viet nam", "bảo tàng hải dương học quốc gia việt nam"]
+    description: {vi: "Bảo tàng Hải dương học quốc gia Việt Nam (4 hotel có trong nearby)", en: "Bảo tàng Hải dương học quốc gia Việt Nam (4 hotel có trong nearby)"}
+
+  LMK_CLB_THE_THAO_KHONG_QUAN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: theater
+    provenance: [agoda]
+    located_in: LOC_HO_CHI_MINH
+    label: {vi: "CLB Thể thao Không quân", en: "CLB Thể thao Không quân"}
+    surface_forms:
+      vi: ["clb the thao khong quan", "clb thể thao không quân"]
+    description: {vi: "CLB Thể thao Không quân (4 hotel có trong nearby)", en: "CLB Thể thao Không quân (4 hotel có trong nearby)"}
+
+  LMK_CHUA_HO_QUOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_PHU_QUOC
+    label: {vi: "Chùa Hộ Quốc", en: "Chùa Hộ Quốc"}
+    surface_forms:
+      vi: ["chua ho quoc", "chùa hộ quốc"]
+    description: {vi: "Chùa Hộ Quốc (4 hotel có trong nearby)", en: "Chùa Hộ Quốc (4 hotel có trong nearby)"}
+
+  LMK_CHUA_THIEN_VUONG_CO_SAT:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Chùa Thiên Vương Cổ Sát", en: "Chùa Thiên Vương Cổ Sát"}
+    surface_forms:
+      vi: ["chua thien vuong co sat", "chùa thiên vương cổ sát"]
+    description: {vi: "Chùa Thiên Vương Cổ Sát (4 hotel có trong nearby)", en: "Chùa Thiên Vương Cổ Sát (4 hotel có trong nearby)"}
+
+  LMK_CUNG_VAN_HOA_HUU_NGHI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_HA_NOI
+    label: {vi: "Cung văn hoá Hữu Nghị", en: "Cung văn hoá Hữu Nghị"}
+    surface_forms:
+      vi: ["cung van hoa huu nghi", "cung văn hoá hữu nghị"]
+    description: {vi: "Cung văn hoá Hữu Nghị (4 hotel có trong nearby)", en: "Cung văn hoá Hữu Nghị (4 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_HOANG_LAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_BEN_TRE
+    label: {vi: "Công viên Hoàng Lam", en: "Công viên Hoàng Lam"}
+    surface_forms:
+      vi: ["cong vien hoang lam", "công viên hoàng lam"]
+    description: {vi: "Công viên Hoàng Lam (4 hotel có trong nearby)", en: "Công viên Hoàng Lam (4 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_HUNG_VUONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_CA_MAU
+    label: {vi: "Công viên Hùng Vương", en: "Công viên Hùng Vương"}
+    surface_forms:
+      vi: ["cong vien hung vuong", "công viên hùng vương"]
+    description: {vi: "Công viên Hùng Vương (4 hotel có trong nearby)", en: "Công viên Hùng Vương (4 hotel có trong nearby)"}
+
+  LMK_CONG_VIEN_GIAI_TRI_VINPEARL_LAND:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Công viên giải trí Vinpearl Land", en: "Công viên giải trí Vinpearl Land"}
+    surface_forms:
+      vi: ["cong vien giai tri vinpearl land", "công viên giải trí vinpearl land"]
+    description: {vi: "Công viên giải trí Vinpearl Land (4 hotel có trong nearby)", en: "Công viên giải trí Vinpearl Land (4 hotel có trong nearby)"}
+
+  LMK_CAU_NGAM_BIEN:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: harbor
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Cầu ngắm biển", en: "Cầu ngắm biển"}
+    surface_forms:
+      vi: ["cau ngam bien", "cầu ngắm biển"]
+    description: {vi: "Cầu ngắm biển (4 hotel có trong nearby)", en: "Cầu ngắm biển (4 hotel có trong nearby)"}
+
+  LMK_DI_TICH_DOC_CAY_CAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Di tích Dốc Cây Cám", en: "Di tích Dốc Cây Cám"}
+    surface_forms:
+      vi: ["di tich doc cay cam", "di tích dốc cây cám"]
+    description: {vi: "Di tích Dốc Cây Cám (4 hotel có trong nearby)", en: "Di tích Dốc Cây Cám (4 hotel có trong nearby)"}
+
+  LMK_DINH_BAO_DAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Dinh Bảo Đại", en: "Dinh Bảo Đại"}
+    surface_forms:
+      vi: ["dinh bao dai", "dinh bảo đại"]
+    description: {vi: "Dinh Bảo Đại (4 hotel có trong nearby)", en: "Dinh Bảo Đại (4 hotel có trong nearby)"}
+
+  LMK_HANG_SON_DOONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_DONG_HOI
+    label: {vi: "Hang Sơn Đoòng", en: "Hang Sơn Đoòng"}
+    surface_forms:
+      vi: ["hang son doong", "hang sơn đoòng"]
+    description: {vi: "Hang Sơn Đoòng (4 hotel có trong nearby)", en: "Hang Sơn Đoòng (4 hotel có trong nearby)"}
+
+  LMK_KHU_PHO_PHAP:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: street
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Khu phố Pháp", en: "Khu phố Pháp"}
+    surface_forms:
+      vi: ["khu pho phap", "khu phố pháp"]
+    description: {vi: "Khu phố Pháp (4 hotel có trong nearby)", en: "Khu phố Pháp (4 hotel có trong nearby)"}
+
+  LMK_LINH_SON_CO_TU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Linh Sơn Cổ Tự", en: "Linh Sơn Cổ Tự"}
+    surface_forms:
+      vi: ["linh son co tu", "linh sơn cổ tự"]
+    description: {vi: "Linh Sơn Cổ Tự (4 hotel có trong nearby)", en: "Linh Sơn Cổ Tự (4 hotel có trong nearby)"}
+
+  LMK_LANG_XQ:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Làng XQ", en: "Làng XQ"}
+    surface_forms:
+      vi: ["lang xq", "làng xq"]
+    description: {vi: "Làng XQ (4 hotel có trong nearby)", en: "Làng XQ (4 hotel có trong nearby)"}
+
+  LMK_LANG_CHAI_MAN_THAI:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: marina
+    provenance: [agoda]
+    located_in: LOC_DA_NANG
+    label: {vi: "Làng chài Mân Thái", en: "Làng chài Mân Thái"}
+    surface_forms:
+      vi: ["lang chai man thai", "làng chài mân thái"]
+    description: {vi: "Làng chài Mân Thái (4 hotel có trong nearby)", en: "Làng chài Mân Thái (4 hotel có trong nearby)"}
+
+  LMK_LANG_MO_MAC_CUU:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_HA_TIEN
+    label: {vi: "Lăng mộ Mạc Cửu", en: "Lăng mộ Mạc Cửu"}
+    surface_forms:
+      vi: ["lang mo mac cuu", "lăng mộ mạc cửu"]
+    description: {vi: "Lăng mộ Mạc Cửu (4 hotel có trong nearby)", en: "Lăng mộ Mạc Cửu (4 hotel có trong nearby)"}
+
+  LMK_LOP_HOC_NAU_AN_LANTERNS:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Lớp học Nấu ăn Lanterns", en: "Lớp học Nấu ăn Lanterns"}
+    surface_forms:
+      vi: ["lop hoc nau an lanterns", "lớp học nấu ăn lanterns"]
+    description: {vi: "Lớp học Nấu ăn Lanterns (4 hotel có trong nearby)", en: "Lớp học Nấu ăn Lanterns (4 hotel có trong nearby)"}
+
+  LMK_NUI_GIUA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Núi Giữa", en: "Núi Giữa"}
+    surface_forms:
+      vi: ["nui giua", "núi giữa"]
+    description: {vi: "Núi Giữa (4 hotel có trong nearby)", en: "Núi Giữa (4 hotel có trong nearby)"}
+
+  LMK_NUI_KHO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Núi Kho", en: "Núi Kho"}
+    surface_forms:
+      vi: ["nui kho", "núi kho"]
+    description: {vi: "Núi Kho (4 hotel có trong nearby)", en: "Núi Kho (4 hotel có trong nearby)"}
+
+  LMK_NUI_LE:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Núi Lê", en: "Núi Lê"}
+    surface_forms:
+      vi: ["nui le", "núi lê"]
+    description: {vi: "Núi Lê (4 hotel có trong nearby)", en: "Núi Lê (4 hotel có trong nearby)"}
+
+  LMK_NUI_MO_ONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: mountain
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Núi Mộ Ông", en: "Núi Mộ Ông"}
+    surface_forms:
+      vi: ["nui mo ong", "núi mộ ông"]
+    description: {vi: "Núi Mộ Ông (4 hotel có trong nearby)", en: "Núi Mộ Ông (4 hotel có trong nearby)"}
+
+  LMK_SAN_GOLF_VINPEARL:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: golf
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Sân golf Vinpearl", en: "Sân golf Vinpearl"}
+    surface_forms:
+      vi: ["san golf vinpearl", "sân golf vinpearl"]
+    description: {vi: "Sân golf Vinpearl (4 hotel có trong nearby)", en: "Sân golf Vinpearl (4 hotel có trong nearby)"}
+
+  LMK_SAN_VAN_DONG_QUY_NHON:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: theater
+    provenance: [agoda]
+    located_in: LOC_QUY_NHON
+    label: {vi: "Sân vận động Quy Nhơn", en: "Sân vận động Quy Nhơn"}
+    surface_forms:
+      vi: ["san van dong quy nhon", "sân vận động quy nhơn"]
+    description: {vi: "Sân vận động Quy Nhơn (4 hotel có trong nearby)", en: "Sân vận động Quy Nhơn (4 hotel có trong nearby)"}
+
+  LMK_THIEN_VIEN_TRUC_LAM:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: temple
+    provenance: [agoda]
+    located_in: LOC_DA_LAT
+    label: {vi: "Thiền Viện Trúc Lâm", en: "Thiền Viện Trúc Lâm"}
+    surface_forms:
+      vi: ["thien vien truc lam", "thiền viện trúc lâm"]
+    description: {vi: "Thiền Viện Trúc Lâm (4 hotel có trong nearby)", en: "Thiền Viện Trúc Lâm (4 hotel có trong nearby)"}
+
+  LMK_TRAM_KHI_TUONG_HAI_VAN_CON_DAO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: national_park
+    provenance: [agoda]
+    located_in: LOC_CON_DAO
+    label: {vi: "Trạm Khí tượng Hải văn Côn Đảo", en: "Trạm Khí tượng Hải văn Côn Đảo"}
+    surface_forms:
+      vi: ["tram khi tuong hai van con dao", "trạm khí tượng hải văn côn đảo"]
+    description: {vi: "Trạm Khí tượng Hải văn Côn Đảo (4 hotel có trong nearby)", en: "Trạm Khí tượng Hải văn Côn Đảo (4 hotel có trong nearby)"}
+
+  LMK_TUONG_CHUA_KITO_VUA:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Tượng Chúa Kitô Vua", en: "Tượng Chúa Kitô Vua"}
+    surface_forms:
+      vi: ["tuong chua kito vua", "tượng chúa kitô vua"]
+    description: {vi: "Tượng Chúa Kitô Vua (4 hotel có trong nearby)", en: "Tượng Chúa Kitô Vua (4 hotel có trong nearby)"}
+
+  LMK_VINWONDERS_NHA_TRANG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: amusement_park
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "VinWonders Nha Trang", en: "VinWonders Nha Trang"}
+    surface_forms:
+      vi: ["vinwonders nha trang"]
+    description: {vi: "VinWonders Nha Trang (4 hotel có trong nearby)", en: "VinWonders Nha Trang (4 hotel có trong nearby)"}
+
+  LMK_VIEN_HAI_DUONG_HOC:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: museum
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Viện Hải Dương Học", en: "Viện Hải Dương Học"}
+    surface_forms:
+      vi: ["vien hai duong hoc", "viện hải dương học"]
+    description: {vi: "Viện Hải Dương Học (4 hotel có trong nearby)", en: "Viện Hải Dương Học (4 hotel có trong nearby)"}
+
+  LMK_VUON_BE_CANH:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: park
+    provenance: [agoda]
+    located_in: LOC_HA_NOI
+    label: {vi: "Vườn Bể Cảnh", en: "Vườn Bể Cảnh"}
+    surface_forms:
+      vi: ["vuon be canh", "vườn bể cảnh"]
+    description: {vi: "Vườn Bể Cảnh (4 hotel có trong nearby)", en: "Vườn Bể Cảnh (4 hotel có trong nearby)"}
+
+  LMK_DA_CHONG:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: historic
+    provenance: [agoda]
+    located_in: LOC_NHA_TRANG
+    label: {vi: "Đá Chồng", en: "Đá Chồng"}
+    surface_forms:
+      vi: ["da chong", "đá chồng"]
+    description: {vi: "Đá Chồng (4 hotel có trong nearby)", en: "Đá Chồng (4 hotel có trong nearby)"}
+
+  LMK_DOI_CON_HEO:
+    facet: location
+    fact_type: hard
+    tier: core
+    kind: landmark
+    landmark_type: entertainment
+    provenance: [agoda]
+    located_in: LOC_VUNG_TAU
+    label: {vi: "Đồi Con Heo", en: "Đồi Con Heo"}
+    surface_forms:
+      vi: ["doi con heo", "đồi con heo"]
+    description: {vi: "Đồi Con Heo (4 hotel có trong nearby)", en: "Đồi Con Heo (4 hotel có trong nearby)"}

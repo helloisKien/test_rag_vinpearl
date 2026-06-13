@@ -1,0 +1,1034 @@
+{
+  "crawled_at": "2026-06-03T16:56:59",
+  "source_url": "https://www.agoda.com/gia-hung-apartment-can-ho-muong-thanh/hotel/all/da-nang-vn.html?hotel=43573013&currency=VND&checkIn=2026-06-13&checkOut=2026-06-14&rooms=1&adults=2&children=0",
+  "hotel_id": 43573013,
+  "name": "Gia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng (Gia Hung Apartment Muong Thanh resort apartment right next to My Khe beach Đa Nang)",
+  "property_type": "SingleRoom",
+  "accommodation_type": "Căn hộ",
+  "star_rating": 3.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": 7.6,
+  "review_count": 8,
+  "address": "51 Trần Bạch Đằng, Phước Mỹ, Đà Nẵng, Việt Nam",
+  "area": "Phước Mỹ",
+  "city": "Đà Nẵng",
+  "country": "Việt Nam",
+  "postal_code": "",
+  "latitude": 16.053359985351562,
+  "longitude": 108.24691009521484,
+  "description": "Tọa lạc ở Đà Nẵng, cách Bãi biển Mỹ Khê 4 phút đi bộ, Gia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng cung cấp chỗ nghỉ có khu vực bãi biển riêng, Wi-Fi miễn phí, máy ATM, cùng dịch vụ tiền sảnh. Chỗ nghỉ giáp biển này có ban công.\n\nCăn hộ điều hòa này có 2 phòng ngủ riêng biệt, phòng khách, bếp đầy đủ tiện nghi, cùng 2 phòng tắm. TV màn hình phẳng được cung cấp.\n\nCăn hộ có cả dịch vụ cho thuê xe đạp và dịch vụ cho thuê ô tô.\n\nGia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng cách Cầu khóa Tình yêu Đà Nẵng 3 km và Bảo tàng điêu khắc Chăm 3.6 km.",
+  "check_in_from": "14:00",
+  "check_out_until": "12:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "14:00",
+    "Trả phòng đến": "12:00",
+    "Trả phòng từ": "00:00",
+    "Nhận phòng đến": "00:00"
+  },
+  "highlights": [
+    "Đưa đón sân bay",
+    "Bãi biển riêng",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "Dọn phòng hằng ngày"
+  ],
+  "location_tags": [
+    "Bãi biển",
+    "Bãi biển riêng",
+    "Dragon Bridge",
+    "Nhận/trả phòng [riêng]",
+    "Thích hợp cho các hoạt động",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "cách trung tâm thành phố 2,54 km",
+    "Đưa đón sân bay",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Bãi biển riêng",
+    "Bảo vệ 24 giờ",
+    "Bếp",
+    "Dọn phòng hằng ngày",
+    "Máy giặt",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Tọa lạc tại trung tâm đà nẵng",
+    "WiFi miễn phí",
+    "Điều hòa",
+    "Đưa đón sân bay",
+    "Được phép đưa thú nuôi vào",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_count": 15,
+  "amenity_groups": {
+    "Ngôn ngữ được sử dụng": [
+      "Tiếng Anh",
+      "Tiếng Việt"
+    ],
+    "Giải trí ": [
+      "TV"
+    ],
+    "Tiện nghi": [
+      "Điều hòa"
+    ],
+    "Ăn uống": [
+      "Bếp"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Thang máy"
+    ],
+    "Quần áo và Giặt ủi": [
+      "Máy giặt"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ",
+      "Được phép đưa thú nuôi vào"
+    ],
+    "Đi lại": [
+      "Đỗ xe miễn phí"
+    ]
+  },
+  "amenities_general": [
+    "Bảo vệ 24 giờ",
+    "Máy giặt",
+    "TV",
+    "Thang máy",
+    "Tiếng Anh",
+    "Tiếng Việt",
+    "Điều hòa",
+    "Được phép đưa thú nuôi vào",
+    "Đỗ xe miễn phí"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [
+    "Bếp"
+  ],
+  "nearby_places": [
+    {
+      "name": "Beach Hotel Park",
+      "type": "Công Viên Công Cộng",
+      "distance_km": 0.28
+    },
+    {
+      "name": "Night market",
+      "type": "Siêu Thị",
+      "distance_km": 0.46
+    },
+    {
+      "name": "Phòng tập VPT Fitness",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.5
+    },
+    {
+      "name": "Outdoor gym",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.55
+    },
+    {
+      "name": "Pharmacie",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.61
+    },
+    {
+      "name": "Siêu thị",
+      "type": "Siêu Thị",
+      "distance_km": 0.64
+    },
+    {
+      "name": "Phòng tranh OASIS",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.64
+    },
+    {
+      "name": "Nhà thuốc Hà Hoàng",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.79
+    },
+    {
+      "name": "Phòng tập The Hinh",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.81
+    },
+    {
+      "name": "Bệnh viện Điều dưỡng và Phục hồi Chức năng",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.85
+    }
+  ],
+  "image_count": 33,
+  "image_urls": [
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480984953.jpg?k=6b7cb0bd480d62b9d083201969ed125833f75733b41b969748e6de4773beeaa3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935679.jpg?k=658d96960b99baefc02fbcb5e920109ca7bec6f160ae40a4eedd1644c0daa003&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982650.jpg?k=b5f0125b0e908811b18e20ed3198bec944bd2be8ce6bf6886788b00cae12e0cb&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935693.jpg?k=dbc5bae2156bd1f01d5ceefed6f23c1dd4417035e9f6a656d94c95e078cdf624&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935695.jpg?k=d03ea7798a2067af49fe6339da9ca1a5ba942b61ca4e224cab6fb98b5cb3a39c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935698.jpg?k=f1a012169385b1977692a3da804b7bdb199a66ca1b1d336eec1618daa812f235&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982680.jpg?k=b251f55ef7ccc9d97429bfe4952e44dc58f2f32d0c98b43a371d61c987ec4f5e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935692.jpg?k=38e6159a666c3e37ab879290ce82bd2075acf4a720c5f38aa70cbf2aabf44a5e&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935699.jpg?k=70c91832d649e88be309c620d854647be4280df39bbfc45657eb702580be0ea7&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982651.jpg?k=fb73fbf662c01334aebaf3e8eabb92c32969910e9561287e87e36ce4d00ca238&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935689.jpg?k=447c4948122acb78acbaae9cc5dfc75dfc641237c2478e6a74b9e0a97c5b5674&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935701.jpg?k=3dcd2d4ee9d6ca889398e0c181b9d9ffd558b4d853bf8696028c0937976aa1b4&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982670.jpg?k=caba0eda47ec27a7c85122bd514f245c982dc45ea0730fc7cffe695121b0aaa3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935691.jpg?k=3bdc22e69289533a4b03863c67713a94e6ca718b7f156d4cd01dc5ba4207da23&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935709.jpg?k=2baa780687216b6b55f238b2a94de98e4017a74cd1975c79e7b7258a2799d2d8&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982654.jpg?k=d12cceece6278829c0501810126011736fbe2a78436861e3cc6d6c30258ed699&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982641.jpg?k=c4041aabaf03111a6395e05275bc725ad54989eba6d83b80618112aca6a563bc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935686.jpg?k=d34b023e15d51384dd21b44a4c731ebfa3b8b5214d28ca0b32e1946872652e3c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935694.jpg?k=b7860bd86eaf444ffc50b998cff63411ce751410a802a11252e6cc3d9f0fc52c&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935688.jpg?k=3ad4b1d250fc9b596acf27637f4c0e84b2dd96bb09b300c1b75ef853433a0cb3&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480983468.jpg?k=a604f3f40f08d57549ca19a9337d56042fcd2afa62d91f0c99b74d130c8337fc&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982663.jpg?k=723e8a60724f3ca4b68807d561987cefc19845af2a7c0dad70ea152d7ff009bf&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935712.jpg?k=578dbf87469c8f7f13b25249ba296aed5034300e2c0cbb4d7c3bebf979b44bc2&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480983486.jpg?k=f869314aa116e6b051c439d05631c2a656b93bcefcbda1a7b4d3b87cadc3c909&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982643.jpg?k=636aed75f4c7faa093519ba3742647df83788e39b9f8e2f05ee49f6907e4327b&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982664.jpg?k=941deb019b93dff8affdf2b71b0e6cc3ccb5127f95dc52a7e1354d08032b6200&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935682.jpg?k=68f6f2b9b8e0f00df85653d3b5122c1d6cd5d2ec768fd728b1d2ce39b2b35686&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982666.jpg?k=7644c904b8e0b08cb9b7554c0b440934a9b1de3e9e2190f636c8d4041981aa75&o=",
+    "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935703.jpg?k=72ff7fb005bdf6c0cf9dcabb35c02873639691e99f949986ee3e4407ea7a4f25&o=",
+    "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480984953.jpg?k=6b7cb0bd480d62b9d083201969ed125833f75733b41b969748e6de4773beeaa3&o=",
+      "caption": "Ngoại cảnh khách sạn",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935679.jpg?k=658d96960b99baefc02fbcb5e920109ca7bec6f160ae40a4eedd1644c0daa003&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982650.jpg?k=b5f0125b0e908811b18e20ed3198bec944bd2be8ce6bf6886788b00cae12e0cb&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935693.jpg?k=dbc5bae2156bd1f01d5ceefed6f23c1dd4417035e9f6a656d94c95e078cdf624&o=",
+      "caption": "Phòng chờ chung/khu vực TV",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935695.jpg?k=d03ea7798a2067af49fe6339da9ca1a5ba942b61ca4e224cab6fb98b5cb3a39c&o=",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935698.jpg?k=f1a012169385b1977692a3da804b7bdb199a66ca1b1d336eec1618daa812f235&o=",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982680.jpg?k=b251f55ef7ccc9d97429bfe4952e44dc58f2f32d0c98b43a371d61c987ec4f5e&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935692.jpg?k=38e6159a666c3e37ab879290ce82bd2075acf4a720c5f38aa70cbf2aabf44a5e&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935699.jpg?k=70c91832d649e88be309c620d854647be4280df39bbfc45657eb702580be0ea7&o=",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982651.jpg?k=fb73fbf662c01334aebaf3e8eabb92c32969910e9561287e87e36ce4d00ca238&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935689.jpg?k=447c4948122acb78acbaae9cc5dfc75dfc641237c2478e6a74b9e0a97c5b5674&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935701.jpg?k=3dcd2d4ee9d6ca889398e0c181b9d9ffd558b4d853bf8696028c0937976aa1b4&o=",
+      "caption": "Bếp",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982670.jpg?k=caba0eda47ec27a7c85122bd514f245c982dc45ea0730fc7cffe695121b0aaa3&o=",
+      "caption": "Cơ sở vật chất",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935691.jpg?k=3bdc22e69289533a4b03863c67713a94e6ca718b7f156d4cd01dc5ba4207da23&o=",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935709.jpg?k=2baa780687216b6b55f238b2a94de98e4017a74cd1975c79e7b7258a2799d2d8&o=",
+      "caption": "Bãi biển",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982654.jpg?k=d12cceece6278829c0501810126011736fbe2a78436861e3cc6d6c30258ed699&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982641.jpg?k=c4041aabaf03111a6395e05275bc725ad54989eba6d83b80618112aca6a563bc&o=",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935686.jpg?k=d34b023e15d51384dd21b44a4c731ebfa3b8b5214d28ca0b32e1946872652e3c&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935694.jpg?k=b7860bd86eaf444ffc50b998cff63411ce751410a802a11252e6cc3d9f0fc52c&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935688.jpg?k=3ad4b1d250fc9b596acf27637f4c0e84b2dd96bb09b300c1b75ef853433a0cb3&o=",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480983468.jpg?k=a604f3f40f08d57549ca19a9337d56042fcd2afa62d91f0c99b74d130c8337fc&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982663.jpg?k=723e8a60724f3ca4b68807d561987cefc19845af2a7c0dad70ea152d7ff009bf&o=",
+      "caption": "Phòng tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935712.jpg?k=578dbf87469c8f7f13b25249ba296aed5034300e2c0cbb4d7c3bebf979b44bc2&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480983486.jpg?k=f869314aa116e6b051c439d05631c2a656b93bcefcbda1a7b4d3b87cadc3c909&o=",
+      "caption": "Ban công/sân hiên",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982643.jpg?k=636aed75f4c7faa093519ba3742647df83788e39b9f8e2f05ee49f6907e4327b&o=",
+      "caption": "Phòng tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982664.jpg?k=941deb019b93dff8affdf2b71b0e6cc3ccb5127f95dc52a7e1354d08032b6200&o=",
+      "caption": "Khu vực xung quanh",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935682.jpg?k=68f6f2b9b8e0f00df85653d3b5122c1d6cd5d2ec768fd728b1d2ce39b2b35686&o=",
+      "caption": "Cảnh quan",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/480982666.jpg?k=7644c904b8e0b08cb9b7554c0b440934a9b1de3e9e2190f636c8d4041981aa75&o=",
+      "caption": "",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/485935703.jpg?k=72ff7fb005bdf6c0cf9dcabb35c02873639691e99f949986ee3e4407ea7a4f25&o=",
+      "caption": "Phòng tắm",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Biển Mỹ Khê - Cách nơi ở 390 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+      "caption": "Bến du thuyền DHC - cách nơi ở 2.05 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu Rồng - cách nơi ở 2.26 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu sông Hàn - cách nơi ở 2.88 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Phước Mỹ",
+  "province": "Đà Nẵng",
+  "city_id": 16440,
+  "property_page": "/gia-hung-apartment-can-ho-muong-thanh/hotel/all/da-nang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 701031915,
+        "name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+        "name_en": "(Two-Bedroom Apartment)",
+        "room_size": "65 m²",
+        "size_sqm": 65.0,
+        "max_occupancy": 2,
+        "max_occupancy_text": null,
+        "bed_type": "1 giường đôi / 1 giường đôi / 1 giường sofa",
+        "bed_types": [
+          "1 giường đôi / 1 giường đôi / 1 giường sofa"
+        ],
+        "room_view": "Hướng Ngoài trời",
+        "is_sold_out": false,
+        "facilities": [
+          "Hướng Ngoài trời"
+        ],
+        "room_amenities": [
+          "1 giường đôi 1 giường đôi 1 giường sofa",
+          "65 m²",
+          "Ban công sân hiên",
+          "Bếp nhỏ",
+          "Bếp đầy đủ",
+          "Bố trí và nội thất phòng",
+          "Giải trí",
+          "Hướng ngoài trời",
+          "Máy giặt",
+          "Phòng tắm và vật dụng vệ sinh",
+          "Quần áo và giặt ủi",
+          "TV màn hình phẳng",
+          "Ăn uống",
+          "Điều hòa"
+        ],
+        "image_count": 33,
+        "images": [
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/480984953.jpg?k=6b7cb0bd480d62b9d083201969ed125833f75733b41b969748e6de4773beeaa3&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935679.jpg?k=658d96960b99baefc02fbcb5e920109ca7bec6f160ae40a4eedd1644c0daa003&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/480982650.jpg?k=b5f0125b0e908811b18e20ed3198bec944bd2be8ce6bf6886788b00cae12e0cb&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935693.jpg?k=dbc5bae2156bd1f01d5ceefed6f23c1dd4417035e9f6a656d94c95e078cdf624&o=",
+          "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935695.jpg?k=d03ea7798a2067af49fe6339da9ca1a5ba942b61ca4e224cab6fb98b5cb3a39c&o="
+        ],
+        "review_score": null,
+        "price_per_night": 1500000,
+        "original_price": 2160000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 701031915,
+      "name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+      "name_en": "(Two-Bedroom Apartment)",
+      "room_size": "65 m²",
+      "size_sqm": 65.0,
+      "max_occupancy": 2,
+      "max_occupancy_text": null,
+      "bed_type": "1 giường đôi / 1 giường đôi / 1 giường sofa",
+      "bed_types": [
+        "1 giường đôi / 1 giường đôi / 1 giường sofa"
+      ],
+      "room_view": "Hướng Ngoài trời",
+      "is_sold_out": false,
+      "facilities": [
+        "Hướng Ngoài trời"
+      ],
+      "room_amenities": [
+        "1 giường đôi 1 giường đôi 1 giường sofa",
+        "65 m²",
+        "Ban công sân hiên",
+        "Bếp nhỏ",
+        "Bếp đầy đủ",
+        "Bố trí và nội thất phòng",
+        "Giải trí",
+        "Hướng ngoài trời",
+        "Máy giặt",
+        "Phòng tắm và vật dụng vệ sinh",
+        "Quần áo và giặt ủi",
+        "TV màn hình phẳng",
+        "Ăn uống",
+        "Điều hòa"
+      ],
+      "image_count": 33,
+      "images": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/480984953.jpg?k=6b7cb0bd480d62b9d083201969ed125833f75733b41b969748e6de4773beeaa3&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935679.jpg?k=658d96960b99baefc02fbcb5e920109ca7bec6f160ae40a4eedd1644c0daa003&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/480982650.jpg?k=b5f0125b0e908811b18e20ed3198bec944bd2be8ce6bf6886788b00cae12e0cb&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935693.jpg?k=dbc5bae2156bd1f01d5ceefed6f23c1dd4417035e9f6a656d94c95e078cdf624&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/840x460/485935695.jpg?k=d03ea7798a2067af49fe6339da9ca1a5ba942b61ca4e224cab6fb98b5cb3a39c&o="
+      ],
+      "review_score": null,
+      "price_per_night": 1500000,
+      "original_price": 2160000
+    }
+  ],
+  "reviews_detail": {
+    "score": 7.6,
+    "score_text": "Rất tốt",
+    "review_count": 8,
+    "comments_count": 2,
+    "grades": [
+      {
+        "name": "Vị trí",
+        "score": 8.5
+      },
+      {
+        "name": "Cơ sở vật chất",
+        "score": 8.1
+      },
+      {
+        "name": "Sự thoải mái và chất lượng phòng",
+        "score": 8.0
+      },
+      {
+        "name": "",
+        "score": 7.6
+      },
+      {
+        "name": "Dịch vụ",
+        "score": 7.2
+      },
+      {
+        "name": "Đáng tiền",
+        "score": 7.2
+      },
+      {
+        "name": "Độ sạch sẽ",
+        "score": 6.8
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Nhận phòng",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      },
+      {
+        "tag": "Dịch vụ",
+        "mentioned": 1,
+        "positive_pct": 0.0
+      }
+    ],
+    "word_cloud": [],
+    "demographics": [
+      {
+        "name": "Cặp đôi",
+        "count": 1,
+        "score": 2.0
+      },
+      {
+        "name": "Cặp đôi",
+        "count": 1,
+        "score": 2.3
+      },
+      {
+        "name": "Khách du lịch một mình",
+        "count": 4,
+        "score": 9.5
+      },
+      {
+        "name": "Gia đình có trẻ nhỏ",
+        "count": 2,
+        "score": 6.6
+      }
+    ],
+    "sample_comments": [
+      {
+        "rating": 2.0,
+        "rating_text": "Điểm nhận xét",
+        "date": "17 tháng 1 2026",
+        "check_in": "Tháng 1 năm 2026",
+        "text": "Gửi cho tôi một xác nhận, và 40 phút sau tôi nhận được một lời xin lỗi, không còn phòng trống, và điều này xảy ra sau khi tôi đến tòa nhà với hành lý trong tay. Vài giờ sau, phòng vẫn được liệt kê là có sẵn. Tôi có thể nói gì ngoài việc hãy cẩn thận khi đặt phòng căn hộ. Chắc chắn không chuyên nghiệp trong mắt tôi.",
+        "title": "Lãng phí thời gian và công sức!",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Mark",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "Hoa Kỳ",
+        "room_type": "Căn Hộ 2 Phòng Ngủ"
+      },
+      {
+        "rating": 8.0,
+        "rating_text": "Tuyệt vời",
+        "date": "07 tháng 5 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Rất tốt",
+        "positives": "Thoải mái như ở nhà",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Mỹ",
+        "reviewer_type": "Gia đình có em bé",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "06 tháng 1 2024",
+        "check_in": "",
+        "text": null,
+        "title": "Rất tuyệt vời tôi sẽ quay lại chỗ nghỉ dưỡng nhà Gia Hưng cảm ơn sự đô",
+        "positives": "Ngay sát bãi biển,rất thuận tiện,nhiều dịch vụ tiện ích ,Hằng là chủ căn hộ cô ấy đón tiếp tôi rất nhiệt tình,nhân viên thân thiện,tôi sẽ quay lại ,,cảm ơn chủ căn hộ",
+        "negatives": "Rất tuyệt",
+        "response": null,
+        "reviewer_name": "gia",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 10.0,
+        "rating_text": "Trên cả tuyệt vời",
+        "date": "04 tháng 1 2024",
+        "check_in": "",
+        "text": null,
+        "title": "Gia đình tôi sẽ quay trở lại đây 1 lần nữa. Không gian ở đây rất tuyệt",
+        "positives": "Pv dẫn đến tận phòng và phòng sạch sẽ thoáng mát yên tĩnh",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Vân",
+        "reviewer_type": "Đi công tác",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 7.0,
+        "rating_text": "Rất tốt",
+        "date": "13 tháng 4 2026",
+        "check_in": "",
+        "text": null,
+        "title": "Overall good but could be much better",
+        "positives": "The location was excellent. Access to beach. Apartment balcony overlooked beach & City. Beds and linens were clean.",
+        "negatives": "It wasnt the apartment advertised. Couch was horribly uncomfortable. It was filthy everywhere you didnt see ie. down side of bed it was caked with dirt and a used condom wrapper. Elevator is a nightmare during the day. Bathroom doors needed to stay closed for sewerage smell",
+        "response": null,
+        "reviewer_name": "Lauren",
+        "reviewer_type": "Gia đình có em bé",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "rating": 1.0,
+        "rating_text": "Điểm nhận xét",
+        "date": "26 tháng 8 2023",
+        "check_in": "",
+        "text": null,
+        "title": "Awful experience",
+        "positives": null,
+        "negatives": "The owner did not informed me beforehand that she did not accept the price offered by booking.com to me. Instead, she only refused to let me stay when I check in with the price offered by Booking.com and she alleged the reason that such price is too low. In short, Booking.com and the owner did bring vicious experience to me.",
+        "response": null,
+        "reviewer_name": "Adam",
+        "reviewer_type": "Cặp đôi",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1067925956,
+        "rating": 2.0,
+        "rating_text": "Review score",
+        "date": "January 17, 2026",
+        "check_in": "January 2026",
+        "title": "Waste of time and effort!",
+        "text": "Sent me a confirmation, then 40 minutes later I received a sorry, not available, and this was after I arrived at the building with luggage in hand. Hours later, the room was still listed as available. What can I say except be careful when reserving apartments. Certainly not professional in my book.",
+        "positives": null,
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Mark",
+        "reviewer_type": "Couple",
+        "reviewer_country": "United States",
+        "room_type": "Two-Bedroom Apartment"
+      },
+      {
+        "review_id": 1117637559,
+        "rating": 8.0,
+        "rating_text": "Excellent",
+        "date": "May 07, 2026",
+        "check_in": "",
+        "title": "Very good",
+        "text": null,
+        "positives": "Thoải mái như ở nhà",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Mỹ",
+        "reviewer_type": "Family with young children",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 761915614,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 06, 2024",
+        "check_in": "",
+        "title": "Rất tuyệt vời tôi sẽ quay lại chỗ nghỉ dưỡng nhà Gia Hưng cảm ơn sự đô",
+        "text": null,
+        "positives": "Ngay sát bãi biển,rất thuận tiện,nhiều dịch vụ tiện ích ,Hằng là chủ căn hộ cô ấy đón tiếp tôi rất nhiệt tình,nhân viên thân thiện,tôi sẽ quay lại ,,cảm ơn chủ căn hộ",
+        "negatives": "Rất tuyệt",
+        "response": null,
+        "reviewer_name": "gia",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 761915624,
+        "rating": 10.0,
+        "rating_text": "Exceptional",
+        "date": "January 04, 2024",
+        "check_in": "",
+        "title": "Gia đình tôi sẽ quay trở lại đây 1 lần nữa. Không gian ở đây rất tuyệt",
+        "text": null,
+        "positives": "Pv dẫn đến tận phòng và phòng sạch sẽ thoáng mát yên tĩnh",
+        "negatives": null,
+        "response": null,
+        "reviewer_name": "Vân",
+        "reviewer_type": "Business traveler",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 702139010,
+        "rating": 1.0,
+        "rating_text": "Review score",
+        "date": "August 26, 2023",
+        "check_in": "",
+        "title": "Awful experience",
+        "text": null,
+        "positives": null,
+        "negatives": "The owner did not informed me beforehand that she did not accept the price offered by booking.com to me. Instead, she only refused to let me stay when I check in with the price offered by Booking.com and she alleged the reason that such price is too low. In short, Booking.com and the owner did bring vicious experience to me.",
+        "response": null,
+        "reviewer_name": "Adam",
+        "reviewer_type": "Couple",
+        "reviewer_country": "",
+        "room_type": ""
+      },
+      {
+        "review_id": 1111648200,
+        "rating": 7.0,
+        "rating_text": "Very good",
+        "date": "April 13, 2026",
+        "check_in": "",
+        "title": "Overall good but could be much better",
+        "text": null,
+        "positives": "The location was excellent. Access to beach. Apartment balcony overlooked beach & City. Beds and linens were clean.",
+        "negatives": "It wasnt the apartment advertised. Couch was horribly uncomfortable. It was filthy everywhere you didnt see ie. down side of bed it was caked with dirt and a used condom wrapper. Elevator is a nightmare during the day. Bathroom doors needed to stay closed for sewerage smell",
+        "response": null,
+        "reviewer_name": "Lauren",
+        "reviewer_type": "Family with young children",
+        "reviewer_country": "",
+        "room_type": ""
+      }
+    ]
+  },
+  "rating_overall": 7.6,
+  "rating_count": 8,
+  "rating_breakdown": {
+    "Vị trí": 8.5,
+    "Cơ sở vật chất": 8.1,
+    "Sự thoải mái và chất lượng phòng": 8.0,
+    "Dịch vụ": 7.2,
+    "Đáng tiền": 7.2,
+    "Độ sạch sẽ": 6.8
+  },
+  "secondary": {
+    "description_full": "Tọa lạc ở Đà Nẵng, cách Bãi biển Mỹ Khê 4 phút đi bộ, Gia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng cung cấp chỗ nghỉ có khu vực bãi biển riêng, Wi-Fi miễn phí, máy ATM, cùng dịch vụ tiền sảnh. Chỗ nghỉ giáp biển này có ban công.\n\nCăn hộ điều hòa này có 2 phòng ngủ riêng biệt, phòng khách, bếp đầy đủ tiện nghi, cùng 2 phòng tắm. TV màn hình phẳng được cung cấp.\n\nCăn hộ có cả dịch vụ cho thuê xe đạp và dịch vụ cho thuê ô tô.\n\nGia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng cách Cầu khóa Tình yêu Đà Nẵng 3 km và Bảo tàng điêu khắc Chăm 3.6 km.",
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 701031915,
+        "name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+        "features": [],
+        "image_count": 18,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường đôi & 1 giường đôi & 1 giường sofa",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "description_short": "Nằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.",
+  "activities": [
+    {
+      "activity_id": 1033902,
+      "title": "Vé vào cổng Công viên nước Mikazuki 365, Đà Nẵng",
+      "description": "Khám phá Mikazuki Water Park 365, công viên nước trong nhà độc đáo tại Đà Nẵng, nơi mang đến những trải nghiệm vui chơi dưới nước suốt bốn mùa bất kể thời tiết.\n\n- Thư giãn tại Onsen theo phong cách N",
+      "review_score": 4.4,
+      "review_count": 43,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 206417.0,
+                "crossedOut": 224855.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1489059,
+      "title": "Sun World Ba Na Hills - Cáp treo & Buffet",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi du khách có thể chiêm ngưỡng khung cảnh núi non hùng vĩ từ trên cao. Trải nghiệm hệ thống cáp treo hiện đại để di chuyển lên đỉnh núi và tận hưởng không",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1229436.0,
+                "crossedOut": 1276672.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1040853,
+      "title": "Tour Golf Một Ngày Từ Đà Nẵng Đến Sân Golf Montgomerie Links",
+      "description": "- Khám phá sân golf Montgomerie Links, một sân golf kiểu links đẳng cấp 5 sao quốc tế tại Đà Nẵng, mang đến những vòng chơi đầy thử thách và thú vị cho mọi cấp độ người chơi.\n- Hoàn thành vòng golf 18",
+      "review_score": 5.0,
+      "review_count": 4,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 3160733.0,
+                "crossedOut": 3519747.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1129195,
+      "title": "DIFF 2026 | Vé tham dự Lễ hội Pháo hoa Quốc tế Đà Nẵng | Nhận voucher miễn phí trên KKday",
+      "description": "Nhận nhiều loại voucher hấp dẫn, bao gồm vé xem\nÁo Dài Show\n,\nBảo tàng Đà Nẵng\n, cùng",
+      "review_score": 4.6,
+      "review_count": 15,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 754730.0,
+                "crossedOut": 849921.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1042432,
+      "title": "Xe Thuê Riêng Đà Nẵng - Bà Nà Hills | Việt Nam",
+      "description": "Di chuyển từ trung tâm thành phố Đà Nẵng đến Ba Na Hills bằng dịch vụ xe riêng, giúp bạn dễ dàng tiếp cận điểm đến đầy sức hút này.\n\n- Khám phá các điểm tham quan tại Sun World Ba Na Hills như Cầu Vàn",
+      "review_score": 4.5,
+      "review_count": 685,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 338110.0,
+                "crossedOut": 376514.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1547007,
+      "title": "Vé Công Viên Suối Khoáng Nóng Thần Tài - Đà Nẵng",
+      "description": "* Khám phá Công viên suối khoáng nóng Thần Tài, nơi bạn có thể thư giãn trong làn nước suối khoáng nóng tự nhiên.\n* Tận hưởng nhiều hoạt động giải trí khác như công viên nước, liệu pháp spa và các",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 390191.0,
+                "crossedOut": 390191.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1396114,
+      "title": "Private Car Transfer: Da Nang Airport to Hotel",
+      "description": "Travel between Da Nang Airport, the train station, and your hotel in the city center with a private car transfer. This service is available for both arrivals and departures.\n\n- Complimentary transfers",
+      "review_score": 4.8,
+      "review_count": 111,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 90645.0,
+                "crossedOut": 114307.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1041545,
+      "title": "Vé Sun World Ba Na Hills | Đà Nẵng",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi bạn có thể chiêm ngưỡng Cầu Vàng biểu tượng và ghé thăm chùa Linh Ứng thanh tịnh.\n\n- Trải nghiệm cáp treo ngắm nhìn toàn cảnh vùng núi Ba Na từ trên cao",
+      "review_score": 4.6,
+      "review_count": 2559,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 96893.0,
+                "crossedOut": 96893.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541702,
+      "title": "Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills",
+      "description": "Trải nghiệm cảm giác mạnh cùng Alpine Coaster tại Sun World Ba Na Hills, nơi bạn có thể tự điều khiển tốc độ khi lướt đi trên đường ray uốn lượn.\n\n- Hệ thống xe trượt tốc độ cao vận hành bằng trọng lự",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 100840.0,
+                "crossedOut": 100840.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1642879,
+      "title": "Da Nang International Fireworks Festival (DIFF)",
+      "description": "Một bầu không khí lễ hội với các quầy hàng thực phẩm, đèn và lễ kỷ niệm thành phố\nMột bầu không khí lễ hội với các quầy hàng thực phẩm, đèn và lễ kỷ niệm thành phố\nPháo hoa tuyệt đẹp trên đường chân t",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 790852.0,
+                "crossedOut": 997291.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [
+    "Cặp đôi",
+    "Khách du lịch một mình",
+    "Gia đình có trẻ nhỏ"
+  ],
+  "view_types": [
+    "Hướng Ngoài trời"
+  ],
+  "tags": [
+    "Bãi biển",
+    "Bãi biển riêng",
+    "Cặp đôi",
+    "Dragon Bridge",
+    "Dọn phòng hằng ngày",
+    "Gia đình có trẻ nhỏ",
+    "Hướng Ngoài trời",
+    "Khách du lịch một mình",
+    "Nhận/trả phòng [riêng]",
+    "Thích hợp cho các hoạt động",
+    "Tọa lạc tại trung tâm Đà Nẵng",
+    "Wi-Fi miễn phí trong tất cả các phòng!",
+    "cách trung tâm thành phố 2,54 km",
+    "Đưa đón sân bay",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Gia Hưng Apartment Mường Thanh resort apartment right next to My Khe beach Đà Nẵng (Gia Hung Apartment Muong Thanh resort apartment right next to My Khe beach Đa Nang) - khách sạn 3.0 sao tại Đà Nẵng.\nĐịa chỉ: 51 Trần Bạch Đằng, Phước Mỹ, Đà Nẵng, Việt Nam.\nNằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị.\nTiện ích: Bãi biển riêng, Bảo vệ [24 giờ], Bếp, Dọn phòng hằng ngày, Máy giặt, TV, Thang máy, Tiếng Anh, Tọa lạc tại trung tâm Đà Nẵng, Wi-Fi miễn phí trong tất cả các phòng!, tiếng Việt, Điều hòa, Đưa đón sân bay, Được phép đưa thú nuôi vào, Đỗ xe miễn phí.\nĐiểm đánh giá 7.6/10 dựa trên 8 đánh giá.\nKhách hay nhắc đến: Nhận phòng, Dịch vụ.\nCác loại phòng: Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment).\nGần: Beach Hotel Park, Night market, Phòng tập VPT Fitness, Outdoor gym, Pharmacie, Siêu thị.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "crawled_at": "2026-06-04T12:02:03",
+  "source_url": "https://www.agoda.com/hampton-danang-central-apartment/hotel/da-nang-vn.html?hotel=84901473&currency=VND&checkIn=2026-06-14&checkOut=2026-06-15&rooms=1&adults=2&children=0",
+  "hotel_id": 84901473,
+  "name": "Hampton Danang Central Apartment",
+  "property_type": "Hotel",
+  "accommodation_type": "Khách sạn",
+  "star_rating": 3.0,
+  "is_luxury": false,
+  "gold_circle_award_year": null,
+  "review_score": null,
+  "review_count": null,
+  "address": "106A Thu Khoa Huan, An Hai Dong, Son Tra, Phước Mỹ, Đà Nẵng, Việt Nam",
+  "area": "Phước Mỹ",
+  "city": "Đà Nẵng",
+  "country": "Việt Nam",
+  "postal_code": "550000",
+  "latitude": 16.055519104003906,
+  "longitude": 108.24152374267578,
+  "description": "Nằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.",
+  "check_in_from": "15:00",
+  "check_out_until": "11:00",
+  "year_built": null,
+  "number_of_floors": null,
+  "number_of_rooms": null,
+  "useful_info": {
+    "Nhận phòng từ": "15:00",
+    "Trả phòng đến": "11:00"
+  },
+  "highlights": [
+    "Cách bãi biển 590 mét",
+    "Rút tiền mặt",
+    "Thang máy",
+    "Khu vực hút thuốc",
+    "Bãi để xe"
+  ],
+  "location_tags": [
+    "Bãi biển",
+    "Cách Biển Mỹ Khê 590 mét",
+    "Cách bãi biển 590 mét",
+    "Dragon Bridge",
+    "Khu vực hút thuốc",
+    "My Khe Beach",
+    "Rút tiền mặt",
+    "Thang máy",
+    "cách trung tâm thành phố 1,96 km",
+    "Địa danh và thắng cảnh"
+  ],
+  "amenities": [
+    "Bãi để xe",
+    "Bảo vệ 24 giờ",
+    "Cách bãi biển 590 mét",
+    "Khu vực hút thuốc",
+    "Rút tiền mặt",
+    "TV có phụ đề",
+    "Thang máy",
+    "WiFi",
+    "Ô tô cho thuê",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_count": 13,
+  "amenity_groups": {
+    "Khả năng tiếp cận cho người khuyết tật": [
+      "TV có phụ đề"
+    ],
+    "Truy cập Internet": [
+      "WiFi"
+    ],
+    "Dịch vụ và tiện nghi": [
+      "Khu vực hút thuốc",
+      "Rút tiền mặt",
+      "Thang máy"
+    ],
+    "Dễ dàng tiếp cận": [
+      "Bảo vệ 24 giờ"
+    ],
+    "Đi lại": [
+      "Ô tô cho thuê",
+      "Đỗ xe tại chỗ"
+    ]
+  },
+  "amenities_general": [
+    "Bảo vệ 24 giờ",
+    "Khu vực hút thuốc",
+    "Rút tiền mặt",
+    "TV có phụ đề",
+    "Thang máy",
+    "WiFi",
+    "Ô tô cho thuê",
+    "Đỗ xe tại chỗ"
+  ],
+  "amenities_leisure": [],
+  "amenities_dining": [],
+  "nearby_places": [
+    {
+      "name": "Pharmacie",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.08
+    },
+    {
+      "name": "Phòng tập VPT Fitness",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.14
+    },
+    {
+      "name": "Cửa hàng StormX",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.38
+    },
+    {
+      "name": "Dapharco Blu",
+      "type": "Bệnh Viện và Cơ Sở Y Tế",
+      "distance_km": 0.47
+    },
+    {
+      "name": "Cơ Sở Điêu Khắc Đá Mỹ nghệ Lợi Tài",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.55
+    },
+    {
+      "name": "Cơ sở điêu khắc đá Mỹ nghệ Dũng Tuyết",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.55
+    },
+    {
+      "name": "Bãi biển Bắc Mỹ An",
+      "type": "Bãi Biển",
+      "distance_km": 0.59
+    },
+    {
+      "name": "Xuân Trúc Aerobic Yoga",
+      "type": "Trung tâm thể thao và Yoga",
+      "distance_km": 0.59
+    },
+    {
+      "name": "Biển Mỹ Khê",
+      "type": "Bãi Biển",
+      "distance_km": 0.59
+    },
+    {
+      "name": "Phòng tranh OASIS",
+      "type": "Trung Tâm và Khu Mua Sắm",
+      "distance_km": 0.67
+    }
+  ],
+  "image_count": 10,
+  "image_urls": [
+    "https://pix8.agoda.net/property/84901473/0/4dfb2f0d5c46a4f1665d52e155cebd4a.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/84901473/1345226562/b9a6c830ddd101b62c300561e50b59f0.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/84901473/0/0628c3e5596342672176196e063487dd.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/84901473/0/81581f1e64cf934881c6ba22e44cdc7d.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/84901473/1345226562/9248f251a245f3bd19b9bc2d997d155e.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/property/84901473/0/42d36e4d757adc7879b62669fac4d792.jpeg?ce=3&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+    "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768"
+  ],
+  "images": [
+    {
+      "url": "https://pix8.agoda.net/property/84901473/0/4dfb2f0d5c46a4f1665d52e155cebd4a.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Khách sạn"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/84901473/1345226562/b9a6c830ddd101b62c300561e50b59f0.jpeg?ce=3&s=1024x768",
+      "caption": "Studio Ấm cúng",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/84901473/0/0628c3e5596342672176196e063487dd.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/84901473/0/81581f1e64cf934881c6ba22e44cdc7d.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Cơ sở vật chất"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/84901473/1345226562/9248f251a245f3bd19b9bc2d997d155e.jpeg?ce=3&s=1024x768",
+      "caption": "Studio Ấm cúng",
+      "category": "Phòng"
+    },
+    {
+      "url": "https://pix8.agoda.net/property/84901473/0/42d36e4d757adc7879b62669fac4d792.jpeg?ce=3&s=1024x768",
+      "caption": "",
+      "category": "Khác"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142798/2_142798_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Biển Mỹ Khê - Cách nơi ở 590 m",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x768",
+      "caption": "Bến du thuyền DHC - cách nơi ở 1.47 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/142084/2_142084_02.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu Rồng - cách nơi ở 1.68 km",
+      "category": "Nơi tham quan gần đây"
+    },
+    {
+      "url": "https://pix8.agoda.net/geo/poi/24360/2_24360.jpg?ca=6&ce=1&s=1024x768",
+      "caption": "Cầu sông Hàn - cách nơi ở 2.31 km",
+      "category": "Nơi tham quan gần đây"
+    }
+  ],
+  "district": "Phước Mỹ",
+  "province": "Đà Nẵng",
+  "city_id": 16440,
+  "property_page": "/hampton-danang-central-apartment/hotel/da-nang-vn.html",
+  "room_grid": {
+    "is_sold_out": false,
+    "cheapest_price": null,
+    "room_count": 1,
+    "rooms": [
+      {
+        "room_type_id": 1345226562,
+        "name": "Studio Ấm cúng (Cozy Studio)",
+        "name_en": "(Cozy Studio)",
+        "room_size": null,
+        "size_sqm": null,
+        "max_occupancy": 3,
+        "max_occupancy_text": "Tối đa 3 người lớn",
+        "bed_type": "1 giường lớn",
+        "bed_types": [
+          "1 giường lớn"
+        ],
+        "room_view": null,
+        "is_sold_out": false,
+        "facilities": [
+          "Cho phép hút thuốc"
+        ],
+        "room_amenities": [
+          "1 giường lớn",
+          "Cho phép hút thuốc",
+          "Tính năng an toàn và an ninh"
+        ],
+        "image_count": 10,
+        "images": [
+          "https://pix8.agoda.net/property/84901473/1345226562/b9a6c830ddd101b62c300561e50b59f0.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/84901473/1345226562/9248f251a245f3bd19b9bc2d997d155e.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/84901473/1345226562/535e27b1448a9836792ae5fad522275f.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/84901473/1345226562/f47afbf952edb4c4bed9fe10355b5330.jpeg?ce=3&s=800x600",
+          "https://pix8.agoda.net/property/84901473/1345226562/12b74cfc493c713950b33db388edbe4f.jpeg?ce=3&s=800x600"
+        ],
+        "review_score": null,
+        "price_per_night": 1290000,
+        "original_price": 2300000
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "room_type_id": 1345226562,
+      "name": "Studio Ấm cúng (Cozy Studio)",
+      "name_en": "(Cozy Studio)",
+      "room_size": null,
+      "size_sqm": null,
+      "max_occupancy": 3,
+      "max_occupancy_text": "Tối đa 3 người lớn",
+      "bed_type": "1 giường lớn",
+      "bed_types": [
+        "1 giường lớn"
+      ],
+      "room_view": null,
+      "is_sold_out": false,
+      "facilities": [
+        "Cho phép hút thuốc"
+      ],
+      "room_amenities": [
+        "1 giường lớn",
+        "Cho phép hút thuốc",
+        "Tính năng an toàn và an ninh"
+      ],
+      "image_count": 10,
+      "images": [
+        "https://pix8.agoda.net/property/84901473/1345226562/b9a6c830ddd101b62c300561e50b59f0.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/84901473/1345226562/9248f251a245f3bd19b9bc2d997d155e.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/84901473/1345226562/535e27b1448a9836792ae5fad522275f.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/84901473/1345226562/f47afbf952edb4c4bed9fe10355b5330.jpeg?ce=3&s=800x600",
+        "https://pix8.agoda.net/property/84901473/1345226562/12b74cfc493c713950b33db388edbe4f.jpeg?ce=3&s=800x600"
+      ],
+      "review_score": null,
+      "price_per_night": 1290000,
+      "original_price": 2300000
+    }
+  ],
+  "reviews_detail": {
+    "score": null,
+    "score_text": null,
+    "review_count": null,
+    "comments_count": null,
+    "grades": [],
+    "tags": [],
+    "word_cloud": [],
+    "demographics": [],
+    "sample_comments": []
+  },
+  "secondary": {
+    "description_full": null,
+    "hotel_policy": {
+      "extrabedPolicies": [
+        {
+          "type": 1,
+          "description": "Giường phụ tùy thuộc vào loại phòng bạn chọn, xin vui lòng kiểm tra thông tin phòng để biết thêm chi tiết."
+        }
+      ],
+      "policyNotes": [],
+      "hideAutomatedChildPolicyText": false,
+      "extraBedAge": 1,
+      "hasBcomChildPolicy": false
+    },
+    "other_policies": [],
+    "dateless_rooms_count": 1,
+    "dateless_rooms": [
+      {
+        "room_id": 1345226562,
+        "name": "Studio Ấm cúng (Cozy Studio)",
+        "features": [],
+        "image_count": 10,
+        "bed_summary": {
+          "symbol": "ficon-bed",
+          "title": "1 giường lớn",
+          "isAvailable": true,
+          "id": 15,
+          "value": 0.0,
+          "associatedFilters": [
+            "twin-bed",
+            "double-bed"
+          ],
+          "targetType": 0,
+          "hasDescription": false
+        }
+      }
+    ]
+  },
+  "activities": [
+    {
+      "activity_id": 1489059,
+      "title": "Sun World Ba Na Hills - Cáp treo & Buffet",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi du khách có thể chiêm ngưỡng khung cảnh núi non hùng vĩ từ trên cao. Trải nghiệm hệ thống cáp treo hiện đại để di chuyển lên đỉnh núi và tận hưởng không",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 1223122.0,
+                "crossedOut": 1274085.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1033902,
+      "title": "Vé vào cổng Công viên nước Mikazuki 365, Đà Nẵng",
+      "description": "Khám phá Mikazuki Water Park 365, công viên nước trong nhà độc đáo tại Đà Nẵng, nơi mang đến những trải nghiệm vui chơi dưới nước suốt bốn mùa bất kể thời tiết.\n\n- Thư giãn tại Onsen theo phong cách N",
+      "review_score": 4.4,
+      "review_count": 44,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 220699.0,
+                "crossedOut": 224974.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1129195,
+      "title": "DIFF 2026 | Vé tham dự Lễ hội Pháo hoa Quốc tế Đà Nẵng | Nhận voucher miễn phí trên KKday",
+      "description": "Nhận nhiều loại voucher hấp dẫn, bao gồm vé xem\nÁo Dài Show\n,\nBảo tàng Đà Nẵng\n, cùng",
+      "review_score": 4.6,
+      "review_count": 15,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 762781.0,
+                "crossedOut": 850369.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1396114,
+      "title": "Private Car Transfer: Da Nang Airport to Hotel",
+      "description": "Travel between Da Nang Airport, the train station, and your hotel in the city center with a private car transfer. This service is available for both arrivals and departures.\n\n- Complimentary transfers",
+      "review_score": 4.8,
+      "review_count": 114,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 90408.0,
+                "crossedOut": 114295.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681591,
+      "title": "峴港國際機場(DAD) | Domestic Terminal | Domestic Business Lounge | 貴賓室服務",
+      "description": "位於峴港國際機場國內航站樓三樓，安檢後出發區域。\n提供冷熱餐食、自助小食、飲料及水果，滿足各種需求。\n營業時間：每日04:30-22:00。\n使用時間限制：最多可使用120分鐘。\n2歲以下兒童可免費入內。",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 699863.0,
+                "crossedOut": 890411.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1041545,
+      "title": "Vé Sun World Ba Na Hills | Đà Nẵng",
+      "description": "Khám phá Sun World Ba Na Hills tại Đà Nẵng, nơi bạn có thể chiêm ngưỡng Cầu Vàng biểu tượng và ghé thăm chùa Linh Ứng thanh tịnh.\n\n- Trải nghiệm cáp treo ngắm nhìn toàn cảnh vùng núi Ba Na từ trên cao",
+      "review_score": 4.6,
+      "review_count": 2560,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 61780.0,
+                "crossedOut": 61780.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1541702,
+      "title": "Vé Xe Trượt Alpine Coaster Sun World Ba Na Hills",
+      "description": "Trải nghiệm cảm giác mạnh cùng Alpine Coaster tại Sun World Ba Na Hills, nơi bạn có thể tự điều khiển tốc độ khi lướt đi trên đường ray uốn lượn.\n\n- Hệ thống xe trượt tốc độ cao vận hành bằng trọng lự",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 100982.0,
+                "crossedOut": 100982.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1042432,
+      "title": "Xe Thuê Riêng Đà Nẵng - Bà Nà Hills | Việt Nam",
+      "description": "Di chuyển từ trung tâm thành phố Đà Nẵng đến Ba Na Hills bằng dịch vụ xe riêng, giúp bạn dễ dàng tiếp cận điểm đến đầy sức hút này.\n\n- Khám phá các điểm tham quan tại Sun World Ba Na Hills như Cầu Vàn",
+      "review_score": 4.5,
+      "review_count": 685,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 325479.0,
+                "crossedOut": 376712.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1259234,
+      "title": "[Giảm 20%] Xe đưa đón riêng Hội An - Đà Nẵng và ngược lại",
+      "description": "Di chuyển thuận tiện giữa Hội An và Đà Nẵng với dịch vụ xe đưa đón riêng, phù hợp cho hành trình khám phá miền Trung.\n\n- Xe đón trong vòng 30 phút sau khi đặt\n- Tài xế giàu kinh nghiệm cùng hệ thống x",
+      "review_score": 4.9,
+      "review_count": 554,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 250413.0,
+                "crossedOut": 294257.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "activity_id": 1681590,
+      "title": "峴港國際機場(DAD) | International Terminal | CIP Orchid Lounge | 貴賓室服務",
+      "description": "位置：峴港國際機場國際航廈夾層，安檢後右轉100米\n設施亮點：提供冷熱餐食、自助酒精飲料及淋浴設施\n營業時間：每日營業，從第一班飛機至最後一班飛機\n使用時間限制：每位客人最多可使用180分鐘\n家庭友好：2歲以下兒童可免費入內",
+      "review_score": 0.0,
+      "review_count": 0,
+      "price": {
+        "currency": "VND",
+        "display": {
+          "perBook": {
+            "displayType": "BOOK",
+            "quantity": 1,
+            "total": {
+              "allInclusive": {
+                "chargeTotal": 866228.0,
+                "crossedOut": 1000263.0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "faq": [],
+  "suitable_for": [],
+  "view_types": [],
+  "tags": [
+    "Bãi biển",
+    "Bãi để xe",
+    "Cách Biển Mỹ Khê 590 mét",
+    "Cách bãi biển 590 mét",
+    "Dragon Bridge",
+    "Khu vực hút thuốc",
+    "My Khe Beach",
+    "Rút tiền mặt",
+    "Thang máy",
+    "cách trung tâm thành phố 1,96 km",
+    "Địa danh và thắng cảnh"
+  ],
+  "embedding_text": "Hampton Danang Central Apartment - khách sạn 3.0 sao tại Đà Nẵng.\nĐịa chỉ: 106A Thu Khoa Huan, An Hai Dong, Son Tra, Phước Mỹ, Đà Nẵng, Việt Nam.\nNằm ở vị trí trung tâm tại Phước Mỹ của Đà Nẵng, chỗ nghỉ này đặt quý khách ở gần các điểm thu hút và tùy chọn ăn uống thú vị. Chỗ nghỉ 3 sao này được trang bị các tiện nghi ngay trong khuôn viên để nâng cao chất lượng và niềm vui cho kỳ nghỉ của quý khách.\nTiện ích: Bãi để xe, Bãi đỗ xe [tại chỗ], Bình chữa cháy, Bảo vệ [24 giờ], Cách bãi biển 590 mét, Internet, Khu vực hút thuốc, Rút tiền mặt, TV có phụ đề, Thang máy, Thiết bị báo cháy, Wi-Fi ở nơi công cộng, Ô tô cho thuê.\nCác loại phòng: Studio Ấm cúng (Cozy Studio).\nGần: Pharmacie, Phòng tập VPT Fitness, Cửa hàng StormX, Dapharco Blu, Cơ Sở Điêu Khắc Đá Mỹ nghệ Lợi Tài, Cơ sở điêu khắc đá Mỹ nghệ Dũng Tuyết.",
+  "_sources_captured": [
+    "activities",
+    "details",
+    "faq",
+    "reviews",
+    "rooms",
+    "secondary"
+  ],
+  "_incomplete": [
+    {
+      "field": "reviews_detail.grades",
+      "reason": "few_reviews"
+    }
+  ]
+}
