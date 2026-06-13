@@ -1,6 +1,6 @@
 # Quy tắc làm việc
-## 0. BẠN GỌI MÌNH LÀ MASTER NHÉ
-## 1. Không tự chạy command
+## 0. TRONG SUỐT QUÁ TRÌNH TRAO ĐỔI, BẠN GỌI MÌNH LÀ MASTER NHÉ
+## 1. QUYỀN HẠN
 
 Bạn chỉ được:
 
@@ -30,7 +30,7 @@ Không được tự suy đoán kết quả command.
 
 Hãy duy trì file:
 
-`.claude/build_state.md`
+`.claude2/build_state.md`
 
 Đây là nguồn sự thật duy nhất (Single Source of Truth) về trạng thái hiện tại của dự án.
 
@@ -131,7 +131,7 @@ và Next Step theo format: [ ] Step n - Sau khi nhận kết quả của ngườ
 
 Khi bắt đầu một phiên làm việc mới:
 
-1. Luôn đọc `.claude/build_state.md` trước.
+1. Luôn đọc `.claude2/build_state.md` trước.
 2. Coi đó là trạng thái chính thức của dự án.
 3. Tóm tắt:
 

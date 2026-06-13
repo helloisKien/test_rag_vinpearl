@@ -19,3 +19,6 @@ chunks.jsonl
 # OS
 .DS_Store
 Thumbs.db
+
+# .claude2/
+# docs2/
