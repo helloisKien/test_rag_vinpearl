@@ -223,7 +223,7 @@ class EmbeddingTagger:
 
     def build_anchors(self, concepts: dict) -> None:  # pragma: no cover - chưa bật
         raise NotImplementedError(
-            "Tầng 2 chờ team chốt model embedding. Xem docstring + sprint2 plan."
+            "Tầng 2 chờ team chốt model embedding. Xem docs2tring + sprint2 plan."
         )
 
     def tag(self, text: str) -> list[Tag]:  # pragma: no cover - chưa bật

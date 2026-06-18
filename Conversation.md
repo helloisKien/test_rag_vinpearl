@@ -1,21 +1,21 @@
 Q1.
 
- Mình đang tham gia làm 1 dự án xây dựng sản phẩm sử dụng RAG và Recommendation system để tư vấn sản phẩm cho khách hàng. Dự án này được đảm nhiệm bởi 2 team DA09, DA10, mình thuộc Team 10, tên mình là Vũ Đức Kiên. Bạn có thể đọc @diagrams/mermaid-diagrams.md   để biết về kiến trúc tổng thể và phần việc mà mỗi bên đảm nhận. Đầu ra của nhóm 10 là 2API SearchAPI và ContextAPI, bạn có thể xem API schema trog @docs/VuDucKien_api_schema_proposal.md . Câu hỏi của mình là các kiến trúc được mô tả trong các file còn lại thuộc @docs/ có giúp xây dựng nên 2 API hoạt động như trong mô tả của VuDucKien_api_schema_proposal.md  không. Các kiến trúc còn lại của những người khác có đnag có vấn đề gì không
+ Mình đang tham gia làm 1 dự án xây dựng sản phẩm sử dụng RAG và Recommendation system để tư vấn sản phẩm cho khách hàng. Dự án này được đảm nhiệm bởi 2 team DA09, DA10, mình thuộc Team 10, tên mình là Vũ Đức Kiên. Bạn có thể đọc @diagrams/mermaid-diagrams.md   để biết về kiến trúc tổng thể và phần việc mà mỗi bên đảm nhận. Đầu ra của nhóm 10 là 2API SearchAPI và ContextAPI, bạn có thể xem API schema trog @docs2/VuDucKien_api_schema_proposal.md . Câu hỏi của mình là các kiến trúc được mô tả trong các file còn lại thuộc @docs2/ có giúp xây dựng nên 2 API hoạt động như trong mô tả của VuDucKien_api_schema_proposal.md  không. Các kiến trúc còn lại của những người khác có đnag có vấn đề gì không
 
 
 A1.
 
  Show less
-The user wants me to read all the other docs files and analyze whether the architectures described there can support building the two APIs (SearchAPI and ContextAPI) as described in VuDucKien_api_schema_proposal.md. Let me read all the remaining docs files.
+The user wants me to read all the other docs2 files and analyze whether the architectures described there can support building the two APIs (SearchAPI and ContextAPI) as described in VuDucKien_api_schema_proposal.md. Let me read all the remaining docs2 files.
 
-Để trả lời câu hỏi này, mình cần đọc tất cả các file docs còn lại.
+Để trả lời câu hỏi này, mình cần đọc tất cả các file docs2 còn lại.
 
-Read d:\Test\docs\Lê Hoàng Đạt (Search Infrastructure) 3767d4db6a3d80eeb537c28ae4143e78.md
-Read d:\Test\docs\NguyenDuyHieu_FRONTEND_ARCHITECTURE 3767d4db6a3d807e8fc3e0f2e1558aac.md
-Read d:\Test\docs\Nguyễn Anh Tài (Retrieval & Ranking) 3767d4db6a3d80688eb6e15a211c9bd8.md
-Read d:\Test\docs\Nguyễn Ngọc Khánh Duy (embedding & chunking) 3767d4db6a3d8016b7aae56be5556c88.md
-Read d:\Test\docs\Trương Anh Long (Ontology) 3767d4db6a3d8030880de955ac7a06c7.md
-Read d:\Test\docs\Đỗ Minh Hiếu (data quality) 3767d4db6a3d80ca84f6f6713a9bb7b2.md
+Read d:\Test\docs2\Lê Hoàng Đạt (Search Infrastructure) 3767d4db6a3d80eeb537c28ae4143e78.md
+Read d:\Test\docs2\NguyenDuyHieu_FRONTEND_ARCHITECTURE 3767d4db6a3d807e8fc3e0f2e1558aac.md
+Read d:\Test\docs2\Nguyễn Anh Tài (Retrieval & Ranking) 3767d4db6a3d80688eb6e15a211c9bd8.md
+Read d:\Test\docs2\Nguyễn Ngọc Khánh Duy (embedding & chunking) 3767d4db6a3d8016b7aae56be5556c88.md
+Read d:\Test\docs2\Trương Anh Long (Ontology) 3767d4db6a3d8030880de955ac7a06c7.md
+Read d:\Test\docs2\Đỗ Minh Hiếu (data quality) 3767d4db6a3d80ca84f6f6713a9bb7b2.md
 Now I have a complete picture of all architectures. Let me analyze whether they can support building the two APIs (SearchAPI and ContextAPI) as described in VuDucKien_api_schema_proposal.md, and identify any issues.
 
 
@@ -83,7 +83,7 @@ Kiên và Anh Tài align: output schema của intent parsing (để ParsedIntent
 
 Q2.
 
- cÁc file @docs/VuDucKien_evaluation_plan 3767d4db6a3d8089b5b1f4d12630d054.md và @docs/VuDucKien_monitoring_plan 
+ cÁc file @docs2/VuDucKien_evaluation_plan 3767d4db6a3d8089b5b1f4d12630d054.md và @docs2/VuDucKien_monitoring_plan 
 
 
 
@@ -155,7 +155,7 @@ Việc "giải thích vì sao recommend" và sinh câu trả lời tự nhiên n
 DA10 = Retrieve, Ground, Provide Context
 DA09 = Reason, Recommend, Explain"
 
-Với định nghĩa mới thế này, @docs/VuDucKien_api_schema_proposal.md  có còn đúng nữa không
+Với định nghĩa mới thế này, @docs2/VuDucKien_api_schema_proposal.md  có còn đúng nữa không
 
 
 
@@ -211,7 +211,7 @@ Muốn mình cập nhật trực tiếp vào file VuDucKien_api_schema_proposal.
 
 
 Q4. 
-Mình đã sửa file @docs/VuDucKien_api_schema_proposal.md  rồi, với schema thay đổi như thế này. Bạn xem @docs/VuDucKien_evaluation_plan 3767d4db6a3d8089b5b1f4d12630d054.md và @docs/VuDucKien_monitoring_plan 3767d4db6a3d8038816dc450bfd33262.md xem có sai gì không
+Mình đã sửa file @docs2/VuDucKien_api_schema_proposal.md  rồi, với schema thay đổi như thế này. Bạn xem @docs2/VuDucKien_evaluation_plan 3767d4db6a3d8089b5b1f4d12630d054.md và @docs2/VuDucKien_monitoring_plan 3767d4db6a3d8038816dc450bfd33262.md xem có sai gì không
 
 
 
@@ -272,18 +272,18 @@ Nhìn chung hai file planning của Kiên được viết rất tốt và chi ti
 
 
 Q5.
-Mình muốn code SearchAPI, ContextAPI giống trong mô tả của @docs/VuDucKien_api_schema_proposal.md  bằng những thiết kế trong các file thiết kế còn lại của Đỗ Minh Hiếu, Lê Hoàng Đạt, Nguyễn Ngọc Khánh Duy, Nguyễn Anh Tài, Trương Anh Long trong @docs/ . Câu hỏi của mình là các kiến trúc được mô tả trong các file còn lại thuộc @docs/ có giúp xây dựng nên 2 API hoạt động như trong mô tả của VuDucKien_api_schema_proposal.md  không. Các kiến trúc còn lại của những người khác có đnag có vấn đề gì không
+Mình muốn code SearchAPI, ContextAPI giống trong mô tả của @docs2/VuDucKien_api_schema_proposal.md  bằng những thiết kế trong các file thiết kế còn lại của Đỗ Minh Hiếu, Lê Hoàng Đạt, Nguyễn Ngọc Khánh Duy, Nguyễn Anh Tài, Trương Anh Long trong @docs2/ . Câu hỏi của mình là các kiến trúc được mô tả trong các file còn lại thuộc @docs2/ có giúp xây dựng nên 2 API hoạt động như trong mô tả của VuDucKien_api_schema_proposal.md  không. Các kiến trúc còn lại của những người khác có đnag có vấn đề gì không
 
 
 
 A5.
 Để trả lời câu hỏi này tôi cần đọc hết tất cả các file thiết kế còn lại.
 
-Read d:\Test\docs\Lê Hoàng Đạt (Search Infrastructure) 3767d4db6a3d80eeb537c28ae4143e78.md
-Read d:\Test\docs\Nguyễn Anh Tài (Retrieval & Ranking) 3767d4db6a3d80688eb6e15a211c9bd8.md
-Read d:\Test\docs\Nguyễn Ngọc Khánh Duy (embedding & chunking) 3767d4db6a3d8016b7aae56be5556c88.md
-Read d:\Test\docs\Trương Anh Long (Ontology) 3767d4db6a3d8030880de955ac7a06c7.md
-Read d:\Test\docs\Đỗ Minh Hiếu (data quality) 3767d4db6a3d80ca84f6f6713a9bb7b2.md
+Read d:\Test\docs2\Lê Hoàng Đạt (Search Infrastructure) 3767d4db6a3d80eeb537c28ae4143e78.md
+Read d:\Test\docs2\Nguyễn Anh Tài (Retrieval & Ranking) 3767d4db6a3d80688eb6e15a211c9bd8.md
+Read d:\Test\docs2\Nguyễn Ngọc Khánh Duy (embedding & chunking) 3767d4db6a3d8016b7aae56be5556c88.md
+Read d:\Test\docs2\Trương Anh Long (Ontology) 3767d4db6a3d8030880de955ac7a06c7.md
+Read d:\Test\docs2\Đỗ Minh Hiếu (data quality) 3767d4db6a3d80ca84f6f6713a9bb7b2.md
 Sau khi đọc toàn bộ 5 file, đây là phân tích đầy đủ.
 
 Kết luận tổng thể

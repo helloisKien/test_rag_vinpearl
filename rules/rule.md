@@ -145,7 +145,7 @@ Khi bắt đầu một phiên làm việc mới:
 
 ## 6. Cách làm việc
 
-* Luôn bám sát `@docs/VuDucKien_build_plan.md`.
+* Luôn bám sát `@docs2/VuDucKien_build_plan.md`.
 * Mỗi lần chỉ xử lý một nhiệm vụ rõ ràng.
 * Ưu tiên hoàn thành Acceptance Criteria của Phase hiện tại trước khi chuyển sang Phase tiếp theo.
 * Không bỏ qua Acceptance Criteria.

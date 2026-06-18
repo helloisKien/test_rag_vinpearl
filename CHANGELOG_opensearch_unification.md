@@ -9,7 +9,7 @@
 
 ### Vấn đề trước khi sửa
 
-Các doc trong `docs/` mâu thuẫn về engine BM25 lexical:
+Các doc trong `docs2/` mâu thuẫn về engine BM25 lexical:
 
 | Thành viên / doc | Engine cũ trong doc |
 |------------------|---------------------|
@@ -30,7 +30,7 @@ Hệ quả: nếu Search Infra setup Elasticsearch nhưng Chunking index vào Op
 ### Mục tiêu đợt sửa doc
 
 1. Một **single source of truth** cho hạ tầng BM25 (doc Search Infra).
-2. Đồng bộ version, client, index naming, analyzer across toàn bộ docs.
+2. Đồng bộ version, client, index naming, analyzer across toàn bộ docs2.
 3. Giữ tên field API `bm25_*` (mô tả thuật toán, không phải tên product).
 
 ---
@@ -151,7 +151,7 @@ Hệ quả: nếu Search Infra setup Elasticsearch nhưng Chunking index vào Op
 
 ## 5. Checklist verify sau khi sửa
 
-- [x] Grep `docs/` không còn `Elasticsearch`, `elasticsearch`, `docker.elastic`, `ES_JAVA_OPTS`, `index_elasticsearch`, `elasticsearch[async]`
+- [x] Grep `docs2/` không còn `Elasticsearch`, `elasticsearch`, `docker.elastic`, `ES_JAVA_OPTS`, `index_elasticsearch`, `elasticsearch[async]`
 - [x] Chỉ còn 1 mention Elasticsearch: ghi rõ *"Elasticsearch không còn dùng trong DA10"* (doc Search Infra)
 - [x] Mọi doc BM25 lexical đều trỏ OpenSearch 2.11.1
 - [x] Index naming thống nhất: physical `idx_hotel_chunks_v1.0`, alias `hotel_chunks`

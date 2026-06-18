@@ -10,15 +10,15 @@ __pycache__/
 
 # Artifacts
 logs/
-evaluation/metrics/
-evaluation/reports/*.md
-observability/reports/*.md
-chunks.jsonl
 *.backup.json
 
 # OS
 .DS_Store
 Thumbs.db
 
-# .claude2/
-# docs2/
+.claude2/
+docs2/
+chunks.jsonl
+evaluation/metrics/
+evaluation/reports/*.md
+observability/reports/*.md

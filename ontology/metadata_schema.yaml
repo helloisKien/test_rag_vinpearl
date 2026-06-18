@@ -3,8 +3,8 @@
 #
 # 1 trong 3 CONTRACT chốt cuối Sprint 1 (cùng data_schema.json của Minh Hiếu, api_contract.yaml của Kiên).
 #
-# QUAN HỆ với docs/metadata.md:
-#   - docs/metadata.md (DA09/bạn viết, đang chờ team 9 duyệt) = contract ĐẦY ĐỦ 10 layer metadata.
+# QUAN HỆ với docs2/metadata.md:
+#   - docs2/metadata.md (DA09/bạn viết, đang chờ team 9 duyệt) = contract ĐẦY ĐỦ 10 layer metadata.
 #   - File NÀY = phần KE SỞ HỮU: schema knowledge_object + semantic tag + evidence + ontology binding.
 #     KHÔNG chép lại 10 layer; THAM CHIẾU sang metadata.md.
 #   - Mọi nhãn ngữ nghĩa (Layer 8) dùng concept_id từ ontology/core/*.yaml (đã đồng bộ metadata.md).
@@ -13,7 +13,7 @@
 
 version: "1.0.0"
 ontology_version: "concepts_v2.0.0"      # khớp ontology/_meta.yaml version
-metadata_doc: docs/metadata.md            # contract đầy đủ 10 layer (tham chiếu)
+metadata_doc: docs2/metadata.md            # contract đầy đủ 10 layer (tham chiếu)
 
 # -----------------------------------------------------------------------------
 # KNOWLEDGE OBJECT — đơn vị tài liệu cuối (chi tiết build ở Sprint 3).
@@ -28,7 +28,7 @@ knowledge_object:
     content: str            # mô tả đã clean (có thể null nếu object là review/faq)
     source: str             # agoda | booking | ...
 
-    # metadata: 10 layer THEO docs/metadata.md. Ở contract này chỉ liệt kê các layer KE
+    # metadata: 10 layer THEO docs2/metadata.md. Ở contract này chỉ liệt kê các layer KE
     # trực tiếp dùng để filter/score; chi tiết field xem metadata.md.
     metadata:
       core: ref(metadata.md#layer-1-core-metadata)               # object_type, location, star_rating...

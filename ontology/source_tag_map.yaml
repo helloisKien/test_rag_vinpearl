@@ -13,7 +13,7 @@
 #   - Mỗi trường nguồn map theo NGỮ CẢNH riêng của nó (xem từng block).
 #
 # Phủ: top ~90 chuỗi amenity (theo Pareto, >95% số lần xuất hiện) + 4 trường cố định.
-# Số liệu khảo sát: docs/reports/ontology/sprint2/step0_data_survey.md
+# Số liệu khảo sát: docs2/reports/ontology/sprint2/step0_data_survey.md
 version: "1.0.0"
 source: agoda
 ontology_version: concepts_v2.0.0

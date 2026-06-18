@@ -1,6 +1,3 @@
-# DA10 — SearchAPI + ContextAPI build (Owner: Vũ Đức Kiên)
-# Cài: python -m venv .venv && .venv\Scripts\activate && pip install -r requirements.txt
-
 # ---- API ----
 fastapi>=0.110
 uvicorn[standard]>=0.29
@@ -21,7 +18,7 @@ FlagEmbedding>=1.2
 sentence-transformers>=2.6
 torch>=2.2
 
-# ---- NLP tiếng Việt ----
+# ---- NLP ----
 underthesea>=6.8
 
 # ---- Observability ----

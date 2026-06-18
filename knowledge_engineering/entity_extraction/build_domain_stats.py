@@ -19,8 +19,8 @@ import re
 from collections import Counter
 
 HOTELS_GLOB = "data/raw/hotels/*.json"
-STATS_JSON = "docs/reports/ontology/sprint1/domain_stats.json"
-DOMAIN_MD = "docs/reports/ontology/sprint1/domain_analysis.md"
+STATS_JSON = "docs2/reports/ontology/sprint1/domain_stats.json"
+DOMAIN_MD = "docs2/reports/ontology/sprint1/domain_analysis.md"
 
 
 def compute_stats(hotels_glob: str = HOTELS_GLOB) -> dict:

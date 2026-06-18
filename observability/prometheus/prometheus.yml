@@ -1,9 +1,12 @@
-# DA10 — Prometheus scrape config (monitoring_plan §10)
 global:
   scrape_interval: 15s
+  evaluation_interval: 15s
 
 scrape_configs:
   - job_name: da10-api
+    scrape_interval: 15s
     metrics_path: /metrics
     static_configs:
+      # host.docker.internal: API chạy trên host, Prometheus trong Docker (Windows/Mac)
+      # Đổi thành localhost:8000 nếu Prometheus cũng chạy trực tiếp trên host
       - targets: ["host.docker.internal:8000"]

@@ -69,4 +69,4 @@ chi tiết per-review — và chạy theo bản AN TOÀN chống tốn tiền (x
 
 `query_demo` + `knowledge_engineering/common/implicit_intent.py` xử lý câu mô tả gián tiếp
 ("nhà tôi có 2 con" → PURPOSE_FAMILY) qua 2 cơ chế: surface_forms tĩnh + pattern regex.
-Chi tiết: `docs/reports/ontology/sprint2/step1b_surface_form_audit.md` (Đợt 2).
+Chi tiết: `docs2/reports/ontology/sprint2/step1b_surface_form_audit.md` (Đợt 2).

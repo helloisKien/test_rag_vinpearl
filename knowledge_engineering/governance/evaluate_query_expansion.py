@@ -25,7 +25,7 @@ from knowledge_engineering.enrichment.query_demo import parse_concepts
 
 
 ROOT = Path(__file__).resolve().parents[2]
-GOLDEN_MD = ROOT / "docs/reports/ontology/sprint1/golden_query_concepts.md"
+GOLDEN_MD = ROOT / "docs2/reports/ontology/sprint1/golden_query_concepts.md"
 EXPANSION_YAML = ROOT / "ontology/query_expansion.yaml"
 
 

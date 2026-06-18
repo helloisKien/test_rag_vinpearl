@@ -4,7 +4,7 @@ Owner: Trương Anh Long (KE, DA10). Hợp nhất:
   - tag concept (Bước 2, ontology_mapper -> hotel_tags.json)
   - metadata map/reconcile (Bước 3, metadata_pipeline -> hotel_metadata.json)
 -> knowledge_object phần HARD cho cả 520 hotel, theo CONTRACT ontology/metadata_schema.yaml
-   + hình dạng docs/.../knowledge_object_SAMPLE.md.
+   + hình dạng docs2/.../knowledge_object_SAMPLE.md.
 
 PHẦN HARD: semantic_metadata (object_type/location/amenity/setting/purpose/price_tier),
 range_filters, nearby_places, tags(provenance), provenance.

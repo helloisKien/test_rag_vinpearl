@@ -12,7 +12,7 @@
 #
 # ĐIỂM ĂN TIỀN: mỗi facet khớp với SLOT của DA09 -> query phân rã ra slot chuyển thẳng thành filter.
 #   - da09_slot     : tên slot LOGIC (trừu tượng, độc lập nguồn).
-#   - metadata_field: trỏ field/group THẬT trong docs/metadata.md (contract DA09 đã cấp).
+#   - metadata_field: trỏ field/group THẬT trong docs2/metadata.md (contract DA09 đã cấp).
 #
 # LƯU Ý attribute SỐ (star_rating, price, review_score, distance) KHÔNG phải facet concept ở đây —
 # chúng là filter cứng kiểu RANGE, định nghĩa ở metadata_schema (Task 1.8). Xem mục range_filters cuối file.
